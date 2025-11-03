@@ -1,0 +1,155 @@
+Statistique Exploratoire Multidimensionnelle
+
+TP 3
+
+
+
+L’APC
+
+
+
+Introduction 
+
+
+
+L'analyse en composantes principales (ACP) nous permet de résumer et de visualiser les informations contenues dans un ensemble de données contenant des individus/observations décrits par de multiples variables quantitatives intercorrélées. Chaque variable peut être considérée comme une dimension différente. Si vous avez plus de trois variables dans vos ensembles de données, il peut être très difficile de visualiser un hyperespace multidimensionnel.
+
+L'analyse en composantes principales est utilisée pour extraire les informations importantes d'un tableau de données multivariées et pour exprimer ces informations sous la forme d'un ensemble de quelques nouvelles variables appelées composantes principales. Ces nouvelles variables correspondent à une combinaison linéaire des variables originales. Le nombre de composantes principales est inférieur ou égal au nombre de variables originales.
+
+L'information contenue dans un ensemble de données donné correspond à la variation totale qu'il contient. L'objectif de l'ACP est d'identifier les directions (ou composantes principales) le long desquelles la variation des données est maximale.
+
+En d'autres termes, l'ACP réduit la dimensionnalité des données multivariées à deux ou trois composantes principales, qui peuvent être visualisées graphiquement, avec une perte minimale d'informations.
+
+
+
+ Préparation et calcul de l’APC
+
+Les Packages de R
+
+Plusieurs fonctions de différents packages sont disponibles dans le logiciel R pour le calcul de l'ACP :
+
+prcomp() et princomp() [paquetage R stats intégré],
+
+PCA() [paquet FactoMineR],
+
+dudi.pca() [paquet ade4],
+
+epPCA() [paquetage ExPosition]
+
+
+
+Quelle que soit la fonction que vous décidez d'utiliser, vous pouvez facilement extraire et visualiser les résultats de l'ACP à l'aide des fonctions R fournies dans le package R factoextra.
+
+
+
+Ici, vous utiliserez les deux packages FactoMineR (pour l'analyse) et factoextra (pour la visualisation basée sur ggplot2).
+
+Installez les deux packages "FactoMineR", "factoextra" et chargez les package sur r .
+
+Nous utiliserons le jeux de données decathlon2 du package factoextra.
+
+Chargez le jeux de données et présentez un tableau contenant un résumé des données (min, 1er quartile, médiane, moyenne, 3ième quartile, max). Combien de variables y a-t-il dans le jeux de données ?
+
+Quelles sont les variables qui correspondent aux différents sports ? Extrayez les 23 premiers athlètes et les variables correspondantes aux 10 sport différents de décathlon, et sauvegardez les dans une nouvelle variable.
+
+Cherchez le documentation de la fonction PCA() du package FactoMineR et écrivez un résumé qui contient les paramètres les plus importantes de la fonction. En utilisant cette fonction calculez l’ACP. Assurez-vous que l’APC sera calculer à partir des données normalisées (moyen 0 et écart type 1). Imprimez les résultats de l’ACP. 
+
+Interprétation et visualisation
+
+
+
+Nous utiliserons le package R factoextra pour nous aider dans l'interprétation de l'ACP. Quelle que soit la fonction que vous décidez d'utiliser [stats::prcomp(), FactoMiner::PCA(), ade4::dudi.pca(), ExPosition::epPCA()], vous pouvez facilement extraire et visualiser les résultats de l'ACP à l'aide des fonctions R fournies dans le paquetage R factoextra.
+
+
+
+Ces fonctions sont les suivantes
+
+
+
+get_eigenvalue(res.pca), fviz_eig(res.pca), get_pca_ind(res.pca), get_pca_var(res.pca), fviz_pca_ind(res.pca), fviz_pca_var(res.pca), fviz_pca_biplot(res.pca).
+
+
+
+Cherchez la documentation de chacune des ses fonctions et écrivez un petit résume pour chacune des fonctions qui comprendra la fonctionnalité de fonctions et les paramètres les plus importantes.
+
+Les valeurs propres
+
+Les valeurs propres mesurent la quantité de variation retenue par chaque composante principale. Les valeurs propres sont élevées pour les premières PC et faibles pour les PC suivantes. En d'autres termes, les premières composantes principales correspondent aux directions présentant le maximum de variation dans l'ensemble des données.
+
+Examinez les valeurs propres pour déterminer le nombre de composantes principales à prendre en compte.
+
+Fournissez un tableaux comprenant les valeurs propres, la proportion de variance retenue et la proportion cumulative de variance retenue en utilisant la fonction appropriée. 
+
+Quelle est la variance retenue par les 3 premiers Composants Principales ?
+
+Selon votre avis, à partir de quelle CP la variance retenue est n’est pas suffisamment significante et pourquoi ?
+
+Une autre méthode pour déterminer le nombre de composantes principales consiste à examiner le diagramme de Scree, qui est le diagramme des valeurs propres classées de la plus grande à la plus petite. Le nombre de composantes est déterminé au point au-delà duquel les valeurs propres restantes sont toutes relativement petites et de taille comparable.
+
+Utilisez une des fonctions mentionnées ci-dessus pour mise en place un diagramme de Scree. A partir de ce diagramme quelle est le nombre de CP que vous auriez retenues ?
+
+Graphique des variables
+
+Résultats
+
+Une méthode simple pour extraire les résultats, pour les variables, d'une sortie d'ACP consiste à utiliser la fonction get_pca_var() [paquetage factoextra]. Cette fonction fournit une liste de matrices contenant tous les résultats pour les variables actives (coordonnées, corrélation entre les variables et les axes, cosinus carré et contributions).
+
+Utiliser cette fonction pour examiner les différents matrices fournies. Quelle est la contenue de ces matrices ?
+
+Cercle de corrélation (correlation circle)
+
+
+
+Que ce-que c’est un cercle de corrélation ? Faites une petite recherche en ligne sur la cercle de corrélation (en lien avec l’ACP). Expliquez ce qu’est un cercle de corrélation, et quel informations sur les variables et leurs corrélations il nous peut apporter.
+
+Où trouvez-vous les données pour mettre en place un cercle de corrélation ?
+
+En utilisant une des fonction mentionnées ci-dessus construisez un cercle de corrélation.
+
+Commenter sur les résultats.
+
+Qualité de la représentation
+
+Que ce-que c’est la qualité de la représentation ? Faites une petite recherche en ligne sur la matrice $cos2 qui est incorporée dans les résultats de la fonction get_pca_var(). Explique ce que les valeurs de cette matrice signifient et pourquoi elle sont liées à la quantité de la représentation de variables.
+
+Installez la librairie « corrplot », si nécessaire et écrivez un compte rendu de la fonction corrplot.
+
+En utilisant la fonction « corplot », visualisez le contenue de la matrice $cos2.
+
+Créez un diagramme à barres des variables cos2 à l'aide de la fonction fviz_cos2().
+
+Commenter sur les résultats.
+
+Contributions des variables aux composantes principales
+
+Les contributions des variables à la variabilité d'une composante principale donnée sont exprimées en pourcentage.
+
+Les variables qui sont corrélées avec la PC1 (c.-à-d. Dim.1) et la PC2 (c.-à-d. Dim.2) sont les plus importantes pour expliquer la variabilité de l'ensemble de données.
+
+Les variables qui ne sont corrélées avec aucun PC ou qui sont corrélées avec les dernières dimensions sont des variables à faible contribution et peuvent être supprimées pour simplifier l'analyse globale.
+
+
+
+La contribution des variables peut être extraite comme suit :
+
+head(var$contrib, 4)
+
+
+
+Utilisez  la fonction corrplot() [paquetage corrplot] pour mettre en évidence les variables qui contribuent le plus à chaque dimension.
+
+Utilisez la fonction fviz_contrib() [paquetage factoextra] pour tracer un diagramme à barres des contributions des variables.
+
+Graphique des individus
+
+Résultats
+
+Les résultats, pour les individus, peuvent être extraits à l'aide de la fonction get_pca_ind() [paquetage factoextra]. De la même manière que get_pca_var(), la fonction get_pca_ind() fournit une liste de matrices contenant tous les résultats pour les individus (coordonnées, corrélation entre les individus et les axes, cosinus carré et contributions)
+
+Cherchez la documentation de la fonction ci-dessus, et expliquez les différentes matrices liés aux individues qui sont fournies par la fonction get_pca_ind().
+
+Utiliser la fonction fviz_pca_ind() est pour produire le graphique des individus.
+
+Faites une nouvelle graphique des individues en colorant les individus en fonction de leurs valeurs cos2
+
+Utilisez la fonction fviz_cos2() pour créer un diagramme à barres de la qualité de la représentation (cos2) des individus sur la carte factorielle.

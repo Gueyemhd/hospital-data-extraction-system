@@ -1,0 +1,8 @@
+pymupdf 
+pandas 
+beautifulsoup4 
+# pytesseract 
+Pillow 
+docx2txt 
+openpyxl 
+easyocr

@@ -1,0 +1,52 @@
+Not sure where to start? 
+Let us help. 
+Welcome to SAS Skill Builder for Students! We’ve put together a quick guide and video tour 
+to help you dive in, choose what to learn and easily navigate the platform.
+I’m new to SAS software.                          
+We offer cloud-based software options to learners for free! All you need is a SAS profile that uses an 
+academic email address and an internet connection. Visit SAS Academic Software to learn more. 
+Compare learning software options
+If you’re looking for an easy way to build data and AI skills, look no further. Explore your software 
+options and choose the best fit for what you want to learn. 
+Video: Getting Started With SAS® Viya® Workbench for Learners
+Video: Getting Started With SAS Viya for Learners
+Video: Getting Started With SAS OnDemand for Academics
+I’m not ready for certification preparation, but I’d like to 
+take an introductory digital learning course.
+Individual digital learning courses are a great place to start. Complete one or more of the digital 
+learning courses below and earn a SAS Learn badge to highlight your new SAS skill on social media. 
+Interested in data visualization?
+SAS Visual Analytics 1 for SAS Viya
+Perform data discovery and analysis to create interactive reports.
+How about coding? 
+SAS Programming 1
+Learn how to access, prepare and explore data, export results and use SQL. 
+Need a refresher in analytical methods?
+Statistics 1 
+Get insight in ANOVA, regression and other common methods.
+I am interested in earning SAS credentials. 
+Within SAS Skill Builder for Students, earn digital credentials to showcase your skills and 
+stand out. Learn badges recognize course completion, Knowledge badges demonstrate domain 
+understanding, and Certification badges show applied subject-matter expertise. 
+Interested in certification? SAS Skill Builder has everything you need to prepare! Explore 
+pathways with required courses, study guides and practice exams. Discounted exam vouchers 
+are also available in SAS Skill Builder for Students.
+Visual Business Analytics 
+Ideal if you prefer point-and-click tools over coding, want to create interactive dashboards, 
+and aspire to analyze and visualize data through design-driven reports.
+Programming Using SAS 9.4
+Great for those who prefer coding to point-and-click tools and want to combine data sets, 
+create summary reports, and manipulate and transform data.
+I’m not ready to jump into SAS software, but I want 
+to learn more about how to use data. 
+Data Literacy Essentials 
+Learn more about what it means to be data literate and how to engage with data 
+in meaningful ways.
+Responsible Innovation and Trustworthy AI
+Empower yourself with knowledge from this course to find ways to design, develop 
+and use machine learning and AI systems more responsibly.
+I’d like to connect with folks who can help me learn.
+Joining SAS Support Communities is a must for those new to SAS. You’ll find peer-to-peer 
+support about programming and deployment issues, plus tips and successes! Be sure to visit 
+the FAQ for students and independent learners after you join.
+Copyright © 2025, SAS Institute Inc. All rights reserved. W451552.0725

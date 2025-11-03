@@ -1,0 +1,518 @@
+M. Faouzi BOUFARES, LLM, RAG,… , USPN, IG 
+ 
+Page 1 sur 7 
+ 
+Projet Annuel MASTER 2 INFO 
+USPN – 2025-2026 
+M. F. BOUFARES 
+ 
+ 
+Des données NON structurées vers les données structurées 
+Les LLM au service de la cosmétovigilance 
+Les LLM au service du remplissage des BD hospitalières 
+ 
+ 
+Construire un système d’analyse automatisée de documents (tels que des rapports PDF, DOC, XL) centré sur 
+les données des organisations (telles que les entreprises, les hôpitaux) pour construire un dataset (BD) 
+structuré sur ces dernières. 
+ 
+Explication des termes (LLM, Agent, Chatbot, RAG) dans le cadre du projet d’analyse de documents des 
+organisations : 
+ 
+LLM (Large Language Model) 
+• 
+Définition : Un modèle de langage de grande taille est une intelligence artificielle entraînée sur de 
+grandes quantités de textes pour comprendre et générer du langage naturel. 
+• 
+Exemple : Si on devait s’intéresser sur les données climatiques des entreprises, un LLM (comme 
+ChatGPT) peut lire des documents tels que PDF ou TXT, extraire des informations pertinentes (ex. : 
+chiffres d’émissions de CO₂, secteur d’activité, taille de l’entreprise, politiques RSE) et aider à 
+structurer ces données dans un tableau ou une base de données. 
+ 
+Agent 
+• 
+Définition : Un agent est une entité autonome qui peut planifier, raisonner et exécuter des tâches de 
+manière séquencée, souvent en utilisant un ou plusieurs LLM. 
+• 
+Exemple : On pourrait utiliser un agent pour : 
+o 
+Lire chaque fichier (PDF ou autre) automatiquement. 
+o 
+Identifier les informations pertinentes. 
+o 
+Poser des questions s’il manque des données. 
+o 
+Ajouter les données extraites dans un format structuré (tel que CSV, JSON). 
+ 
+Chatbot 
+• 
+Définition : Un chatbot est une interface conversationnelle automatisée, souvent basée sur un LLM, 
+avec laquelle un humain peut dialoguer. 
+• 
+Exemple : Un chatbot peut permettre d’interroger les documents ("Quelle est l’empreinte carbone de 
+l’entreprise X ?") de manière interactive, mais il ne planifie pas de tâches complexes par lui-même 
+comme un agent. 
+ 
+RAG (Retrieval-Augmented Generation) 
+• 
+Définition : Une méthode d’IA où un modèle de langage (LLM) va chercher de l’information dans une 
+base de données ou un corpus de documents avant de générer une réponse. 
+o 
+Retrieval = aller chercher de l'information dans les documents. 
+o 
+Augmented Generation = utiliser ces informations pour produire une réponse pertinente. 
+• 
+Exemple : Si l’on a des centaines de PDF, un système RAG peut être mis en place pour : 
+o 
+Indexer tous les documents. 
+o 
+Retrouver les passages pertinents selon la question ou le besoin. 
+o 
+Générer une réponse ou une donnée à inclure dans le dataset.
+M. Faouzi BOUFARES, LLM, RAG,… , USPN, IG 
+ 
+Page 2 sur 7 
+ 
+ 
+En résumé : 
+ 
+Terme 
+Rôle principal 
+LLM 
+Comprendre et extraire des données depuis les documents de départ (PDF, DOC, TXT…) 
+Agent 
+Enchaîner plusieurs tâches automatiquement (lecture, extraction, structuration) 
+Chatbot Permettre d’interagir avec les données ou les documents par conversation 
+RAG 
+Aller chercher l'information dans les documents de départ avant de générer une réponse pertinente 
+ 
+ 
+ 
+ 
+d 
+ 
+Objectif de l’étude exemple : Construire une structure de base de données (BD) adaptée à l’analyse de 
+documents pour le reporting climatique des entreprises européennes par exemple. 
+Créer une base de données relationnelle (ou structurée en format type CSV/JSON) permettant de stocker et 
+d’analyser les informations extraites des rapports tels que les bilans RSE, rapports extra-financiers, rapports 
+d’activité. 
+ 
+1. Les types d’informations à extraire : catégories principales d’information pertinentes pour l’étude : 
+Identification de l’entreprise 
+• 
+company_name : Nom de l’entreprise ; 
+• 
+siret / siren / vat_number : Identifiants légaux 
+• 
+country / region : Localisation 
+• 
+industry_sector : Secteur d’activité (ex. NAF/APE ou GICS/NACE) 
+• 
+company_size : Taille (PME, ETI, GE) 
+• 
+number_of_employees 
+Données financières (facultatif mais utile) 
+• 
+turnover : Chiffre d’affaires 
+• 
+net_income : Résultat net 
+• 
+ebitda 
+Données environnementales 
+• 
+total_emissions_tCO2e : Total émissions de GES (en tonnes équivalent CO₂) 
+• 
+scope_1_emissions : Emissions directes (Scope 1) 
+• 
+scope_2_emissions : Emissions indirectes liées à l’énergie (Scope 2) 
+• 
+scope_3_emissions : Autres émissions indirectes (Scope 3) 
+• 
+carbon_neutrality_target_year : Année visée pour la neutralité carbone 
+Politiques et engagements RSE 
+• 
+has_sustainability_policy : Politique RSE (booléen) 
+• 
+esg_goals : Objectifs ESG/RSE (texte ou JSON structuré)
+M. Faouzi BOUFARES, LLM, RAG,… , USPN, IG 
+ 
+Page 3 sur 7 
+ 
+• 
+climate_risk_management : Description des mesures face au risque climatique 
+• 
+certifications : Ex. : ISO 14001, B Corp, etc. 
+Références au rapport 
+• 
+report_title 
+• 
+report_year 
+• 
+report_source : URL ou fichier PDF 
+• 
+extraction_date 
+• 
+page_reference : pages du rapport contenant les infos 
+ 
+2. Proposition de schéma de base de données exemple 
+On pourrait commencer avec 3 tables principales : 
+ 
+  companies (Informations de base sur l’entreprise) 
+Field 
+Type 
+Description 
+Contraintes 
+id 
+UUID / INT Identifiant unique 
+ 
+company_name 
+TEXT 
+Nom de l’entreprise  
+siret 
+TEXT 
+Numéro SIRET 
+ 
+country 
+TEXT 
+Pays 
+ 
+industry_sector 
+TEXT 
+Secteur d’activité 
+ 
+company_size 
+TEXT 
+PME / ETI / GE 
+ 
+number_of_employees INTEGER 
+Nombre de salariés  
+ 
+  climate_reports (Données par rapport/climat) 
+Field 
+Type 
+Description 
+Contraintes 
+id 
+UUID / INT Identifiant unique 
+ 
+company_id 
+FK 
+Clé étrangère vers companies 
+ 
+report_year 
+INTEGER 
+Année du rapport 
+ 
+report_title 
+TEXT 
+Titre du document PDF 
+ 
+scope_1_emissions 
+FLOAT 
+Emissions Scope 1 (tCO₂e) 
+ 
+scope_2_emissions 
+FLOAT 
+Emissions Scope 2 
+ 
+scope_3_emissions 
+FLOAT 
+Emissions Scope 3 
+ 
+total_emissions 
+FLOAT 
+Total émissions 
+ 
+carbon_neutrality_target INTEGER 
+Année objectif neutralité carbone (si dispo) 
+ 
+page_reference 
+TEXT 
+Pages contenant les infos 
+ 
+ 
+  sustainability_policies (Engagements et politiques RSE) 
+Field 
+Type 
+Description 
+Contraintes 
+id 
+UUID 
+Identifiant 
+ 
+company_id 
+FK 
+Référence à companies 
+ 
+has_sustainability_policy BOOLEAN L’entreprise a-t-elle une politique RSE ? 
+ 
+esg_goals 
+TEXT 
+Objectifs RSE/ESG 
+ 
+climate_risk_management TEXT 
+Description du pilotage des risques climatiques  
+certifications 
+TEXT 
+ISO, B Corp, etc. 
+ 
+ 
+On pourra stocker temporairement les données en : CSV/Excel (pour visualisation rapide), SQLite (léger, 
+local), PostgreSQL, Oracle, ou même en JSON.
+M. Faouzi BOUFARES, LLM, RAG,… , USPN, IG 
+ 
+Page 4 sur 7 
+ 
+ 
+Étapes pour remplir la BD depuis des documents PDF 
+1. Extraction du texte des documents de départ en PDF par exemple → avec des outils comme 
+pdfplumber, PyMuPDF, ou des solutions OCR si scannés. 
+2. Pré-traitement et parsing → repérage des zones contenant les données. 
+3. Extraction avec LLM ou RAG → extraire les champs utiles. 
+4. Validation humaine ou semi-automatisée (important dans un contexte scientifique). 
+5. Insertion dans la BD. 
+ 
+Exemple fait avec ChatGPT (Il n’a pas été testé) : 
+Étape 1 – Modèle de base de données (en SQL / SQLite) 
+Voici un script SQL utilisable pour créer ta base dans SQLite : 
+-- Table des entreprises 
+CREATE TABLE companies (id INTEGER PRIMARY KEY AUTOINCREMENT, 
+    company_name TEXT NOT NULL, siret TEXT, country TEXT, industry_sector TEXT, company_size TEXT, 
+    number_of_employees INTEGER); 
+ 
+-- Table des rapports climat 
+CREATE TABLE climate_reports (id INTEGER PRIMARY KEY AUTOINCREMENT, 
+    company_id INTEGER, report_year INTEGER, report_title TEXT,  
+    scope_1_emissions REAL, scope_2_emissions REAL, scope_3_emissions REAL, total_emissions REAL, 
+    carbon_neutrality_target INTEGER, page_reference TEXT, 
+    FOREIGN KEY (company_id) REFERENCES companies(id)); 
+ 
+-- Table des politiques RSE 
+CREATE TABLE sustainability_policies (id INTEGER PRIMARY KEY AUTOINCREMENT, 
+    company_id INTEGER, has_sustainability_policy BOOLEAN, esg_goals TEXT, 
+    climate_risk_management TEXT, certifications TEXT, 
+    FOREIGN KEY (company_id) REFERENCES companies(id)); 
+ 
+On pourrait exécuter ce script avec un outil comme DB Browser for SQLite ou directement dans un script 
+Python.
+M. Faouzi BOUFARES, LLM, RAG,… , USPN, IG 
+ 
+Page 5 sur 7 
+ 
+ 
+Étape 2 – Script Python de base pour extraire et remplir la BD 
+Ci-dessous un script Python minimal pour Lire un PDF, Extraire du texte (avec PyMuPDF) et Ajouter des 
+données extraites dans SQLite. 
+ 
+Installation des prérequis : pip install fitz PyMuPDF sqlite3 
+Exemple de script Python : 
+import fitz  # PyMuPDF 
+import sqlite3 
+ 
+# Connexion à la base de données 
+conn = sqlite3.connect("climate_reporting.db") 
+cursor = conn.cursor() 
+ 
+# Exemple : Extraction texte d’un PDF 
+def extract_text_from_pdf(pdf_path): 
+    text = "" 
+    with fitz.open(pdf_path) as doc: 
+        for page in doc: 
+            text += page.get_text() 
+    return text 
+ 
+# Supposons qu'on ait manuellement extrait quelques champs pour tester : 
+def insert_test_data(): 
+    # Ajout entreprise 
+    cursor.execute(""" 
+        INSERT INTO companies (company_name, siret, country, industry_sector, company_size, number_of_employees) 
+        VALUES (?, ?, ?, ?, ?, ?) 
+    """, ("Société ExEco", "12345678901234", "France", "Énergie", "ETI", 850)) 
+ 
+    company_id = cursor.lastrowid 
+ 
+    # Ajout rapport climatique 
+    cursor.execute(""" 
+        INSERT INTO climate_reports (company_id, report_year, report_title, scope_1_emissions, 
+            scope_2_emissions, scope_3_emissions, total_emissions, carbon_neutrality_target, page_reference) 
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?) 
+    """, (company_id, 2023, "Rapport RSE 2023", 1200.5, 850.2, 5300.7, 7351.4, 2030, "pages 12-15")) 
+ 
+    # Ajout politique RSE 
+    cursor.execute(""" 
+        INSERT INTO sustainability_policies (company_id, has_sustainability_policy, esg_goals, 
+            climate_risk_management, certifications) 
+        VALUES (?, ?, ?, ?, ?) 
+    """, (company_id, True, "Réduction de 40% CO2 d'ici 2028", "Suivi via comité climat trimestriel", "ISO 14001")) 
+ 
+    conn.commit() 
+ 
+# Exemple usage 
+pdf_text = extract_text_from_pdf("rapport_exemple.pdf") 
+# (On pourrait ensuite utiliser un LLM ici pour analyser `pdf_text`) 
+ 
+insert_test_data() 
+print("Exemple inséré.")
+M. Faouzi BOUFARES, LLM, RAG,… , USPN, IG 
+ 
+Page 6 sur 7 
+ 
+ 
+Étape(s) suivante(s) dont les objectifs sont : 
+Le traitement de plusieurs fichiers en entrée, l’extraction des données elles-mêmes et l’insertion dans la BD. 
+On pourrait utiliser : Soit un LLM comme GPT via une API OpenAI ou HuggingFace pour extraire les valeurs (telle 
+que Scope 1 : 1234 tCO₂e) ; Soit une approche RAG avec indexation de tous les PDF. 
+ 
+A vous la suite… 
+Bon courage 
+ 
+Exemple de BD fictive avec quelques entreprises, issue de quelques rapports fictifs PDF. 
+Rapport Climat – Entreprise 1 : Énergies Gaïa 
+Rapport Climat – Énergies Gaïa 
+Année : 2023 
+ 
+Nom de l'entreprise : Énergies Gaïa 
+SIRET : 48765432100033 
+Secteur : Production d’énergie renouvelable 
+Taille : PME 
+Nombre d'employés : 180 
+ 
+Bilan Carbone : 
+- Scope 1 : 1 250 tCO₂e 
+- Scope 2 : 980 tCO₂e 
+- Scope 3 : 5 320 tCO₂e 
+- Total : 7 550 tCO₂e 
+ 
+Objectifs climatiques : 
+- Neutralité carbone visée pour 2040 
+- Réduction de 30 % des émissions totales d’ici 2030 
+ 
+RSE : 
+- Engagement ESG : investissement dans les éoliennes marines, programmes locaux d’éducation 
+- Certification : ISO 14001, Label LUCIE 
+ 
+Gestion des risques : 
+- Analyse annuelle des risques climatiques physiques (sécheresses, inondations) 
+Rapport Climat – Entreprise 2 : Groupe Teralog 
+Rapport Développement Durable – Groupe Teralog 
+Année de publication : 2024 
+ 
+Nom : Groupe Teralog 
+SIRET : 92345678100021 
+Secteur : Technologies numériques 
+Taille : ETI 
+Nombre d’employés : 860 
+ 
+Émissions GES : 
+- Scope 1 : 0 tCO₂e (pas de production directe) 
+- Scope 2 : 2 150 tCO₂e 
+- Scope 3 : 8 700 tCO₂e 
+- Total : 10 850 tCO₂e 
+ 
+Engagement climatique : 
+- Cible : net zéro en 2035 
+- Compensation partielle via projets forestiers certifiés Gold Standard 
+ 
+Politique RSE : 
+- Formation RSE obligatoire pour 100 % des managers 
+- Rapport extra-financier publié depuis 2017 
+ 
+Certifications : 
+- ISO 50001 (efficacité énergétique) 
+- EcoVadis : médaille d’or 
+ 
+Risques : 
+- Cybersécurité et dépendance énergétique analysées comme risques indirects climatiques 
+ 
+Etc…
+M. Faouzi BOUFARES, LLM, RAG,… , USPN, IG 
+ 
+Page 7 sur 7 
+ 
+Exemple : Incompatibilité entre ingrédients de la cosmétique selon ChatGPT 
+Ingrédient_FR_1 
+Ingrédient_FR_2 
+Observation(s) 
+Acide Ascorbique (Vitamine C) 
+Acides AHA (ex. Acide Glycolique) 
+ 
+Acide Azélaïque 
+Peroxyde de Benzoyle 
+ 
+Acide Glycolique 
+Rétinol 
+ 
+Acide Hyaluronique 
+Chlorure de Sodium (Sel) 
+ 
+Acide Hyaluronique 
+Rétinol 
+ 
+Acide Mandelique 
+Acide Lipoïdique 
+ 
+Acide Phytique 
+Acides Alpha-Hydroxy (AHA) 
+ 
+Acide Salicylique 
+Niacinamide (Vitamine B3) 
+ 
+Alcool Dénaturé 
+Acides (AHA/BHA) 
+ 
+Alun (Aluminum Chlorohydrate) 
+Acide Glycolique 
+ 
+Céramides 
+Acide Glycolique 
+ 
+Extrait de Camomille 
+Acide Citrique 
+ 
+Extrait de Camomille 
+Alcool Dénaturé 
+ 
+Extrait de Thé vert 
+Acide Salicylique (BHA) 
+ 
+Huiles Essentielles 
+Acide Hyaluronique 
+ 
+Huiles Essentielles 
+Peptides (comme les peptides de cuivre) 
+ 
+Huiles Végétales 
+Acides Alpha-Lipoïque 
+ 
+Niacinamide 
+Acides (AHA/BHA) 
+ 
+Peroxyde de Benzoyle 
+Acide Azélaïque 
+ 
+Peroxyde de Benzoyle 
+Rétinol 
+ 
+Probiotiques 
+Acide Salicylique 
+ 
+Rétinol 
+Acide Ascorbique (Vitamine C) 
+ 
+Rétinol 
+Acide Lactic (AHA) 
+ 
+Sulfates 
+Huiles essentielles 
+ 
+Tensioactifs (Sulfates) 
+Acides (AHA/BHA) 
+ 
+Vitamine C 
+Acide Salicylique 
+ 
+Zinc 
+Acide Citrique 
+ 
+Zinc (dans les écrans solaires) 
+Acide Ascorbique (Vitamine C)
