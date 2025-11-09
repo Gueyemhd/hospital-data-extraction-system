@@ -1,0 +1,24 @@
+TITRE: L’hôpital Ambroise-Paré AP-HP célèbre ses 50 ans | Hôpital Ambroise-Paré
+
+viewport: initial-scale=1
+twitter:card: summary
+twitter:card: summary
+twitter:title: L’hôpital Ambroise-Paré AP-HP célèbre ses 50 ans - Hôpital Ambroise-Paré
+generator: Powered by WPBakery Page Builder - drag and drop page builder for WordPress.
+generator: Powered by Slider Revolution 5.3.1.5 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.
+msapplication-TileImage: https://hupifo.aphp.fr/wp-content/blogs.dir/89/files/cache/2020/03/cropped-Logo_Saclay_Hôpital-Ambroise-Parérogne/-148564911.png
+
+L’hôpital Ambroise-Paré AP-HP célèbre ses 50 ans
+Inauguré le 2 juin 1969, l’hôpital Ambroise-Paré AP-HP a été conçu par les architectes Théodon, Lemaresquier et Lebret.
+Situé à Boulogne-Billancourt (92), cet établissement de référence, dédié aux activités de phase aiguë en hospitalisation et en ambulatoire, célèbre son cinquantième anniversaire.
+Doté de 400 lits et 50 places, l’hôpital Ambroise-Paré AP-HP allie l’excellence d’un hôpital universitaire à une mission de proximité et d’établissement de recours. C’est l’un des premiers centres d’urgence dans les Hauts-de Seine avec près de 62 000 passages aux urgences adultes et pédiatriques chaque année.
+L’hôpital Ambroise-Paré AP-HP propose une offre de soins diversifiée avec un large panel de disciplines médicales spécialisées. Il dispose d’une expertise reconnue en chirurgie lourde orthopédique, viscérale, vasculaire et ophtalmologique. Il assure également une prise en charge pluridisciplinaire en cancérologie (dermatologie, cancers digestifs, pneumologie, oncogériatrie, pédiatrie et hématologie).
+L’hôpital Ambroise-Paré AP-HP est centre de référence des infections ostéo-articulaires et dans la prise en charge de la douleur. Il compte par ailleurs neuf centres de référence et de compétence maladies rares.
+L’exposition « L’hôpital Ambroise-Paré, 50 ans d’excellence au service du territoire », ouverte au grand public, est installée dans le hall principal de l’hôpital du 03 octobre au 28 novembre 2019. Elle présente l’histoire de cet hôpital, l’implantation au sein de son territoire de santé, ainsi que les grandes réalisations de ses équipes.
+Découvrir l’exposition en ligne
+A l’occasion de ce 50ème anniversaire, jeudi 03 octobre 2019, une conférence est revenue sur les innovations majeures et l’expertise développées ces 50 dernières années par les équipes de l’hôpital Ambroise-Paré AP-HP notamment en chirurgie (avec la réalisation de nombreuses premières de l’AP-HP en ambulatoire), en cardiologie, en imagerie diagnostique et thérapeutique et pour les soins complexes. Un éclairage particulier a été porté sur les prises en charge spécifiques des adolescents et des personnes âgées.
+Cette conférence a aussi été l’occasion d’évoquer les nombreuses filières de soins et de coopérations mises en place avec des établissements de santé du territoire, ainsi que l’important dynamisme universitaire de l’hôpital. Elle a permis également d’aborder l’avenir à travers le projet de transfert des activités de l’hôpital Raymond-Poincaré AP-HP sur le site de l’hôpital Ambroise-Paré AP-HP.
+Visionner les vidéos de présentation :
+Les spécialités chirurgicales
+Le service de cardiologie
+Le service d’imagerie médicale diagnostique et interventionnelle
