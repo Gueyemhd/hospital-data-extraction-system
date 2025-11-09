@@ -12,6 +12,8 @@ import easyocr
 import uuid
 import warnings
 import glob
+from html import unescape
+import re 
 
 
 
@@ -90,14 +92,42 @@ def extract_text_from_csv(path):
 
 
 def extract_text_from_html(path):
-    """Extrait le texte d’un fichier HTML."""
-    try:
-        with open(path, "r", encoding="utf-8", errors="ignore") as f:
-            soup = BeautifulSoup(f, "html.parser")
-            return soup.get_text(separator="\n")
-    except Exception as e:
-        logging.error(f"Erreur extraction HTML {path}: {e}")
-        return ""
+    """Extrait proprement le texte utile d'un fichier HTML (nettoyé et structuré)."""
+    with open(path, "r", encoding="utf-8", errors="ignore") as f:
+        html = f.read()
+
+    soup = BeautifulSoup(html, "html.parser")
+
+    # Supprimer les balises inutiles
+    for tag in soup(["script", "style", "noscript", "iframe", "header", "footer", "nav", "aside"]):
+        tag.decompose()
+
+    # Extraire le titre et les métadonnées
+    title = soup.title.string.strip() if soup.title and soup.title.string else ""
+    metas = []
+    for meta in soup.find_all("meta"):
+        if meta.get("name") and meta.get("content"):
+            metas.append(f"{meta['name']}: {meta['content']}")
+    meta_text = "\n".join(metas)
+
+    # Extraire le contenu structuré (titres + paragraphes + listes)
+    lines = []
+    for element in soup.find_all(["h1", "h2", "h3", "h4", "p", "li", "td"]):
+        text = element.get_text(separator=" ", strip=True)
+        if len(text) > 2:
+            lines.append(text)
+
+    # Nettoyage léger : on garde les retours à la ligne
+    clean_text = "\n".join(lines)
+    clean_text = unescape(clean_text)
+    clean_text = re.sub(r"\n{2,}", "\n", clean_text)  # pas plus d'une ligne vide
+    clean_text = re.sub(r"[ \t]+", " ", clean_text)   # supprime les espaces inutiles
+
+    # Concaténer le tout
+    result = f"TITRE: {title}\n\n{meta_text}\n\n{clean_text}".strip()
+
+    return result
+
 
 def extract_text_from_image(path):
     """Extrait le texte d'une image (OCR)."""
