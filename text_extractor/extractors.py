@@ -19,7 +19,8 @@ import re
 
 # Désactiver les warnings
 warnings.filterwarnings("ignore", category=UserWarning)
-fitz.TOOLS.mupdf_display_errors(False)
+fitz.set_log_level("off")
+
 
 
 
@@ -128,6 +129,52 @@ def extract_text_from_html(path):
 
     return result
 
+import json
+import re
+
+def extract_text_from_json(path):
+    """
+    Extrait proprement le texte d'un fichier JSON, en explorant récursivement
+    tous les champs texte pertinents.
+    """
+    def extract_values(obj):
+        """Explore récursivement un dictionnaire ou une liste et récupère les chaînes de caractères."""
+        texts = []
+        if isinstance(obj, dict):
+            for key, value in obj.items():
+                # Si la valeur est une chaîne, on l’ajoute
+                if isinstance(value, str):
+                    # On ignore les URLs, IDs ou champs techniques
+                    if not re.match(r"^(https?://|www\.|[A-Za-z0-9_-]*id[A-Za-z0-9_-]*$)", key.lower()):
+                        texts.append(f"{key}: {value.strip()}")
+                # Si c’est un autre objet (dict ou list), on appelle récursivement
+                elif isinstance(value, (dict, list)):
+                    texts.extend(extract_values(value))
+        elif isinstance(obj, list):
+            for item in obj:
+                texts.extend(extract_values(item))
+        return texts
+
+    # Lecture du fichier JSON
+    with open(path, "r", encoding="utf-8", errors="ignore") as f:
+        try:
+            data = json.load(f)
+        except json.JSONDecodeError:
+            return f"[ERREUR] Le fichier {path} n'est pas un JSON valide."
+
+    # Extraction récursive du texte
+    texts = extract_values(data)
+
+    # Nettoyage léger
+    clean_text = "\n".join(texts)
+    clean_text = re.sub(r"\n{2,}", "\n", clean_text)
+    clean_text = re.sub(r"[ \t]+", " ", clean_text)
+
+    # Résultat final
+    result = f"FICHIER: {path}\n\n{clean_text}".strip()
+    return result
+
+
 
 def extract_text_from_image(path):
     """Extrait le texte d'une image (OCR)."""
@@ -178,6 +225,8 @@ def detect_and_extract(file_path):
         return extract_text_from_image(file_path)
     elif ext == ".txt":
         return extract_text_from_txt(file_path)
+    elif ext == ".json":
+        return extract_text_from_json(file_path)
     else:
         logging.warning(f"Type de fichier non supporté : {file_path}")
         return ""
