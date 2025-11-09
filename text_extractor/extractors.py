@@ -19,8 +19,6 @@ import re
 
 # Désactiver les warnings
 warnings.filterwarnings("ignore", category=UserWarning)
-fitz.set_log_level("off")
-
 
 
 

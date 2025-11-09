@@ -1,0 +1,16 @@
+2025-11-09 23:20:09,281 [INFO] Traitement de : 2025-09-17-D-Projet_LLM_M2EID2.pdf
+2025-11-09 23:20:09,514 [INFO] Texte extrait -> data/texts\2025-09-17-D-Projet_LLM_M2EID2.txt
+2025-11-09 23:20:09,515 [INFO] Traitement de : Comparaison de modèles 1.xlsx
+2025-11-09 23:20:09,520 [ERROR] Erreur extraction Excel data/raw\Comparaison de modèles 1.xlsx: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2025-11-09 23:20:09,520 [WARNING] Aucun texte extrait pour : Comparaison de modèles 1.xlsx
+2025-11-09 23:20:09,520 [INFO] Traitement de : Image.png
+2025-11-09 23:20:19,397 [INFO] Texte extrait -> data/texts\Image.txt
+2025-11-09 23:20:19,398 [INFO] Traitement de : inputtest.pdf
+2025-11-09 23:20:19,494 [INFO] Texte extrait -> data/texts\inputtest.txt
+2025-11-09 23:20:19,495 [INFO] Traitement de : Lift.csv
+2025-11-09 23:20:19,514 [INFO] Texte extrait -> data/texts\Lift.txt
+2025-11-09 23:20:19,515 [INFO] Traitement de : SEM TP-3.docx
+2025-11-09 23:20:19,529 [INFO] Texte extrait -> data/texts\SEM TP-3.txt
+2025-11-09 23:20:19,529 [INFO] Traitement de : test.json
+2025-11-09 23:20:19,532 [INFO] Texte extrait -> data/texts\test.txt
+2025-11-09 23:20:19,532 [INFO] Extraction terminée pour tous les fichiers.
