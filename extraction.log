@@ -21,3 +21,74 @@
 2025-11-09 23:57:49,900 [INFO] Traitement de : capacites_lits_places.html
 2025-11-09 23:57:50,048 [INFO] Texte extrait -> data/texts\capacites_lits_places.txt
 2025-11-09 23:57:50,048 [INFO] Extraction terminée pour tous les fichiers.
+2025-11-14 16:57:18,809 [INFO] Traitement de : 2025-09-17-D-Projet_LLM_M2EID2.pdf
+2025-11-14 16:57:19,224 [INFO] Texte extrait -> data/text\2025-09-17-D-Projet_LLM_M2EID2.txt
+2025-11-14 16:57:19,225 [INFO] Traitement de : Comparaison de modèles 1.xlsx
+2025-11-14 16:57:19,231 [ERROR] Erreur extraction Excel data/raw\Comparaison de modèles 1.xlsx: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2025-11-14 16:57:19,231 [WARNING] Aucun texte extrait pour : Comparaison de modèles 1.xlsx
+2025-11-14 16:57:19,232 [INFO] Traitement de : Image.png
+2025-11-14 16:57:32,683 [INFO] Texte extrait -> data/text\Image.txt
+2025-11-14 16:57:32,684 [INFO] Traitement de : inputtest.pdf
+2025-11-14 16:57:32,832 [INFO] Texte extrait -> data/text\inputtest.txt
+2025-11-14 16:57:32,832 [INFO] Traitement de : Lift.csv
+2025-11-14 16:57:32,898 [INFO] Texte extrait -> data/text\Lift.txt
+2025-11-14 16:57:32,898 [INFO] Traitement de : SEM TP-3.docx
+2025-11-14 16:57:32,922 [INFO] Texte extrait -> data/text\SEM TP-3.txt
+2025-11-14 16:57:32,923 [INFO] Traitement de : test.json
+2025-11-14 16:57:32,926 [INFO] Texte extrait -> data/text\test.txt
+2025-11-14 16:57:32,927 [INFO] Extraction terminée pour tous les fichiers.
+2025-11-14 16:58:18,336 [INFO] Traitement de : accueilli-e_Albert.pdf
+2025-11-14 16:58:18,829 [INFO] Texte extrait -> data/text\accueilli-e_Albert.txt
+2025-11-14 16:58:18,829 [INFO] Traitement de : logistique
+2025-11-14 16:58:18,830 [WARNING] Type de fichier non supporté : data/raw/logistique\logistique
+2025-11-14 16:58:18,830 [WARNING] Aucun texte extrait pour : logistique
+2025-11-14 16:58:18,830 [INFO] Extraction terminée pour tous les fichiers.
+2025-11-14 16:59:23,978 [INFO] Traitement de : Hôpital Albert-Chenevier _ APHP.html
+2025-11-14 16:59:24,259 [INFO] Texte extrait -> data/text\Hôpital Albert-Chenevier _ APHP.txt
+2025-11-14 16:59:24,260 [INFO] Traitement de : Hôpital Armand-Trousseau _ APHP.html
+2025-11-14 16:59:24,431 [INFO] Texte extrait -> data/text\Hôpital Armand-Trousseau _ APHP.txt
+2025-11-14 16:59:24,431 [INFO] Traitement de : Hôpital Avicenne _ APHP.html
+2025-11-14 16:59:24,602 [INFO] Texte extrait -> data/text\Hôpital Avicenne _ APHP.txt
+2025-11-14 16:59:24,603 [INFO] Traitement de : Hôpital Charles-Foix _ APHP.html
+2025-11-14 16:59:24,757 [INFO] Texte extrait -> data/text\Hôpital Charles-Foix _ APHP.txt
+2025-11-14 16:59:24,759 [INFO] Traitement de : Hôpital Maritime de Berck _ APHP.html
+2025-11-14 16:59:24,905 [INFO] Texte extrait -> data/text\Hôpital Maritime de Berck _ APHP.txt
+2025-11-14 16:59:24,906 [INFO] Traitement de : lits_places_Ambroise.html
+2025-11-14 16:59:24,974 [INFO] Texte extrait -> data/text\lits_places_Ambroise.txt
+2025-11-14 16:59:24,974 [INFO] Traitement de : Notre organisation - Hôpital Cochin AP-HP.html
+2025-11-14 16:59:25,034 [INFO] Texte extrait -> data/text\Notre organisation - Hôpital Cochin AP-HP.txt
+2025-11-14 16:59:25,035 [INFO] Traitement de : Présentation _ Hôpital Corentin-Celton.html
+2025-11-14 16:59:25,089 [INFO] Texte extrait -> data/text\Présentation _ Hôpital Corentin-Celton.txt
+2025-11-14 16:59:25,091 [INFO] Traitement de : Search Results for lits _ Hôpital Corentin-Celton.html
+2025-11-14 16:59:25,139 [INFO] Texte extrait -> data/text\Search Results for lits _ Hôpital Corentin-Celton.txt
+2025-11-14 16:59:25,140 [INFO] Traitement de : sejour-pediatrie-Hôpital Trousseau AP-HP.html
+2025-11-14 16:59:25,397 [INFO] Texte extrait -> data/text\sejour-pediatrie-Hôpital Trousseau AP-HP.txt
+2025-11-14 16:59:25,397 [INFO] Extraction terminée pour tous les fichiers.
+2025-11-15 17:20:00,828 [INFO] Traitement de : accueilli-e_Albert.pdf
+2025-11-15 17:20:01,471 [INFO] Texte extrait -> data/text\accueilli-e_Albert.txt
+2025-11-15 17:20:01,472 [INFO] Traitement de : Hôpital Albert-Chenevier _ APHP.html
+2025-11-15 17:20:01,650 [INFO] Texte extrait -> data/text\Hôpital Albert-Chenevier _ APHP.txt
+2025-11-15 17:20:01,650 [INFO] Traitement de : Hôpital Armand-Trousseau _ APHP.html
+2025-11-15 17:20:01,813 [INFO] Texte extrait -> data/text\Hôpital Armand-Trousseau _ APHP.txt
+2025-11-15 17:20:01,814 [INFO] Traitement de : Hôpital Avicenne _ APHP.html
+2025-11-15 17:20:01,982 [INFO] Texte extrait -> data/text\Hôpital Avicenne _ APHP.txt
+2025-11-15 17:20:01,982 [INFO] Traitement de : Hôpital Charles-Foix _ APHP.html
+2025-11-15 17:20:02,137 [INFO] Texte extrait -> data/text\Hôpital Charles-Foix _ APHP.txt
+2025-11-15 17:20:02,138 [INFO] Traitement de : Hôpital Dupuytren _ APHP.html
+2025-11-15 17:20:02,297 [INFO] Texte extrait -> data/text\Hôpital Dupuytren _ APHP.txt
+2025-11-15 17:20:02,297 [INFO] Traitement de : Hôpital Maritime de Berck _ APHP.html
+2025-11-15 17:20:02,637 [INFO] Texte extrait -> data/text\Hôpital Maritime de Berck _ APHP.txt
+2025-11-15 17:20:02,637 [INFO] Traitement de : lits_places_Ambroise.html
+2025-11-15 17:20:02,704 [INFO] Texte extrait -> data/text\lits_places_Ambroise.txt
+2025-11-15 17:20:02,704 [INFO] Traitement de : logistique
+2025-11-15 17:20:02,706 [WARNING] Type de fichier non supporté : data/raw/logistique\logistique
+2025-11-15 17:20:02,707 [WARNING] Aucun texte extrait pour : logistique
+2025-11-15 17:20:02,707 [INFO] Traitement de : Notre organisation - Hôpital Cochin AP-HP.html
+2025-11-15 17:20:02,772 [INFO] Texte extrait -> data/text\Notre organisation - Hôpital Cochin AP-HP.txt
+2025-11-15 17:20:02,772 [INFO] Traitement de : Présentation _ Hôpital Corentin-Celton.html
+2025-11-15 17:20:02,832 [INFO] Texte extrait -> data/text\Présentation _ Hôpital Corentin-Celton.txt
+2025-11-15 17:20:02,832 [INFO] Traitement de : Search Results for lits _ Hôpital Corentin-Celton.html
+2025-11-15 17:20:02,881 [INFO] Texte extrait -> data/text\Search Results for lits _ Hôpital Corentin-Celton.txt
+2025-11-15 17:20:02,882 [INFO] Traitement de : sejour-pediatrie-Hôpital Trousseau AP-HP.html
+2025-11-15 17:20:02,949 [INFO] Texte extrait -> data/text\sejour-pediatrie-Hôpital Trousseau AP-HP.txt
+2025-11-15 17:20:02,949 [INFO] Extraction terminée pour tous les fichiers.

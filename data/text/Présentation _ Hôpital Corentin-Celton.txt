@@ -1,0 +1,23 @@
+TITRE: Présentation | Hôpital Corentin-Celton
+
+viewport: initial-scale=1
+description: Description du groupe hospitalier Paris Ouest.
+twitter:card: summary
+google-site-verification: UsYAaxeSfRYXaL9tk8PHYq4Rog0iyQe_c_vNB9Y1sBM
+twitter:card: summary
+twitter:title: Présentation - Hôpital Corentin-Celton
+twitter:image: https://hopitaux-parisouest.aphp.fr/wp-content/blogs.dir/132/files/2024/01/Bandeau-hopital-CCL-site-internet-2.png
+generator: Powered by WPBakery Page Builder - drag and drop page builder for WordPress.
+
+Présentation
+Le groupe hospitalo-universitaire AP-HP.Centre – Université Paris Cité
+AP-HP. Centre-Université Paris Cité réunit sept hôpitaux du centre-ouest de Paris : Broca-La Collégiale, Cochin – Port-Royal, Corentin-Celton, hôpital européen Georges-Pompidou, Necker-Enfants malades, Hôtel-Dieu et Vaugirard-Gabriel-Pallez.
+Ses hôpitaux offrent à tous les âges de la vie, une prise en charge adaptée à toutes les pathologies, des plus simples aux plus complexes. 18 000 professionnels y travaillent.
+Il dispose de plateaux techniques de pointe et abrite près de 100 centres de référence maladies rares. Il est le siège du Samu de Paris. Il est organisé en 17 départements médico-universitaires (DMU) multi-sites.
+Ses équipes sont très impliquées dans la recherche, avec plus de 1400 projets en cours. Rattaché à Université Paris Cité, il est aussi impliqué dans la formation des professionnels de santé de demain.
++ En savoir plus
+L’hôpital Corentin-Celton
+L’hôpital Corentin-Celton décline une filière de soins gériatriques (gériatrie aigue, hôpital de jour, soins médicaux et de réadaptation), propose des soins de rééducation orthopédique, de réadaptation cardiaque et vasculaire et assure la prise en charge psychiatrique et addictologie de l’adulte et du sujet âgé.
+Un centre de planification familiale, une équipe mobile douleur et de soins palliatifs, une pharmacie et un service de radiologie complètent cette offre de soins. L’hôpital dispose également d’une Permanence d’Accès aux Soins (PASS).
+L’hôpital dispose de 480 lits et 82 places . 930 professionnels y travaillent.
+Ouvert sur la ville d’Issy-les-Moulineaux, l’hôpital Corentin-Celton est une réussite architecturale parfaitement insérée dans la vie urbaine. Agrémenté de jardins, offrant des locaux ergonomiques dotés d’équipements performants, il a été plusieurs fois repensé pour offrir aux patients bien-être et qualité de soins.

@@ -1,0 +1,53 @@
+/* suppression bordure haute du menu */
+#menu {
+    border-top: 0px;
+}
+/* Réglage typo */
+p, ol, ul, pre, table, address, fieldset, figure {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 13px;
+}
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 23px;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 17px;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+}
+h4 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+}
+/* Réglage typo GO boutons*/
+.vc_btn3-container.vc_btn3-center .vc_btn3-block.vc_btn3-size-lg {
+    font-size: 14px;
+    padding: 35px 0px 35px 5px;
+    font-family: 'Montserrat', sans-serif;
+}
+/* Réglage des photos sans bord*/
+.entry-content img, .wpb_text_column img {
+    border: none;
+    max-width: 100%;
+    height: auto;
+    padding: 0px;
+    background: #fff;
+}
+/* Réglage des boutons icone homepage*/
+.aio-icon-component, .wpb_column>.wpb_wrapper .aio-icon-component {
+    margin-bottom: 0px;
+    margin-top: 15px;
+}
+/* Enlever la couleur sur le Bold*/
+strong {
+    color: #000000 !important;
+}
+/* Supprimer bouton X*/
+/*.entry-share {display:none;}*/
+.twitter.entry-share-item {display:none;}
+.mail.entry-share-item {display:none;}
+
