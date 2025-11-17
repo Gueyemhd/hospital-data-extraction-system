@@ -150,25 +150,28 @@ def extract_text_from_html(path):
 
 def extract_text_from_json(path):
     """
-    Extrait proprement le texte d'un fichier JSON, en explorant récursivement
-    tous les champs texte pertinents.
+    Extrait proprement le contenu d'un JSON (même profondément imbriqué),
+    en incluant les valeurs str, int, float et null.
     """
-    def extract_values(obj):
-        """Explore récursivement un dictionnaire ou une liste et récupère les chaînes de caractères."""
+    def extract_values(obj, parent_key=""):
         texts = []
+
         if isinstance(obj, dict):
             for key, value in obj.items():
-                # Si la valeur est une chaîne, on l’ajoute
-                if isinstance(value, str):
-                    # On ignore les URLs, IDs ou champs techniques
-                    if not re.match(r"^(https?://|www\.|[A-Za-z0-9_-]*id[A-Za-z0-9_-]*$)", key.lower()):
-                        texts.append(f"{key}: {value.strip()}")
-                # Si c’est un autre objet (dict ou list), on appelle récursivement
+                full_key = f"{parent_key}.{key}" if parent_key else key
+
+                # Si la valeur est un type simple : str, int, float, None
+                if isinstance(value, (str, int, float)) or value is None:
+                    texts.append(f"{full_key}: {value}")
+                # Si liste ou dict → récursion
                 elif isinstance(value, (dict, list)):
-                    texts.extend(extract_values(value))
+                    texts.extend(extract_values(value, full_key))
+
         elif isinstance(obj, list):
-            for item in obj:
-                texts.extend(extract_values(item))
+            for index, item in enumerate(obj):
+                list_key = f"{parent_key}[{index}]"
+                texts.extend(extract_values(item, list_key))
+
         return texts
 
     # Lecture du fichier JSON
@@ -178,15 +181,14 @@ def extract_text_from_json(path):
         except json.JSONDecodeError:
             return f"[ERREUR] Le fichier {path} n'est pas un JSON valide."
 
-    # Extraction récursive du texte
+    # Extraction récursive
     texts = extract_values(data)
 
-    # Nettoyage léger
+    # Nettoyage
     clean_text = "\n".join(texts)
     clean_text = re.sub(r"\n{2,}", "\n", clean_text)
     clean_text = re.sub(r"[ \t]+", " ", clean_text)
 
-    # Résultat final
     result = f"FICHIER: {path}\n\n{clean_text}".strip()
     return result
 

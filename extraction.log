@@ -112,3 +112,33 @@
 2025-11-17 11:19:09,505 [INFO] Traitement de : Adresse_access_transport_Hôpital Albert-Chenevier _ APHP.html
 2025-11-17 11:19:09,693 [INFO] Texte extrait -> data/text/adresse_acces_transport\Adresse_access_transport_Hôpital Albert-Chenevier _ APHP.txt
 2025-11-17 11:19:09,693 [INFO] Extraction terminée pour tous les fichiers.
+2025-11-17 16:46:26,186 [INFO] Traitement de : hosto.json
+2025-11-17 16:46:26,286 [INFO] Texte extrait -> data/text/hopital\hosto.txt
+2025-11-17 16:46:26,286 [INFO] Traitement de : Hôpital Albert-Chenevier _ APHP.html
+2025-11-17 16:46:26,387 [INFO] Texte extrait -> data/text/hopital\Hôpital Albert-Chenevier _ APHP.txt
+2025-11-17 16:46:26,387 [INFO] Traitement de : Hôpital Ambroise-Paré _ APHP.html
+2025-11-17 16:46:26,473 [INFO] Texte extrait -> data/text/hopital\Hôpital Ambroise-Paré _ APHP.txt
+2025-11-17 16:46:26,473 [INFO] Traitement de : Hôpital Antoine-Béclère _ APHP.html
+2025-11-17 16:46:26,579 [INFO] Texte extrait -> data/text/hopital\Hôpital Antoine-Béclère _ APHP.txt
+2025-11-17 16:46:26,579 [INFO] Traitement de : Hôpital Armand-Trousseau _ APHP.html
+2025-11-17 16:46:26,679 [INFO] Texte extrait -> data/text/hopital\Hôpital Armand-Trousseau _ APHP.txt
+2025-11-17 16:46:26,680 [INFO] Traitement de : Hôpital Avicenne _ APHP.html
+2025-11-17 16:46:26,787 [INFO] Texte extrait -> data/text/hopital\Hôpital Avicenne _ APHP.txt
+2025-11-17 16:46:26,788 [INFO] Traitement de : Hôpital Maritime de Berck _ APHP.html
+2025-11-17 16:46:27,056 [INFO] Texte extrait -> data/text/hopital\Hôpital Maritime de Berck _ APHP.txt
+2025-11-17 16:46:27,057 [INFO] Extraction terminée pour tous les fichiers.
+2025-11-17 16:51:11,137 [INFO] Traitement de : hosto.json
+2025-11-17 16:51:11,196 [INFO] Texte extrait -> data/text/hopital\hosto.txt
+2025-11-17 16:51:11,196 [INFO] Traitement de : Hôpital Albert-Chenevier _ APHP.html
+2025-11-17 16:51:11,319 [INFO] Texte extrait -> data/text/hopital\Hôpital Albert-Chenevier _ APHP.txt
+2025-11-17 16:51:11,320 [INFO] Traitement de : Hôpital Ambroise-Paré _ APHP.html
+2025-11-17 16:51:11,419 [INFO] Texte extrait -> data/text/hopital\Hôpital Ambroise-Paré _ APHP.txt
+2025-11-17 16:51:11,420 [INFO] Traitement de : Hôpital Antoine-Béclère _ APHP.html
+2025-11-17 16:51:11,516 [INFO] Texte extrait -> data/text/hopital\Hôpital Antoine-Béclère _ APHP.txt
+2025-11-17 16:51:11,517 [INFO] Traitement de : Hôpital Armand-Trousseau _ APHP.html
+2025-11-17 16:51:11,619 [INFO] Texte extrait -> data/text/hopital\Hôpital Armand-Trousseau _ APHP.txt
+2025-11-17 16:51:11,620 [INFO] Traitement de : Hôpital Avicenne _ APHP.html
+2025-11-17 16:51:11,719 [INFO] Texte extrait -> data/text/hopital\Hôpital Avicenne _ APHP.txt
+2025-11-17 16:51:11,720 [INFO] Traitement de : Hôpital Maritime de Berck _ APHP.html
+2025-11-17 16:51:11,973 [INFO] Texte extrait -> data/text/hopital\Hôpital Maritime de Berck _ APHP.txt
+2025-11-17 16:51:11,974 [INFO] Extraction terminée pour tous les fichiers.

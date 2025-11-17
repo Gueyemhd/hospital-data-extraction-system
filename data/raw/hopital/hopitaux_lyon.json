@@ -1,0 +1,132 @@
+[
+  {
+    "id_hopital": 101,
+    "nom": "Hôpital Edouard Herriot",
+    "id_adresse": null,
+    "type": "CHU",
+    "statut": "Public",
+    "nb_lits": 900,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 102,
+    "nom": "Hôpital Lyon Sud",
+    "id_adresse": null,
+    "type": "CHU",
+    "statut": "Public",
+    "nb_lits": 1000,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 103,
+    "nom": "Hôpital de la Croix-Rousse",
+    "id_adresse": null,
+    "type": "CHU",
+    "statut": "Public",
+    "nb_lits": 400,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 104,
+    "nom": "Hôpital Femme Mère Enfant (HFME)",
+    "id_adresse": null,
+    "type": "CHU pédiatrie / maternité",
+    "statut": "Public",
+    "nb_lits": 500,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 105,
+    "nom": "Hôpital Pierre Wertheimer",
+    "id_adresse": null,
+    "type": "Neurologie / Neurochirurgie",
+    "statut": "Public",
+    "nb_lits": 200,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 106,
+    "nom": "Hôpital Louis Pradel",
+    "id_adresse": null,
+    "type": "Cardiologie / Pneumologie",
+    "statut": "Public",
+    "nb_lits": 300,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 107,
+    "nom": "IHOPe - Institut d’Hématologie et d’Oncologie Pédiatrique",
+    "id_adresse": null,
+    "type": "Oncologie Pédiatrique",
+    "statut": "Public",
+    "nb_lits": 80,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 108,
+    "nom": "Hôpital Henry Gabrielle",
+    "id_adresse": null,
+    "type": "MPR / Rééducation",
+    "statut": "Public",
+    "nb_lits": 200,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 109,
+    "nom": "Hôpital Renée Sabran",
+    "id_adresse": null,
+    "type": "Pédiatrie / Polyhandicap",
+    "statut": "Public",
+    "nb_lits": 300,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 110,
+    "nom": "Hôpital des Charpennes",
+    "id_adresse": null,
+    "type": "Gériatrie",
+    "statut": "Public",
+    "nb_lits": 250,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 111,
+    "nom": "Hôpital Pierre Garraud",
+    "id_adresse": null,
+    "type": "Gériatrie / SSR",
+    "statut": "Public",
+    "nb_lits": 180,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 112,
+    "nom": "Hôpital Frédéric Dugoujon",
+    "id_adresse": null,
+    "type": "Gériatrie",
+    "statut": "Public",
+    "nb_lits": 150,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 113,
+    "nom": "Centre de Soins Dentaires",
+    "id_adresse": null,
+    "type": "Centre dentaire universitaire",
+    "statut": "Public",
+    "nb_lits": null,
+    "nb_personnel": null,
+    "nb_place": null
+  }
+]

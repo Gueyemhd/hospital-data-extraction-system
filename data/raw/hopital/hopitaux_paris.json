@@ -1,0 +1,422 @@
+[
+  {
+    "id_hopital": 1,
+    "nom": "Hôpital Albert-Chenevier",
+    "id_adresse": null,
+    "type": "CHU",
+    "statut": "Public",
+    "nb_lits": 463,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 2,
+    "nom": "Hôpital Ambroise-Paré",
+    "id_adresse": null,
+    "type": "CHU",
+    "statut": "Public",
+    "nb_lits": 399,
+    "nb_personnel": null,
+    "nb_place": 49
+  },
+  {
+    "id_hopital": 3,
+    "nom": "Hôpital Antoine-Béclère",
+    "id_adresse": null,
+    "type": "CHU",
+    "statut": "Public",
+    "nb_lits": 386,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 4,
+    "nom": "Hôpital Armand-Trousseau",
+    "id_adresse": null,
+    "type": "CHU pédiatrique",
+    "statut": "Public",
+    "nb_lits": 420,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 5,
+    "nom": "Hôpital Avicenne",
+    "id_adresse": null,
+    "type": "CHU",
+    "statut": "Public",
+    "nb_lits": 559,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 6,
+    "nom": "Hôpital Beaujon",
+    "id_adresse": null,
+    "type": "CHU",
+    "statut": "Public",
+    "nb_lits": 852,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 7,
+    "nom": "Hôpital Maritime de Berck",
+    "id_adresse": null,
+    "type": "SSR / Rééducation",
+    "statut": "Public",
+    "nb_lits": 600,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 8,
+    "nom": "Hôpital Bicêtre",
+    "id_adresse": null,
+    "type": "CHU",
+    "statut": "Public",
+    "nb_lits": 980,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 9,
+    "nom": "Hôpital Bichat-Claude-Bernard",
+    "id_adresse": null,
+    "type": "CHU",
+    "statut": "Public",
+    "nb_lits": 923,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 10,
+    "nom": "Hôpital Bretonneau",
+    "id_adresse": null,
+    "type": "Gériatrie",
+    "statut": "Public",
+    "nb_lits": 440,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 11,
+    "nom": "Hôpital Broca - La Collégiale",
+    "id_adresse": null,
+    "type": "Gériatrie",
+    "statut": "Public",
+    "nb_lits": 310,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 12,
+    "nom": "Hôpital Charles-Foix",
+    "id_adresse": null,
+    "type": "Gériatrie / SSR",
+    "statut": "Public",
+    "nb_lits": 600,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 13,
+    "nom": "Hôpital Cochin - Port Royal",
+    "id_adresse": null,
+    "type": "CHU",
+    "statut": "Public",
+    "nb_lits": 1328,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 14,
+    "nom": "Hôpital Corentin-Celton",
+    "id_adresse": null,
+    "type": "SSR / Gériatrie",
+    "statut": "Public",
+    "nb_lits": 428,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 15,
+    "nom": "Hôpital Dupuytren",
+    "id_adresse": null,
+    "type": "SSR / Gériatrie",
+    "statut": "Public",
+    "nb_lits": 450,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 16,
+    "nom": "Hôpital Émile-Roux",
+    "id_adresse": null,
+    "type": "SSR",
+    "statut": "Public",
+    "nb_lits": 380,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 17,
+    "nom": "Hôpital Fernand-Widal",
+    "id_adresse": null,
+    "type": "Urgences / Psychiatrie",
+    "statut": "Public",
+    "nb_lits": 300,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 18,
+    "nom": "Hôpital Georges-Clemenceau",
+    "id_adresse": null,
+    "type": "Gériatrie",
+    "statut": "Public",
+    "nb_lits": 220,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 19,
+    "nom": "Hôpital Marin de Hendaye",
+    "id_adresse": null,
+    "type": "Rééducation",
+    "statut": "Public",
+    "nb_lits": 300,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 20,
+    "nom": "Hôpital Henri-Mondor",
+    "id_adresse": null,
+    "type": "CHU",
+    "statut": "Public",
+    "nb_lits": 1022,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 21,
+    "nom": "Hôpital Européen Georges-Pompidou",
+    "id_adresse": null,
+    "type": "CHU",
+    "statut": "Public",
+    "nb_lits": 880,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 22,
+    "nom": "Hospitalisation à Domicile (HAD AP-HP)",
+    "id_adresse": null,
+    "type": "HAD",
+    "statut": "Public",
+    "nb_lits": null,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 23,
+    "nom": "Hôpital Hôtel-Dieu",
+    "id_adresse": null,
+    "type": "CHU historique",
+    "statut": "Public",
+    "nb_lits": 350,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 24,
+    "nom": "Hôpital Jean-Verdier",
+    "id_adresse": null,
+    "type": "CHU",
+    "statut": "Public",
+    "nb_lits": 440,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 25,
+    "nom": "Hôpital La Collégiale",
+    "id_adresse": null,
+    "type": "SSR",
+    "statut": "Public",
+    "nb_lits": 150,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 26,
+    "nom": "Hôpital La Roche-Guyon",
+    "id_adresse": null,
+    "type": "SSR / Gériatrie",
+    "statut": "Public",
+    "nb_lits": 200,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 27,
+    "nom": "Hôpital Lariboisière",
+    "id_adresse": null,
+    "type": "CHU",
+    "statut": "Public",
+    "nb_lits": 950,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 28,
+    "nom": "Hôpital Louis-Mourier",
+    "id_adresse": null,
+    "type": "CHU",
+    "statut": "Public",
+    "nb_lits": 765,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 29,
+    "nom": "Hôpital Necker-Enfants malades",
+    "id_adresse": null,
+    "type": "CHU pédiatrique",
+    "statut": "Public",
+    "nb_lits": 500,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 30,
+    "nom": "Hôpital Paul-Brousse",
+    "id_adresse": null,
+    "type": "CHU / Cancérologie",
+    "statut": "Public",
+    "nb_lits": 760,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 31,
+    "nom": "Hôpital Paul-Doumer",
+    "id_adresse": null,
+    "type": "Long séjour",
+    "statut": "Public",
+    "nb_lits": 200,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 32,
+    "nom": "Hôpital Pitié-Salpêtrière",
+    "id_adresse": null,
+    "type": "CHU majeur",
+    "statut": "Public",
+    "nb_lits": 1590,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 33,
+    "nom": "Hôpital Raymond-Poincaré",
+    "id_adresse": null,
+    "type": "CHU / Rééducation",
+    "statut": "Public",
+    "nb_lits": 450,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 34,
+    "nom": "Hôpital René-Muret",
+    "id_adresse": null,
+    "type": "SSR",
+    "statut": "Public",
+    "nb_lits": 250,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 35,
+    "nom": "Hôpital Robert-Debré",
+    "id_adresse": null,
+    "type": "CHU pédiatrique",
+    "statut": "Public",
+    "nb_lits": 470,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 36,
+    "nom": "Hôpital Rothschild",
+    "id_adresse": null,
+    "type": "Gériatrie / SSR",
+    "statut": "Public",
+    "nb_lits": 300,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 37,
+    "nom": "Hôpital Saint-Antoine",
+    "id_adresse": null,
+    "type": "CHU",
+    "statut": "Public",
+    "nb_lits": 650,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 38,
+    "nom": "Hôpital Sainte-Périne",
+    "id_adresse": null,
+    "type": "Gériatrie",
+    "statut": "Public",
+    "nb_lits": 350,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 39,
+    "nom": "Hôpital Saint-Louis",
+    "id_adresse": null,
+    "type": "CHU",
+    "statut": "Public",
+    "nb_lits": 650,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 40,
+    "nom": "Hôpital San Salvadour",
+    "id_adresse": null,
+    "type": "Pédiatrie / Polyhandicap",
+    "statut": "Public",
+    "nb_lits": 200,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 41,
+    "nom": "Hôpital Tenon",
+    "id_adresse": null,
+    "type": "CHU",
+    "statut": "Public",
+    "nb_lits": 520,
+    "nb_personnel": null,
+    "nb_place": null
+  },
+  {
+    "id_hopital": 42,
+    "nom": "Hôpital Vaugirard - Gabriel-Pallez",
+    "id_adresse": null,
+    "type": "Gériatrie",
+    "statut": "Public",
+    "nb_lits": 220,
+    "nb_personnel": null,
+    "nb_place": null
+  }
+]

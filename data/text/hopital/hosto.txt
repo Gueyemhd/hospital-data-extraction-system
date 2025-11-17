@@ -1,0 +1,18 @@
+FICHIER: data/raw/hopital\hosto.json
+
+[0].id_hopital: 1
+[0].nom: Hôpital Albert-Chenevier
+[0].id_adresse: None
+[0].type: CHU
+[0].statut: Public
+[0].nb_lits: 463
+[0].nb_personnel: 1000
+[0].nb_place: None
+[1].id_hopital: 2
+[1].nom: Hôpital Ambroise-Paré
+[1].id_adresse: None
+[1].type: None
+[1].statut: Public
+[1].nb_lits: 399
+[1].nb_personnel: None
+[1].nb_place: 49
