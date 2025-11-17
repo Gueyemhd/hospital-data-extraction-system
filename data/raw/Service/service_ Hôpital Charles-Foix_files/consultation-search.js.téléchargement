@@ -1,0 +1,245 @@
+jQuery(function() {
+	// Allow to display "more than 5 items", with more links/JS
+	jQuery('.rechercher-une-consultation').find('a.more').bind('click', function(e) {
+		e.preventDefault();
+		jQuery(this).parent().find('li.hidden').removeClass('hidden').end().end().remove();
+	});
+
+	// Make print on print class
+	jQuery('.sidebar .print').bind('click', function(e) {
+		e.preventDefault();
+		window.print();
+	});
+
+	// Modal for service
+	jQuery('a.service-modal').on('click', function(e) {
+		e.preventDefault();
+
+		var el = jQuery(this);
+		var target_id 	= el.attr('data-consult-id');
+		var target_type = el.attr('data-consult-type');
+		var hopital_id 	= el.closest('.consult-result').find('.hopital-modal').attr('data-hopital').replace('hopital-', '');
+
+		var modal_service = jQuery("#dialog-service");
+
+		jQuery.ajax({
+			url : aphp_search.ajaxurl,
+			type : "GET",
+			dataType : 'json',
+			data : {
+				action : 'aphp_getService',
+				'target_id' : target_id,
+				'target_type' : target_type,
+				'hopital'   : hopital_id
+			},
+			beforeSend : function() {
+				modal_service.find('.wait').show();
+				modal_service.find('.results').hide();
+				modal_service.find('.nothing').hide();
+				modal_service.dialog({
+					width : 500,
+					modal : true,
+					draggable : false,
+					resizable : false,
+					close : function() {
+						jQuery(this).dialog('destroy');
+					}
+				});
+			},
+			success : function(response) {
+				if( typeof response !== 'object' || typeof response == null) {
+					modal_service.find('.nothing').show();
+					modal_service.find('.wait').hide();
+					modal_service.find('.results').hide();
+					return false;
+				}
+				modal_service.find('.wait').hide();
+				modal_service.find('.nothing').hide();
+
+				// Change title
+				modal_service.dialog("option", "title", response.service + ' à ' + response.hospital);
+
+				// Set datas
+				modal_service.find('.nom_resp').html(response.chef_service);
+				
+				modal_service.find('.tel').html(response.tel);
+				if ( response.tel == '' ) {
+					modal_service.find('.tel-desc').hide();
+				} else {
+					modal_service.find('.tel-desc').show();
+				}
+				
+				modal_service.find('.fax').html(response.fax);
+				if ( response.fax == '' ) {
+					modal_service.find('.fax-desc').hide();
+				} else {
+					modal_service.find('.fax-desc').show();
+				}
+
+				if(el.attr('href') != '' && el.attr('href') != '#') {
+					modal_service.find('#service-link').attr('href', el.attr('href')).show();
+					modal_service.find('#service-link').attr('target', response.target);
+				} else {
+					modal_service.find('#service-link').hide();
+				}
+
+				modal_service.find('.results').show();
+			}
+		});
+	});
+	
+	// Modal for hospital
+	jQuery('a.hopital-modal').on('click', function(e) {
+		e.preventDefault();
+
+		var el = jQuery(this);
+		var hopital_id = el.attr('data-hopital').replace('hopital-', '');
+		var modal_hopital = jQuery("#dialog-hopital");
+
+		jQuery.ajax({
+			url : aphp_search.ajaxurl,
+			type : "GET",
+			dataType : 'json',
+			data : {
+				action : 'aphp_getHopital',
+				'hopital' : hopital_id
+			},
+			beforeSend : function() {
+				modal_hopital.find('.wait').show();
+				modal_hopital.find('.results').hide();
+				modal_hopital.find('.nothing').hide();
+				modal_hopital.dialog({
+					height : 460,
+					width : 510,
+					modal : true,
+					draggable : false,
+					resizable : false,
+					close : function() {
+						jQuery(this).dialog('destroy');
+					}
+				});
+			},
+			success : function(response) {
+				if( typeof response !== 'object' || typeof response == null) {
+					console.log('here');
+					modal_hopital.find('.nothing').show();
+					modal_hopital.find('.wait').hide();
+					modal_hopital.find('.results').hide();
+					return false;
+				}
+				modal_hopital.find('.wait').hide();
+				modal_hopital.find('.nothing').hide();
+
+				// Change title
+				modal_hopital.dialog("option", "title", response.name);
+
+				modal_hopital.find('.name').html(response.name).end().find('.address').html(response.address).end().find('.tel').html(response.tel);
+
+				if(response.link != '' && response.link != '#') {
+					modal_hopital.find('.link').attr('href', response.link).show();
+					modal_hopital.find('.link').attr('target', response.target);
+				} else {
+					modal_hopital.find('.link').hide();
+				}
+
+				modal_hopital.find('.results').show();
+				setGmapForHopital(modal_hopital);
+			}
+		});
+	});
+	
+	// Close dialogs on click of over
+	jQuery('.ui-widget-overlay').live("click", function() {
+		jQuery("#dialog-service, #dialog-hopital").dialog("close");
+		//Close the dialog
+	});
+	
+	// TOOLTIP function, autoload no config
+	(function() {
+		/* CONFIG */
+		xOffset = 10;
+		yOffset = 20;
+		// these 2 variable determine popup's distance from the cursor
+		// you might want to adjust to get the right result
+		/* END CONFIG */
+		jQuery(".tooltip").hover(function(e) {
+			this.t = this.title;
+			this.title = "";
+			jQuery("body").append("<p id='tooltip'>" + this.t + "</p>");
+			jQuery("#tooltip").css({
+				"top" : (e.pageY - xOffset ) + "px",
+				"left" : (e.pageX + yOffset ) + "px",
+				'position' : "absolute",
+				"z-index" : 100
+			}).fadeIn("fast");
+		}, function() {
+			this.title = this.t;
+			jQuery("#tooltip").remove();
+		});
+		jQuery(".tooltip").mousemove(function(e) {
+			jQuery("#tooltip").css("top", (e.pageY - xOffset ) + "px").css("left", (e.pageX + yOffset ) + "px");
+		});
+	} )();
+});
+
+
+function setGmapForHopital(data) {
+	var infowindow, map_hopital, ltlng;
+
+	// init the map center
+	var latlng = new google.maps.LatLng(48.857058, 2.347797);
+
+	// init map options
+	var myOptions = {
+		zoom : 15,
+		center : latlng,
+		mapTypeId : google.maps.MapTypeId.ROADMAP
+	};
+	// Set addrs array
+	var addrs = new Array();
+
+	// Create object and fill it
+	var t = new Object();
+	t.name = data.find('.name').text();
+	t.name = t.name.replace(/(\r\n|\n|\r)/gm, '');
+	t.address = data.find('.address').text();
+	t.address = t.address.replace(/(\r\n|\n|\r)/gm, '');
+	t.address = t.address + ' France';
+	addrs[0] = t;
+	
+	// init geocoder
+	map_hopital = new google.maps.Map(document.getElementById("map_hopital"), myOptions);
+	var j = 0;
+	for(var i = 0; i < addrs.length; i++) {
+		geoCode = new google.maps.Geocoder();
+		geoCode.geocode({
+			'address' : addrs[i].address,
+			'partialmatch' : true
+		}, function(results, status) {
+
+			if(status == 'OK' && results.length > 0) {
+				ltlng = results[0].geometry.location;
+				createHopitalMarker(addrs[j].name, ltlng);
+				j++;
+			}
+		});
+	}
+
+	function createHopitalMarker(name, latlng) {
+		map_hopital.setCenter(latlng);
+		var marker = new google.maps.Marker({
+			position : latlng,
+			map : map_hopital
+		});
+		google.maps.event.addListener(marker, "click", function() {
+			if(infowindow)
+				infowindow.close();
+			infowindow = new google.maps.InfoWindow({
+				content : name
+			});
+			infowindow.open(map_hopital, marker);
+		});
+		return marker;
+	}
+
+}

@@ -1,0 +1,34 @@
+FICHIER: data/raw/hopital\hopitaux_marseille.json
+
+[0].id_hopital: 201
+[0].nom: Hôpital de la Timone
+[0].id_adresse: None
+[0].type: CHU
+[0].statut: Public
+[0].nb_lits: 1069
+[0].nb_personnel: None
+[0].nb_place: None
+[1].id_hopital: 202
+[1].nom: Hôpital Nord (Marseille)
+[1].id_adresse: None
+[1].type: CHU
+[1].statut: Public
+[1].nb_lits: 694
+[1].nb_personnel: None
+[1].nb_place: None
+[2].id_hopital: 203
+[2].nom: Hôpital de la Conception
+[2].id_adresse: None
+[2].type: CHU
+[2].statut: Public
+[2].nb_lits: None
+[2].nb_personnel: None
+[2].nb_place: None
+[3].id_hopital: 204
+[3].nom: Hôpital Sainte-Marguerite
+[3].id_adresse: None
+[3].type: CHU
+[3].statut: Public
+[3].nb_lits: 426
+[3].nb_personnel: None
+[3].nb_place: None

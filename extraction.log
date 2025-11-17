@@ -142,3 +142,99 @@
 2025-11-17 16:51:11,720 [INFO] Traitement de : Hôpital Maritime de Berck _ APHP.html
 2025-11-17 16:51:11,973 [INFO] Texte extrait -> data/text/hopital\Hôpital Maritime de Berck _ APHP.txt
 2025-11-17 16:51:11,974 [INFO] Extraction terminée pour tous les fichiers.
+2025-11-17 23:30:46,868 [INFO] Traitement de : 3-RPA-Bicetre-v28.09.2023_compressed.pdf
+2025-11-17 23:30:47,014 [INFO] Texte extrait -> data/text/hopital\3-RPA-Bicetre-v28.09.2023_compressed.txt
+2025-11-17 23:30:47,015 [INFO] Traitement de : hopitaux_lyon.json
+2025-11-17 23:30:47,017 [INFO] Texte extrait -> data/text/hopital\hopitaux_lyon.txt
+2025-11-17 23:30:47,017 [INFO] Traitement de : hopitaux_marseille.json
+2025-11-17 23:30:47,018 [INFO] Texte extrait -> data/text/hopital\hopitaux_marseille.txt
+2025-11-17 23:30:47,018 [INFO] Traitement de : hopitaux_paris.json
+2025-11-17 23:30:47,020 [INFO] Texte extrait -> data/text/hopital\hopitaux_paris.txt
+2025-11-17 23:30:47,020 [INFO] Traitement de : Hôpital Albert-Chenevier _ APHP.html
+2025-11-17 23:30:47,103 [INFO] Texte extrait -> data/text/hopital\Hôpital Albert-Chenevier _ APHP.txt
+2025-11-17 23:30:47,103 [INFO] Traitement de : Hôpital Ambroise-Paré _ APHP.html
+2025-11-17 23:30:47,182 [INFO] Texte extrait -> data/text/hopital\Hôpital Ambroise-Paré _ APHP.txt
+2025-11-17 23:30:47,182 [INFO] Traitement de : Hôpital Antoine-Béclère _ APHP.html
+2025-11-17 23:30:47,261 [INFO] Texte extrait -> data/text/hopital\Hôpital Antoine-Béclère _ APHP.txt
+2025-11-17 23:30:47,261 [INFO] Traitement de : Hôpital Armand-Trousseau _ APHP.html
+2025-11-17 23:30:47,344 [INFO] Texte extrait -> data/text/hopital\Hôpital Armand-Trousseau _ APHP.txt
+2025-11-17 23:30:47,344 [INFO] Traitement de : Hôpital Avicenne _ APHP.html
+2025-11-17 23:30:47,429 [INFO] Texte extrait -> data/text/hopital\Hôpital Avicenne _ APHP.txt
+2025-11-17 23:30:47,429 [INFO] Traitement de : Hôpital Maritime de Berck _ APHP.html
+2025-11-17 23:30:47,651 [INFO] Texte extrait -> data/text/hopital\Hôpital Maritime de Berck _ APHP.txt
+2025-11-17 23:30:47,651 [INFO] Traitement de : Hôpital Vaugirard - Gabriel-Pallez _ APHP.html
+2025-11-17 23:30:47,717 [INFO] Texte extrait -> data/text/hopital\Hôpital Vaugirard - Gabriel-Pallez _ APHP.txt
+2025-11-17 23:30:47,717 [INFO] Traitement de : Registre Public D'accessibilité Albert Chenevier Im.html
+2025-11-17 23:30:47,757 [INFO] Texte extrait -> data/text/hopital\Registre Public D'accessibilité Albert Chenevier Im.txt
+2025-11-17 23:30:47,758 [INFO] Extraction terminée pour tous les fichiers.
+2025-11-18 00:28:01,405 [INFO] Traitement de : 07Livret-Accueil_Patients_ACH_2023-1.pdf
+2025-11-18 00:28:01,634 [INFO] Texte extrait -> data/text/hopital\07Livret-Accueil_Patients_ACH_2023-1.txt
+2025-11-18 00:28:01,635 [INFO] Traitement de : 2023-06-28-livret-accueil-séjour-patients-Beaujon.pdf
+2025-11-18 00:28:01,720 [INFO] Texte extrait -> data/text/hopital\2023-06-28-livret-accueil-séjour-patients-Beaujon.txt
+2025-11-18 00:28:01,721 [INFO] Traitement de : 2023-11-30-Livret-accueil-patient-BRK.pdf
+2025-11-18 00:28:01,803 [INFO] Texte extrait -> data/text/hopital\2023-11-30-Livret-accueil-patient-BRK.txt
+2025-11-18 00:28:01,803 [INFO] Traitement de : 2024 01 23_RPA BERCK.pdf
+2025-11-18 00:28:01,821 [INFO] Texte extrait -> data/text/hopital\2024 01 23_RPA BERCK.txt
+2025-11-18 00:28:01,822 [INFO] Traitement de : 2024-07-02-livret-accueil-séjour-patients-Bretonneau.pdf
+2025-11-18 00:28:01,919 [INFO] Texte extrait -> data/text/hopital\2024-07-02-livret-accueil-séjour-patients-Bretonneau.txt
+2025-11-18 00:28:01,920 [INFO] Traitement de : 2024-11-20-livret-d'accueil-Ambroise-Paré.pdf
+2025-11-18 00:28:19,823 [INFO] Texte extrait -> data/text/hopital\2024-11-20-livret-d'accueil-Ambroise-Paré.txt
+2025-11-18 00:28:19,823 [INFO] Traitement de : 2025-04-01-plan-hôpital-Maritime-Berck-web.pdf
+2025-11-18 00:28:19,840 [INFO] Texte extrait -> data/text/hopital\2025-04-01-plan-hôpital-Maritime-Berck-web.txt
+2025-11-18 00:28:19,840 [INFO] Traitement de : 3-RPA-Bicetre-v28.09.2023_compressed (1).pdf
+2025-11-18 00:28:19,909 [INFO] Texte extrait -> data/text/hopital\3-RPA-Bicetre-v28.09.2023_compressed (1).txt
+2025-11-18 00:28:19,909 [INFO] Traitement de : 3-RPA-Bicetre-v28.09.2023_compressed.pdf
+2025-11-18 00:28:19,969 [INFO] Texte extrait -> data/text/hopital\3-RPA-Bicetre-v28.09.2023_compressed.txt
+2025-11-18 00:28:19,969 [INFO] Traitement de : Armand_Trousseau_rapport_de_certification_court_-_40006.pdf
+2025-11-18 00:28:20,087 [INFO] Texte extrait -> data/text/hopital\Armand_Trousseau_rapport_de_certification_court_-_40006.txt
+2025-11-18 00:28:20,088 [INFO] Traitement de : Combien ça coûte _ _ APHP.html
+2025-11-18 00:28:20,153 [INFO] Texte extrait -> data/text/hopital\Combien ça coûte _ _ APHP.txt
+2025-11-18 00:28:20,153 [INFO] Traitement de : Découvrir l'institution Hôpital Bichat - Claude-Bernard APHP.html
+2025-11-18 00:28:20,173 [INFO] Texte extrait -> data/text/hopital\Découvrir l'institution Hôpital Bichat - Claude-Bernard APHP.txt
+2025-11-18 00:28:20,173 [INFO] Traitement de : hopitaux_lyon.json
+2025-11-18 00:28:20,175 [INFO] Texte extrait -> data/text/hopital\hopitaux_lyon.txt
+2025-11-18 00:28:20,175 [INFO] Traitement de : hopitaux_marseille.json
+2025-11-18 00:28:20,176 [INFO] Texte extrait -> data/text/hopital\hopitaux_marseille.txt
+2025-11-18 00:28:20,176 [INFO] Traitement de : hopitaux_paris.json
+2025-11-18 00:28:20,177 [INFO] Texte extrait -> data/text/hopital\hopitaux_paris.txt
+2025-11-18 00:28:20,177 [INFO] Traitement de : Hôpital Albert-Chenevier _ APHP.html
+2025-11-18 00:28:20,245 [INFO] Texte extrait -> data/text/hopital\Hôpital Albert-Chenevier _ APHP.txt
+2025-11-18 00:28:20,245 [INFO] Traitement de : Hôpital Ambroise-Paré _ APHP.html
+2025-11-18 00:28:20,317 [INFO] Texte extrait -> data/text/hopital\Hôpital Ambroise-Paré _ APHP.txt
+2025-11-18 00:28:20,317 [INFO] Traitement de : Hôpital Antoine-Béclère _ APHP.html
+2025-11-18 00:28:20,392 [INFO] Texte extrait -> data/text/hopital\Hôpital Antoine-Béclère _ APHP.txt
+2025-11-18 00:28:20,392 [INFO] Traitement de : Hôpital Armand-Trousseau _ APHP.html
+2025-11-18 00:28:20,465 [INFO] Texte extrait -> data/text/hopital\Hôpital Armand-Trousseau _ APHP.txt
+2025-11-18 00:28:20,465 [INFO] Traitement de : Hôpital Avicenne _ APHP.html
+2025-11-18 00:28:20,669 [INFO] Texte extrait -> data/text/hopital\Hôpital Avicenne _ APHP.txt
+2025-11-18 00:28:20,669 [INFO] Traitement de : Hôpital Maritime de Berck _ APHP.html
+2025-11-18 00:28:20,732 [INFO] Texte extrait -> data/text/hopital\Hôpital Maritime de Berck _ APHP.txt
+2025-11-18 00:28:20,733 [INFO] Traitement de : Hôpital Vaugirard - Gabriel-Pallez _ APHP.html
+2025-11-18 00:28:20,795 [INFO] Texte extrait -> data/text/hopital\Hôpital Vaugirard - Gabriel-Pallez _ APHP.txt
+2025-11-18 00:28:20,795 [INFO] Traitement de : Levier 24_Plan Patient_Hopital_Beaujon.pdf
+2025-11-18 00:28:46,975 [INFO] Texte extrait -> data/text/hopital\Levier 24_Plan Patient_Hopital_Beaujon.txt
+2025-11-18 00:28:46,976 [INFO] Traitement de : Livret d'accueil_Broca_2025.pdf
+2025-11-18 00:29:01,061 [INFO] Texte extrait -> data/text/hopital\Livret d'accueil_Broca_2025.txt
+2025-11-18 00:29:01,062 [INFO] Traitement de : LIVRET-DMU-AP-HP.SSD-DEF-juil2022-BD-WEB.pdf
+2025-11-18 00:29:01,130 [INFO] Texte extrait -> data/text/hopital\LIVRET-DMU-AP-HP.SSD-DEF-juil2022-BD-WEB.txt
+2025-11-18 00:29:01,130 [INFO] Traitement de : L’hôpital Ambroise-Paré _ Hôpital Ambroise-Paré.html
+2025-11-18 00:29:01,165 [INFO] Texte extrait -> data/text/hopital\L’hôpital Ambroise-Paré _ Hôpital Ambroise-Paré.txt
+2025-11-18 00:29:01,165 [INFO] Traitement de : L’Hôpital Universitaire Charles Foix _ Hôpital Charles-Foix.html
+2025-11-18 00:29:01,189 [INFO] Texte extrait -> data/text/hopital\L’Hôpital Universitaire Charles Foix _ Hôpital Charles-Foix.txt
+2025-11-18 00:29:01,189 [INFO] Traitement de : L’hôpital _ Hôpital Bicêtre.html
+2025-11-18 00:29:01,219 [INFO] Texte extrait -> data/text/hopital\L’hôpital _ Hôpital Bicêtre.txt
+2025-11-18 00:29:01,220 [INFO] Traitement de : PLAN-ACCES-BATIMENTS-AVICENNE-juillet-2025-DEF.jpg
+2025-11-18 00:29:08,218 [INFO] Texte extrait -> data/text/hopital\PLAN-ACCES-BATIMENTS-AVICENNE-juillet-2025-DEF.txt
+2025-11-18 00:29:08,218 [INFO] Traitement de : Présentation de l’hôpital Maritime de Berck _ Hôpital Maritime de Berck.html
+2025-11-18 00:29:08,243 [INFO] Texte extrait -> data/text/hopital\Présentation de l’hôpital Maritime de Berck _ Hôpital Maritime de Berck.txt
+2025-11-18 00:29:08,244 [INFO] Traitement de : Présentation _ Hôpital Antoine-Béclère.html
+2025-11-18 00:29:08,282 [INFO] Texte extrait -> data/text/hopital\Présentation _ Hôpital Antoine-Béclère.txt
+2025-11-18 00:29:08,282 [INFO] Traitement de : R-V-DMU-AP-HP.SSD-DEF-juillet2022.pdf
+2025-11-18 00:29:08,297 [INFO] Texte extrait -> data/text/hopital\R-V-DMU-AP-HP.SSD-DEF-juillet2022.txt
+2025-11-18 00:29:08,297 [INFO] Traitement de : Registre Public D'accessibilité Albert Chenevier Im.html
+2025-11-18 00:29:08,350 [INFO] Texte extrait -> data/text/hopital\Registre Public D'accessibilité Albert Chenevier Im.txt
+2025-11-18 00:29:08,350 [INFO] Traitement de : Services administratifs _ Hôpital Beaujon.html
+2025-11-18 00:29:08,373 [INFO] Texte extrait -> data/text/hopital\Services administratifs _ Hôpital Beaujon.txt
+2025-11-18 00:29:08,373 [INFO] Traitement de : Trousseau_dcision_2022_0366_cces_sces_40006_cqss.pdf
+2025-11-18 00:29:08,388 [INFO] Texte extrait -> data/text/hopital\Trousseau_dcision_2022_0366_cces_sces_40006_cqss.txt
+2025-11-18 00:29:08,388 [INFO] Extraction terminée pour tous les fichiers.

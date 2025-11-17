@@ -1,0 +1,37 @@
+/* @license GPL-2.0-or-later https://www.drupal.org/licensing/faq */
+(function (Drupal) {
+
+  "use strict";
+
+  Drupal.behaviors.redirectNoResults = {
+    attach: function (context) {
+      const noResults = context.querySelector('.redirect-no-result');
+      const redirectCounter = context.querySelector('#redirect-counter');
+
+      // Set the initial number of seconds before redirection
+      let secondsBeforeRedirect = 10;
+
+      // Set the redirection URL
+      const redirectUrl = 'https://www.aphp.fr';
+
+      if (noResults && redirectCounter) {
+        redirectCounter.textContent = secondsBeforeRedirect;
+
+        const countdownInterval = setInterval(function() {
+          secondsBeforeRedirect--;
+          redirectCounter.textContent = secondsBeforeRedirect;
+
+          if (secondsBeforeRedirect <= 0) {
+            clearInterval(countdownInterval);
+          }
+        }, 1000); // Every second
+
+        setTimeout(function() {
+          window.location.href = redirectUrl;
+        }, secondsBeforeRedirect * 1000);
+      }
+    }
+  };
+
+})(Drupal);
+;
