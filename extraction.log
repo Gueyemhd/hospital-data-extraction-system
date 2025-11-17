@@ -92,3 +92,23 @@
 2025-11-15 17:20:02,882 [INFO] Traitement de : sejour-pediatrie-Hôpital Trousseau AP-HP.html
 2025-11-15 17:20:02,949 [INFO] Texte extrait -> data/text\sejour-pediatrie-Hôpital Trousseau AP-HP.txt
 2025-11-15 17:20:02,949 [INFO] Extraction terminée pour tous les fichiers.
+2025-11-17 10:44:51,241 [INFO] Traitement de : Adresse_ Hôpital Corentin-Celton.html
+2025-11-17 10:44:51,436 [INFO] Texte extrait -> data/text\Adresse_ Hôpital Corentin-Celton.txt
+2025-11-17 10:44:51,436 [INFO] Traitement de : Hôpital Albert-Chenevier _ APHP.html
+2025-11-17 10:44:51,603 [INFO] Texte extrait -> data/text\Hôpital Albert-Chenevier _ APHP.txt
+2025-11-17 10:44:51,603 [INFO] Extraction terminée pour tous les fichiers.
+2025-11-17 10:46:23,623 [INFO] Traitement de : Adresse_ Hôpital Corentin-Celton.html
+2025-11-17 10:46:23,790 [INFO] Texte extrait -> data/text\Adresse_ Hôpital Corentin-Celton.txt
+2025-11-17 10:46:23,790 [INFO] Traitement de : Hôpital Albert-Chenevier _ APHP.html
+2025-11-17 10:46:24,003 [INFO] Texte extrait -> data/text\Hôpital Albert-Chenevier _ APHP.txt
+2025-11-17 10:46:24,003 [INFO] Extraction terminée pour tous les fichiers.
+2025-11-17 11:01:13,369 [INFO] Traitement de : Adresse_ Hôpital Corentin-Celton.html
+2025-11-17 11:01:13,615 [INFO] Texte extrait -> data/text\Adresse_ Hôpital Corentin-Celton.txt
+2025-11-17 11:01:13,615 [INFO] Traitement de : Hôpital Albert-Chenevier _ APHP.html
+2025-11-17 11:01:13,871 [INFO] Texte extrait -> data/text\Hôpital Albert-Chenevier _ APHP.txt
+2025-11-17 11:01:13,871 [INFO] Extraction terminée pour tous les fichiers.
+2025-11-17 11:19:09,334 [INFO] Traitement de : Adresse_ Hôpital Corentin-Celton.html
+2025-11-17 11:19:09,505 [INFO] Texte extrait -> data/text/adresse_acces_transport\Adresse_ Hôpital Corentin-Celton.txt
+2025-11-17 11:19:09,505 [INFO] Traitement de : Adresse_access_transport_Hôpital Albert-Chenevier _ APHP.html
+2025-11-17 11:19:09,693 [INFO] Texte extrait -> data/text/adresse_acces_transport\Adresse_access_transport_Hôpital Albert-Chenevier _ APHP.txt
+2025-11-17 11:19:09,693 [INFO] Extraction terminée pour tous les fichiers.

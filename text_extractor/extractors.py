@@ -13,7 +13,8 @@ import uuid
 import warnings
 import glob
 from html import unescape
-import re 
+import re
+import json 
 
 
 
@@ -101,8 +102,23 @@ def extract_text_from_html(path):
     for tag in soup(["script", "style", "noscript", "iframe", "header", "footer", "nav", "aside"]):
         tag.decompose()
 
-    # Extraire le titre et les métadonnées
+    # EXTRACTION SPECIALE DES ADRESSES -------------------------------------
+    address_blocks = []
+
+    # Rechercher un bloc contenant le mot "Adresse" 
+    for div in soup.find_all(["div", "p"]):
+        text = div.get_text(separator=" ", strip=True)
+        if "Adresse" in text or "adresse" in text:
+            address_blocks.append(text)
+
+    # Fusionner les adresses trouvées
+    address_text = "\n".join(address_blocks)
+    # -------------------------------------------------------------------------
+
+    # Extraire le titre
     title = soup.title.string.strip() if soup.title and soup.title.string else ""
+
+    # Extraire les métadonnées
     metas = []
     for meta in soup.find_all("meta"):
         if meta.get("name") and meta.get("content"):
@@ -111,24 +127,26 @@ def extract_text_from_html(path):
 
     # Extraire le contenu structuré (titres + paragraphes + listes)
     lines = []
+
+    # Ajouter l’adresse avant le reste du contenu
+    if address_text:
+        lines.append("### ADRESSE")
+        lines.append(address_text)
+
     for element in soup.find_all(["h1", "h2", "h3", "h4", "p", "li", "td"]):
         text = element.get_text(separator=" ", strip=True)
         if len(text) > 2:
             lines.append(text)
 
-    # Nettoyage léger : on garde les retours à la ligne
+    # Nettoyage
     clean_text = "\n".join(lines)
     clean_text = unescape(clean_text)
-    clean_text = re.sub(r"\n{2,}", "\n", clean_text)  # pas plus d'une ligne vide
-    clean_text = re.sub(r"[ \t]+", " ", clean_text)   # supprime les espaces inutiles
+    clean_text = re.sub(r"\n{2,}", "\n", clean_text)
+    clean_text = re.sub(r"[ \t]+", " ", clean_text)
 
-    # Concaténer le tout
+    # Concat final
     result = f"TITRE: {title}\n\n{meta_text}\n\n{clean_text}".strip()
-
     return result
-
-import json
-import re
 
 def extract_text_from_json(path):
     """

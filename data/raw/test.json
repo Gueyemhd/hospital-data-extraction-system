@@ -1,9 +1,0 @@
-{
-  "name": "Hôpital Albert-Chenevier",
-  "address": "40 Rue de Mesly, 94000 Créteil",
-  "services": [
-    {"type": "Logistique", "description": "Gestion des flux, maintenance, restauration"},
-    {"type": "Urgences", "description": "Accueil 24h/24 des patients"}
-  ],
-  "contact": {"email": "contact@aphp.fr", "phone": "01 49 81 20 00"}
-}
