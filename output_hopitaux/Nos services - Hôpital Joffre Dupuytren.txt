@@ -1,0 +1,27 @@
+===== DOSSIER : Nos services - Hôpital Joffre Dupuytren =====
+
+
+--- FICHIER : Nos services - Hôpital Joffre Dupuytren.txt ---
+
+TITRE: Nos services - Hôpital Joffre Dupuytren
+
+viewport: initial-scale=1
+twitter:card: summary
+twitter:title: Nos services - Hôpital Joffre Dupuytren
+generator: Powered by WPBakery Page Builder - drag and drop page builder for WordPress.
+
+Nos services
+Prévenir, dépister, soigner les pathologies du vieillissement
+L’hôpital gériatrique Dupuytren prend en charge l’ensemble des pathologies aiguës ou chroniques du sujet âgé.
+Il constitue, avec l’hôpital Georges-Clemenceau à Champcueil et l’hôpital Emile-Roux à Limeil-Brevannes, le Département Médico-Universitaire Gériatrie des Hôpitaux Universitaires Henri-Mondor.
+Doté de 411 lits d’hospitalisation Soins Médicaux et Réadaptation (SMR), de Médecine et de Soins de Longue Durée, l’hôpital propose une prise en charge diversifiée, assistée par un plateau médico-technique et des équipes transversales qualifiés.
+Découvrez ci-dessous nos services et notre offre de soins et téléchargez la plaquette de l’hôpital
+Hospitalisation en court séjour et SSR
+Hospitalisation en Soins de Longue Durée
+L'Hôpital de Jour : bilans et évaluations
+Les Unités fermées : l'UCC et l'UHR
+La plate-forme médico-technique
+La pharmacie hospitalière
+L'unité de rééducation
+Les consultations
+La radiologie

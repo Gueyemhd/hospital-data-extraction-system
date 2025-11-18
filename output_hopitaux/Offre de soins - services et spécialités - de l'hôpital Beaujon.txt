@@ -1,0 +1,80 @@
+===== DOSSIER : Offre de soins - services et spécialités - de l'hôpital Beaujon =====
+
+
+--- FICHIER : Offre de soins - services et spécialités - de l'hôpital Beaujon.txt ---
+
+TITRE: Offre de soins - services et spécialités - de l'hôpital Beaujon
+
+viewport: initial-scale=1
+description: Retrouvez sur cette page l'ensemble des services et spécialités de l'hôpital Beaujon, Clichy avec les coordonnées téléphoniques et la prise de rendez-vous en ligne
+twitter:card: summary
+description: Retrouvez sur cette page l'ensemble des services et spécialités de l'hôpital Beaujon, Clichy avec les coordonnées téléphoniques et la prise de rendez-vous en ligne.
+twitter:card: summary_large_image
+twitter:description: Retrouvez sur cette page l'ensemble des services et spécialités de l'hôpital Beaujon, Clichy avec les coordonnées téléphoniques et la prise de rendez-vous en ligne.
+twitter:title: Offre de soins - services et spécialités - de l'hôpital Beaujon
+generator: Powered by WPBakery Page Builder - drag and drop page builder for WordPress.
+
+Les services de l'hôpital Beaujon AP-HP
+Anatomie et cytologie pathologiques - Pr Valérie Paradis
+Accueil du service : 01 40 87 54 59
+Anesthésie et réanimation - Pr Emmanuel Weiss
+Prendre rendez-vous : 01 40 87 50 85
+Bactériologie - Dr Frédéric Bert
+Accueil du laboratoire : 01 40 87 54 54
+Biochimie clinique - Pr Katell Peoc'h
+Accueil du service : 01 40 87 55 80
+Cardiologie - Dr Agnès Cachier
+Accueil du service : 01 40 87 51 28
+Chirurgie colorectale et digestive - Dr Lara Ribeiro-Parenti
+Prendre rendez-vous : 01 40 87 56 26
+Chirurgie hépato-bilio-pancréatique et transplantation hépatique - Pr Mickael Lesurtel
+Accueil du service : 01 40 87 52 62
+Chirurgie maxillo-faciale et stomatologie - Pr Christian Vacher
+Prendre rendez-vous : 01 40 87 55 60
+Chirurgie orthopédique et traumatologique - Pr Marc-Antoine Rousseau
+Prendre rendez-vous : 01 40 87 59 22
+Dermatologie - Pr Vincent Descamps
+Prendre rendez-vous : 01 40 87 59 34
+Endoscopie digestive - Pr Frédéric Prat
+Prendre rendez-vous : 01 40 87 52 19
+Epidémiologie, biostatistique et recherche clinique - Dr Nathalie Gault
+Accueil du service : 01 40 87 53 42
+Gastro-entérologie, MICI et assistance nutritive - Pr Francisca Joly
+Prendre rendez-vous : 01 40 87 57 95
+Prendre rendez-vous : 01 40 87 57 11
+Prendre rendez-vous : 01 40 87 55 50
+Gériatrie aiguë - Pr Agathe Raynaud-Simon
+Accueil du service : 01 40 87 59 34
+Gynécologie - Obstétrique - Dr Antoine Agman
+Prendre rendez-vous : 01 40 87 59 14 ou 01 40 87 57 22 Inscription maternité : 01 40 87 52 21 Urgence gynécologique : 01 40 87 52 51 Urgence obstétrique (maternité) : 01 40 87 52 02
+Hématologie biologique - Hémostase clinique - Dr Emmanuelle De Raucourt
+Accueil du laboratoire : 01 40 87 55 40
+Hépatologie - Pr François Durand
+Accueil du service : 01 40 87 55 22
+Hygiène et lutte contre les infections nosocomiales (UHLIN) - Dr Delphine Seytre
+Secrétariat : 01 40 87 52 14
+Imagerie médicale - Pr Maxime Ronot
+Prendre rendez-vous IRM – scanner – échographie : 01 40 87 53 44
+Demandes médicales relatives à la radiologie interventionnelle : 01 40 87 56 69 Ce numéro est joignable 24h/24 et 7j/7
+Prendre rendez-vous : 01 40 87 58 88
+PMSI (Programme de Médicalisation des Systèmes d'Information) - DIM (Département d'Information Médicale) - Dr Elodie Bury
+Accueil du service : 01 40 87 53 42
+Médecine interne - Pr Agnès Lefort des Ylouses
+Prendre rendez-vous : 01 40 87 59 34
+Médecine nucléaire et biophysique - Pr Rachida Lebtahi
+Prendre rendez-vous : 01 40 87 51 69
+Prendre rendez-vous : 01 71 11 47 70 ou 01 71 11 47 71
+Neurochirurgie - Pr Philippe Decq
+Prendre rendez-vous : 01 40 87 59 17
+Oncologie hépatique et innovation thérapeutique - Dr Mohamed Bouattour
+Prendre rendez-vous : 01 40 87 50 25
+Pancréatologie et oncologie digestive - Pr Vinciane Rebours
+Prendre rendez-vous : 01 40 87 52 41
+Pharmacie - Dr Nathalie Pons-Kerjean
+Accueil pharmacie : 01 40 87 51 69
+Psychiatrie et addictologie - Pr Michel Lejoyeux
+Prendre rendez-vous à l’Unité des Traitements Ambulatoire des Maladies Addictives (UTAMA) : 01 40 87 58 84 / 01 40 87 58 82
+Soins palliatifs et douleur du cancer - Dr Bruno Vincent
+Secrétariat : 01 40 87 45 02
+Urgences adultes - Dr Matthieu Gay
+Accueil des Urgences : 01 40 87 59 40

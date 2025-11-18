@@ -1,0 +1,235 @@
+Rue de la Porte de Trivaux
+Avenue du Général-de-Gaulle – D 906
+Rue des Carnets
+Claude-Vinçon
+vers porte de Châtillon
+BUS
+189
+Entrée et sortie principales
+Accès URGENCES
+Carrefour 
+Eugène Beaujard
+URGENCES
+vers RN 188
+Parking visiteurs
+i
+Avenue Claude-Trébignaud
+Accueil et
+information 
+Jean-Hamburger
+Entrée et sortie
+Piétons uniquement
+Jean-Dalsace
+1
+6
+2
+Demeter
+BÂTIMENT  1
+BÂTIMENT  5
+BÂTIMENT  3
+François-Brenot
+3
+4
+5
+Maternité
+7
+190
+390
+T6
+Moyens d’accès
+Nombre de places de stationnement 
+limité sur le site. Merci de privilégier 
+les transports en commun.
+Bus :
+Lignes 189 – 190 – 390,
+arrêt Hôpital Antoine-Béclère
+Tramway :
+Ligne T6, arrêt Hôpital Béclère
+   T6
+En voiture :
+De la porte de Châtillon, prendre
+la D 906, direction Versailles.
+N
+S
+O
+E
+Bâtiment 1 
+Hall d’accueil
+189
+390
+190
+8
+9
+Patrick
+Nourtier
+L’hôpital Antoine-Béclère est engagé 
+dans la démarche « Lieu de santé sans 
+tabac ». Nous vous rappelons qu’il est 
+interdit de fumer au sein de l’hôpital.
+10
+Crèche
+T10
+T10
+TRAMWAY
+À la disposition du public
+Service
+Bâtiment
+Niveau
+Accueil
+1
+Hall – RDC bas
+Admissions frais de séjour 
+1
+Hall – RDC haut
+Régie
+                1
+Hall – RDC haut
+Traitements externes
+1
+Hall – RDC haut
+Services cliniques et médico-techniques
+Spécialité
+Bâtiment
+Niveau
+Biophysique et médecine nucléaire
+2
+RDC
+Cardiologie - plateau technique
+1
+2
+e étage
+Centre de chirurgie ambulatoire  
+6
+Parvis niveau hall
+Centre de médecine ambulatoire (CeMA)
+2
+1er étage
+Centre de planification et d’éducation familiale (CPEF)
+8
+Parvis niveau hall
+Chambre mortuaire
+7
+RDC
+Chirurgie digestive minimale invasive
+1
+1
+er étage
+Chirurgie gynécologique
+1
+1er étage
+Consultations obstétriques et gynécologiques 
+3
+RDC 
+Endoscopies
+2
+1er étage
+Etablissement Français du Sang (EFS)
+3
+RDC
+Explorations fonctionnelles
+2
+RDC
+Hépato-gastro-entérologie et Nutrition
+1
+3
+e étage
+Maternité (Unité Kangourou, GHR)
+3
+1
+er et 2
+e étages
+Immunologie clinique
+1
+3
+e étage
+Médecine interne
+1
+4
+e étage
+Médecine de la reproduction et préservation de la fertilité - Biologie de la reproduction CECOS
+4
+RDC
+Orthopédie et traumatologie
+1
+2
+e étage
+Pédiatrie
+1
+4
+e étage
+Pharmacie
+1
+RDC bas
+Policlinique – consultations adultes et pédiatriques
+1
+RDC bas
+Radiologie
+1
+RDC bas
+Réanimation et pédiatrie néonatales
+5
+RDC
+Réanimation polyvalente et Unité de Surveillance Continue
+1
+1
+er étage
+Unité de gériatrie aiguë (UGA)
+1
+2
+e étage
+Conception : Direction de la Communication AP-HP. Université Paris-Saclay |Octobre 2021
+Jean-Hamburger
+Demeter
+Jean-Dalsace
+Claude-Vinçon
+Patrick-Nourtier
+Urgences
+Spécialité
+Bâtiment
+Niveau
+SMUR pédiatrique (SAMU 92)
+5
+Rez-de-jardin
+Urgences adultes
+1
+RDC
+Urgences gynéco-obstétricales
+3
+Sous-sol
+Urgences pédiatriques
+1
+RDC
+Directions
+Spécialité
+Bâtiment
+Niveau
+Direction 
+1
+RDC haut
+Direction des soins et des activités paramédicales
+1
+RDC haut
+Direction des ressources humaines 
+1
+RDC haut
+Formation
+1
+RDC haut
+Direction des achats, de la logistique et qualité hôtelière 
+1
+RDC haut
+Direction de la qualité, de la gestion des risques et de la patientèle 
+1
+RDC haut
+Direction des investissements et du service technique
+9
+RDC
+Direction du système d’information et du service technique
+1
+-1
+Direction des opérations et de la performance
+1
+RDC haut
+Direction de la communication
+1
+RDC haut

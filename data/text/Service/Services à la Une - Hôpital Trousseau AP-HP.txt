@@ -1,0 +1,61 @@
+TITRE: Services à la Une - Hôpital Trousseau AP-HP
+
+viewport: initial-scale=1
+twitter:card: summary
+twitter:title: Services à la Une - Hôpital Trousseau AP-HP
+generator: Powered by WPBakery Page Builder - drag and drop page builder for WordPress.
+
+Services à la Une
+Allergologie Pédiatrique - Pr Just
+Allergologie et centre de l’asthme : 01 44 73 68 38
+Chirurgie orthopédique et réparatrice de l'enfant - Pr Vialle
+Chirurgie orthopédique et traumatologique : 01 44 73 68 51
+CNRD : Centre National de Ressources de lutte contre la Douleur
+Centre de la douleur et de la migraine : 01 44 73 65 19
+Crat (Centre de Référence des Agents Tératogènes chez la femme enceinte) - Dr Elefant
+Site d’information du CRAT sur les risques pendant la grossesse des médicaments, vaccins, radiations et dépendances.
+Espace parentèle
+Gastro-entérologie et nutrition pédiatrique - Pr Tounian
+Gastro-entérologie : 01 44 73 63 46
+Malformations et Maladies Congénitales du Cervelet - Centre de référence - Dr Burglen
+Le centre a été labellisé en Juillet 2007 par le Ministère de la Santé. Il est coordonné par le Dr Burglen à Paris, hôpital Trousseau et comprend 3 sites ( Paris, Lille, Lyon)
+Respirare : centre de référence des maladies respiratoires rares
+Urgences pédiatriques - Pr Carbajal
+Anatomie & cytologie pathologiques - Pr Coulomb
+Anesthésie-réanimation - Pr Constant
+Biochimie - Dr Couderc
+Chirurgie Plastique Reconstructrice et brûlés - Dr Qassemyar
+Consultation de chirurgie plastique reconstructrice et brûlés : 01 44 73 68 51
+Consultation de chirurgie maxillo-faciale : 01 44 73 66 59
+Chirurgie viscérale pédiatrique - Pr AUDRY
+Chirurgie viscérale et urologie : 01 44 73 63 02
+Explorations fonctionnelles - Pr Netchine
+Génétique et embryologie médicales - Pr Siffroi ( Pr S. Anselem, Dr N. Joye)
+Gynécologie-obstétrique ( Maternité) - Pr Kayem
+Maternité – Obstétrique et gynécologie : 01 44 73 51 20 / 01 44 73 51 30
+Hémato-immuno-oncologie pédiatrique - Pr Petit
+Hématologie : 01 44 73 63 46
+Hématologie biologique
+Médecine foetale - Pr Jouannic
+Médecine nucléaire pédiatrique - Pr De Labriolle-Vaylet
+Néonatologie - Pr L'HELIAS
+Néphrologie pédiatrique - Pr Ulinski
+Néphrologie : 01 44 73 52 00
+Neuropédiatrie - Pr Billette de Villemeur
+Neuro-pédiatrie : 01 44 73 65 75
+Ophtalmologie - Dr Diem Trang NGUYEN
+Ophtalmologie : 01 44 73 65 89
+ORL - Pr Garabedian
+ORL : 01 44 73 61 72
+Orthogénie - Dr Faucher
+Pédiatrie générale et aval des urgences - Pr Grimprel
+Pédiatrie générale : 01 44 73 52 00
+Pneumologie - Pr Clement
+Pneumologie : 01 44 73 63 46
+Psychopathologie et centre de victimologie pour mineurs - Dr Vila
+Psychopathologie et centre de victimologie pour mineurs : 01 44 73 64 10
+Radiologie - Pr Ducou le pointe
+Radiologie : 01 44 73 61 10
+Rendez-vous EOS :  01.44.73.68.30.
+Mail :radiologie.trousseau@trs.aphp.fr
+Réanimation néonatale pédiatrique - Pr Léger

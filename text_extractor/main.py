@@ -27,17 +27,40 @@ def process_all_files(input_dir, output_dir):
     logging.info("Extraction terminée pour tous les fichiers.")
 
 
-def merge_texts_to_corpus(texts_dir, output_file="corpus.txt"):
-    """Fusionne tous les fichiers texte extraits en un seul corpus."""
-    ensure_dir(os.path.dirname(output_file) or ".")
-    with open(output_file, "w", encoding="utf-8") as out:
-        for file in os.listdir(texts_dir):
-            if file.endswith(".txt"):
-                path = os.path.join(texts_dir, file)
-                with open(path, encoding="utf-8") as f:
-                    content = f.read()
-                out.write(f"\n\n===== {file} =====\n\n{content}\n")
-    logging.info(f"Corpus global créé : {output_file}")
+def merge_texts_by_hopital(texts_dir, output_dir="output_hopitaux"):
+    """
+    Fusionne les fichiers TXT par hôpital en se basant sur le nom du fichier.
+    Exemple : 'Hôpital Bicêtre_01.txt' et 'Hôpital Bicêtre_adresse.txt'
+    → deviennent 'Hôpital Bicêtre.txt'.
+    """
+    ensure_dir(output_dir)
+    hopital_files = {}
+
+    # Rassemblement des fichiers par hôpital
+    for file in os.listdir(texts_dir):
+        if file.endswith(".txt"):
+            hopital_name = file.replace(".txt", "")
+            if "_" in hopital_name:
+                hopital_name = hopital_name.split("_")[0]
+            hopital_name = hopital_name.strip()
+
+            full_path = os.path.join(texts_dir, file)
+            hopital_files.setdefault(hopital_name, []).append(full_path)
+
+    # Concaténation
+    for hopital_name, files in hopital_files.items():
+        output_path = os.path.join(output_dir, f"{hopital_name}.txt")
+
+        with open(output_path, "w", encoding="utf-8") as out:
+            out.write(f"===== DOSSIER : {hopital_name} =====\n\n")
+
+            for fpath in files:
+                out.write(f"\n--- FICHIER : {os.path.basename(fpath)} ---\n\n")
+                with open(fpath, "r", encoding="utf-8", errors="ignore") as f:
+                    out.write(f.read() + "\n")
+
+        logging.info(f"Corpus hopital généré -> {output_path}")
+
 
 
 if __name__ == "__main__":
@@ -47,11 +70,16 @@ if __name__ == "__main__":
     parser.add_argument("--input", required=True, help="Dossier contenant les fichiers sources")
     parser.add_argument("--output", required=True, help="Dossier de sortie pour les .txt")
     parser.add_argument("--corpus", action="store_true", help="Fusionner en corpus.txt")
+    parser.add_argument("--by-hopital", action="store_true",
+                    help="Fusionner les fichiers TXT par nom d'hôpital")
+
 
     args = parser.parse_args()
 
     setup_logger()
     process_all_files(args.input, args.output)
+    
+    if args.by_hopital:
+        merge_texts_by_hopital(args.output)
 
-    if args.corpus:
-        merge_texts_to_corpus(args.output)
+ 
