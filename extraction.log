@@ -468,3 +468,9 @@
 2025-11-18 23:51:57,469 [INFO] Corpus hopital généré -> output_hopitaux\Service.txt
 2025-11-18 23:51:57,470 [INFO] Corpus hopital généré -> output_hopitaux\Services à la Une - Hôpital Trousseau AP-HP.txt
 2025-11-18 23:51:57,471 [INFO] Corpus hopital généré -> output_hopitaux\service.txt
+2025-11-19 00:00:58,135 [INFO] Traitement de : Adresse_ Hôpital Corentin-Celton.html
+2025-11-19 00:00:58,209 [INFO] Texte extrait -> data/text/adresse_acces_transport\Adresse_ Hôpital Corentin-Celton.txt
+2025-11-19 00:00:58,209 [INFO] Traitement de : Adresse_access_transport_Hôpital Albert-Chenevier _ APHP.html
+2025-11-19 00:00:58,304 [INFO] Texte extrait -> data/text/adresse_acces_transport\Adresse_access_transport_Hôpital Albert-Chenevier _ APHP.txt
+2025-11-19 00:00:58,304 [INFO] Extraction terminée pour tous les fichiers.
+2025-11-19 00:00:58,306 [INFO] Corpus hopital généré -> output_hopitaux\Adresse.txt

@@ -1,4 +1,4 @@
-===== DOSSIER COMPLET : Adresse =====
+===== DOSSIER : Adresse =====
 
 
 --- FICHIER : Adresse_ Hôpital Corentin-Celton.txt ---
