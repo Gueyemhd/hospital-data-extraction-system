@@ -1,0 +1,32 @@
+TITRE: Accès à l'hôpital Vaugirard Gabriel Pallez
+
+viewport: initial-scale=1
+description: Toutes les informations pratiques pour se rendre à l'hôpital Vaugirard Gabriel Pallez.
+twitter:card: summary
+google-site-verification: UsYAaxeSfRYXaL9tk8PHYq4Rog0iyQe_c_vNB9Y1sBM
+twitter:card: summary
+twitter:title: Accès - Hôpital Vaugirard
+generator: Powered by WPBakery Page Builder - drag and drop page builder for WordPress.
+
+Accès
+Vaugirard – Gabriel-Pallez
+10, rue Vaugelas
+75015 Paris
+Standard : 01 40 45 80 00
+Retrouvez le plan intérieur de l’hôpital en cliquant ici
+Métro
+Tramway
+Bus
+Métro
+Métro
+Ligne 12 (Aubervilliers – Mairie d’Issy) station Convention
+Tramway
+Tramway
+T2 arrêt Porte de Versailles
+T3a arrêt Porte de Versailles
+Bus
+Bus
+Ligne 39 arrêt « hôpital Vaugirard »
+Ligne 80 arrêt « hôpital Vaugirard »
+Ligne 62 arrêt « Convention »
+Ligne 89 arrêt « Morillons »

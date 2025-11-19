@@ -1,0 +1,45 @@
+TITRE: Services à la Une - Hôpital Saint-Antoine AP-HP
+
+viewport: initial-scale=1
+twitter:card: summary
+twitter:title: Services à la Une - Hôpital Saint-Antoine AP-HP
+generator: Powered by WPBakery Page Builder - drag and drop page builder for WordPress.
+
+Services à la Une
+Anesthésie-réanimation - Pr Lescot
+Chirurgie générale et digestive - Pr Parc
+Endocrinologie, diabétologie et médecine de la reproduction - Pr Christin-Maitre
+Hépato-gastro-entérologie - Pr Chazouillères
+Maladies Infectieuses et Tropicales - Pr Girard
+Médecine Interne - Pr Fain
+Microangiopathies Thrombotiques (CNR MAT)
+Oncologie médicale - Pr Andre
+Prédisposition Génétique au Cancer Colorectal
+Imagerie - radiologie - Pr Menu
+Réanimation médicale - Pr Guidet
+Rhumatologie - Pr Berenbaum
+Stomatologie et Chirurgie Maxillo-Faciale - Dr Lalo
+Ophtalmologie - Pr Touzeau
+Anatomie et Cytologie pathologiques - Pr Flejou
+Biochimie - Pr Vaubourdolle
+Cardiologie - Pr Cohen
+Chirurgie orthopédique et traumatologique - Pr Doursounian
+Consultation ORL - Pr Lacau Saint-Guily
+Département d'Aval des Urgences - Pr Pateron
+Département de Physiologie-algologie-somnologie - Pr Dussaule
+Gastroentérologie et nutrition - Pr Beaugerie
+Hématologie biologique - Pr Lapillonne
+Hématologie clinique et thérapie cellulaire - Pr Mohty
+Médecine nucléaire - Pr Talbot
+Métabolique, peptidomique et dosage des médicaments - Pr Trugnan
+Parasitologie - Mycologie - Pr Hennequin
+Pharmacie - Pr Fernandez
+Pharmacologie clinique - Pr Tabassome Simon
+Physiologie - Pr Dussaule
+EFR (explo fonctionnelles respiratoires) 01 49 28 22 95
+EMG (électro myogramme) 01 49 28 23 10
+Pneumologie ( tabacologie ) - Pr Cadranel
+Polyclinique médicale Beaudelaire - Dr Vasseur
+Psychiatrie - Pr Peretti
+Unité de Gériatrie Aigüe - Dr Thomas
+Urgences Adulte - Pr Pateron

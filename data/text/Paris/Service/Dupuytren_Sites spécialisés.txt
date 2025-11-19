@@ -1,0 +1,44 @@
+TITRE: Sites spécialisés - Hôpitaux Universitaires Henri Mondor
+
+viewport: initial-scale=1
+twitter:card: summary
+twitter:title: Sites spécialisés - Hôpitaux Universitaires Henri Mondor
+generator: Powered by WPBakery Page Builder - drag and drop page builder for WordPress.
+
+Sites spécialisés
+Sites de Services
+Service de Chirurgie Orthopédique & Traumatologique
+Site du Pôle de Psychiatrie et d'Addictologie
+Site de l'Unité de Chirurgie Ambulatoire
+Site du Service d'Urologie
+Site du Service d'Urologie Fonctionnelle
+Service de Dermatologie du Groupe Hospitalier Henri Mondor
+Plateforme de soins de supports en oncologie à l’hôpital Henri Mondor - CALIPSSO
+Centre de Diagnostic Rapide (CDR) Cancers Voies biliaires – Pancréas
+Centres de diagnostics rapides
+Centres de Références
+Centre de référence des syndromes néphrotiques idiopathiques de l’enfant et de l’adulte (SNI)
+Centre de référence de la maladie de Huntington
+Centre de référence des neurofibromatoses France (CERENEF)
+Centre de référence maladies rares
+Centre de référence des hépatites B, C et Delta
+Centre de référence des amyloses cardiaques
+Centre de référence des cytopénies auto-immunes (CERECAI)
+Centre de référence des dermatoses bulleuses toxiques et toxidermies graves (TOXIBUL)
+Centre de référence des maladies rares neuromusculaires (GNMH)
+Centre de référence des syndromes drépanocytaires majeurs
+Centres labélisés
+Centre labélisé Inca Phase précoce
+Centres de compétence
+Centre de compétence des déficits immunitaires héréditaires (CEREDIH)
+Centre de compétence des maladies bulleuses auto-immunes (MALIBUL)
+Centre de compétence des maladies inflammatoires des voies biliaires et hépatites auto-immunes (MIVB-H)
+Centre de compétence des maladies mitochondriales de l’enfant et de l’adulte – (CARAMMEL)
+Centre de compétence des maladies rares orales et dentaires (O-RARES)
+Centre de compétences des maladies vasculaires du doie (MVF)
+Centre de ressources & de compétences Sclérose en plaques
+Pour plus d’informations sur la prise en charge des maladies rares sur le territoire du Grand Paris Est (Val-de-Marne, Seine-et-Marne, Essonne et Yonne), consultez le site web de la plateforme d’expertise maladies rares ESMARA coordonné par le GHU AP-HP. Mondor
+Recherche
+Site de l'institut Mondor de recherche Biomédicale
+Site de la Fondation Fondamental
+Unité Pharmaceutique de Recherche en Essai Clinique

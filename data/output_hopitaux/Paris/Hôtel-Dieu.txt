@@ -1,0 +1,58 @@
+===== DOSSIER : Hôtel-Dieu =====
+
+
+--- FICHIER : Hôtel-Dieu_access_transport.txt ---
+
+TITRE: - Hôtel-Dieu
+
+viewport: initial-scale=1
+twitter:card: summary_large_image
+twitter:title: - Hôtel-Dieu
+google-site-verification: rat_2qg7LTMOhIf-01cD7xjPI-ILNJU_tI4cT3PWo98
+framework: Alkivia Framework 0.8
+generator: Powered by WPBakery Page Builder - drag and drop page builder for WordPress.
+generator: Powered by Slider Revolution 5.3.1.5 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.
+msapplication-TileImage: https://aphp.aphp.fr/wp-content/blogs.dir/257/files/cache/2024/02/cropped-logo-site-internet/1365583765.png
+
+Pré-admission Préparez votre dossier avant votre hospitalisation
+Pré-admission
+Préparez votre dossier avant votre hospitalisation
+Prise de rendez-vous Prenez rendez-vous en ligne ou en contactant le service par téléphone
+Prise de rendez-vous
+Prenez rendez-vous en ligne ou en contactant le service par téléphone
+Espace patient Connectez-vous à votre espace patient AP-HP
+Espace patient
+Connectez-vous à votre espace patient AP-HP
+Urgences En cas d’urgence médicale, appelez le 15
+Urgences
+En cas d’urgence médicale, appelez le 15
+Hôpital Choisir un Hôpital... Albert-Chenevier Ambroise-Paré Antoine-Béclère Armand-Trousseau Avicenne Beaujon Berck Bicêtre Bichat - Claude-Bernard Bretonneau Broca Charles-Foix Cochin Corentin-Celton Emile-Roux Fernand-Widal Georges-Clémenceau HEGP Hendaye Henri-Mondor Hospitalisation à Domicile Hôtel-Dieu Jean-Verdier Joffre-Dupuytren La Collegiale La Roche-Guyon Lariboisière Louis-Mourier Necker-Enfants Malades Paul-Brousse Paul-Doumer Pitié-Salpêtrière Raymond-Poincaré René-Muret Robert-Debré Rothschild Saint-Antoine Saint-Louis Sainte-Périne - Rossini - Chardon-Lagache San-Salvadour Tarnier Tenon Vaugirard - Gabriel-Pallez
+Nous soutenir Faire un don
+Nous soutenir
+Faire un don
+Accès à l'hôpital Comment venir
+Accès à l'hôpital
+Comment venir
+NOTRE OFFRE DE SOINS
+CONSULTATIONS MULTIDISCIPLINAIRES
+MAISON DES FEMMES
+MÉDECINE DU SPORT
+RECHERCHE ET INNOVATION
+@HÔTEL-DIEU
+CRESS
+echOpen
+NOS ACTUALITÉS ET ÉVÈNEMENTS
+REJOIGNEZ NOS ÉQUIPES
+L’Hôpital Hôtel-Dieu AP-HP à Paris recrute !
+Rejoignez une structure dynamique et innovante. Intégrez des équipes engagées dans la prévention et l’accès aux soins pour tous.
+L'Hôpital Hôtel-Dieu AP-HP à Paris, lieu de soins, d'innovation et de recherche
+Expert dans la prise en charge des vulnérabilités sociales, sociétales et psychiques, l’Hôtel-Dieu AP-HP à Paris est aussi spécialisé dans le dépistage et la prise en charge des risques (infectieux, centre de santé sexuelle, centre des troubles du sommeil et de la vigilance, centre d’investigation en médecine du sport, …). Son architecture rénovée permettra prochainement de mettre la e-santé à la portée de tous en mettant en relation professionnels et patients autour du projet @Hôtel-Dieu. En savoir +
+Nous contacter Hôpital Hôtel-Dieu 1 Parvis Notre-Dame – Pl. Jean-Paul II – 75004 Paris Tél : 01 42 34 82 34
+Nous contacter
+Hôpital Hôtel-Dieu 1 Parvis Notre-Dame – Pl. Jean-Paul II – 75004 Paris Tél : 01 42 34 82 34
+Comment venir Métro : – Cité (ligne 4) – Hôtel de Ville (lignes 1 et 11) – Châtelet (lignes 1, 4, 7 et 14) – Cluny – La Sorbonne et Maubert-Mutualité (ligne 10) RER : – Saint-Michel Notre-Dame (lignes B et C) Bus : – Cité-Palais de Justice (lignes 21, 38, 85, 96, 47) – Cité-Parvis Notre-Dame (ligne 47) – Pont Neuf- Quai du Louvre (ligne 81) – Hôtel de Ville (lignes 69, 74) – Notre-Dame – Quai de Montebello (ligne 24) – Quai de Gesvres (ligne 70)
+Comment venir
+Métro : – Cité (ligne 4) – Hôtel de Ville (lignes 1 et 11) – Châtelet (lignes 1, 4, 7 et 14) – Cluny – La Sorbonne et Maubert-Mutualité (ligne 10)
+RER : – Saint-Michel Notre-Dame (lignes B et C)
+Bus : – Cité-Palais de Justice (lignes 21, 38, 85, 96, 47) – Cité-Parvis Notre-Dame (ligne 47) – Pont Neuf- Quai du Louvre (ligne 81) – Hôtel de Ville (lignes 69, 74) – Notre-Dame – Quai de Montebello (ligne 24) – Quai de Gesvres (ligne 70)
+Voiture : – Pas de parking dans l’hôpital – Accès parking public : Palais de Justice

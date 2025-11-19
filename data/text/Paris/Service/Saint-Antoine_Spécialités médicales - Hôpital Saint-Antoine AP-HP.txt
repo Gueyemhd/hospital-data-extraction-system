@@ -1,0 +1,66 @@
+TITRE: Spécialités médicales - Hôpital Saint-Antoine AP-HP
+
+viewport: initial-scale=1
+twitter:card: summary
+twitter:title: Spécialités médicales - Hôpital Saint-Antoine AP-HP
+generator: Powered by WPBakery Page Builder - drag and drop page builder for WordPress.
+
+Spécialités médicales
+Les pôles de l'hôpital
+ASSIST. RESP. ADDICTO TABACO PNEUMO PHYSIO REA ONCO CHIR THORACIQUE HANDICAP ENDOSCOPIE SOMMEIL
+BIOLOGIE ET GENOMIQUE MEDICALE
+CHIRURGIE INNOVATION ET RECHERCHE
+DEPARTEMENT D'IMAGERIE ANATOMOPATHOLOGIE MEDECINE NUCLEAIRE ET THERAPIE
+DEPARTEMENT DE MEDECINE INTENSIVE URGENCES GERIATRIE
+DEPARTEMENT REANIMATION ANESTHESIE MEDECINE PERI-OPERATOIRE
+EPIDEMIO BIOSTAT SANTE PUB PHARMACIE PHARMACO RECH INFORMATION MEDICALE THERAPEUTIQUE ET MEDICAMENTS
+IMMUNO - INFECTION - INFLAMMATION DERMATOLOGIE
+NEUROSCIENCES
+ONCOLOGIE RADIOTHERAPIE SOINS PALLIATIFS HEMATHOLOGIE CLINIQUE
+REA CARDIO CHIR CARDIOTHORACIQUE VASCULAIRE MED INTERNE METABOLISME ENDOCRINO DIABETO ET NUTRITION
+SPECIALITES ABDOMINO-PELVIENNES ET RENALES DE L'ADULTE ET DE L'ENFANT
+Les services médicaux de l'hôpital
+Anatomie et cytologie pathologiques
+Anesthésie réanimation
+Bactériologie
+Biochimie
+Cardiologie
+Chirurgie générale et digestive
+chirurgie orale
+Chirurgie orthopédique et traumatologique
+Consultation ORL
+Département d'Aval des Urgences
+Département Respiration, Réanimation, Réhabilitation, Sommeil (R3S)
+Douleur
+Endocrinologie, diabétologie et endocrinologie de la reproduction
+Endoscopie Digestive
+Equipe de Soins Palliatifs et Soins de Support (ESPASS)
+Explorations fonctionnelles de la respiration, de l'exercice et de la dyspnée
+Gastroentérologie et nutrition
+Génétique moléculaire
+Hématologie biologique
+Hématologie clinique et thérapie cellulaire
+Hépatologie
+Laboratoire de Suivi Thérapeutique Pharmacologique Spécialisé
+Maladies infectieuses et tropicales
+Médecine Interne
+Médecine Nucléaire
+Métabolique, peptidomique et dosage des médicaments
+Neurologie
+Neurophysiologie
+Oncologie médicale
+Ophtalmologie
+Parasitologie - Mycologie
+Pharmacie
+Pharmacologie clinique
+Pharmacologie médicale
+Pneumologie
+Policlinique médicale Baudelaire
+Psychiatrie adultes
+Radiologie
+Réanimation médicale
+Rhumatologie
+Unité de gériatrie aigüe
+Urgences Adultes
+Urgences Cérébro-Vasculaires
+Virologie

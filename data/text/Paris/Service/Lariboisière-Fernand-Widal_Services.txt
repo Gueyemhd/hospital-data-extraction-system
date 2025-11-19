@@ -1,0 +1,59 @@
+TITRE: Retrouvez ici toutes nos offres de soins | Hôpital Lariboisière - Fernand-Widal
+
+viewport: initial-scale=1
+twitter:card: summary
+twitter:card: summary
+twitter:title: Retrouvez ici toutes nos offres de soins - Hôpital Lariboisière - Fernand-Widal
+generator: Powered by WPBakery Page Builder - drag and drop page builder for WordPress.
+msapplication-TileImage: https://ghparis10.aphp.fr/wp-content/blogs.dir/42/files/cache/2023/01/cropped-cropped-Logo_Nord_Hôpital-Saint-Louis-2/641879155.png
+
+Découvrez l'intégralité des spécialités médicales et l’offre de soins proposées à l'hôpital Lariboisière - Fernand-Widal AP-HP, situé dans le 10ème arrondissement de Paris.
+A-C
+D-H
+M-O
+P-T
+Addictologie ambulatoire (Fernand-Widal)
+Anatomie et Cytologie Pathologiques
+Anesthésie et médecine péri-opératoire
+Bactériologie – Virologie
+Biochimie et Biologie Moléculaire
+Biologie du vieillissement
+Cardiologie
+CeGIDD (Centre Gratuit d’Information de Dépistage et de Diagnostic) de l’hôpital Fernand-Widal
+Céphalées (Centre d’urgences céphalées)
+Chirurgie orthopédique et traumatologique
+Chirurgie viscérale, cancérologique et endocrinienne
+CSAPA – Espace Murger
+Centre expert bipolaire fondation fondamental
+Département d’Anesthésie, Réanimation et Médecine Péri-Opératoire
+Diabétologie (Centre Universitaire du Diabète et de ses Complications)
+Génétique Neuro-vasculaire
+Gériatrie (Fernand-Widal)
+Gynécologie – Obstétrique et néonatologie
+Hématologie – Hémostase
+Hépato-gastro-entérologie
+Maladies infectieuses et tropicales
+Médecine de la douleur et médecine palliative
+Médecine interne
+Médecine Nucléaire et Biophysique
+Médecine physique et de réadaptation (MPR) (Fernand-Widal)
+Neurologie
+Neurochirurgie
+Neuroradiologie
+Ophtalmologie
+ORL
+Permanence d’accès aux soins de santé (PASS)
+Pharmacie
+Physiologie Clinique – Explorations Fonctionnelles
+Psychiatrie adultes (Fernand-Widal)
+Radiologie ostéoarticulaire, viscérale et vasculaire
+Réanimation chirurgicale polyvalente et de soins continus
+Rhumatologie
+Urgences – SMUR
+Toxicologie (Fernand-Widal)
+Prendre un rendez-vous
+La prise de rendez-vous en ligne est disponible au sein de l’hôpital Lariboisière – Fernand-Widal : ce service vient en complément de la prise de rendez-vous sur place ou par téléphone : Lariboisière : 01 49 95 65 65 Fernand-Widal : 01 40 05 45 45
+Il permet également :
+de recevoir des SMS ou emails de rappel et de confirmation,
+de modifier ou annuler en ligne ses rendez-vous , 24h/24, même au dernier moment.
+Cliquez-ici pour prendre rendez-vous en ligne

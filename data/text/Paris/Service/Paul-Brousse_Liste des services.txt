@@ -1,0 +1,21 @@
+TITRE: Liste des services | Hôpital Paul-Brousse
+
+viewport: initial-scale=1
+twitter:card: summary
+twitter:card: summary
+twitter:description: L’hôpital Paul-Brousse assure une prise en charge des pathologies hépato-biliaires (1er centre national de transplantation hépatique,) et des maladies liées au grand âge (gériatrie aiguë, soins de suite et de réadaptation, soins de longue durée). Il propose également une offre de soins spécialisée en addictologie, en psychiatrie ainsi qu’en hématologie clinique et en oncologie médicale.
+twitter:title: Liste des services - Hôpital Paul-Brousse
+twitter:image: https://hopitaux-paris-sud.aphp.fr/wp-content/blogs.dir/62/files/2012/11/vignetttesWEB-300x169.jpg
+generator: Powered by WPBakery Page Builder - drag and drop page builder for WordPress.
+
+Liste des services
+L’hôpital Paul-Brousse assure une prise en charge des pathologies hépato-biliaires (1 er centre national de transplantation hépatique,) et des maladies liées au grand âge (gériatrie aiguë, soins de suite et de réadaptation, soins de longue durée). Il propose également une offre de soins spécialisée en addictologie , en psychiatrie ainsi qu’en hématologie clinique et en oncologie médicale .
+Addictologie
+Centre Hépato-Biliaire
+L’organisation du Centre Hépato-Biliaire (CHB) de l’hôpital Paul-Brousse place le patient au coeur d’activités multidisciplinaires centrées sur les maladies du Foie. La vocation du CHB est de développer la prise en charge globale des malades ayant une affection du foie et des voies biliaires (maladies hépatiques, hypertension portale, lésions biliaires complexes) par la réunion dans […]
+Oncologie médicale et digestive
+Psychiatrie
+Le service vous accueille pour une prise en charge complète de : Le service travaille en liaison avec les autres services de l’hôpital (intervention à la demande). Une liaison est également établie avec le CMP d’Ivry-sur-Seine ainsi qu’avec la DASS et la préfecture du Val de Marne.  L’unité est membre du Réseau TCA Francilien et participe à la hotline Anorexie-boulimie-info-écoute : Tél. 0810 […]
+Imagerie
+Pour les premières consultations, la prise de rendez-vous via l’espace patient AP-HP est à privilégier. Demandez un rendez-vous en cliquant ici
+Soins palliatifs

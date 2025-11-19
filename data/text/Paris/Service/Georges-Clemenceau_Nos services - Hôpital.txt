@@ -1,0 +1,20 @@
+TITRE: Nos services - Hôpital Georges Clemenceau
+
+viewport: initial-scale=1
+twitter:card: summary
+twitter:title: Nos services - Hôpital Georges Clemenceau
+generator: Powered by WPBakery Page Builder - drag and drop page builder for WordPress.
+
+Nos services
+L’hôpital Georges-Clemenceau, est situé dans le sud de l’Essonne, entre Mennecy, Milly la Forêt et la Ferté Alais. Il prend en charge l’ensemble des pathologies chroniques ou aiguës des sujet âgés. Il a une capacité d’accueil de  274 lits.
+L’hôpital propose des prises en charge globales et spécialisées. Il comporte des unités de soins de longue durée (SLD), soins médicaux et de réadaptation (SMR) et soins de courte durée (Médecine Gériatrique Aiguë). Il dispose d’unités de prise en charge spécialisées, une unité d’hébergement renforcée (UHR) et d’un service de Gérontopschiatrie. Il est doté d’une unité de soins palliatifs et d’une équipe mobile de soins palliatifs et douleur et d’un hôpital de jour de 22 places proposant des bilans et des séances de prise en charge thérapeutique SSR.
+Ouvert sur l’extérieur, il est doté également d’un plateau de consultations externes et d’une table de radiologie conventionnelle.
+Découvrez nos services ci-dessous et téléchargez la plaquette Hôpital  Georges-Clemenceau APHP- 2025
+Filière Gériatrie 1 - Bâtiments Grumbach et Dechelotte
+Filière Gériatrie 2 - Bâtiments Montaigne, Déchelotte et Grumbach
+CONSULTATIONS EXTERNES - Hôpital de Jour et Consultation mémoire
+Plaquette des consultations externes de l’Hôpital
+Plaquette Hôpital de Jour et consultation mémoire
+Consultation Radiologie conventionnelle
+Plaquette Radiologie ouverte aux patients externes venant du domicile ou d’EHPAD
+La pharmacie hospitalière

@@ -1,0 +1,25 @@
+TITRE: L'Hôpital Henri-Mondor en quelques mots - Hôpitaux Universitaires Henri Mondor
+
+viewport: initial-scale=1
+twitter:card: summary
+twitter:description: Le GHU AP-HP. Hôpitaux universitaires Henri-Mondor regroupe cinq établissements : Les hôpitaux Henri-Mondor, Albert-Chenevier et Emile-Roux dans le département du Val-de-Marne, Dupuytren et Georges-Clemenceau dans celui de l’Essonne. Situé à Créteil (94), l’hôpital universitaire Henri-Mondor AP-HP est un établissement hospitalier universitaire chirurgical et médical de référence. Grâce à ses 4500 professionnels et plus de 800 […]
+twitter:title: L'Hôpital Henri-Mondor en quelques mots - Hôpitaux Universitaires Henri Mondor
+twitter:image: https://chu-mondor.aphp.fr/wp-content/blogs.dir/22/files/2012/07/Pres-equipement.jpg
+generator: Powered by WPBakery Page Builder - drag and drop page builder for WordPress.
+
+L’Hôpital Henri-Mondor en quelques mots
+Le GHU AP-HP. Hôpitaux universitaires Henri-Mondor regroupe cinq établissements : Les hôpitaux Henri-Mondor, Albert-Chenevier et Emile-Roux dans le département du Val-de-Marne, Dupuytren et Georges-Clemenceau dans celui de l’Essonne.
+Situé à Créteil (94), l’hôpital universitaire Henri-Mondor AP-HP est un établissement hospitalier universitaire chirurgical et médical de référence.
+Grâce à ses 4500 professionnels et plus de 800 lits, il accueille chaque année 34 000 patients en hospitalisation complète et 64 000 en ambulatoire et allie l’expertise d’un hôpital universitaire à une mission de proximité, de recours et d’expertise sur le territoire Est francilien.
+Il est siège du SAMU 94 et premier centre d’urgence du Val-de-Marne avec plus de 80 000 prises en charges annuelles, soutenu par 9 permanences de soins labellisées par l’Agence Régionale de Santé (Orthopédie, urologie, digestif, neuroradiologie, neurochirurgie, incluant grande gade, imagerie interventionnelle, trauma center, dermatologie, médecine bucco-dentaire, pass). Il compte in situ huit centres de références maladies rares et onze de compétences tous rassemblés au sein de la plateforme d’expertise maladies rares du grand Paris Est (composée de 32 centres de référence et de compétences maladies rares, 10 établissements hospitaliers et autres filières du territoire), qu’il coordonne.
+L’hôpital universitaire Henri-Mondor bénéficie d’un panel d’activités médicales et chirurgicales de haut niveau et est organisé avec les 4 autres hôpitaux du GHU en 8 Départements Médicaux Universitaires (DMU) :
+DMU MÉDECINE : Cardiologie, Dermatologie, Département d’aval des urgences (DAU), Maladies infectieuses et immunologie clinique, Médecine gériatrique aiguë, Médecine intensive et réanimation médicale, Médecine interne, Né­phrologie, Neurologie, Ophtalmologie, Oto-rhino-laryngologie (ORL), Rééducation neurolocomotrice, Rhu­matologie, Service d’accueil des urgences (SAU), Service d’aide médicale urgente du Val-de-Marne (SAMU 94), Structure mobile d’urgence et de réanimation (SMUR).
+DMU CANCER & SPÉCIALITÉS : Gastro-entérologie, Hématologie clinique, Hémopathies lymphoïdes, Hépatologie, Oncologie médicale, On­cologie-radiothérapie, Soins de suite et de réadaptation digestifs,
+DMU IMPACT : Addictologie, Centre de réhabilitation cognitive et sociale, Centres experts, Psychiatrie intersectorielle, Psy­chiatrie sectorisée, Urgences psychiatriques
+DMU GÉRIATRIE : Gérontologie, Médecine gériatrique, Soins de suite et de réadaptation, Soins médicaux et de réadaptation, Unités gériatriques aigües, Unités de soins de longue durée
+DMU CARE : Anesthésie et réanimation chirurgicale, Chirurgies cardiaque, digestive, orthopédique et traumatologique, plastique et reconstructrice, urologique, vasculaire et endocrinienne, Neurochirurgie
+DMU FIXIT : Imagerie médicale, Médecine nucléaire, Neuroradiologie, Physiologie et explorations fonctionnelles
+DMU BIOLOGIE : Bactériologie hygiène, Biochimie-biologie moléculaire-pharmacologie-génétique médicale, Biologie médi­cale, Equipe opérationnelle d’hygiène, Hématologie et immunologie biologique, Infectiologie transversale, Mycologie-parasitologie, Pathologie, Plateforme de ressources biologiques (PRB), Virologie
+DMU SAPHIRE : Centre d’investigation clinique (CIC), Département d’information médicale (DIM), Hémovigilance, Pharma­cie, Pharmacovigilance, Unité de recherche clinique (URC), Santé publique
+Rattaché à la direction générale du GHU AP-HP Mondor : Médecine bucco-dentaire
+L’hôpital universitaire Henri-Mondor propose un plateau médicotechnique performant comprenant quatre IRM, quatre Scanners, deux TEP (IRM et TDM) et deux Gamma Caméras. Il dispose également de vingt et une salles de blocs opératoires innovantes, dont deux hybrides, inaugurées en 2021 au sein du nouveau bâtiment Reine.

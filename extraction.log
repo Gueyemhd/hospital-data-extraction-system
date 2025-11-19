@@ -1422,3 +1422,222 @@
 2025-11-19 15:55:20,318 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Cochin.txt
 2025-11-19 15:55:20,318 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Corentin-Celton.txt
 2025-11-19 15:55:20,320 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Dupuytren.txt
+2025-11-19 23:48:04,971 [INFO] Traitement de : Albert Chenevier_Adresse_access_transport_Hôpital.html
+2025-11-19 23:48:05,150 [INFO] Texte extrait -> data/text/Paris/adresse_acces_transport\Albert Chenevier_Adresse_access_transport_Hôpital.txt
+2025-11-19 23:48:05,150 [INFO] Traitement de : Corentin-Celton_Adresse_ Hôpital.html
+2025-11-19 23:48:05,176 [INFO] Texte extrait -> data/text/Paris/adresse_acces_transport\Corentin-Celton_Adresse_ Hôpital.txt
+2025-11-19 23:48:05,177 [INFO] Traitement de : Dupuytren-acces-Nouveau-plan-2020.png
+2025-11-19 23:48:27,345 [INFO] Texte extrait -> data/text/Paris/adresse_acces_transport\Dupuytren-acces-Nouveau-plan-2020.txt
+2025-11-19 23:48:27,345 [INFO] Traitement de : Dupuytren_GUIDE-HORAIRES-2024-2-WEB.pdf
+2025-11-19 23:48:27,435 [INFO] Texte extrait -> data/text/Paris/adresse_acces_transport\Dupuytren_GUIDE-HORAIRES-2024-2-WEB.txt
+2025-11-19 23:48:27,435 [INFO] Traitement de : Henri-Mondor_Plan d'accès Hôpital universitaire Henri-Mondor - Hôpitaux Universitaires Henri Mondor.html
+2025-11-19 23:48:27,457 [INFO] Texte extrait -> data/text/Paris/adresse_acces_transport\Henri-Mondor_Plan d'accès Hôpital universitaire Henri-Mondor - Hôpitaux Universitaires Henri Mondor.txt
+2025-11-19 23:48:27,457 [INFO] Traitement de : Hôtel-Dieu_access_transport.html
+2025-11-19 23:48:27,499 [INFO] Texte extrait -> data/text/Paris/adresse_acces_transport\Hôtel-Dieu_access_transport.txt
+2025-11-19 23:48:27,500 [INFO] Traitement de : Robert-Debré_Nous contacter _ Hôpital universitaire .html
+2025-11-19 23:48:27,538 [INFO] Texte extrait -> data/text/Paris/adresse_acces_transport\Robert-Debré_Nous contacter _ Hôpital universitaire .txt
+2025-11-19 23:48:27,538 [INFO] Traitement de : Saint-Louis_Venir à l'hôpital.html
+2025-11-19 23:48:27,569 [INFO] Texte extrait -> data/text/Paris/adresse_acces_transport\Saint-Louis_Venir à l'hôpital.txt
+2025-11-19 23:48:27,570 [INFO] Traitement de : Vaugirard - Gabriel-Pallez_Accès à l'hôpital Vaugirard Gabriel Pallez.html
+2025-11-19 23:48:27,596 [INFO] Texte extrait -> data/text/Paris/adresse_acces_transport\Vaugirard - Gabriel-Pallez_Accès à l'hôpital Vaugirard Gabriel Pallez.txt
+2025-11-19 23:48:27,596 [INFO] Extraction terminée pour tous les fichiers.
+2025-11-19 23:48:27,600 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Albert Chenevier.txt
+2025-11-19 23:48:27,602 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Corentin-Celton.txt
+2025-11-19 23:48:27,603 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Dupuytren-acces-Nouveau-plan-2020.txt
+2025-11-19 23:48:27,604 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Dupuytren.txt
+2025-11-19 23:48:27,605 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Henri-Mondor.txt
+2025-11-19 23:48:27,605 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Hôtel-Dieu.txt
+2025-11-19 23:48:27,606 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Robert-Debré.txt
+2025-11-19 23:48:27,608 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Saint-Louis.txt
+2025-11-19 23:48:27,608 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Vaugirard - Gabriel-Pallez.txt
+2025-11-19 23:48:47,898 [INFO] Traitement de : Albert Chenevier_Accueil_Patients.pdf
+2025-11-19 23:48:48,122 [INFO] Texte extrait -> data/text/Paris/hopital\Albert Chenevier_Accueil_Patients.txt
+2025-11-19 23:48:48,122 [INFO] Traitement de : Albert Chenevier_hopital.html
+2025-11-19 23:48:48,193 [INFO] Texte extrait -> data/text/Paris/hopital\Albert Chenevier_hopital.txt
+2025-11-19 23:48:48,193 [INFO] Traitement de : Albert Chenevier_Registre Public D'accessibilité.html
+2025-11-19 23:48:48,233 [INFO] Texte extrait -> data/text/Paris/hopital\Albert Chenevier_Registre Public D'accessibilité.txt
+2025-11-19 23:48:48,233 [INFO] Traitement de : Ambroise-Paré_hopital.html
+2025-11-19 23:48:48,307 [INFO] Texte extrait -> data/text/Paris/hopital\Ambroise-Paré_hopital.txt
+2025-11-19 23:48:48,307 [INFO] Traitement de : Ambroise-Paré_livret-d'accueil.pdf
+2025-11-19 23:49:03,867 [INFO] Texte extrait -> data/text/Paris/hopital\Ambroise-Paré_livret-d'accueil.txt
+2025-11-19 23:49:03,867 [INFO] Traitement de : Antoine Béclère_hopital.html
+2025-11-19 23:49:03,967 [INFO] Texte extrait -> data/text/Paris/hopital\Antoine Béclère_hopital.txt
+2025-11-19 23:49:03,968 [INFO] Traitement de : Antoine Béclère_Présentation _ Hôpital .html
+2025-11-19 23:49:04,011 [INFO] Texte extrait -> data/text/Paris/hopital\Antoine Béclère_Présentation _ Hôpital .txt
+2025-11-19 23:49:04,011 [INFO] Traitement de : APHP_Combien ça coûte.html
+2025-11-19 23:49:04,087 [INFO] Texte extrait -> data/text/Paris/hopital\APHP_Combien ça coûte.txt
+2025-11-19 23:49:04,087 [INFO] Traitement de : Armand-Trousseau_dcision_2022_0366_cces_sces_40006_cqss.pdf
+2025-11-19 23:49:04,102 [INFO] Texte extrait -> data/text/Paris/hopital\Armand-Trousseau_dcision_2022_0366_cces_sces_40006_cqss.txt
+2025-11-19 23:49:04,102 [INFO] Traitement de : Armand-Trousseau_hopital.html
+2025-11-19 23:49:04,180 [INFO] Texte extrait -> data/text/Paris/hopital\Armand-Trousseau_hopital.txt
+2025-11-19 23:49:04,180 [INFO] Traitement de : Armand-Trousseau_rapport_de_certification_court_-_40006.pdf
+2025-11-19 23:49:04,295 [INFO] Texte extrait -> data/text/Paris/hopital\Armand-Trousseau_rapport_de_certification_court_-_40006.txt
+2025-11-19 23:49:04,295 [INFO] Traitement de : Avicenne_DMU.pdf
+2025-11-19 23:49:04,309 [INFO] Texte extrait -> data/text/Paris/hopital\Avicenne_DMU.txt
+2025-11-19 23:49:04,309 [INFO] Traitement de : Avicenne_hopital.html
+2025-11-19 23:49:04,515 [INFO] Texte extrait -> data/text/Paris/hopital\Avicenne_hopital.txt
+2025-11-19 23:49:04,516 [INFO] Traitement de : Avicenne_LIVRET-DMU-AP-HP.pdf
+2025-11-19 23:49:04,569 [INFO] Texte extrait -> data/text/Paris/hopital\Avicenne_LIVRET-DMU-AP-HP.txt
+2025-11-19 23:49:04,569 [INFO] Traitement de : Avicenne_PLAN-ACCES-BATIMENTS-.jpg
+2025-11-19 23:49:14,446 [INFO] Texte extrait -> data/text/Paris/hopital\Avicenne_PLAN-ACCES-BATIMENTS-.txt
+2025-11-19 23:49:14,446 [INFO] Traitement de : Beaujon_Levier 24_Plan Patient_Hopital.pdf
+2025-11-19 23:49:51,626 [INFO] Texte extrait -> data/text/Paris/hopital\Beaujon_Levier 24_Plan Patient_Hopital.txt
+2025-11-19 23:49:51,626 [INFO] Traitement de : Beaujon_livret-accueil-séjour-patients.pdf
+2025-11-19 23:49:51,752 [INFO] Texte extrait -> data/text/Paris/hopital\Beaujon_livret-accueil-séjour-patients.txt
+2025-11-19 23:49:51,752 [INFO] Traitement de : Beaujon_Services administratifs _ Hôpital .html
+2025-11-19 23:49:51,779 [INFO] Texte extrait -> data/text/Paris/hopital\Beaujon_Services administratifs _ Hôpital .txt
+2025-11-19 23:49:51,779 [INFO] Traitement de : Bichat - Claude-Bernard_APHP_Découvrir l'institution Hôpital.html
+2025-11-19 23:49:51,806 [INFO] Texte extrait -> data/text/Paris/hopital\Bichat - Claude-Bernard_APHP_Découvrir l'institution Hôpital.txt
+2025-11-19 23:49:51,807 [INFO] Traitement de : Bicêtre_hopital.html
+2025-11-19 23:49:51,832 [INFO] Texte extrait -> data/text/Paris/hopital\Bicêtre_hopital.txt
+2025-11-19 23:49:51,832 [INFO] Traitement de : Bicêtre_RPA.pdf
+2025-11-19 23:49:51,882 [INFO] Texte extrait -> data/text/Paris/hopital\Bicêtre_RPA.txt
+2025-11-19 23:49:51,882 [INFO] Traitement de : Bretonneau_livret-accueil-séjour-patients.pdf
+2025-11-19 23:49:52,025 [INFO] Texte extrait -> data/text/Paris/hopital\Bretonneau_livret-accueil-séjour-patients.txt
+2025-11-19 23:49:52,025 [INFO] Traitement de : Broca_Livret d'accueil_2025.pdf
+2025-11-19 23:50:05,487 [INFO] Texte extrait -> data/text/Paris/hopital\Broca_Livret d'accueil_2025.txt
+2025-11-19 23:50:05,488 [INFO] Traitement de : Charles Foix _hopital.html
+2025-11-19 23:50:05,518 [INFO] Texte extrait -> data/text/Paris/hopital\Charles Foix _hopital.txt
+2025-11-19 23:50:05,518 [INFO] Traitement de : Charles Foix_livret-daccue.pdf
+2025-11-19 23:50:05,652 [INFO] Texte extrait -> data/text/Paris/hopital\Charles Foix_livret-daccue.txt
+2025-11-19 23:50:05,652 [INFO] Traitement de : Corentin-Celton_Accueil _ Hôpital.html
+2025-11-19 23:50:05,682 [INFO] Texte extrait -> data/text/Paris/hopital\Corentin-Celton_Accueil _ Hôpital.txt
+2025-11-19 23:50:05,683 [INFO] Traitement de : Emile-Roux_Hopital-APHP.html
+2025-11-19 23:50:05,761 [INFO] Texte extrait -> data/text/Paris/hopital\Emile-Roux_Hopital-APHP.txt
+2025-11-19 23:50:05,761 [INFO] Traitement de : finess_filtre1.csv
+2025-11-19 23:50:05,767 [WARNING] Échec lecture CSV avec encodage utf-8: 'utf-8' codec can't decode byte 0xc0 in position 453: invalid start byte
+2025-11-19 23:50:06,201 [INFO] Texte extrait -> data/text/Paris/hopital\finess_filtre1.txt
+2025-11-19 23:50:06,201 [INFO] Traitement de : Georges-Clemenceau_Hopital_ APHP.html
+2025-11-19 23:50:06,270 [INFO] Texte extrait -> data/text/Paris/hopital\Georges-Clemenceau_Hopital_ APHP.txt
+2025-11-19 23:50:06,271 [INFO] Traitement de : Georges-Pompidou_Hôpital européen  _ APHP.html
+2025-11-19 23:50:06,350 [INFO] Texte extrait -> data/text/Paris/hopital\Georges-Pompidou_Hôpital européen  _ APHP.txt
+2025-11-19 23:50:06,351 [INFO] Traitement de : Henri-Mondor_L'Hôpital Henri-Mondor en quelques mots - Hôpitaux Universitaires Henri Mondor.html
+2025-11-19 23:50:06,365 [INFO] Texte extrait -> data/text/Paris/hopital\Henri-Mondor_L'Hôpital Henri-Mondor en quelques mots - Hôpitaux Universitaires Henri Mondor.txt
+2025-11-19 23:50:06,365 [INFO] Traitement de : Hotel-Dieu_Hôpital _ APHP.html
+2025-11-19 23:50:06,440 [INFO] Texte extrait -> data/text/Paris/hopital\Hotel-Dieu_Hôpital _ APHP.txt
+2025-11-19 23:50:06,441 [INFO] Traitement de : Lariboisière-Fernand-Widal _ APHP.html
+2025-11-19 23:50:06,515 [INFO] Texte extrait -> data/text/Paris/hopital\Lariboisière-Fernand-Widal _ APHP.txt
+2025-11-19 23:50:06,515 [INFO] Traitement de : Marin de Hendaye_Hôpital_ APHP.html
+2025-11-19 23:50:06,743 [INFO] Texte extrait -> data/text/Paris/hopital\Marin de Hendaye_Hôpital_ APHP.txt
+2025-11-19 23:50:06,744 [INFO] Traitement de : Maritime de Berck_hopital.html
+2025-11-19 23:50:06,816 [INFO] Texte extrait -> data/text/Paris/hopital\Maritime de Berck_hopital.txt
+2025-11-19 23:50:06,817 [INFO] Traitement de : Maritime de Berck_Livret-accueil-patient.pdf
+2025-11-19 23:50:06,932 [INFO] Texte extrait -> data/text/Paris/hopital\Maritime de Berck_Livret-accueil-patient.txt
+2025-11-19 23:50:06,932 [INFO] Traitement de : Maritime de Berck_plan-hôpital.pdf
+2025-11-19 23:50:06,949 [INFO] Texte extrait -> data/text/Paris/hopital\Maritime de Berck_plan-hôpital.txt
+2025-11-19 23:50:06,949 [INFO] Traitement de : Maritime de Berck_Présentation de l’hôpital .html
+2025-11-19 23:50:06,972 [INFO] Texte extrait -> data/text/Paris/hopital\Maritime de Berck_Présentation de l’hôpital .txt
+2025-11-19 23:50:06,972 [INFO] Traitement de : Maritime de Berck_RPA.pdf
+2025-11-19 23:50:07,003 [INFO] Texte extrait -> data/text/Paris/hopital\Maritime de Berck_RPA.txt
+2025-11-19 23:50:07,003 [INFO] Traitement de : Paul-Brousse _ APHP.html
+2025-11-19 23:50:07,083 [INFO] Texte extrait -> data/text/Paris/hopital\Paul-Brousse _ APHP.txt
+2025-11-19 23:50:07,083 [INFO] Traitement de : Paul-Doumer _ APHP.html
+2025-11-19 23:50:07,156 [INFO] Texte extrait -> data/text/Paris/hopital\Paul-Doumer _ APHP.txt
+2025-11-19 23:50:07,156 [INFO] Traitement de : Pitié-Salpêtrière_ APHP.html
+2025-11-19 23:50:07,247 [INFO] Texte extrait -> data/text/Paris/hopital\Pitié-Salpêtrière_ APHP.txt
+2025-11-19 23:50:07,247 [INFO] Traitement de : Raymond-Poincaré _ APHP.html
+2025-11-19 23:50:07,328 [INFO] Texte extrait -> data/text/Paris/hopital\Raymond-Poincaré _ APHP.txt
+2025-11-19 23:50:07,328 [INFO] Traitement de : Raymond-Poincaré_2024 01 29_RPC RPA.pdf
+2025-11-19 23:50:07,381 [INFO] Texte extrait -> data/text/Paris/hopital\Raymond-Poincaré_2024 01 29_RPC RPA.txt
+2025-11-19 23:50:07,382 [INFO] Traitement de : Raymond-Poincaré_2025-02-19-Livret-accueil-patient-RPC.pdf
+2025-11-19 23:50:07,529 [INFO] Texte extrait -> data/text/Paris/hopital\Raymond-Poincaré_2025-02-19-Livret-accueil-patient-RPC.txt
+2025-11-19 23:50:07,529 [INFO] Traitement de : René-Muret_ APHP.html
+2025-11-19 23:50:07,606 [INFO] Texte extrait -> data/text/Paris/hopital\René-Muret_ APHP.txt
+2025-11-19 23:50:07,607 [INFO] Traitement de : Robert-Debré_ APHP.html
+2025-11-19 23:50:07,836 [INFO] Texte extrait -> data/text/Paris/hopital\Robert-Debré_ APHP.txt
+2025-11-19 23:50:07,836 [INFO] Traitement de : Rothschild_ APHP.html
+2025-11-19 23:50:07,911 [INFO] Texte extrait -> data/text/Paris/hopital\Rothschild_ APHP.txt
+2025-11-19 23:50:07,911 [INFO] Traitement de : Saint-Antoine_Présentation de l'hôpital - Hôpital Saint-Antoine AP-HP.html
+2025-11-19 23:50:07,941 [INFO] Texte extrait -> data/text/Paris/hopital\Saint-Antoine_Présentation de l'hôpital - Hôpital Saint-Antoine AP-HP.txt
+2025-11-19 23:50:07,941 [INFO] Traitement de : Saint-Antoine_Services à la Une - Hôpital AP-HP.html
+2025-11-19 23:50:07,985 [INFO] Texte extrait -> data/text/Paris/hopital\Saint-Antoine_Services à la Une - Hôpital AP-HP.txt
+2025-11-19 23:50:07,985 [INFO] Traitement de : Sainte-Périne_Hôpital_ APHP.html
+2025-11-19 23:50:08,061 [INFO] Texte extrait -> data/text/Paris/hopital\Sainte-Périne_Hôpital_ APHP.txt
+2025-11-19 23:50:08,061 [INFO] Traitement de : San Salvadour_Hôpital _ APHP.html
+2025-11-19 23:50:08,134 [INFO] Texte extrait -> data/text/Paris/hopital\San Salvadour_Hôpital _ APHP.txt
+2025-11-19 23:50:08,135 [INFO] Traitement de : Tenon_ APHP.html
+2025-11-19 23:50:08,217 [INFO] Texte extrait -> data/text/Paris/hopital\Tenon_ APHP.txt
+2025-11-19 23:50:08,218 [INFO] Traitement de : Vaugirard - Gabriel-Pallez_hopital.html
+2025-11-19 23:50:08,288 [INFO] Texte extrait -> data/text/Paris/hopital\Vaugirard - Gabriel-Pallez_hopital.txt
+2025-11-19 23:50:08,288 [INFO] Extraction terminée pour tous les fichiers.
+2025-11-19 23:50:08,293 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Albert Chenevier.txt
+2025-11-19 23:50:08,295 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Ambroise-Paré.txt
+2025-11-19 23:50:08,297 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Antoine Béclère.txt
+2025-11-19 23:50:08,298 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\APHP.txt
+2025-11-19 23:50:08,299 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Armand-Trousseau.txt
+2025-11-19 23:50:08,301 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Avicenne.txt
+2025-11-19 23:50:08,304 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Beaujon.txt
+2025-11-19 23:50:08,305 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Bichat - Claude-Bernard.txt
+2025-11-19 23:50:08,307 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Bicêtre.txt
+2025-11-19 23:50:08,308 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Bretonneau.txt
+2025-11-19 23:50:08,309 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Broca.txt
+2025-11-19 23:50:08,313 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Charles Foix.txt
+2025-11-19 23:50:08,313 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Corentin-Celton.txt
+2025-11-19 23:50:08,315 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Emile-Roux.txt
+2025-11-19 23:50:08,346 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\finess.txt
+2025-11-19 23:50:08,348 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Georges-Clemenceau.txt
+2025-11-19 23:50:08,349 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Georges-Pompidou.txt
+2025-11-19 23:50:08,350 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Henri-Mondor.txt
+2025-11-19 23:50:08,351 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Hotel-Dieu.txt
+2025-11-19 23:50:08,351 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Lariboisière-Fernand-Widal.txt
+2025-11-19 23:50:08,353 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Marin de Hendaye.txt
+2025-11-19 23:50:08,356 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Maritime de Berck.txt
+2025-11-19 23:50:08,359 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Paul-Brousse.txt
+2025-11-19 23:50:08,360 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Paul-Doumer.txt
+2025-11-19 23:50:08,362 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Pitié-Salpêtrière.txt
+2025-11-19 23:50:08,364 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Raymond-Poincaré.txt
+2025-11-19 23:50:08,365 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\René-Muret.txt
+2025-11-19 23:50:08,366 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Robert-Debré.txt
+2025-11-19 23:50:08,367 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Rothschild.txt
+2025-11-19 23:50:08,368 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Saint-Antoine.txt
+2025-11-19 23:50:08,369 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Sainte-Périne.txt
+2025-11-19 23:50:08,370 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\San Salvadour.txt
+2025-11-19 23:50:08,371 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Tenon.txt
+2025-11-19 23:50:08,372 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Vaugirard - Gabriel-Pallez.txt
+2025-11-19 23:50:40,457 [INFO] Traitement de : Antoine-Béclère_Plan&_services_.pdf
+2025-11-19 23:50:40,541 [INFO] Texte extrait -> data/text/Paris/Service\Antoine-Béclère_Plan&_services_.txt
+2025-11-19 23:50:40,541 [INFO] Traitement de : Armand-Trousseau_Services à la Une - Hôpital.html
+2025-11-19 23:50:40,582 [INFO] Texte extrait -> data/text/Paris/Service\Armand-Trousseau_Services à la Une - Hôpital.txt
+2025-11-19 23:50:40,582 [INFO] Traitement de : Beaujon_Offre de soins - services et spécialités - de l'hôpital.html
+2025-11-19 23:50:40,637 [INFO] Texte extrait -> data/text/Paris/Service\Beaujon_Offre de soins - services et spécialités - de l'hôpital.txt
+2025-11-19 23:50:40,637 [INFO] Traitement de : Charles Foix_service_ Hôpital.html
+2025-11-19 23:50:40,662 [INFO] Texte extrait -> data/text/Paris/Service\Charles Foix_service_ Hôpital.txt
+2025-11-19 23:50:40,663 [INFO] Traitement de : Cochin_L'offre de soins - Hôpital .html
+2025-11-19 23:50:40,692 [INFO] Texte extrait -> data/text/Paris/Service\Cochin_L'offre de soins - Hôpital .txt
+2025-11-19 23:50:40,692 [INFO] Traitement de : Corentin-Celton_Hôpital.html
+2025-11-19 23:50:40,762 [INFO] Texte extrait -> data/text/Paris/Service\Corentin-Celton_Hôpital.txt
+2025-11-19 23:50:40,762 [INFO] Traitement de : Dupuytren_Hôpital.html
+2025-11-19 23:50:40,827 [INFO] Texte extrait -> data/text/Paris/Service\Dupuytren_Hôpital.txt
+2025-11-19 23:50:40,827 [INFO] Traitement de : Dupuytren_Nos services - Hôpital.html
+2025-11-19 23:50:40,840 [INFO] Texte extrait -> data/text/Paris/Service\Dupuytren_Nos services - Hôpital.txt
+2025-11-19 23:50:40,840 [INFO] Traitement de : Dupuytren_Sites spécialisés.html
+2025-11-19 23:50:40,858 [INFO] Texte extrait -> data/text/Paris/Service\Dupuytren_Sites spécialisés.txt
+2025-11-19 23:50:40,859 [INFO] Traitement de : Georges-Clemenceau_Nos services - Hôpital.html
+2025-11-19 23:50:40,873 [INFO] Texte extrait -> data/text/Paris/Service\Georges-Clemenceau_Nos services - Hôpital.txt
+2025-11-19 23:50:40,873 [INFO] Traitement de : Lariboisière-Fernand-Widal_Services.html
+2025-11-19 23:50:40,899 [INFO] Texte extrait -> data/text/Paris/Service\Lariboisière-Fernand-Widal_Services.txt
+2025-11-19 23:50:40,899 [INFO] Traitement de : Paul-Brousse_Liste des services.html
+2025-11-19 23:50:40,918 [INFO] Texte extrait -> data/text/Paris/Service\Paul-Brousse_Liste des services.txt
+2025-11-19 23:50:40,918 [INFO] Traitement de : Pitié-Salpêtrière_Nos services Nos spécialités _ Hôpitaux Universitaires.html
+2025-11-19 23:50:40,962 [INFO] Texte extrait -> data/text/Paris/Service\Pitié-Salpêtrière_Nos services Nos spécialités _ Hôpitaux Universitaires.txt
+2025-11-19 23:50:40,962 [INFO] Traitement de : Saint-Antoine_Spécialités médicales - Hôpital Saint-Antoine AP-HP.html
+2025-11-19 23:50:40,989 [INFO] Texte extrait -> data/text/Paris/Service\Saint-Antoine_Spécialités médicales - Hôpital Saint-Antoine AP-HP.txt
+2025-11-19 23:50:40,989 [INFO] Traitement de : Saint-Louis_Consulter l’offre de soins de l’hôpital Saint-Louis _ Hôpital Saint Louis.html
+2025-11-19 23:50:41,016 [INFO] Texte extrait -> data/text/Paris/Service\Saint-Louis_Consulter l’offre de soins de l’hôpital Saint-Louis _ Hôpital Saint Louis.txt
+2025-11-19 23:50:41,016 [INFO] Traitement de : Tenon_Services à la Une - Hôpital AP-HP.html
+2025-11-19 23:50:41,051 [INFO] Texte extrait -> data/text/Paris/Service\Tenon_Services à la Une - Hôpital AP-HP.txt
+2025-11-19 23:50:41,051 [INFO] Extraction terminée pour tous les fichiers.
+2025-11-19 23:50:41,052 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Antoine-Béclère.txt
+2025-11-19 23:50:41,053 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Armand-Trousseau.txt
+2025-11-19 23:50:41,053 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Beaujon.txt
+2025-11-19 23:50:41,054 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Charles Foix.txt
+2025-11-19 23:50:41,054 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Cochin.txt
+2025-11-19 23:50:41,055 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Corentin-Celton.txt
+2025-11-19 23:50:41,056 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Dupuytren.txt
+2025-11-19 23:50:41,057 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Georges-Clemenceau.txt
+2025-11-19 23:50:41,057 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Lariboisière-Fernand-Widal.txt
+2025-11-19 23:50:41,058 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Paul-Brousse.txt
+2025-11-19 23:50:41,058 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Pitié-Salpêtrière.txt
+2025-11-19 23:50:41,059 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Saint-Antoine.txt
+2025-11-19 23:50:41,060 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Saint-Louis.txt
+2025-11-19 23:50:41,061 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Tenon.txt

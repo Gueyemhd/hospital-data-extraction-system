@@ -1,0 +1,67 @@
+TITRE: Consulter l’offre de soins de l’hôpital Saint-Louis | Hôpital Saint Louis
+
+viewport: initial-scale=1
+twitter:card: summary
+google-site-verification: fWG88ThOr2Zjtw1qLoEwLCKhwN71fjVmEW6kjiALyuE
+twitter:card: summary
+twitter:title: Consulter l'offre de soins de l'hôpital Saint-Louis - Hôpital Saint Louis
+generator: Powered by WPBakery Page Builder - drag and drop page builder for WordPress.
+msapplication-TileImage: https://ghparis10.aphp.fr/wp-content/blogs.dir/41/files/cache/2020/05/cropped-Logo_Nord_Hôpital-Saint-Louis-2/-240895758.png
+
+Découvrez l'intégralité des spécialités médicales et l’offre de soins proposées à l'hôpital Saint-Louis AP-HP, situé dans le 10ème arrondissement de Paris.
+A-B
+C-D-E
+F-G-H
+I-K-L
+M-N-O
+P-Q-R
+S-T-U
+Anatomie et cytologie pathologiques
+Anesthésie réanimation et traitement chirurgical des grands brûlés
+Aphérèse thérapeutique
+Biologie cellulaire
+Biothérapie cellulaire et tissulaire
+Biostatistiques et informations médicales
+Cancérologie radiothérapie
+Centre des maladies du sein (Sénopôle)
+Centre de Pathologie Génitale et Infection Sexuellement Transmissible – CeGIDD
+Chirurgie mammaire
+Chirurgie plastique, reconstructrice, esthétique et traitement chirurgical des brûlés
+Chirurgie viscérale, cancérologique et endocrinienne
+Dermatologie
+Gastro-entérologie
+Génomique des tumeurs et pharmacologie
+Hématologie adolescents et jeunes adultes
+Hématologie adultes
+Hématologie biologique
+Hématologie greffe
+Hématologie-oncologie
+Hématologie seniors
+Immunologie-histocompatibilité
+Immunopathologie clinique
+Immuno-Hématologie
+Maladies infectieuses et tropicales
+Microbiologie
+Médecine interne
+Médecine nucléaire
+Néphrologie – transplantation rénale
+Neurologie à orientation oncologique
+Oncologie médicale
+Parasitologie-Mycologie
+Permanences d’accès aux soins de santé (PASS)
+Pharmacie centrale
+Pharmacologie clinique
+Pneumologie
+Radiologie-imagerie
+Réanimation médicale
+Rééducation
+Sénopôle (Centre des maladies du sein)
+Unité RIV et oncologie endocrinienne
+Urgences adultes et spécialisées
+Urologie
+Prendre un rendez-vous en ligne
+La prise de rendez-vous en ligne est disponible au sein de l’hôpital Saint-Louis : ce service vient en complément de la prise de rendez-vous sur place ou par téléphone (01 42 49 49 49).
+Il permet également :
+de recevoir des SMS ou emails de rappel et de confirmation,
+de modifier ou annuler en ligne ses rendez-vous , 24h/24, même au dernier moment.
+Cliquez-ici pour prendre rendez-vous en ligne

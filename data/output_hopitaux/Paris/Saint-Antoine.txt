@@ -1,0 +1,149 @@
+===== DOSSIER : Saint-Antoine =====
+
+
+--- FICHIER : Saint-Antoine_Présentation de l'hôpital - Hôpital Saint-Antoine AP-HP.txt ---
+
+TITRE: Présentation de l'hôpital Saint-Antoine - Hôpital Saint-Antoine AP-HP
+
+viewport: initial-scale=1
+twitter:card: summary
+twitter:title: Présentation de l'hôpital Saint-Antoine - Hôpital Saint-Antoine AP-HP
+twitter:image: https://huep.aphp.fr/rothschild/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif
+generator: Powered by WPBakery Page Builder - drag and drop page builder for WordPress.
+
+Présentation de l’hôpital Saint-Antoine
+L’hôpital Saint-Antoine est un hôpital public faisant partie de l’ Assistance Publique – Hôpitaux de Paris (AP-HP) , qui est le Centre Hospitalier Universitaire (CHU) de la région Ile-de-France. L’ AP-HP assure des missions de soins, d’enseignement, de recherche, de prévention, d’éducation à la santé et d’aide médicale urgente. Elle couvre l’ensemble des disciplines de médecine, chirurgie, obstétrique et biologie, et accueille chaque année plus de 6 millions de patients de tous les âges. Elle propose tous les types de prise en charge : urgences, consultations, hospitalisation (de jour, de courte ou longue durée), soins de suite et de réadaptation et hospitalisation à domicile.
+Hôpital Saint Antoine Direction : Jérôme HUBIN
+184, rue du Faubourg Saint-Antoine 75571 Paris cedex 12 Tél. 01 49 28 20 00 Ecrire au directeur
+L ’hôpital Saint-Antoine dispose d’une offre de soins variée, permettant la prise en charge de la plupart des pathologies à tous les âges de la vie.
+Situé au coeur de l’est parisien entre les places de la Nation et de la Bastille et à proximité de la gare de Lyon, l’hôpital Saint-Antoine allie offre de soins de proximité et médecine de pointe. Il rassemble la majorité des spécialités médicales et chirurgicales de court séjour.
+Activités phares
+Urgences et aval généraliste et spécialisé
+Digestif
+Centre de prélèvements d’organes et de tissus
+Hématologie et Centre de greffes de moelle et thérapie cellulaire
+Cancérologie
+Locomoteur et SOS mains
+L’hôpital dispose de 673 lits et 54 places de jour autorisées, 3402 personnels y travaillent : 733 professionnels médicaux et 2669 professionnels non médicaux.
+L’hôpital Saint-Antoine constitue, avec les hôpitaux Charles-Foix, Pitié-Salpêtrière, Rothschild , Tenon , Trousseau-La Roche-Guyon ,  l’un des groupes hospitaliers de l’AP-HP: Le Groupe hospitalier AP-HP.Sorbonne Université
+Enregistrer
+Enregistrer
+
+--- FICHIER : Saint-Antoine_Services à la Une - Hôpital AP-HP.txt ---
+
+TITRE: Services à la Une - Hôpital Saint-Antoine AP-HP
+
+viewport: initial-scale=1
+twitter:card: summary
+twitter:title: Services à la Une - Hôpital Saint-Antoine AP-HP
+generator: Powered by WPBakery Page Builder - drag and drop page builder for WordPress.
+
+Services à la Une
+Anesthésie-réanimation - Pr Lescot
+Chirurgie générale et digestive - Pr Parc
+Endocrinologie, diabétologie et médecine de la reproduction - Pr Christin-Maitre
+Hépato-gastro-entérologie - Pr Chazouillères
+Maladies Infectieuses et Tropicales - Pr Girard
+Médecine Interne - Pr Fain
+Microangiopathies Thrombotiques (CNR MAT)
+Oncologie médicale - Pr Andre
+Prédisposition Génétique au Cancer Colorectal
+Imagerie - radiologie - Pr Menu
+Réanimation médicale - Pr Guidet
+Rhumatologie - Pr Berenbaum
+Stomatologie et Chirurgie Maxillo-Faciale - Dr Lalo
+Ophtalmologie - Pr Touzeau
+Anatomie et Cytologie pathologiques - Pr Flejou
+Biochimie - Pr Vaubourdolle
+Cardiologie - Pr Cohen
+Chirurgie orthopédique et traumatologique - Pr Doursounian
+Consultation ORL - Pr Lacau Saint-Guily
+Département d'Aval des Urgences - Pr Pateron
+Département de Physiologie-algologie-somnologie - Pr Dussaule
+Gastroentérologie et nutrition - Pr Beaugerie
+Hématologie biologique - Pr Lapillonne
+Hématologie clinique et thérapie cellulaire - Pr Mohty
+Médecine nucléaire - Pr Talbot
+Métabolique, peptidomique et dosage des médicaments - Pr Trugnan
+Parasitologie - Mycologie - Pr Hennequin
+Pharmacie - Pr Fernandez
+Pharmacologie clinique - Pr Tabassome Simon
+Physiologie - Pr Dussaule
+EFR (explo fonctionnelles respiratoires) 01 49 28 22 95
+EMG (électro myogramme) 01 49 28 23 10
+Pneumologie ( tabacologie ) - Pr Cadranel
+Polyclinique médicale Beaudelaire - Dr Vasseur
+Psychiatrie - Pr Peretti
+Unité de Gériatrie Aigüe - Dr Thomas
+Urgences Adulte - Pr Pateron
+===== DOSSIER : Saint-Antoine =====
+
+
+--- FICHIER : Saint-Antoine_Spécialités médicales - Hôpital Saint-Antoine AP-HP.txt ---
+
+TITRE: Spécialités médicales - Hôpital Saint-Antoine AP-HP
+
+viewport: initial-scale=1
+twitter:card: summary
+twitter:title: Spécialités médicales - Hôpital Saint-Antoine AP-HP
+generator: Powered by WPBakery Page Builder - drag and drop page builder for WordPress.
+
+Spécialités médicales
+Les pôles de l'hôpital
+ASSIST. RESP. ADDICTO TABACO PNEUMO PHYSIO REA ONCO CHIR THORACIQUE HANDICAP ENDOSCOPIE SOMMEIL
+BIOLOGIE ET GENOMIQUE MEDICALE
+CHIRURGIE INNOVATION ET RECHERCHE
+DEPARTEMENT D'IMAGERIE ANATOMOPATHOLOGIE MEDECINE NUCLEAIRE ET THERAPIE
+DEPARTEMENT DE MEDECINE INTENSIVE URGENCES GERIATRIE
+DEPARTEMENT REANIMATION ANESTHESIE MEDECINE PERI-OPERATOIRE
+EPIDEMIO BIOSTAT SANTE PUB PHARMACIE PHARMACO RECH INFORMATION MEDICALE THERAPEUTIQUE ET MEDICAMENTS
+IMMUNO - INFECTION - INFLAMMATION DERMATOLOGIE
+NEUROSCIENCES
+ONCOLOGIE RADIOTHERAPIE SOINS PALLIATIFS HEMATHOLOGIE CLINIQUE
+REA CARDIO CHIR CARDIOTHORACIQUE VASCULAIRE MED INTERNE METABOLISME ENDOCRINO DIABETO ET NUTRITION
+SPECIALITES ABDOMINO-PELVIENNES ET RENALES DE L'ADULTE ET DE L'ENFANT
+Les services médicaux de l'hôpital
+Anatomie et cytologie pathologiques
+Anesthésie réanimation
+Bactériologie
+Biochimie
+Cardiologie
+Chirurgie générale et digestive
+chirurgie orale
+Chirurgie orthopédique et traumatologique
+Consultation ORL
+Département d'Aval des Urgences
+Département Respiration, Réanimation, Réhabilitation, Sommeil (R3S)
+Douleur
+Endocrinologie, diabétologie et endocrinologie de la reproduction
+Endoscopie Digestive
+Equipe de Soins Palliatifs et Soins de Support (ESPASS)
+Explorations fonctionnelles de la respiration, de l'exercice et de la dyspnée
+Gastroentérologie et nutrition
+Génétique moléculaire
+Hématologie biologique
+Hématologie clinique et thérapie cellulaire
+Hépatologie
+Laboratoire de Suivi Thérapeutique Pharmacologique Spécialisé
+Maladies infectieuses et tropicales
+Médecine Interne
+Médecine Nucléaire
+Métabolique, peptidomique et dosage des médicaments
+Neurologie
+Neurophysiologie
+Oncologie médicale
+Ophtalmologie
+Parasitologie - Mycologie
+Pharmacie
+Pharmacologie clinique
+Pharmacologie médicale
+Pneumologie
+Policlinique médicale Baudelaire
+Psychiatrie adultes
+Radiologie
+Réanimation médicale
+Rhumatologie
+Unité de gériatrie aigüe
+Urgences Adultes
+Urgences Cérébro-Vasculaires
+Virologie

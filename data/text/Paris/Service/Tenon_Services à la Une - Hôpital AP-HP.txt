@@ -1,0 +1,82 @@
+TITRE: Services à la Une - Hôpital Tenon AP-HP
+
+viewport: initial-scale=1
+twitter:card: summary
+twitter:title: Services à la Une - Hôpital Tenon AP-HP
+generator: Powered by WPBakery Page Builder - drag and drop page builder for WordPress.
+
+Services à la Une
+Oncologie médicale - Pr Lotz
+Oncologie- radiothérapie - Pr Huguet
+Anatomie et cytologie pathologiques
+Anesthésie-Réanimation - Pr Bonnet
+Anesthésie 01 56 01 66 73
+Anesthésie ambulatoire 01 56 01 75 69
+Biochimie- Hormonologie
+Biologie de la reproduction - CECOS - Pr Levy
+CECOS 01 56 01 78 02
+Cardiologie - Pr Cohen
+Chirurgie digestive et viscérale - Pr Houry
+Chirurgie digestive et abdomino-pélvienne 01 56 01 64 01
+Chirurgie plastique reconstructive et esthétique - Pr Atlan
+Chirurgie thoracique et vasculaire - Pr Assouad
+Chirurgie thoracique 01 56 01 78 17
+Chirurgie vasculaire 01 56 01 78 17
+Consultations d'ophtalmologie - Dr Girard
+Ophtalmologie 01 56 01 64 91
+Dermatologie, médecine vasculaire et allergologie
+Allergologie 01 56 01 72 21
+Dermatologie 01 56 01 79 40
+Médecine vasculaire 01 56 01 79 00
+Douleurs et soins palliatifs - Dr Raffray
+Explorations fonctionnelles multidisciplinaires - Pr Haymann
+Explorations fonctionnelles neurologiques – électroencéphalogramme 01 56 01 75 33
+Explorations fonctionnelles rénales 01 56 01 70 52
+Explorations fonctionnelles respiratoires 01 56 01 65 84
+Gynécologie - obstétrique et médecine de la reproduction - Pr Touboul
+Consultations gynécologie- obstétrique – procréation
+CECOS 01 56 01 78 02
+Chirurgie gynécologique 01 56 01 81 52
+Diabéte obstétrical 01 56 61 64 42
+Echographie obstétricale 01 56 01 68 44
+FIV – AMP (Fécondation In Vitro – Assistance Médicale à la Procréation) 01 56 01 68 69
+Gynécologie 01 56 01 81 52
+Maternité – Obstétrique 01 56 01 68 44
+Nouveau-né 01 56 61 68 58
+Planning familial 01 56 01 68 52
+PMI nourrisson 01 56 01 68 74
+Sénologie 01 56 01 71 62
+Spermiologie 01 56 01 78 01
+Hématologie biologique - Pr Elalamy
+Hépato-gastro-entérologie - Pr Amiot
+Hépato-Gastro-Entérologie (HGE) 01 56 01 63 03
+Histologie - Embryologie - Cytogénétique biologie tumorale et génétique moléculaire - Dr Bernaudin
+Hôpital de jour de Néphrologie - Pr Plaisier
+Néphrologie 01 56 01 65 04
+Néphrologie – Dialyse 01 56 01 65 04
+Néphrologie – Greffe transplantation 01 56 01 65 04
+Immunologie biologique - Pr Aucouturier
+Maladies Infectieuses et Tropicales - Pr Pialoux
+Maladies Infectieuses et Tropicales (MIT) 01 56 01 74 25
+Médecine interne - Pr Steichen
+Médecine interne 01 56 01 66 15
+Néphrologie et dialyses - Pr Boffa
+Néphrologie 01 56 01 65 04
+Néphrologie – Dialyse 01 56 01 65 04
+Néphrologie – Greffe transplantation 01 56 01 65 04
+Neuro-urologie et explorations périnales - Pr Amarenco
+Neuro-urologie 01 56 01 70 40
+Oto-rhino-laryngologie Chirurgie cervico-faciale - Pr Baujat
+Chirurgie ORL 01 56 01 62 24
+Pneumologie - Pr Cadranel
+Pneumologie 01 56 01 66 73
+Tabac 01 56 01 66 73
+Psychiatrie - Dr Abgrall
+Psychiatrie 01 56 01 62 58
+Radiologie - Pr Thomassin-Naggara
+Réanimation et USC Médico-Chirurgicale - Pr Fartoukh
+Urgences Accueil des urgences ( S.A.U) - Dr Goulet
+Urgences néphrologiques et transplantation rénale - Pr Mesnard
+Urologie - Pr Traxer
+Urologie 01 56 01 65 00
+Virologie - Pr Garbarg-Chenon
