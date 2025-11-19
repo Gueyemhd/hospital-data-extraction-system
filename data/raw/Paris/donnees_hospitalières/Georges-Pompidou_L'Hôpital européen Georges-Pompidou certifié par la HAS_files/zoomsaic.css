@@ -1,0 +1,144 @@
+/* 
+ * Zoomsaic JS - v1.0
+ * Author: Jonathan Argentiero
+ * Github project: https://github.com/jonathanargentiero/ZoomsaicJS
+ * use the plugin as you please :)
+ */
+.zoomsaic {
+  position: relative;
+  padding-bottom: 3px;
+}
+.zoomsaic .zoomsaic-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.zoomsaic .zoomsaic-container .zoomsaic-pager {
+    overflow: hidden;
+    float: left;
+}
+.zoomsaic .zoomsaic-container .zoomsaic-pager.active {
+    display: block;
+}
+.zoomsaic .zoomsaic-navigator {
+  overflow: hidden;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 0 auto;
+  left: 0;
+  text-align: center;
+}
+.zoomsaic .zoomsaic-navigator .zoomsaic-page {
+  cursor: pointer;
+  background: gray;
+  text-indent: -9999px;
+  width: 100px;
+  height: 10px;
+  margin: 0 5px;
+  outline: 0;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  display: inline-block;
+}
+.zoomsaic .zoomsaic-navigator .zoomsaic-page:hover,
+.zoomsaic .zoomsaic-navigator .zoomsaic-page.active {
+  background: #333;
+}
+.zoomsaic .zoomsaic-element {
+  background: transparent;
+  border: none;
+}
+.zoomsaic .zoomsaic-element:hover {
+  border: 1px solid #8c8c8c;
+  -moz-box-shadow: 0px 2px 10px rgba(50, 50, 50, 0.25);
+  -webkit-box-shadow: 0px 2px 10px rgba(50, 50, 50, 0.25);
+  box-shadow: 0px 2px 10px rgba(50, 50, 50, 0.25);
+}
+.zoomsaic .zoomsaic-element .zoomsaic-before {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.zoomsaic .zoomsaic-element .zoomsaic-before figure,
+.zoomsaic .zoomsaic-element .zoomsaic-after figure  {
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.zoomsaic .zoomsaic-element .zoomsaic-after figure  {
+  width: auto;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.zoomsaic .zoomsaic-after{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    background-color:#fff;
+}
+.zoomsaic .zoomsaic-after .filler{
+width: 200px;
+height: 200px;
+position: absolute;
+background-color: rgba(0,0,0,0.5);
+display: block;	
+}
+
+
+.zoomsaic .fancy-bg h4{  
+    z-index: 100;
+	position: absolute;
+	background-color: rgba(0,0,0,0.5);
+	height: 100%;
+	text-align:	left;
+}
+/*
+.zoomsaic .zoomsaic-element .zoomsaic-before img{
+height: 95%;
+max-width: 150%;
+margin-right: 5%;
+position: absolute;
+}
+*/
+#zoomsaicok .fancy-bg a {
+	color: #fff;
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 0 10px;
+	text-align: left;
+	position: absolute;
+	line-height: 14px;
+	display: block;
+	height: 100%;
+	/* width: 100%; */
+	background-color: rgba(0,0,0,0.5);
+	padding: 3px;
+}
+#zoomsaicok .fancy-bg a:hover {
+color: #fff;
+}
+
+#zoomsaicok .fancy-bg h4:first-line {
+	padding:0;
+	margin:0;
+}
+
+#zoomsaicok .fancy-bg h4:first-letter {
+	padding: 0;
+	margin:	0;
+}
+
+#zoomsaicok{
+	display:none;
+}

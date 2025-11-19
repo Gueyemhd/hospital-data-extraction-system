@@ -1,0 +1,25 @@
+TITRE: Accueil | Hôpital Corentin-Celton
+
+viewport: initial-scale=1
+twitter:card: summary
+google-site-verification: UsYAaxeSfRYXaL9tk8PHYq4Rog0iyQe_c_vNB9Y1sBM
+twitter:card: summary
+twitter:title: Accueil - Hôpital Corentin-Celton
+twitter:image: https://hopitaux-parisouest.aphp.fr/wp-content/blogs.dir/132/files/2024/01/LSST-bandeau-site-internet.jpg
+generator: Powered by WPBakery Page Builder - drag and drop page builder for WordPress.
+
+Port du Masque à l'hôpital obligatoire dans les secteurs accueillant des patients
+Hôpital Choisir un Hôpital... Corentin-Celton AP-HP.CENTRE-UNIVERSITE PARIS
+Préparer votre dossier avant votre hospitalisation
+Prendre rendez-vous en ligne ou par téléphone
+Connectez-vous à votre espace patient AP-HP
+Informations relatives à votre séjour
+Rejoignez un hôpital dynamique !
+Donateurs, votre aide est essentielle
+Hôpital Corentin-Celton 4 parvis Corentin Celton, 92130 Issy-les-Moulineaux Tél : 01 58 00 40 00
+Métro Ligne 12 (Aubervilliers-Front Populaire – Mairie d’Issy) – station Corentin-Celton
+RER ligne C Issy-Val-de-Seine puis bus 126 ou 394 – station Corentin Celton
+Bus 126, 189, 394 – station Corentin Celton
+Tramway T2, T3a – Station Porte de Versailles
+Un parking public et payant est accessible boulevard Gambetta en face de l’hôpital
+Accès aux personnes à mobilité réduite : possibilité de stationnement via l’entrée 30 rue Séverine

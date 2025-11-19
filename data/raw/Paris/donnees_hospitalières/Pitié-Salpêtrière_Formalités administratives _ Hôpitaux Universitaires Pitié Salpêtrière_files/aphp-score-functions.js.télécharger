@@ -1,0 +1,119 @@
+                function CalculHScore()
+                {	
+						//HScore Calculation
+						var hscore = document.getElementById("HS");
+                        var hs=0;
+						
+						//Known underlying immunodepression
+						var e = document.getElementById("immuno");
+						var imm = e.options[e.selectedIndex].value;
+						switch (imm)
+						{
+							case "Yes": hs += 18; break;
+							default: break;
+						}
+						//Temperature
+						e = document.getElementById("temp");
+						var tempe = e.options[e.selectedIndex].value;
+						switch (tempe)
+						{
+							case "Strictly less than 38.4":break;
+							case "Between 38.4 and 39.4": hs+=33; break;
+							case "Strictly greater than 39.4": hs+=49; break;
+							default:break;
+						}				
+						//organomegaly
+						e = document.getElementById("HM");
+						var hm = e.options[e.selectedIndex].value;
+						e = document.getElementById("SM");
+						var sm = e.options[e.selectedIndex].value;
+						if ((hm=="Yes") && (sm=="Yes"))
+						{
+							hs += 38;
+						}
+						else if ((hm == "Yes") || (sm=="Yes"))
+						{
+							hs += 23;
+						}
+
+						//number of cytopenia
+						e = document.getElementById("hemoglobin");
+						var hemoglobin = e.options[e.selectedIndex].value;
+						var hemoglobinOk = (hemoglobin=="less than or equal to 9.2 g/dl");
+						e = document.getElementById("leucocytes");
+						var leucocytes = e.options[e.selectedIndex].value;
+						var leucocytesOk = (leucocytes=="less than or equal to 5000/mm3");
+						e = document.getElementById("platelets");
+						var platelets = e.options[e.selectedIndex].value;
+						var plateletsOk = (platelets=="less than or equal to 110000/mm3");
+						if (hemoglobinOk && leucocytesOk && plateletsOk )
+						{
+							hs += 34;
+						}
+						else if ((hemoglobinOk && leucocytesOk)||(hemoglobinOk && plateletsOk)||(leucocytesOk && plateletsOk))
+						{
+							hs += 24;
+						}
+						
+
+						//Ferritin
+						e = document.getElementById("ferritin");
+						var ferritin = e.options[e.selectedIndex].value;
+						switch (ferritin)
+						{
+							case "Strictly less than 2000":break;
+							case "Between 2000 and 6000": hs+=35; break;
+							case "Strictly greater than 6000": hs+=50; break;
+							default:break;
+						}				
+
+						//Triglyceride
+						
+						e = document.getElementById("trigly");
+						var trigly = e.options[e.selectedIndex].value;
+						switch (trigly)
+						{
+							case "Strictly less than 1.5":break;
+							case "Between 1.5 and 4": hs+=44; break;
+							case "Strictly greater than 4": hs+=64; break;
+							default:break;
+						}
+						//fibrinogen
+						e = document.getElementById("fibri");
+						var fibri = e.options[e.selectedIndex].value;
+						switch (fibri)
+						{
+							case "less than or equal to 2.5": hs+=30; break;
+							case "Strictly greater than 2.5": break;
+							default:break;
+						}
+						
+						//SGOT
+						
+						
+						e = document.getElementById("sgot");
+						var sgot = e.options[e.selectedIndex].value;
+						switch (sgot)
+						{
+							case "Strictly less than 30": break;
+							case "Greater than or equal to 30": hs+=19; break;
+							default:break;
+						}
+						//Hemophago...
+						e = document.getElementById("hemophago");
+						var hemophago = e.options[e.selectedIndex].value;
+						switch (hemophago)
+						{
+							case "Yes": hs += 35; break;
+							default: break;
+						}
+						//exp(-10.39+0.062*score)/(1+exp(-10.39+0.062*score))*/
+						
+						hscore.value=hs.toString();
+						
+						var pr = document.getElementById("proba");
+						var prob = 100*(Math.exp(-10.39 + 0.062 * hs) / (1 + Math.exp(-10.39 + 0.062 * hs)));
+
+						pr.value = prob.toString();
+				}
+		

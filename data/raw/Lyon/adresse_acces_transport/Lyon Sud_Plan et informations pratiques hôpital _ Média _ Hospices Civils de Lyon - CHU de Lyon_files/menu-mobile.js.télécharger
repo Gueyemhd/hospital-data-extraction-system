@@ -1,0 +1,13 @@
+var menuHamburgerButton = document.querySelector('header button.hcl-menu-mobile-icon');
+var menuHamburger = document.getElementById('menu-mobile');
+
+menuHamburgerButton.addEventListener('click', function () {
+    menuHamburger.style.display = "block";
+    jQuery('body').addClass('menu-mobile-open');
+})
+
+var boutonFermerMenuMobile = document.querySelector('#menu-mobile button.fermer');
+boutonFermerMenuMobile.addEventListener('click', function () {
+    menuHamburger.style.display = "none";
+    jQuery('body').removeClass('menu-mobile-open');
+})

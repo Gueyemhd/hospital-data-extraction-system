@@ -12,12 +12,14 @@ import easyocr
 import uuid
 import warnings
 import glob
+from html import unescape
+import re
+import json 
 
 
 
 # Désactiver les warnings
 warnings.filterwarnings("ignore", category=UserWarning)
-fitz.TOOLS.mupdf_display_errors(False)
 
 
 
@@ -80,24 +82,138 @@ def extract_text_from_excel(path):
 
 
 def extract_text_from_csv(path):
-    """Extrait le texte d’un fichier CSV."""
+    """Extrait le texte d'un fichier CSV, même en cas d'encodage inconnu ou de lignes corrompues."""
+    encodings_to_try = ["utf-8", "latin-1", "cp1252"]
+
+    for enc in encodings_to_try:
+        try:
+            df = pd.read_csv(
+                path,
+                encoding=enc,
+                dtype=str,
+                sep=None,               # détecte automatiquement le séparateur
+                engine="python",   
+                on_bad_lines="skip"     # ignore les lignes cassées
+            )
+            header = " | ".join(df.columns.astype(str))
+            rows = df.astype(str).apply(lambda x: " | ".join(x), axis=1)
+            return header + "\n" + "\n".join(rows)
+
+
+        except Exception as e:
+            logging.warning(f"Échec lecture CSV avec encodage {enc}: {e}")
+
+    # Dernier recours : lecture brute du fichier texte
     try:
-        df = pd.read_csv(path, encoding="utf-8", dtype=str)
-        return "\n".join(df.astype(str).apply(lambda x: " | ".join(x), axis=1))
+        with open(path, encoding="latin-1", errors="ignore") as f:
+            return f.read()
     except Exception as e:
         logging.error(f"Erreur extraction CSV {path}: {e}")
         return ""
 
 
 def extract_text_from_html(path):
-    """Extrait le texte d’un fichier HTML."""
-    try:
-        with open(path, "r", encoding="utf-8", errors="ignore") as f:
-            soup = BeautifulSoup(f, "html.parser")
-            return soup.get_text(separator="\n")
-    except Exception as e:
-        logging.error(f"Erreur extraction HTML {path}: {e}")
-        return ""
+    """Extrait proprement le texte utile d'un fichier HTML (nettoyé et structuré)."""
+    with open(path, "r", encoding="utf-8", errors="ignore") as f:
+        html = f.read()
+
+    soup = BeautifulSoup(html, "html.parser")
+
+    # Supprimer les balises inutiles
+    for tag in soup(["script", "style", "noscript", "iframe", "header", "footer", "nav", "aside"]):
+        tag.decompose()
+
+    # EXTRACTION SPECIALE DES ADRESSES -------------------------------------
+    address_blocks = []
+
+    # Rechercher un bloc contenant le mot "Adresse" 
+    for div in soup.find_all(["div", "p"]):
+        text = div.get_text(separator=" ", strip=True)
+        if "Adresse" in text or "adresse" in text:
+            address_blocks.append(text)
+
+    # Fusionner les adresses trouvées
+    address_text = "\n".join(address_blocks)
+    # -------------------------------------------------------------------------
+
+    # Extraire le titre
+    title = soup.title.string.strip() if soup.title and soup.title.string else ""
+
+    # Extraire les métadonnées
+    metas = []
+    for meta in soup.find_all("meta"):
+        if meta.get("name") and meta.get("content"):
+            metas.append(f"{meta['name']}: {meta['content']}")
+    meta_text = "\n".join(metas)
+
+    # Extraire le contenu structuré (titres + paragraphes + listes)
+    lines = []
+
+    # Ajouter l’adresse avant le reste du contenu
+    if address_text:
+        lines.append("### ADRESSE")
+        lines.append(address_text)
+
+    for element in soup.find_all(["h1", "h2", "h3", "h4", "p", "li", "td"]):
+        text = element.get_text(separator=" ", strip=True)
+        if len(text) > 2:
+            lines.append(text)
+
+    # Nettoyage
+    clean_text = "\n".join(lines)
+    clean_text = unescape(clean_text)
+    clean_text = re.sub(r"\n{2,}", "\n", clean_text)
+    clean_text = re.sub(r"[ \t]+", " ", clean_text)
+
+    # Concat final
+    result = f"TITRE: {title}\n\n{meta_text}\n\n{clean_text}".strip()
+    return result
+
+def extract_text_from_json(path):
+    """
+    Extrait proprement le contenu d'un JSON (même profondément imbriqué),
+    en incluant les valeurs str, int, float et null.
+    """
+    def extract_values(obj, parent_key=""):
+        texts = []
+
+        if isinstance(obj, dict):
+            for key, value in obj.items():
+                full_key = f"{parent_key}.{key}" if parent_key else key
+
+                # Si la valeur est un type simple : str, int, float, None
+                if isinstance(value, (str, int, float)) or value is None:
+                    texts.append(f"{full_key}: {value}")
+                # Si liste ou dict → récursion
+                elif isinstance(value, (dict, list)):
+                    texts.extend(extract_values(value, full_key))
+
+        elif isinstance(obj, list):
+            for index, item in enumerate(obj):
+                list_key = f"{parent_key}[{index}]"
+                texts.extend(extract_values(item, list_key))
+
+        return texts
+
+    # Lecture du fichier JSON
+    with open(path, "r", encoding="utf-8", errors="ignore") as f:
+        try:
+            data = json.load(f)
+        except json.JSONDecodeError:
+            return f"[ERREUR] Le fichier {path} n'est pas un JSON valide."
+
+    # Extraction récursive
+    texts = extract_values(data)
+
+    # Nettoyage
+    clean_text = "\n".join(texts)
+    clean_text = re.sub(r"\n{2,}", "\n", clean_text)
+    clean_text = re.sub(r"[ \t]+", " ", clean_text)
+
+    result = f"FICHIER: {path}\n\n{clean_text}".strip()
+    return result
+
+
 
 def extract_text_from_image(path):
     """Extrait le texte d'une image (OCR)."""
@@ -148,19 +264,11 @@ def detect_and_extract(file_path):
         return extract_text_from_image(file_path)
     elif ext == ".txt":
         return extract_text_from_txt(file_path)
+    elif ext == ".json":
+        return extract_text_from_json(file_path)
     else:
         logging.warning(f"Type de fichier non supporté : {file_path}")
         return ""
 
 
 
-OUTPUT_FILE = "corpus.txt"
-
-with open(OUTPUT_FILE, "w", encoding="utf-8") as out:
-    for file in glob.glob("static/texts/*.txt"):
-        name = file.split("/")[-1]
-        out.write(f"\n\n===== {name} =====\n\n")
-        text = open(file, encoding="utf-8").read()
-        out.write(text)
-
-print(f"Corpus global sauvegardé dans : {OUTPUT_FILE}")

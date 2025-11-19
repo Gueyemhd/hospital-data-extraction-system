@@ -1,0 +1,95 @@
+jQuery(function() {
+	var cache = {}, lastXhr;
+	
+	// Autcompletion doctors for form consultations
+	jQuery(".search_doctor").autocomplete({
+		minLength : 2,
+		source : function(request, response) {
+			var term = request.term;
+			if( term in cache) {
+				response(cache[term]);
+				return;
+			}
+			lastXhr = jQuery.getJSON(aphp_search.ajaxurl + '?action=aphp_getDoctors', request, function(data, status, xhr) {
+				cache[term] = data;
+				if(xhr === lastXhr) {
+					response(data);
+				}
+			});
+		}
+	});
+	
+	//jQuery('.toggle-content-open .shortcode-toggle, .tab-service .shortcode-toggle,.tab-uf .shortcode-toggle, .toggle-uf .shortcode-toggle, .toggle-service .shortcode-toggle').removeClass("closed");
+	jQuery('.shortcode-toggle .toggle-content .toggle-uf .shortcode-toggle, .shortcode-toggle .toggle-content .toggle-service .shortcode-toggle').addClass("closed");
+	
+	if ( jQuery( '.shortcode-toggle').length ) {	
+		
+		jQuery( '.shortcode-toggle').each( function () {
+			
+			var toggleObj = jQuery(this);
+			
+			toggleObj.closedText = toggleObj.find( 'input[name="title_closed"]').attr( 'value' );
+			toggleObj.openText = toggleObj.find( 'input[name="title_open"]').attr( 'value' );
+			
+			// Add logic for the optional excerpt text.
+			if ( toggleObj.find( 'a.more-link.read-more' ).length ) {
+				toggleObj.readMoreText = toggleObj.find( 'a.more-link.read-more' ).text();
+				toggleObj.readLessText = toggleObj.find( 'a.more-link.read-more' ).attr('readless');
+				toggleObj.find( 'a.more-link.read-more' ).removeAttr('readless');
+				
+				toggleObj.find( 'a.more-link' ).click( function () {
+					
+					var moreTextObj = jQuery( this ).next( '.more-text' );
+					
+					moreTextObj.animate({ opacity: 'toggle', height: 'toggle' }, 300).css( 'display', 'block' );
+					moreTextObj.toggleClass( 'open' ).toggleClass( 'closed' );
+					
+					if ( moreTextObj.hasClass( 'open') ) {
+					
+						jQuery(this).text(toggleObj.readLessText);
+					
+					} // End IF Statement
+					
+					if ( moreTextObj.hasClass( 'closed') ) {
+					
+						jQuery(this).text(toggleObj.readMoreText);
+					
+					} // End IF Statement
+					
+					return false;
+				});
+			}
+			
+			toggleObj.find( 'input[name="title_closed"]').remove();
+			toggleObj.find( 'input[name="title_open"]').remove();
+			
+			toggleObj.find( 'h4.toggle-trigger').first().click( function () {
+			
+				toggleObj.find( '.toggle-content').first().animate({ opacity: 'toggle', height: 'toggle' }, 300);
+				toggleObj.toggleClass( 'open' ).toggleClass( 'closed' );
+				
+				if ( toggleObj.hasClass( 'open') ) {
+				
+					jQuery(this).text(toggleObj.openText);
+				
+				} // End IF Statement
+				
+				if ( toggleObj.hasClass( 'closed') ) {
+				
+					jQuery(this).text(toggleObj.closedText);
+				
+				} // End IF Statement
+				
+				return false;
+			
+			});
+					
+		});
+
+
+	} // End IF Statement
+	
+})
+
+	
+	

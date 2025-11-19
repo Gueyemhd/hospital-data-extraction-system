@@ -1,0 +1,52 @@
+
+//var pluginDir = aphpAcScriptsParams.pluginsURL;
+
+jQuery(document).ready(function($) {
+	/*
+	$('#zoomsaicok').zoomsaic({
+        width : 270,
+        columns : 3,
+        box_width : 80,
+        box_height : 60,
+        easein : "linear",
+        easout : "linear",
+        margin_page : 1
+    });
+   */
+  
+   var margin_item=scriptParams['itemMargin'];
+   var border_item=scriptParams['itemBorder'];
+   var anim_effect=scriptParams['animEffect'];
+   var anim_dur=scriptParams['animdDuration'];
+  // alert(anim_dur);
+   
+   
+   var zoomsaic_width = $('#zoomsaicok').parent().width();
+   var zoomsaic_aspect_ratio = 1.783;
+   var zoomsaic_item_width = Math.round($('#zoomsaicok').parent().width()/3)-margin_item;
+   //var zoomsaic_item_width = Math.round($('#zoomsaicok').parent().width()/3);
+   var zoomsaic_item_height = (zoomsaic_item_width/zoomsaic_aspect_ratio);
+   
+   
+   
+   //zoomsaic_item_width = zoomsaic_item_width - ((zoomsaic_item_width*2)/100);
+   
+   //alert(zoomsaic_width +' / '+ zoomsaic_item_width +' / H:'+ zoomsaic_item_height);
+   
+   $('#zoomsaicok').zoomsaic({
+        width : zoomsaic_width,
+        columns : 3, 
+        box_width : zoomsaic_item_width,
+        box_height : zoomsaic_item_height,
+        easein : anim_effect,
+        easout : "linear",
+        margin_page : 1,
+        margin_item : margin_item,
+        border_item : border_item,
+        anim_duration : anim_dur
+    });
+    
+    $("#zoomsaicok").show();
+});
+
+			
