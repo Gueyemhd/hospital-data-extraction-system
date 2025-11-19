@@ -1,0 +1,1679 @@
+MESURER
+& AMÉLIORER LA QUALITÉ
+ 
+RAPPORT DE
+CERTIFICATION
+AP-HM - HÔPITAL DE LA
+TIMONE
+264 rue saint pierre 
+13385  Marseille
+Validé par la HAS en Mai 2024
+Ce document ainsi que sa référence bibliographique sont téléchargeables sur www.has-sante.fr  
+Haute Autorité de santé – Service communication et information
+5 avenue du Stade de France – 93218 SAINT-DENIS LA PLAINE CEDEX. Tél. : +33 (0)1 55 93 70 00
+© Haute Autorité de santé – Mai 2024
+Sommaire
+ 
+Préambule
+4
+Décision
+7
+Présentation
+8
+Champs d'applicabilité
+9
+Résultats
+10
+Chapitre 1 : Le patient
+11
+Chapitre 2 : Les équipes de soins
+14
+Chapitre 3 : L'établissement
+19
+Table des Annexes
+23
+Annexe 1.    Liste des établissements géographiques rattachées à la démarche
+24
+Annexe 2.    Synthèse des activités réalisées par l’établissement en 2024
+25
+Annexe 3.     Programme de visite
+29
+Préambule
+  
+La certification, mission confiée à la Haute Autorité de Santé (HAS) par les ordonnances de 1996, est une
+procédure d’évaluation externe des établissements de santé publics et privés effectuée par des professionnels
+(des pairs) mandatés par la HAS : les experts-visiteurs. Cette procédure quadri-annuelle, indépendante de
+l’établissement et de ses organismes de tutelle, porte sur le niveau de qualité et de sécurité des soins délivrés
+aux patients. Obligatoire, elle est codifiée à l’article L6113-3 (et suivants) du code de la santé publique.
+ 
+La certification constitue une des modalités de mesure de la qualité des soins en établissements de santé et
+vise l’appropriation des standards de la qualité par les établissements. Elle y favorise également la mise en
+œuvre d’une dynamique d’amélioration de la qualité et de la sécurité des soins. Elle est une certification globale
+et non une certification de toutes les activités de l'établissement. En effet, le dispositif porte sur le
+fonctionnement global de l'établissement et n'a pas vocation à évaluer spécifiquement le fonctionnement de
+chaque secteur d'activité.
+ 
+Elle fournit une évaluation de la qualité et de la sécurité des soins des établissements de santé aux usagers et
+aux Agences régionales de santé (ARS) sans se substituer aux inspections et contrôles de sécurité sanitaire
+menés par ces autorités de tutelle.
+ 
+Cette démarche nationale est réalisée selon des standards internationaux : la procédure de certification est
+elle-même évaluéepar l’International Society for Quality in Health Care via l’International Accreditation Program
+(IAP), le seul programme international qui accrédite les organismes qui accréditent des structures de soins. La
+HAS a obtenu de l’ISQua en 2018 le renouvellement de son accréditation pour son activité de certification.     
+ 
+Une évaluation qui s’appuie sur un référentiel élaboré par la HAS en concertation avec les
+professionnels de santé, les organisations représentatives et les représentants des usagers…
+ 
+Chaque établissement de santé est évalué sur les critères génériques, s’appliquant à tout l’établissement, ainsi
+que sur des critères spécifiques relevant :
+•   de populations spécifiques : enfant et adolescent, patient âgé, personne en situation de handicap,
+•   de modes de prise en charge spécifiques : ambulatoire, hospitalisation à domicile (HAD), SAMU-SMUR,
+urgences, soins critiques (soins continus, soins intensifs et réanimation)
+•   de secteurs d’activités spécifiques : chirurgie et interventionnel, maternité, psychiatrie et santé mentale,
+soins médicaux et de réadaptation (SMR), unité de soins de longue durée (USLD).
+ 
+Ce référentiel, publié sur le site Internet de la HAS, comprend des critères ayant des niveaux d’exigence
+différents :
+•   des critères standards correspondent aux attendus de la certification;
+•   des critères impératifs correspondent à ce que l’on ne veut plus voir au sein d’un établissement de santé. Ils
+ont un impact particulier dans la décision de certification. En effet, siune évaluation de l’un de ces critères est
+négative pour un ou plusieurs de ses éléments d’évaluation, la HAS se réserve le droit de ne pas accorder la
+certification de l’établissement. 
+•   des critères avancés correspondent à des exigences souhaitées mais non exigibles à ce jour. Ils
+correspondent potentiellement aux critères de certification de demain et sont valorisés pour les établissements
+qui peuvent y répondre sous condition d’un niveau minimal sur l’ensemble des critères standards et impératifs. 
+ 
+… et sur des méthodes
+ 
+ 
+4 
+HAS · AP-HM - HÔPITAL DE LA TIMONE · Mai 2024
+•   des patients traceurs pour évaluer la qualité et la sécurité de la prise en charge d’un patient dans
+l’établissement de santé
+•   des parcours traceurs pour évaluer la continuité et la coordination de la prise en charge des patients, le
+travail en équipe et la culture qualité et sécurité au cours d’un parcours de soins défini
+•   des traceurs ciblés pour évaluer la mise en œuvre d’un processus ciblé
+•   des audits systèmes pour évaluer les organisations de l’établissement et s’assurer de leur maîtrise sur le
+terrain
+•   des observations pour évaluer les conditions générales de qualité et de sécurité des soins.
+ 
+Un rapport de certification structuré en 3 chapitres 
+ 
+Les résultats des évaluations réalisées durant une visite de l’établissement par des experts-visiteurs se
+traduisent dans un rapport de visite articulé en cohérence avec les 3 chapitres du référentiel.:
+•   Le premier chapitre concerne directement le résultat pour le patient. Tout au long de sa prise en charge, ses
+droits sont respectés, ses besoins spécifiques pris en compte de la même façon que ses attentes et ses
+préférences. Au-delà, l’engagement du patient est recherché. Son implication comme partenaire de sa prise en
+charge, tout comme celle de ses proches et aidants, est favorisée par l’expression de son point de vue sur son
+expérience et le résultat des soins.
+•   Le deuxième chapitre concerne les équipes de soins, à tous les niveaux. La certification vise à apprécier leur
+capacité à rechercher la pertinence, l’efficacité et la sécurité des soins, à se concerter et se coordonner tout au
+long du parcours du patient. Elle met également l’accent sur la maitrise des risques liés au soin. Les analyses
+des évènements indésirables associés aux soins, notamment les événements indésirables graves ainsi que
+des rapports de certification précédents conduisent à mettre un accent particulier sur le risque infectieux et le
+risque lié aux médicaments.
+•   Le troisième chapitre concerne l’établissement et sa gouvernance (direction et commission/conférence
+médicale d’établissement). Cette dernière favorise l’insertion territoriale en lien avec les autres acteurs de l’offre
+de soins et médico-sociale. Elle impulse une dynamique forte d’amélioration de la qualité et de la sécurité des
+soins qui associe et soutient les équipes, ainsi que les patients, représentants d’usagers et associations de
+malades. 
+ 
+Cette structuration permet l’analyse croisée entre le résultat pour le patient, les pratiques mises en œuvre par
+les équipes de soins et la dynamique impulsée par la gouvernance de l’établissement et du groupement, le cas
+échéant.
+ 
+Une décision et un rapport rendus publics
+ 
+Sur la base du rapport de visite, complété d’éventuelles fiches d’anomalies et des observations de
+l’établissement, la HAS adopte le rapport de certification et rend une décision. La HAS peut prononcer trois
+types de décision :
+une décision de certification valable quatre ans qu’elle peut assortir d’une mention ;
+une décision de non-certification impliquant la mise en œuvre d’une nouvelle procédure dans un délai
+maximum de deux ans ;
+une décision de certification sous conditions ; une nouvelle procédure est alors programmée dans un délai
+compris entre six et douze mois. À l’issue de cette seconde procédure, la HAS constate si l’établissement a
+rempli les conditions pour être certifié. Elle prononce alors une décision de certification, avec ou sans
+mention, ou une décision de non-certification.
+ 
+Le rapport et la décision sont publiés sur le site Internet de la HAS et communiqués à l’autorité de tutelle de
+l’établissement.
+L’établissement doit en assurer la plus large diffusion interne. Il doit notamment la porter à la connaissance des
+instances délibérantes, de la commission ou conférence médicale d’établissement et de la commission des
+usagers.
+ 
+5 
+HAS · AP-HM - HÔPITAL DE LA TIMONE · Mai 2024
+Ce rapport de visite est produit par l’équipe des experts-visiteurs dans un délai d’une quinzaine de jour
+après la fin des évaluations et de la réunion de restitution, il est transmis à l’établissement pour que
+celui-ci puisse formuler ses observations. Il sera remis également à la HAS et fera partie des éléments
+de référence pour l’élaboration du rapport de certification
+ 
+6 
+HAS · AP-HM - HÔPITAL DE LA TIMONE · Mai 2024
+Décision
+Au vu des éléments mentionnés dans le présent rapport, issus de la visite sur site, la Haute Autorité de santé
+decide la certification de l'établissement.
+ 
+7 
+HAS · AP-HM - HÔPITAL DE LA TIMONE · Mai 2024
+Présentation
+AP-HM - HÔPITAL DE LA TIMONE
+Adresse
+264 rue saint pierre
+13385 Marseille Cedex 5 FRANCE
+Département / Région
+Bouches-du-Rhône / Provence-Alpes-Côte d'Azur
+Statut
+Public
+Type d’établissement
+Centre Hospitalier Universitaire
+Établissement(s) juridique(s) rattaché(s) à cette démarche (la liste des établissements géographiques
+se trouve en annexe 1)
+ 
+Type de structure
+N° FINESS
+Nom de l’établissement
+Adresse
+Établissement juridique
+130786049
+ASSISTANCE PUBLIQUE
+DES HOPITAUX DE
+MARSEILLE
+80 rue brochier
+13005 Marseille 05eme FRANCE
+Synthèse des activités réalisées par l’établissement au 2024 
+Vous trouverez en annexe 2 l’ensemble des activités réalisées par l’établissement.
+ 
+8 
+HAS · AP-HM - HÔPITAL DE LA TIMONE · Mai 2024
+Champs d'applicabilité
+Champs d'applicabilité
+Adulte
+Ambulatoire
+Chirurgie et interventionnel
+Enfant et adolescent
+Hospitalisation complète
+Maladie chronique
+Médecine
+Pas de situation particulière
+Patient âgé
+Patient atteint d'un cancer
+Patient en situation de handicap
+Patient en situation de précarité
+Programmé
+SAMU-SMUR
+Soins critiques
+Tout l'établissement
+Urgences
+ Au regard du profil de l’établissement,116  critères lui sont applicables
+  
+ 
+9 
+HAS · AP-HM - HÔPITAL DE LA TIMONE · Mai 2024
+Résultats
+Chapitre
+Chapitre 1
+Le patient
+Chapitre 2
+Les équipes de soins
+Chapitre 3
+L'établissement
+ 
+10 
+HAS · AP-HM - HÔPITAL DE LA TIMONE · Mai 2024
+Chapitre 1 : Le patient
+95% 
+du score
+maximal
+Objectifs
+1.1
+Le patient est informé et son implication est recherchée.
+87%
+1.2
+Le patient est respecté.
+97%
+1.3
+Les proches et/ou aidants sont associés à la mise en œuvre du projet de soins avec l’accord du
+patient
+96%
+1.4
+Les conditions de vie et de lien social du patient sont prises en compte dans le cadre de sa prise
+en charge
+99%
+  L’hôpital de la Timone est l’un des quatre sites de l’APHM avec l’hôpital Nord, Conception et l’hôpital Sud ; il
+comprend un service d’urgences adultes et enfants et des lits d’hospitalisation (ambulatoires et conventionnels)
+adultes et enfants pour des secteurs de médecine et de chirurgie. L’APHM a décliné sa politique de droits du
+patient et de prise en charge au niveau de la Timone. A l’exception de quelques patients arrivés en urgence,
+tous les patients rencontrés dans tous les secteurs investigués ont reçu une information claire et adaptée à leur
+degré de discernement sur leur état de santé, les hypothèses et confirmations diagnostiques, ainsi que les
+soins prodigués. Cette information est par ailleurs réalisée en cas de besoin de façon anticipée (exemple :
+information du patient en consultation anesthésique préalable sur les conditions de réveil en réanimation). Les
+affichages des chartes sont présents et adaptées aux services concernés. Le patient exprime son
+ 
+11 
+HAS · AP-HM - HÔPITAL DE LA TIMONE · Mai 2024
+consentement libre et éclairé sur son projet de soins et ses modalités : analyse bénéfice/risque expliquée de
+façon adaptée, de même que les modalités de prise en charge proposée (HAD, HDJ, etc). Dans tous les
+secteurs accueillants des mineurs, l’enfant ou l’adolescent est invité à exprimer son avis sur le projet de soins
+et ses modalités. Il a pu être remarqué l’information délivré aux adolescents sur leur maladie et la prise en
+charge. Le patient bénéficie de messages renforçant sa capacité à agir pour sa santé, comme en médecine
+cardiologique, en oncologie ou en pédiatrie générale où il est constaté de nombreux supports d’information sur
+la prévention primaire. De même en radiologie une borne interactive permet de télécharger des messages de
+santé publique. Le patient bénéficie d’actions pour devenir acteur de sa prise en charge (exemple : actions
+d’information des infirmières de pratiques avancées et des IDE coordonnatrices dans tous les secteurs). Le
+patient peut désigner la personne à prévenir et la personne de confiance de son choix ; dans la plupart des cas
+il est retrouvé la trace dans le dossier de la désignation et de l’acceptation de la personne de confiance. Le
+patient, en prévision de sa sortie, est informé des consignes de suivi pour sa prise en charge. Il est informé des
+dispositifs médicaux qui lui sont implantés durant son séjour et reçoit les consignes de suivi appropriées ;
+l’identification et l’information du patient sont majoritairement tracées dans la lettre de liaison. Le patient est
+informé des produits sanguins labiles qui lui sont administrés. En ambulatoire, le patient reçoit les informations
+spécifiques aux modalités de sa prise en charge ; pour autant, en dehors de certains secteurs chirurgicaux, il
+n’est pas toujours retrouvé de document type « passeport » mais plutôt dans certaines spécialités une notice
+explicative sur la maladie (exemple en HDJ DTO). Les directives anticipées sont bien abordées dans les
+plaquettes d’information et un formulaire présent dans le dossier « type » du patient, mais les patients
+rencontrés sont peu informés sur leur droit à en rédiger et les équipes de soins informent peu le patient sur ce
+droit. Le patient a la possibilité, en situation de fin de vie, de faire valoir au plus tôt sa décision d’accéder aux
+soins palliatifs, quel que soit le service accueillant le patient. En dépit des affichages et communication sous
+différentes formes des représentants des usagers (adresse mail par exemple), les patients rencontrés
+connaissent peu les représentants des usagers et associations de bénévoles qui peuvent les accompagner. Le
+patient est invité à exprimer sa satisfaction principalement par e-satis, rarement par des questionnaires
+spécifiques : des modalités diverses existent pour faire part de son expérience ; pour autant, il est peu informé
+des modalités pour soumettre une réclamation ou déclarer un évènement indésirables associé aux soins. Le
+patient reçoit une information claire et adaptée à son degré de discernement sur les modalités de prise en
+charge ; le livret d’accueil papier est disponible aux bureaux des entrées du site et en service de soins. Les
+affiches avec un QRcode renvoient vers le livret dématérialisé et sont présentes dans les services et dans les
+chambres des patients ; pour autant certains patients rencontrés n'ont pas eu un livret d’accueil. Les patients
+ne se sont pas tous encore emparés de cette modalité QR code. Par ailleurs ils ne sont pas toujours informés
+de leur droit à demander que le DMP et mon espace santé ne soient pas alimentés et ils ne savent pas toujours
+qu’il ne doit pas y avoir d’échanges avec les équipes par une messagerie non sécurisée. Dans de rares
+secteurs (pédiatrie, réanimation et chirurgie cardiaque par exemple), un livret d’accueil spécifique est remis aux
+parents ou aux patients. Le patient bénéficie dans tous les secteurs de la garantie du respect de ses droits. Il
+bénéficie d’abord du respect de son intimité et de sa dignité ; il a été constaté dans tous les secteurs d’activité
+des pratiques respectueuses (mise en place de paravents par exemple, utilisation de pyjama tissé non
+transparent pour les patients arrivant debout aux blocs opératoire), toujours exprimées par les patients, parfois
+en dépit de locaux exigus et inadaptés en termes de confort (exemple : pas de douches dans les chambres
+dans certains services tels que l’oncologie médicale ou les chirurgies adultes, chambres exigües ne permettant
+que difficilement la présence de proches la nuit). Un projet architectural se déploie jusque 2030 avec des
+ouvertures de nouveaux bâtiments entre 2025 et 2030 pour les services concernés. Le patient mineur bénéficie
+d’un environnement adapté (locaux, matériels, formation des professionnels à une communication adaptée,
+accueil et présence facilitée des parents). A titre d’exemple, un play room a été installé à l’entrée du bloc
+opératoire avec jeux et casque de réalité virtuelle permettant un accueil personnalisé de l’enfant et des parents
+avec l’objectif de réduire l’anxiété périopératoire. Un autre exemple se situe en radiologie interventionnelle où
+les SSPI adultes et enfants sont séparés. Le patient vivant avec un handicap bénéficie du maintien de son
+ 
+12 
+HAS · AP-HM - HÔPITAL DE LA TIMONE · Mai 2024
+autonomie tout au long de son séjour. De même le patient âgé bénéficie du maintien de son autonomie ;
+cependant l’aptitude du patient de plus de 75 ans ne fait pas systématiquement l’objet d’une évaluation. Le
+patient bénéficie du respect de la confidentialité des informations le concernant (exemple : pour les chambres à
+deux lits, proposition faite au patient de réaliser les entretiens dans une autre pièce en neurologie). Le recours
+à la contention mécanique fait toujours l’objet d’une décision médicale tracée et réévaluée, avec analyse du
+bénéfice/risque ; il est constaté une politique médicale de limiter au maximum le recours à cette contention
+(exemple : urgences adultes et pédiatriques, orthopédie, neuro chirurgie) avec une recherche de solutions
+alternatives (environnement adapté, inclusion de la famille, soutien psychologique en oncologie). Le patient
+reçoit une aide pour ses besoins élémentaires, même en situation de tension d’activité. Le patient bénéficie de
+soins visant à anticiper ou à soulager rapidement sa douleur (exemples : médecin anesthésiste dédié à la prise
+en charge pré et post opératoire au bloc opératoire pour la chirurgie traumatologique adultes et un IADE dédié
+en post-opératoire dans les secteurs de chirurgie). De nombreux protocoles sont mis en œuvre, les échelles
+douleur sont partout adaptées à la typologie des patients. Les proches et/ou aidants sont associés à la mise en
+œuvre du projet de soins avec l’accord du patient. Ils peuvent s’impliquer dans la mise en œuvre du projet de
+soins (exemple : présence des proches possible pendant la séance en HDJ DTO, information et concertation
+avec les proches tout au long du processus de décisions complexes de limitation thérapeutique, éducation à la
+parentalité en pédiatrie générale, plaquette d’information COCON sur le parcours en soins précoces et
+coordonnés du nouveau- né vulnérable). Leur présence est grandement facilitée en dehors des heures de visite
+lorsque la situation le nécessite (lits accompagnants, réponse personnalisée aux demandes des proches,
+présence H24 des parents en réanimation pédiatrique, maison d’accueil proche du site pour les familles). Les
+conditions de vie et de lien social du patient sont prises en compte dans le cadre de sa prise en charge. Le
+patient en situation de précarité bénéficie du service social de l’établissement (exemple : une assistante sociale
+dédiée au secteur oncologie-hématologie pédiatrique, ou en traumatologie adultes, unité post-urgences
+gériatrique avec un lien constant entre l’assistante sociale et le conseiller assurance maladie pour le PRADO)
+et d’un accompagnement pour une orientation vers les services sociaux et associations adéquates. Le patient
+vivant avec un handicap ou ses proches et aidants exprime ses besoins et préférences pour une prise en
+compte dans son projet de soins. Le patient mineur atteint d’une maladie chronique ou vivant avec un handicap
+bénéficie de modalités de prise en charge intégrant les préoccupations de socialisation, éducatives et scolaires
+adaptées à la situation (école à l’hôpital pour les mineurs dialysés, en réanimation et en unité de surveillance
+continue pédiatrique ou encore salle de classe en pédiatrie générale). Les conditions de vie habituelles sont
+prises en compte notamment pour la préparation de la sortie (exemple : en UHCD, en neurochirurgie adultes,
+en orthopédie et traumatologie, en unité ambulatoire de chirurgie, liens avec les CMP le cas échéant ou la PMI,
+liens avec les prestataires à domicile pour la poursuite de la nutrition parentérale en gastro-entérologie).   
+ 
+13 
+HAS · AP-HM - HÔPITAL DE LA TIMONE · Mai 2024
+Chapitre 2 : Les équipes de soins
+93% 
+du score
+maximal
+Objectifs
+2.1
+La pertinence des parcours, des actes et des prescriptions est argumentée au sein de l’équipe
+100%
+2.2
+Les équipes sont coordonnées pour prendre en charge le patient de manière
+pluriprofessionnelle et pluridisciplinaire tout au long de sa prise en charge
+95%
+2.3
+Les équipes maîtrisent les risques liés à leurs pratiques
+94%
+2.4
+Les équipes évaluent leurs pratiques notamment au regard du suivi des résultats cliniques de
+leur patientèle
+84%
+  Un travail de pertinence des parcours a été réalisé à la fois au niveau de l’APHM, de la Timone, mais aussi au
+niveau du GHT13 (quinze filières médicales définies et déployées avec les autres établissements, des actions
+de proximité avec des animations par l’APHM de maisons médicales de santé). La pertinence des actes et des
+prescriptions est également argumentée au sein des équipes. La pertinence des décisions de prise en compte
+s’appuie sur de nombreux protocoles actualisés adossés aux recommandations de bonnes pratiques ; des RCP
+sont mises en place dans plusieurs secteurs d’activité soit au niveau de l’établissement (exemple : unité
+médical ambulatoire, en neurologie maladies inflammatoires), soit avec d’autres structures publiques et privées
+(RCP UNV par exemple) ; un score de prédiction de détérioration est utilisé en post-urgence gériatrique à partir
+de données dynamap. La pertinence de l’orientation du patient par le SAMU est argumentée avec l’équipe
+ 
+14 
+HAS · AP-HM - HÔPITAL DE LA TIMONE · Mai 2024
+d’aval ; de nombreuses filières d’admission directe dans les services spécialisés sont utilisées par le SAMU et
+les SMUR (exemple : filière coordonnée neuro vasculaire avec appel du stroke center et une conférence à trois
+SAMU-équipe stroke center et neuroradiologue, ou l’organisation ambulatoire pour les urgences du membre
+supérieur sans passer par le service des urgences, ou encore le parcours bypass pour les anesthésies
+locorégionales sans passage en SSPI et entrée directe en chirurgie ambulatoire). La prescription d’une HAD
+est envisagée dans le cadre du projet de soins dès l’admission du patient en court séjour (exemple : prise en
+charge coordonnée avec l’HAD de la Conception ou réseau soins palliatifs Bouches-du-Rhône). La pertinence
+des prescriptions d’antibiotiques est argumentée et réévaluée. Les recommandations de bonnes pratiques
+actualisées sont facilement accessibles à partir du dossier informatisé du patient ; des livrets adultes et enfants
+ont été remis à jour avec l’aide du référent antibiothérapie ; la traçabilité de la réévaluation à 7 jours est
+effective. La pertinence de la transfusion de produits sanguins labiles est argumentée (dossier transfusionnel
+entièrement dématérialisé incluant prescription, surveillance, facteurs de risque, incidents, étapes non
+réalisées). Les équipes se coordonnent de façon pluridisciplinaire et pluriprofessionnelle tout au long de la prise
+en charge du patient. Chaque appelant au SAMU pour un problème de santé bénéficie d’une régulation
+médicale. Le dossier médical préhospitalier informatisé des SMUR comporte tous les éléments nécessaires à
+la poursuite de la prise en charge du patient. Les équipes des urgences assurent au patient une orientation
+dans les circuits adaptés à sa prise en charge : tri réalisé par des IOA formés, délais d’attente affichés,
+évaluation de la gravité des patients affichée sur les PC des soignants pour faciliter les conduites à tenir
+concernant l’accueil de patients chroniques et vulnérables. Les équipes de soins ont accès aux informations du
+patient avec un système d’information adapté ; dans la très grande majorité, les professionnels tracent en
+temps utile leurs interventions. Les équipes se coordonnent pour la mise en œuvre du projet de soins avec une
+évaluation des besoins et préférences du patient (nombreux staffs dans tous les secteurs pluriprofessionnelles
+et pluridisciplinaires avec présence des professionnels en soins de support, nombreuses IDE coordonnatrices).
+La sécurité de la prise en charge médicamenteuse du patient bénéficie d’un début de conciliation des
+traitements médicamenteux : conciliation médicamenteuse d’entrée pour les patients en neurologie et
+pathologie du mouvement pour les patients âgés, entretiens pharmaceutiques chez les patients adultes et
+pédiatriques traités par thérapie orales anticancéreux ou les patients adultes et enfants suivis pour greffes
+d’organes solides. Les équipes se coordonnent dans le cas où le patient n’a pas été orienté dans l’unité
+adaptée faute de disponibilité. Des formations sont mises en place pour les professionnels des secteurs adultes
+qui peuvent accueillir des mineurs. L’équipe de soins peut faire appel si besoin à un réseau d’équipes de
+recours ou d’expertise. De nombreuses équipes de recours sont actives : gériatrie, psychiatrie, douleur,
+infections, soins palliatifs, hygiène. Des équipes d’expertise sont sur place : maladies rares, infections ostéo
+articulaires sur prothèses à l’IHU, etc. Les acteurs de la programmation opératoire sur les différents blocs se
+coordonnent et tiennent compte de la priorisation des urgences (réunions hebdomadaires de programmations
+opératoires ajustable en cas de besoins). Pour autant, les écarts de programmation ne sont pas toujours
+analysés conjointement entre équipe de chirurgie, d’anesthésie et secteurs interventionnels. Les secteurs
+interventionnels et les secteurs de soins échangent toutes les informations utiles relatives au patient (exemple :
+fiches de liaison unités/plateaux techniques avec des items pour le brancardier). Aux blocs adultes et enfants et
+dans les secteurs interventionnels, la check List « sécurité du patient » est utilisée de manière efficace. Tous
+les secteurs interventionnels bénéficient d’une check List adaptée et mise en œuvre de façon systématique :
+néanmoins la check List n’est pas toujours réalisée en présence des personnes concernées (étape 3) ; un audit
+réalisé en novembre 2023 a montré les marges d’amélioration et posé des actions à mettre œuvre (plan en
+cours). En phase de transition adolescent-adulte, les équipes se coordonnent pour assurer la continuité de la
+prise en charge du patient ; par exemple, dans un lieu dédié (l’APPART) sont organisées les consultations
+entre pédiatres référent et spécialistes adultes -notamment pour les maladies chroniques- ou encore la
+coordination entre pédopsychiatrie du site de la Conception et équipe « adultes » de la Timone. Le carnet de
+santé, le dossier du patient et le dossier médical mon espace santé (DMP) sont majoritairement mis à jour de
+manière synchronisée pour assurer la continuité des soins. Une démarche palliative pluridisciplinaire,
+ 
+15 
+HAS · AP-HM - HÔPITAL DE LA TIMONE · Mai 2024
+pluriprofessionnelle, coordonnée et protocolisée est mise en œuvre pour les patients en fin de vie, avec une
+mobilisation d’une équipe mobile intervenant sur trois sites de l’APHM dont la Timone et mobilisable H24 et des
+démarches avec décision de LATA prises en concertation en RCP avec cette équipe mobile. Une lettre de
+liaison à la sortie est très majoritairement remise au patient et permet la continuité du parcours de soins. Les
+équipes respectent les bonnes pratiques d’identification du patient à toutes les étapes de sa prise en charge
+(lieux adéquats, professionnels formés, bracelet d’identification, cellule d’identitovigilance APHM et la Timone).
+Les équipes maîtrisent la mise en application des vigilances sanitaires. La politique de sécurisation de la prise
+en charge médicamenteuse APHM est portée par le COSEPS (comité de sécurisation des produits de santé) ;
+ce comité se décline en plusieurs groupes de travail pluridisciplinaires. La PUI est gérée à l’échelle de l’APHM
+avec deux services transversaux (service central de la qualité et de l’information pharmaceutique et le service
+central des opérations pharmaceutiques) et les activités pharmaceutiques réalisées sur chaque site dont La
+Timone. De façon très générale sur la Timone, le circuit du médicament est sécurisé et adapté aux besoins des
+services (exemples : dotation hebdomadaire avec une IDE coordonnatrice s’assurant des commandes, un
+praticien référent dans le service, traitements personnels stockés dans un local sécurisé). Les équipes
+respectent les bonnes pratiques de prescription et de dispensation des médicaments (exemples ; formation des
+prescripteurs, guides de prescription, délivrance bi hebdomadaire des anti-infectieux nécessitant une
+prescription restreinte et nominative, transport des médicaments sécurisé avec lecteur QR code au départ de la
+pharmacie et à l’arrivée). L’analyse pharmaceutique de niveau 3 est réalisée pour tout entrant ; cependant cette
+analyse n’intègre pas les éléments du dossier pharmaceutique du patient (ordre des pharmaciens/assurance
+maladie). La dispensation sur la Timone est soit globale avec deux dispensations hebdomadaires, soit
+nominative pour certaines molécules à risques et onéreuses ; dans les réanimations et unités de soins
+continus, des armoires sécurisées informatisées sont en place. Les équipes respectent les bonnes pratiques
+d’administration des médicaments (utilisation d’étiquettes institutionnelles pour les injectables, préparation des
+médicaments au plus près de l’administration, traçabilité de l’administration). Les équipes maîtrisent l’utilisation
+des médicaments à risque. Une politique a été définie au niveau de l’APHM et appliquée à la Timone (liste
+institutionnelle et liste spécifique à chaque service, programme de formations des professionnels). Les règles
+de stockage et de transport de ces médicaments à risque sont très majoritairement respectées. Cependant
+dans un nombre très restreint d'hôpitaux de jour, il a été constaté une absence de contrôle de température le
+week-end des réfrigérateurs contenant des médicaments à risque thermosensibles. Au moment de la visite,
+l'établissement a presque achevé la mise en place de nouveaux réfrigérateurs permettant ce suivi avec un
+enregistrement de température intégré, sauf dans ces quelques hôpitaux de jour. L'établissement a très vite
+réagi en visite, a rédigé une procédure de suivi des températures des réfrigérateurs pour le moment sans
+système d'enregistrement de température avec une organisation adéquate. La liste des médicaments à risque
+est connue des professionnels rencontrés et une démarche spécifique pour la préparation de ces médicaments
+a été protocolisée (check-list et apposition d’un affichage pour éviter l’interruption de tâches pendant la
+préparation). L’approvisionnement, le stockage et l’accès aux produits de santé sont réalisés la plupart du
+temps conformément aux recommandations de bonnes pratiques. Cependant si tous les transports de
+médicaments et notamment ceux à risque font l'objet de transports sécurisés sur le site (coursiers formés,
+contenants sécurisés, vérification au départ de la pharmacie et à l'arrivée), il a été constaté une fois un
+transport dans un contenant non sécurisé. Un rappel a été fait au professionnel concerné. Les équipes
+maîtrisent le risque de discontinuité de la prise en charge médicamenteuse du patient vulnérable à sa sortie ;
+néanmoins le bilan thérapeutique n’est pas toujours retrouvé dans la lettre de liaison ou le compte-rendu
+d’hospitalisation. Les équipes maîtrisent la sécurité transfusionnelle (dématérialisation de tout le dossier
+transfusionnel (en pré, per et post transfusion) avec un programme de formation, pour chaque étape de la
+transfusion, basé sur les protocoles à jour, des modalités de transport définies par service en fonction de ses
+besoins, une mesure du taux de destruction. Les équipes maîtrisent le risque infectieux en appliquant les
+bonnes pratiques d’hygiène des mains (connaissance et suivi de l’ICSHA dans la plupart des services). Les
+équipes maîtrisent le risque infectieux en appliquant les précautions standard et complémentaires : CLIN de
+ 
+16 
+HAS · AP-HM - HÔPITAL DE LA TIMONE · Mai 2024
+site actif, formation des professionnels, gestion des excrétas, surveillance des ISO, etc. Des audits ont lieu
+régulièrement sur certaines thématiques (exemples : hygiène des mains, zéro bijou, dispositifs invasifs, etc).
+Les équipes maîtrisent les bonnes pratiques d’antibioprophylaxie liés aux actes invasifs protocoles adaptés à
+chaque secteur de chirurgie et interventionnel, avec livret de bonnes pratiques dans chaque salle de bloc. Les
+équipes maîtrisent le risque infectieux lié au circuit des dispositifs médicaux invasifs : un comité de pilotage
+APHM a été maintenu. A l’Hôpital de la Timone, les circuits de désinfection des endoscopes pour les adultes et
+les enfants sont sécurisés (check-list adaptée et utilisée, carnets de bords des endoscopes, formation des
+professionnels, armoires de stockage chez les adultes, dispositif TYPOON pour la pédiatrie). Les équipes
+maîtrisent le risque infectieux liés aux dispositifs invasifs en appliquant les précautions adéquates. Les équipes
+des secteurs interventionnels maîtrisent le risque infectieux en respectant les bonnes pratiques per-opératoires
+: par exemple les patients porteurs de germes sont identifiés dans le dossier patient informatisé et signalés
+pour le programme opératoire. La collaboration entre blocs et équipe du CLIN repose sur une organisation de
+référents côté bloc et côté CLIN. Il a été remarqué quelques tenues de bloc non conformes aux bonnes
+pratiques (masque en collier) et un suivi des ISO non réalisé en continu dans certains secteurs. Les équipes
+pluriprofessionnelles maîtrisent le risque de dépendance iatrogène. Les équipes respectent les
+recommandations et obligations vaccinales pour les professionnels de santé. Les équipes maîtrisent les risques
+liés à l’utilisation des rayonnements ionisants ; cependant le patient n’est pas toujours informé des doses
+reçues. L’autorisation de sortie du patient en chirurgie ambulatoire est validée sur la base d’un score.
+L’organisation des transports des patients en intrahospitalier vient d’être complètement révisée au niveau de l
+’APHM ; elle consiste à harmoniser la gestion des ressources humaines et des bonnes pratiques, restructurer
+les périmètres et informatiser la gestion des demandes. Elle est entrée en application dans un seul périmètre
+géographique sur cinq prévus ; au moment de la visite, cette organisation n’a donc pas encore porté tous ses
+fruits en matière de délais de transport en lien avec l’activité et les besoins des services. En ce qui concerne
+l’évaluation des pratiques professionnelles, la situation est hétérogène dans les différents secteurs d’activité de
+la Timone. Certaines équipes améliorent leurs pratiques en se fondant sur l’analyse de leurs résultats cliniques
+et sont en capacité de mettre en place un plan d’actions (exemple : EPP douleur aux urgences pédiatriques,
+EPP élaboration de scores pour mise en place de l’antibiothérapie aux urgences adultes et réanimation
+médicale, EPP intérêt de la radiologie systématique du thorax dans la prise en charge des bronchiolites). De
+même certaines équipes améliorent leurs pratiques en se fondant sur la satisfaction du patient, plus rarement
+sur l’expérience patient à l'exception de quelques services (HDJ onco-hématologie pédiatrie,
+coronaropgraphie). La plupart des équipes améliorent leurs pratiques en se fondant sur leurs résultats
+d’indicateurs notamment les indicateurs qualité et sécurité des soins (exemple : filière neuro vasculaire, blocs
+opératoires). Un tableau de bord sécurité des soins est élaboré par service avec un score donnant accès à un
+label. La plupart des équipes améliorent leurs pratiques en analysant les évènements indésirables associés
+aux soins qu’elles ont déclarés (nombreux et réguliers RMM et CREX dans les secteurs interventionnels et de
+soins critiques notamment). Cependant toutes les équipes éligibles ne connaissent pas toujours le dispositif
+d’accréditation malgré l’existence de plusieurs équipes accréditées. Les équipes des secteurs de soins
+critiques améliorent leurs pratiques en se fondant notamment sur les modalités de prise en charge de leurs
+patients ; pour autant toutes les équipes concernées ne tiennent pas un registre de refus d’admission et les
+réhospitalisations à 48/72 heures ne sont pas suivies dans tous ces secteurs. La plupart des équipes des
+secteurs interventionnels améliorent leurs pratiques en analysant les modalités de réalisation de la check List
+(analyse des GO/No GO, suivi réalisé ou initié dans certains secteurs d’indicateurs de pratiques et d’utilisation).
+Des actions d’amélioration de la qualité des résultats de biologie médicale et d’anatomopathologie sont mises
+en place (exemple : protocole commun laboratoire/soins pour le bilan thrombolyse en urgence). Des actions
+d’amélioration des résultats d’examens d’imagerie médicales sont mises en place (RCP en cas d’atteinte
+osseuse par exemple, consultation d’imagerie pour les patients douloureux en oncologie avant radiologie
+interventionnel). Les activités de prélèvement et de greffes d’organes et de tissus sont évaluées et se
+traduisent par des plans d’actions d’amélioration dont les effets sont mesurés (équipe joignable 24H/24,
+ 
+17 
+HAS · AP-HM - HÔPITAL DE LA TIMONE · Mai 2024
+collaboration avec le réseau de transport de Marseille, information personnalisée à l’intention de la population
+marseillaise sur le don d’organes).   
+ 
+18 
+HAS · AP-HM - HÔPITAL DE LA TIMONE · Mai 2024
+Chapitre 3 : L'établissement
+94% 
+du score
+maximal
+Objectifs
+3.1
+L’établissement définit ses orientations stratégiques en cohérence avec son territoire
+100%
+3.2
+L’établissement favorise l’engagement des patients individuellement et collectivement
+93%
+3.3
+La gouvernance fait preuve de leadership
+98%
+3.4
+L’établissement favorise le travail en équipe et le développement des compétences
+89%
+3.5
+Les professionnels sont impliqués dans une démarche de qualité de vie au travail impulsée par
+la gouvernance
+99%
+3.6
+L’établissement dispose d’une réponse adaptée et opérationnelle aux risques auxquels il peut
+être confronté
+87%
+3.7
+L’établissement développe une dynamique d’amélioration continue de la qualité des soins
+92%
+  L’APHM est l’établissement pivot du système de santé régional. IL se compose de quatre sites (hôpital de la
+Timone, hôpital Nord, hôpital Conception et hôpital Sud), 25 pôles d’activités médicales et 250 services (au
+total 3300 lits et places), 93 centres labellisés Maladies rares, un centre d’enseignement et de recherche avec
+l’Institut Méditerranée Universitaire (infectiologie) et trois centres de recherche hospitalo-universitaires, 13
+ 
+19 
+HAS · AP-HM - HÔPITAL DE LA TIMONE · Mai 2024
+instituts de formation, 3 centres de santé (Aygalades, Flamants et Aubagne), une maison des femmes à
+Marseille. L’APHM est établissement support du GHT 13 et a été en 2023 à l’initiative d’un projet stratégique de
+territoire, avec la mise en oeuvre des postes partagés en médecine et en chirurgie pour favoriser le
+développement de filières et conforter son attractivité, le développement d’une filière gériatrique avec les
+établissements médico-sociaux. L’établissement a également tissé des liens avec les cliniques et la médecine
+de ville. Il est le premier employeur de la région PACA avec 3000 professionnels médicaux et 13000
+professionnels non médicaux. La stratégie en politique de santé, en politique des ressources humaines et en
+maîtrise des risques est élaborée au niveau central et déclinée sur chaque site. En ce qui concerne la Timone,
+le site contient 1047 lits adultes et 274 pour les enfants soit 40% de l’APHM, avec une activité importante
+d’urgences adultes (89000 passages) et enfants (43000 passages), une activité médicale et chirurgicale
+adultes et enfants importante (62500 entrées en hospitalisation, 20500 interventions chirurgicales). L’APHM
+donne à ce site des ambitions à 10 ans se traduisant par un projet architectural permettant d’y répondre,
+notamment une capacité accrue de réception des urgences, une plateforme d’oncologie mutualisée , une unité
+neuro-vasculaire redimensionnée de 16 à 24 lits, une activité de chirurgie ambulatoire et la mise en place du J0
+en chirurgie pour les disciplines médicales interventionnelles, le maintien des activités chirurgicales lourdes, la
+réunion de la maternité niveau 3 actuellement distante et l’hôpital d’enfants, l’augmentation de la capacité de
+réanimation pédiatrique de recours, le développement de l’ambulatoire pédiatrique. Le patrimoine architectural
+est aujourd’hui hétérogène avec les bâtiments très récents et d’autres ne correspondant plus totalement aux
+besoins des patients et des professionnels. Une vaste opération de modernisation immobilière a débuté par
+l’ouverture du biogénopôle en 2023, va se poursuivre par la mise en service du nouveau bâtiment du SAMU
+zonal et du Centre antipoison en 2025 (travaux débutés), puis du nouveau bâtiment Femme, Parents, Enfants
+en 2028, la plateforme ambulatoire d’oncologie en 2028 et la fin de la rénovation et de restructuration du plus
+grand bâtiment en 2030 (travaux débutés), dans un contexte budgétaire et financier très contraint et tendu.
+L’APHM a défini ses orientations stratégiques en cohérence avec son territoire. Elle participe aux projets
+territoriaux de parcours dans le cadre du GHT avec de très nombreuses filières organisées, politique « d’aller
+vers » les établissements médico-sociaux et la médecine de ville (commission ville-hôpital, collaboration entre
+pédiatrie et équipe de liaison de pédopsychiatrie). Elle a des relations avec les cliniques avec une stratégie de
+débord pour les moments de tension dans les secteurs de soins critiques notamment. Elle participe à la
+coordination des parcours sur le territoire et hors territoire dans le cas d’activités de recours. L’Hôpital de la
+Timone est un établissement de recours pour d’autres CHU pour certaines maladies rares par exemple. Pour
+les admissions en urgence dans les unités spécialisées, l’APHM a mis en place des modalités de prise en
+charge rapide déclinée sur la Timone (exemples : SAS aux urgences, intervention de l’équipe mobile de
+gériatrie aux urgences, SOS mains, en cardiologie la mise en place d’une équipe mobile d’assistance
+circulatoire qui va chercher les patients sur le territoire pour les hospitaliser rapidement en chirurgie ou
+réanimation). Elle contribue à prévenir les passages évitables des personnes âgées aux urgences générales
+(SAS aux urgences, intervention de l’équipe mobile de gériatrie aux urgences, hotline personnes âgées avec
+une infirmière de pratique avancée). Les modalités de communication permettent aux usagers et aux médecins
+de ville de contacter aisément l’établissement (exemple : en pédiatrie de spécialités, numéros directs en
+neurologie et en pneumologie à disposition des correspondants de ville et autres hôpitaux, messagerie
+sécurisée sur tout le site) ; néanmoins les professionnels ne connaissent pas toujours les types de documents
+du dossier patient reversé au DMP. L’établissement promeut la recherche clinique en son sein et en lien avec
+d’autres acteurs du territoire (structuration territoriale depuis 2022, plus de 2000 articles publiés par an, plus de
+1900 programmes de recherche en cours, recherche para médicale lauréate, association des établissements
+du GHT et du CLCC à certains programmes de recherche). L’APHM favorise l’engagement des patients
+individuellement et collectivement. Cette volonté institutionnelle se traduit à la Timone par la promotion de
+toutes les formes de recueil de l’expression du patient (exploitation d’e-satis notamment, développement des
+PREMS et des PROMS). Le site commence dans de nombreux secteurs à mobiliser les actions d’expertise des
+patients (patients pairs dans les programmes d’éducation thérapeutique par exemple, enquête sur 200 patients
+ 
+20 
+HAS · AP-HM - HÔPITAL DE LA TIMONE · Mai 2024
+sur la Timone pour la mise en place de repas végétariens, plateforme collaborative pour le projet architectural
+2030, charte de l’inclusion de l’usager dans les projets APHM) ; l’impact des intégrations de l’expertise des
+patients n’est pas encore réalisé et les patients ne participent pas toujours aux démarches collectives de
+développement et d’amélioration des pratiques. La Timone a une communication centrée sur le patient.
+L’APHM a engagé une politique de bientraitance déclinée sur la Timone (exemples : charte de bientraitance,
+formations des professionnels, démarche pour mieux gérer l’agitation et les chutes de patients dans le secteur
+de cardiologie, soins de support en oncologie). La Timone participe au repérage et à la prise en charge des
+maltraitances éventuelles subies par les patients et lutte contre la maltraitance en son sein (circuits d’alerte
+connus des professionnels, outils de repérage, interventions du service social pour les patients vulnérables et
+des psychologues). La Timone assure l’accessibilité de ses locaux aux personnes vivant avec un handicap
+locomoteur mais certains bâtiments anciens non encore rénovés ou certains accès extérieurs aux bâtiments
+permettent difficilement l’accessibilité notamment aux personnes vivant avec un handicap sensoriel (exemples :
+bâtiments de dermatologie et d’oncologie). La Timone favorise l’accès aux soins des personnes vulnérables
+avec une intervention du service social rapide sur cette population. Le site s’est organisé pour permettre au
+patient d’accéder rapidement à son dossier ; cependant l’établissement n’informe pas le patient de son droit à
+demander de ne pas alimenter son DMP. La Timone favorise l’accès aux innovations pour les patients
+(nombreux centres de compétences et de référence, y compris pour les maladies rares). Le site implique les
+représentants des usagers et des associations de patients dans ses instances et dans la vie institutionnelle
+(une CDU à l’APHM et une commission locale des usagers sur chaque site dont la Timone, présence dans de
+nombreuses sous-commissions de la CME et des groupes de travail, projet des usagers de l’APHM élaboré en
+2022). La gouvernance de l’APHM fait preuve de leadership ; cette capacité à conduire les collectifs
+professionnels se déclinent au niveau de la Timone. Le management institutionnel et de site fonde son
+management sur la qualité et la sécurité des soins : politique qualité/sécurité déclinée en plans d’actions
+institutionnels et de secteurs d’activité, implication forte des instances, binômes cadre de santé et chef de
+service co-animateurs des démarches qualité/sécurité, tableaux de bord par services ; une majorité des
+professionnels rencontrés savent citer des actions du plan qualité en lien avec leurs activités. La culture de
+sécurité des soins est soutenue (évaluation régulière de la culture sécurité au niveau des services avec un
+score annuel et un benchmarking par pôle et pour le site). L’adéquation ressources humaines/qualité-sécurité
+des prises en charge est pilotée ; de nombreux dispositifs concernant l’accueil, l’intégration et la formation des
+professionnels médicaux et non médicaux, les pools de remplacement ont permis de fidéliser et de recruter des
+professionnels après une période particulièrement difficile durant laquelle les postes vacants ont obligé le site
+de la Timone à fermer des lits et des services. Ces recrutements ont permis depuis le deuxième semestre 2023
+de combler la quasi-totalité des postes vacants et de sécuriser l’ensemble des services et des lits réouverts.
+Les responsables médicaux et paramédicaux d’équipes bénéficient de formations ou de coaching en
+management L’APHM et plus spécifiquement la Timone favorise le travail en équipe et le développement des
+compétences. La gouvernance impulse le travail en équipe sous différentes formes : temps dédié dans la
+plupart des services, réflexion et mise en œuvre d’une synchronisation des temps médicaux et non médicaux,
+refonte de l’organisation dans le secteur de pédiatrie et aux blocs opératoire, plus de 50 projets déposés par les
+services pour 2023-2024 relatifs à l’engagement collectif sur différents sujets tels que l’attractivité, le
+développement durable ou le management. La gouvernance impulse et soutient des démarches spécifiques
+d’amélioration du travail en équipe (trois équipes médicales accréditées, d’autres en cours). Les connaissances
+et les compétences individuelles et collectives des équipes sont assurées : évaluation individuelle des
+professionnels non médicaux et début d’une évaluation individuelle des professionnels médicaux, recherche de
+l’adéquation entre les missions et les compétences des professionnels ; néanmoins la plupart des équipes
+rencontrées n’ont pas eu de propositions de programme intégrés d’acquisition et de maintien de compétences.
+L’APHM promeut et soutient le recours au questionnement éthique par l’ensemble des acteurs ; un espace
+éthique est à la disposition des professionnels et des gouvernances des différents sites. A la Timone les
+professionnels sont régulièrement sensibilisés au questionnement éthique, peuvent en parler en réunion
+ 
+21 
+HAS · AP-HM - HÔPITAL DE LA TIMONE · Mai 2024
+d’équipe et staffs (exemple : en spécialités pédiatriques, réunion pluridisciplinaire pour les patients pouvant
+relever un arrêt de soins) ; ils font appel en cas de besoin aux ressources extérieures en particulier l’équipe
+mobile de soins palliatifs. L’APHM met en œuvre une politique d’amélioration de la qualité de vie au travail,
+concerté avec les instances représentatives des professionnels et reposant sur un questionnaire de satisfaction
+des professionnels ; cette politique se traduit à la Timone par des espaces temps de discussion collectives, des
+recherches de solutions visant à améliorer l’organisation du travail dans les unités et des dispositifs d’écoute
+pour un soutien psychologique ; des actions visant l’accueil et l’intégration des professionnels sont soulignées
+par les professionnels comme étant des éléments de qualité de vie professionnelle, ainsi que les salles de
+repos, la salle de sport ou la salle « zen ». Plusieurs organisations sont en place (exemple : une commission
+QVT pour les professionnels médicaux). Les professionnels de nuit peuvent se référer à l’encadrement
+paramédical mais aussi à l’encadrement médical (exemple en chirurgie traumatologie et rachis). La
+gouvernance met en place des mesures de gestion des difficultés interpersonnelles et des conflits : une
+commission de gestion des difficultés interpersonnelles, médiations, mentorat. L’APHM dispose d’une réponse
+adaptée et opérationnelle aux risques auxquels elle peut être confrontée. La gestion des tensions hospitalières
+et des situations sanitaires exceptionnelles est pilotée au niveau de l’APHM et déclinée sur le site de la Timone
+avec une direction médico-administrative de crise, des entraînements réguliers avec RETEX. La prévention des
+atteintes aux personnes et aux biens est maîtrisée (plan de sécurisation à jour, responsables locaux de
+sécurité, accès protégés, professionnels formés aux règles de sécurité et équipés de matériels de protection) ;
+pour autant certains secteurs hébergeant des patients à risque de fugue par exemple ne sont pas
+complètement sécurisés. Les risques environnementaux et enjeux du développement durable sont maîtrisés :
+axe fort du projet d’établissement en cours de finalisation sur l’écologie dans le soin et autour du soin,
+organisation institutionnelle sur ces thématiques, référent et comité de pilotage développement durable sur
+chaque site dont la Timone, nombreuses actions impliquant les professionnels, tableaux de bord par secteur
+d’indicateurs de développement durable ; le circuit des déchets est majoritairement conforme aux règles
+d’hygiène et de tri. La prise en charge des urgences vitales est maîtrisée dans l’enceinte de la Timone : numéro
+d’appel unique et connu des professionnels, chariots dédiés, accessibles et vérifiés, évaluation du dispositif ;
+les formations AFGSU ont repris après la période Covid ; il n’y a pour l’instant d’exercices de simulation que
+dans certains secteurs de soins critiques (exemple en réanimation cardiaque ou chirurgie de la main). L’APHM
+développe une dynamique d’amélioration continue de la qualité des soins qui se traduit à la Timone d’abord par
+une mobilisation des équipes dans la maîtrise des bonnes pratiques (implication des instances du site, travail
+en équipe sur les actions d’amélioration des prises en charge de patients) ; pour autant tous les secteurs n’ont
+pas réalisé d’évaluation de leur activité lors de revue de pertinence des admissions et des séjours. Le point de
+vue du patient est pris en compte dans le programme d’amélioration continue de la qualité ; cependant les
+professionnels rencontrés ne connaissent pas les avis et recommandations issues de la CDU de l’APHM ou du
+comité local des usagers. Les indicateurs qualité et sécurité des soins sont analysés, exploités et communiqués
+au niveau de l’APHM et de la Timone ; les professionnels se sont approprié ces indicateurs ou ceux spécifiques
+à leur service. De même, la survenue d’évènements indésirables liés aux soins sont analysés au travers un
+outil informatique de l’APHM piloté par le comité des vigilances et des risques, exploités et communiqués à la
+Timone. Les EIG sont déclarés et font l’objet d’une analyse approfondie. L’organisation en aval des urgences
+adultes et pédiatriques est analysée et s’améliore pour assurer un parcours intrahospitalier de qualité en toute
+sécurité. L’accréditation des médecins est promue, plusieurs équipes étant déjà accréditées ainsi que de
+nombreux professionnels médicaux. La HAS confirme la qualité des soins et décerne la certification pour 4 ans.
+Une nouvelle visite sera programmée dans l’année qui précède cette échéance. Dans l’intervalle, la HAS
+encourage prioritairement l’établissement à : Pérenniser le bon usage et l’analyse de la check list au bloc ;
+Homogénéiser l’analyse des résultats cliniques au sein des différentes unités ; Développer la recherche de
+l’expérience patient.   
+ 
+22 
+HAS · AP-HM - HÔPITAL DE LA TIMONE · Mai 2024
+Table des Annexes
+Annexe 1.    Liste des établissements géographiques rattachées à la démarche
+Annexe 2.    Synthèse des activités réalisées par l’établissement en 2024
+Annexe 3.    Programme de visite
+ 
+23 
+HAS · AP-HM - HÔPITAL DE LA TIMONE · Mai 2024
+Annexe 1.    Liste des établissements géographiques rattachées à la démarche
+Type de structure
+N° FINESS
+Nom de l’établissement
+Adresse
+Établissement juridique
+130786049
+ASSISTANCE PUBLIQUE
+DES HOPITAUX DE
+MARSEILLE
+80 rue brochier
+13005 Marseille 05eme FRANCE
+Établissement principal
+130783293
+APHM-HOPITAL DE LA
+TIMONE/ADULTES
+264 rue saint pierre
+13385 Marseille Cedex 5 FRANCE
+Établissement
+géographique
+130804297
+APHM-HOPITAL DE LA
+TIMONE ENFANTS
+264 rue saint pierre
+13005 Marseille FRANCE
+ 
+24 
+HAS · AP-HM - HÔPITAL DE LA TIMONE · Mai 2024
+Annexe 2.    Synthèse des activités réalisées par l’établissement en 2024
+Catégorie / Champs d'applicabilité / Donnée de profil
+Valeur
+Autorisations
+ 
+Urgences
+ 
+Existence d'un soignant d'accueil et d'orientation
+Oui
+Si oui, l'accueil et l'orientation sont réalisés par IAO (infirmière d'accueil et
+d'orientation) ou par MAO (médecin d'accueil et d'orientation)
+Oui
+Existence de Structure des urgences générales
+Oui
+Existence de Structure des urgences pédiatriques
+Oui
+Hospitalisation à domicile
+ 
+Présence d’une astreinte opérationnelle soignante H24 et 7/7 (IDE se déplaçant
+au domicile)
+Non
+Autorisation de Médecine en HAD
+Non
+Autorisation d' Obstétrique en HAD
+Non
+Autorisation de SMR en HAD
+Non
+Autorisation de Prise en charge du cancer en HAD
+Non
+Tout l'établissement
+ 
+Existence d'une permanence d’accès aux soins de santé (PASS) dans votre
+établissement
+Oui
+Existence d'une solution d'informatisation du circuit du médicament à la PUI
+Oui
+Existence d'Unité de préparation des médicaments de chimiothérapie
+anticancéreuse
+Oui
+SAMU-SMUR
+ 
+Existence de SMUR général
+Oui
+Existence de SMUR pédiatrique
+Oui
+Existence d'Antenne SMUR
+Non
+Existence d'un SAMU
+Oui
+Soins critiques
+ 
+Présence de service de Réanimation (y compris soins intensifs et surveillance
+continue)
+Oui
+Présence de Réanimation enfant (hors néonatalogie)
+Oui
+ 
+25 
+HAS · AP-HM - HÔPITAL DE LA TIMONE · Mai 2024
+Présence d'Unité de soins intensifs en cardiologie (USIC)
+Oui
+Présence d'Unité de surveillance continue (SC) adulte
+Oui
+Présence d'Unité de surveillance continue (SC) enfant
+Oui
+Médecine
+ 
+Autorisation de Traitement de l'insuffisance rénale chronique (hors péritonéale) en
+centre
+Non
+Autorisation de Traitement de l'insuffisance rénale chronique (péritonéale)
+Non
+Patient atteint d'un cancer
+ 
+Autorisation de Traitement des affections cancéreuses par chimiothérapie
+Oui
+Autorisation de Traitement des affections cancéreuses par radiothérapie (dont
+curiethérapie)
+Oui
+Chirurgie et interventionnel
+ 
+Autorisation de Chirurgie cardiaque
+Oui
+Autorisation d'Activité interventionnelle en cardiologie
+Oui
+Autorisation de Neurochirurgie
+Oui
+Autorisation d'Activité interventionnelle en neurologie
+Oui
+Autorisation d'Activité de greffe
+Oui
+Activité Urgences
+ 
+Urgences
+ 
+Nombre total de passages aux urgences dans l'année pour des patients de plus
+de 80 ans
+9,674
+Nombre de passages aux urgences générales
+86,237
+Nombre de passages aux urgences pédiatriques
+38,143
+SAMU-SMUR
+ 
+Nombre de Dossiers de Régulation Médicale (DRM)
+362,453
+Activité Hospitalière MCO
+ 
+Soins de longue durée
+ 
+Nombre de patients PEC durant l'année écoulée par une équipe mobile de
+gériatrie
+0
+Médecine
+ 
+Nombre de lit en Hospitalisation complète en Médecine
+727
+ 
+26 
+HAS · AP-HM - HÔPITAL DE LA TIMONE · Mai 2024
+Chirurgie et interventionnel
+ 
+Nombre de lit en Hospitalisation complète en Chirurgie
+431
+Maternité
+ 
+Nombre de lit en Hospitalisation complète en Gynécologie-Obstétrique
+0
+Ambulatoire
+ 
+Nombre de places en Hospitalisation partielle en Médecine
+131
+Nombre de places en Hospitalisation partielle en Chirurgie
+37
+Nombre de places en hospitalisation partielle en Gynécologie-Obstétrique
+0
+Tout l'établissement
+ 
+Nombre de séances en hospitalisation partielle en Médecine
+43,457
+Enfant et adolescent
+ 
+Nombre de lit en Hospitalisation complète en Pédiatrie
+212
+Nombre de places en Hospitalisation partielle en Pédiatrie
+53
+Patient âgé
+ 
+Nombre de lit en Hospitalisation complète en Gériatrie
+0
+Nombre de places en Hospitalisation partielle en Gériatrie
+0
+Urgences
+ 
+Nombre de lit en UHCD
+19
+Activité Hospitalière SMR
+ 
+Soins Médicaux et de Réadaptation
+ 
+Nombre de lit en Hospitalisation complète en SMR
+0
+Nombre de places en Hospitalisation partielle en SMR
+0
+Activité Hospitalière SLD
+ 
+Soins de longue durée
+ 
+Nombre de lit en Hospitalisation complète en SLD
+0
+Activité Accident Vasculaires Cérébraux (AVC)
+ 
+Chirurgie et interventionnel
+ 
+Nombre de lits de l'Unité Neuro-Vasculaire (UNV)
+26
+Activité Hospitalière PSY
+ 
+ 
+27 
+HAS · AP-HM - HÔPITAL DE LA TIMONE · Mai 2024
+Psychiatrie et santé mentale
+ 
+Nombre de lit en Psychiatrie générale en hospitalisation à temps plein
+0
+Nombre de lit en Psychiatrie infanto-juvénile en hospitalisation à temps plein
+0
+Nombre de lit en Psychiatrie en milieu pénitentiaire en hospitalisation à temps
+plein
+0
+Nombre Total de lit en Psychiatrie en hospitalisation à temps plein
+0
+Nombre de lit en Psychiatrie générale en hospitalisation de jour
+0
+Nombre de lit en Psychiatrie infanto-juvénile en hospitalisation de jour
+0
+Nombre de lit en Psychiatrie en milieu pénitentiaire en hospitalisation de jour
+0
+Nombre Total de lit en Psychiatrie en hospitalisation de jour
+0
+Nombre de CATTP en Psychiatrie générale
+0
+Nombre de CATTP en Psychiatrie infanto-juvénile
+0
+Nombre de CATTP en Psychiatrie en milieu pénitentiaire
+0
+Nombre Total de CATTP en Psychiatrie
+0
+Nombre de CMP en Psychiatrie générale
+0
+Nombre de CMP en Psychiatrie infanto-juvénile
+0
+Nombre Total de CMP en Psychiatrie
+0
+Sites opératoires et salles d'intervention
+ 
+Chirurgie et interventionnel
+ 
+Nombre total de salles (d'intervention ou d'exploration) des sites (calculé)
+42
+Ambulatoire
+ 
+Nombre de salles dédiées à la chirurgie ambulatoire
+0
+Activité Hospitalière HAD
+ 
+Hospitalisation à domicile
+ 
+Nombre total de patients pouvant être pris en charge simultanément en HAD
+0
+ 
+28 
+HAS · AP-HM - HÔPITAL DE LA TIMONE · Mai 2024
+Annexe 3.     Programme de visite
+Nb
+Méthode
+Sous-méthode
+Champs d'applicabilité
+Description traceur
+1
+Patient
+traceur
+Chirurgie et interventionnel
+Hospitalisation complète
+Enfant et adolescent
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+2
+Patient
+traceur
+Chirurgie et interventionnel
+Hospitalisation complète
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+3
+Patient
+traceur
+Chirurgie et interventionnel
+Hospitalisation complète
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+4
+Patient
+traceur
+Médecine
+Ambulatoire
+Patient âgé
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+5
+Patient
+traceur
+Médecine
+Hospitalisation complète
+Adulte
+Patient en situation de handicap
+Programmé
+ 
+29 
+HAS · AP-HM - HÔPITAL DE LA TIMONE · Mai 2024
+Tout l'établissement
+6
+Traceur
+ciblé
+PSC
+7
+Traceur
+ciblé
+Prescription intégrant, a minima, un
+antibiotique injectable
+8
+Traceur
+ciblé
+PSC
+9
+Parcours
+traceur
+Soins critiques
+Hospitalisation complète
+Adulte
+Enfant et adolescent
+Patient âgé
+Patient en situation de handicap
+SAMU-SMUR
+Tout l'établissement
+10
+Traceur
+ciblé
+Prescription intégrant, a minima, un
+médicament à risque per os
+11
+Parcours
+traceur
+Médecine
+Ambulatoire
+Enfant et adolescent
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+12
+Traceur
+ciblé
+ANTIBIOPROPH
+13
+Traceur
+ciblé
+EI
+14
+Traceur
+ciblé
+SAMU / SMUR / Urgences générales
+15
+Traceur
+ciblé
+PSL
+Patient
+traceur
+Médecine
+Ambulatoire
+Adulte
+ 
+30 
+HAS · AP-HM - HÔPITAL DE LA TIMONE · Mai 2024
+16
+Patient atteint d'un cancer
+Programmé
+Tout l'établissement
+17
+Audit
+système
+18
+Audit
+système
+19
+Patient
+traceur
+Médecine
+Hospitalisation complète
+Patient âgé
+Patient en situation de handicap
+Urgences
+Tout l'établissement
+20
+Patient
+traceur
+Chirurgie et interventionnel
+Ambulatoire
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+21
+Patient
+traceur
+Médecine
+Ambulatoire
+Enfant et adolescent
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+22
+Patient
+traceur
+Médecine
+Hospitalisation complète
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+Patient
+traceur
+Chirurgie et interventionnel
+Hospitalisation complète
+ 
+31 
+HAS · AP-HM - HÔPITAL DE LA TIMONE · Mai 2024
+23
+Enfant et adolescent
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+24
+Patient
+traceur
+Médecine
+Ambulatoire
+Patient âgé
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+25
+Patient
+traceur
+Chirurgie et interventionnel
+Ambulatoire
+Enfant et adolescent
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+26
+Patient
+traceur
+Chirurgie et interventionnel
+Ambulatoire
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+27
+Patient
+traceur
+Médecine
+Ambulatoire
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+28
+Parcours
+traceur
+Médecine
+Ambulatoire
+Hospitalisation complète
+Enfant et adolescent
+Patient en situation de handicap
+ 
+32 
+HAS · AP-HM - HÔPITAL DE LA TIMONE · Mai 2024
+Programmé
+Tout l'établissement
+29
+Audit
+système
+30
+Patient
+traceur
+Soins critiques
+Hospitalisation complète
+Enfant et adolescent
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+31
+Patient
+traceur
+Médecine
+Hospitalisation complète
+Patient âgé
+Patient en situation de handicap
+Urgences
+Tout l'établissement
+32
+Parcours
+traceur
+Chirurgie et interventionnel
+Soins critiques
+Hospitalisation complète
+Adulte
+Patient âgé
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+33
+Audit
+système
+34
+Audit
+système
+35
+Audit
+système
+36
+Audit
+système
+37
+Audit
+système
+ 
+33 
+HAS · AP-HM - HÔPITAL DE LA TIMONE · Mai 2024
+38
+Patient
+traceur
+Chirurgie et interventionnel
+Hospitalisation complète
+Enfant et adolescent
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+39
+Patient
+traceur
+40
+Patient
+traceur
+Médecine
+Hospitalisation complète
+Adulte
+Patient en situation de handicap
+Urgences
+Tout l'établissement
+41
+Parcours
+traceur
+Chirurgie et interventionnel
+Ambulatoire
+Enfant et adolescent
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+42
+Parcours
+traceur
+Chirurgie et interventionnel
+Ambulatoire
+Adulte
+Patient âgé
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+43
+Patient
+traceur
+Médecine
+Ambulatoire
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+ 
+34 
+HAS · AP-HM - HÔPITAL DE LA TIMONE · Mai 2024
+44
+Patient
+traceur
+Médecine
+Ambulatoire
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+45
+Patient
+traceur
+Soins critiques
+Hospitalisation complète
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+46
+Parcours
+traceur
+Chirurgie et interventionnel
+Soins critiques
+Hospitalisation complète
+Adulte
+Pas de situation particulière
+SAMU-SMUR
+Tout l'établissement
+47
+Patient
+traceur
+Médecine
+Ambulatoire
+Adulte
+Patient atteint d'un cancer
+Programmé
+Tout l'établissement
+48
+Traceur
+ciblé
+PER OP
+49
+Patient
+traceur
+Chirurgie et interventionnel
+Ambulatoire
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+ 
+35 
+HAS · AP-HM - HÔPITAL DE LA TIMONE · Mai 2024
+50
+Traceur
+ciblé
+Priorisation de l'unité de soins où est
+réalisée la transfusion :, Réanimation,
+USC, Orthopédie / Le type de produit est
+laissé à l'appréciation de l'EV
+51
+Patient
+traceur
+Chirurgie et interventionnel
+Hospitalisation complète
+Patient âgé
+Patient en situation de handicap
+Urgences
+Tout l'établissement
+52
+Patient
+traceur
+Médecine
+Hospitalisation complète
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+53
+Patient
+traceur
+Médecine
+Hospitalisation complète
+Patient âgé
+Patient atteint d'un cancer
+Programmé
+Tout l'établissement
+54
+Patient
+traceur
+Médecine
+Hospitalisation complète
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+55
+Patient
+traceur
+Médecine
+Hospitalisation complète
+Enfant et adolescent
+Patient en situation de handicap
+Programmé
+ 
+36 
+HAS · AP-HM - HÔPITAL DE LA TIMONE · Mai 2024
+Tout l'établissement
+56
+Traceur
+ciblé
+ANTIBIO¨PROPH
+57
+Patient
+traceur
+Médecine
+Hospitalisation complète
+Enfant et adolescent
+Patient en situation de handicap
+Urgences
+Tout l'établissement
+58
+Patient
+traceur
+Soins critiques
+Hospitalisation complète
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+59
+Audit
+système
+60
+Traceur
+ciblé
+SAMU / SMUR pédiatriques / Urgences
+pédiatrique
+61
+Audit
+système
+62
+Patient
+traceur
+Médecine
+Ambulatoire
+Enfant et adolescent
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+63
+Patient
+traceur
+Médecine
+Hospitalisation complète
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+ 
+37 
+HAS · AP-HM - HÔPITAL DE LA TIMONE · Mai 2024
+64
+Audit
+système
+65
+Patient
+traceur
+Chirurgie et interventionnel
+Hospitalisation complète
+Adulte
+Pas de situation particulière
+Programmé
+Tout l'établissement
+66
+Parcours
+traceur
+Médecine
+Hospitalisation complète
+Enfant et adolescent
+Patient en situation de handicap
+Urgences
+Tout l'établissement
+67
+Traceur
+ciblé
+Prescription intégrant, a minima, un
+antibiotique injectable
+68
+Audit
+système
+69
+Audit
+système
+70
+Audit
+système
+71
+Patient
+traceur
+Médecine
+Ambulatoire
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+72
+Parcours
+traceur
+Médecine
+Hospitalisation complète
+Adulte
+Patient âgé
+Patient en situation de handicap
+Programmé
+ 
+38 
+HAS · AP-HM - HÔPITAL DE LA TIMONE · Mai 2024
+Tout l'établissement
+73
+Traceur
+ciblé
+Oncologie
+74
+Parcours
+traceur
+Chirurgie et interventionnel
+Médecine
+Hospitalisation complète
+Adulte
+Patient âgé
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+75
+Traceur
+ciblé
+Dispositif médical réutilisable : Endoscopie
+76
+Patient
+traceur
+Médecine
+Hospitalisation complète
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+77
+Traceur
+ciblé
+Dispositif médical réutilisable : Endoscopie
+78
+Patient
+traceur
+Chirurgie et interventionnel
+Hospitalisation complète
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+79
+Patient
+traceur
+Médecine
+Ambulatoire
+Enfant et adolescent
+Patient atteint d'un cancer
+Programmé
+Tout l'établissement
+ 
+39 
+HAS · AP-HM - HÔPITAL DE LA TIMONE · Mai 2024
+80
+Audit
+système
+81
+Parcours
+traceur
+Médecine
+Hospitalisation complète
+Patient âgé
+Patient en situation de handicap
+Urgences
+Tout l'établissement
+82
+Patient
+traceur
+Médecine
+Hospitalisation complète
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+83
+Parcours
+traceur
+Chirurgie et interventionnel
+Médecine
+Ambulatoire
+Hospitalisation complète
+Adulte
+Patient âgé
+Patient atteint d'un cancer
+Programmé
+Tout l'établissement
+84
+Parcours
+traceur
+Chirurgie et interventionnel
+Médecine
+Hospitalisation complète
+Enfant et adolescent
+Patient en situation de handicap
+Urgences
+Tout l'établissement
+85
+Traceur
+ciblé
+Prescription intégrant, a minima, un
+médicament à risque injectable
+Traceur
+psc
+ 
+40 
+HAS · AP-HM - HÔPITAL DE LA TIMONE · Mai 2024
+86
+ciblé
+87
+Traceur
+ciblé
+PER OP
+88
+Parcours
+traceur
+Chirurgie et interventionnel
+Soins critiques
+Hospitalisation complète
+Adulte
+Patient âgé
+Patient en situation de handicap
+Urgences
+Tout l'établissement
+89
+Audit
+système
+90
+Audit
+système
+91
+Audit
+système
+92
+Traceur
+ciblé
+médicament injectable douleur
+93
+Audit
+système
+94
+Traceur
+ciblé
+EI
+95
+Audit
+système
+ 
+41 
+HAS · AP-HM - HÔPITAL DE LA TIMONE · Mai 2024
+© Haute Autorité de santé – Mai 2024

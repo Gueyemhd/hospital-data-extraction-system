@@ -1,0 +1,1490 @@
+MESURER
+& AMÉLIORER LA QUALITÉ
+ 
+RAPPORT DE
+CERTIFICATION
+APHM-HOPITAL NORD
+Chemin des bourrely 
+13915  Marseille
+Validé par la HAS en Juin 2024
+Ce document ainsi que sa référence bibliographique sont téléchargeables sur www.has-sante.fr  
+Haute Autorité de santé – Service communication et information
+5 avenue du Stade de France – 93218 SAINT-DENIS LA PLAINE CEDEX. Tél. : +33 (0)1 55 93 70 00
+© Haute Autorité de santé – Juin 2024
+Sommaire
+ 
+Préambule
+4
+Décision
+7
+Présentation
+8
+Champs d'applicabilité
+9
+Résultats
+10
+Chapitre 1 : Le patient
+11
+Chapitre 2 : Les équipes de soins
+14
+Chapitre 3 : L'établissement
+18
+Table des Annexes
+22
+Annexe 1.    Liste des établissements géographiques rattachées à la démarche
+23
+Annexe 2.    Synthèse des activités réalisées par l’établissement en 2024
+24
+Annexe 3.     Programme de visite
+28
+Préambule
+  
+La certification, mission confiée à la Haute Autorité de Santé (HAS) par les ordonnances de 1996, est une
+procédure d’évaluation externe des établissements de santé publics et privés effectuée par des professionnels
+(des pairs) mandatés par la HAS : les experts-visiteurs. Cette procédure quadri-annuelle, indépendante de
+l’établissement et de ses organismes de tutelle, porte sur le niveau de qualité et de sécurité des soins délivrés
+aux patients. Obligatoire, elle est codifiée à l’article L6113-3 (et suivants) du code de la santé publique.
+ 
+La certification constitue une des modalités de mesure de la qualité des soins en établissements de santé et
+vise l’appropriation des standards de la qualité par les établissements. Elle y favorise également la mise en
+œuvre d’une dynamique d’amélioration de la qualité et de la sécurité des soins. Elle est une certification globale
+et non une certification de toutes les activités de l'établissement. En effet, le dispositif porte sur le
+fonctionnement global de l'établissement et n'a pas vocation à évaluer spécifiquement le fonctionnement de
+chaque secteur d'activité.
+ 
+Elle fournit une évaluation de la qualité et de la sécurité des soins des établissements de santé aux usagers et
+aux Agences régionales de santé (ARS) sans se substituer aux inspections et contrôles de sécurité sanitaire
+menés par ces autorités de tutelle.
+ 
+Cette démarche nationale est réalisée selon des standards internationaux : la procédure de certification est
+elle-même évaluéepar l’International Society for Quality in Health Care via l’International Accreditation Program
+(IAP), le seul programme international qui accrédite les organismes qui accréditent des structures de soins. La
+HAS a obtenu de l’ISQua en 2018 le renouvellement de son accréditation pour son activité de certification.     
+ 
+Une évaluation qui s’appuie sur un référentiel élaboré par la HAS en concertation avec les
+professionnels de santé, les organisations représentatives et les représentants des usagers…
+ 
+Chaque établissement de santé est évalué sur les critères génériques, s’appliquant à tout l’établissement, ainsi
+que sur des critères spécifiques relevant :
+•   de populations spécifiques : enfant et adolescent, patient âgé, personne en situation de handicap,
+•   de modes de prise en charge spécifiques : ambulatoire, hospitalisation à domicile (HAD), SAMU-SMUR,
+urgences, soins critiques (soins continus, soins intensifs et réanimation)
+•   de secteurs d’activités spécifiques : chirurgie et interventionnel, maternité, psychiatrie et santé mentale,
+soins médicaux et de réadaptation (SMR), unité de soins de longue durée (USLD).
+ 
+Ce référentiel, publié sur le site Internet de la HAS, comprend des critères ayant des niveaux d’exigence
+différents :
+•   des critères standards correspondent aux attendus de la certification;
+•   des critères impératifs correspondent à ce que l’on ne veut plus voir au sein d’un établissement de santé. Ils
+ont un impact particulier dans la décision de certification. En effet, siune évaluation de l’un de ces critères est
+négative pour un ou plusieurs de ses éléments d’évaluation, la HAS se réserve le droit de ne pas accorder la
+certification de l’établissement. 
+•   des critères avancés correspondent à des exigences souhaitées mais non exigibles à ce jour. Ils
+correspondent potentiellement aux critères de certification de demain et sont valorisés pour les établissements
+qui peuvent y répondre sous condition d’un niveau minimal sur l’ensemble des critères standards et impératifs. 
+ 
+… et sur des méthodes
+ 
+ 
+4 
+HAS · APHM-HOPITAL NORD · Juin 2024
+•   des patients traceurs pour évaluer la qualité et la sécurité de la prise en charge d’un patient dans
+l’établissement de santé
+•   des parcours traceurs pour évaluer la continuité et la coordination de la prise en charge des patients, le
+travail en équipe et la culture qualité et sécurité au cours d’un parcours de soins défini
+•   des traceurs ciblés pour évaluer la mise en œuvre d’un processus ciblé
+•   des audits systèmes pour évaluer les organisations de l’établissement et s’assurer de leur maîtrise sur le
+terrain
+•   des observations pour évaluer les conditions générales de qualité et de sécurité des soins.
+ 
+Un rapport de certification structuré en 3 chapitres 
+ 
+Les résultats des évaluations réalisées durant une visite de l’établissement par des experts-visiteurs se
+traduisent dans un rapport de visite articulé en cohérence avec les 3 chapitres du référentiel.:
+•   Le premier chapitre concerne directement le résultat pour le patient. Tout au long de sa prise en charge, ses
+droits sont respectés, ses besoins spécifiques pris en compte de la même façon que ses attentes et ses
+préférences. Au-delà, l’engagement du patient est recherché. Son implication comme partenaire de sa prise en
+charge, tout comme celle de ses proches et aidants, est favorisée par l’expression de son point de vue sur son
+expérience et le résultat des soins.
+•   Le deuxième chapitre concerne les équipes de soins, à tous les niveaux. La certification vise à apprécier leur
+capacité à rechercher la pertinence, l’efficacité et la sécurité des soins, à se concerter et se coordonner tout au
+long du parcours du patient. Elle met également l’accent sur la maitrise des risques liés au soin. Les analyses
+des évènements indésirables associés aux soins, notamment les événements indésirables graves ainsi que
+des rapports de certification précédents conduisent à mettre un accent particulier sur le risque infectieux et le
+risque lié aux médicaments.
+•   Le troisième chapitre concerne l’établissement et sa gouvernance (direction et commission/conférence
+médicale d’établissement). Cette dernière favorise l’insertion territoriale en lien avec les autres acteurs de l’offre
+de soins et médico-sociale. Elle impulse une dynamique forte d’amélioration de la qualité et de la sécurité des
+soins qui associe et soutient les équipes, ainsi que les patients, représentants d’usagers et associations de
+malades. 
+ 
+Cette structuration permet l’analyse croisée entre le résultat pour le patient, les pratiques mises en œuvre par
+les équipes de soins et la dynamique impulsée par la gouvernance de l’établissement et du groupement, le cas
+échéant.
+ 
+Une décision et un rapport rendus publics
+ 
+Sur la base du rapport de visite, complété d’éventuelles fiches d’anomalies et des observations de
+l’établissement, la HAS adopte le rapport de certification et rend une décision. La HAS peut prononcer trois
+types de décision :
+une décision de certification valable quatre ans qu’elle peut assortir d’une mention ;
+une décision de non-certification impliquant la mise en œuvre d’une nouvelle procédure dans un délai
+maximum de deux ans ;
+une décision de certification sous conditions ; une nouvelle procédure est alors programmée dans un délai
+compris entre six et douze mois. À l’issue de cette seconde procédure, la HAS constate si l’établissement a
+rempli les conditions pour être certifié. Elle prononce alors une décision de certification, avec ou sans
+mention, ou une décision de non-certification.
+ 
+Le rapport et la décision sont publiés sur le site Internet de la HAS et communiqués à l’autorité de tutelle de
+l’établissement.
+L’établissement doit en assurer la plus large diffusion interne. Il doit notamment la porter à la connaissance des
+instances délibérantes, de la commission ou conférence médicale d’établissement et de la commission des
+usagers.
+ 
+5 
+HAS · APHM-HOPITAL NORD · Juin 2024
+Ce rapport de visite est produit par l’équipe des experts-visiteurs dans un délai d’une quinzaine de jour
+après la fin des évaluations et de la réunion de restitution, il est transmis à l’établissement pour que
+celui-ci puisse formuler ses observations. Il sera remis également à la HAS et fera partie des éléments
+de référence pour l’élaboration du rapport de certification
+ 
+6 
+HAS · APHM-HOPITAL NORD · Juin 2024
+Décision
+Au vu des éléments mentionnés dans le présent rapport, issus de la visite sur site, la Haute Autorité de santé
+decide la certification de l'établissement avec mention.
+ 
+7 
+HAS · APHM-HOPITAL NORD · Juin 2024
+Présentation
+APHM-HOPITAL NORD
+Adresse
+Chemin des bourrely
+13915 Marseille FRANCE
+Département / Région
+Bouches-du-Rhône / Provence-Alpes-Côte d'Azur
+Statut
+Public
+Type d’établissement
+Centre Hospitalier Universitaire
+Établissement(s) juridique(s) rattaché(s) à cette démarche (la liste des établissements géographiques
+se trouve en annexe 1)
+ 
+Type de structure
+N° FINESS
+Nom de l’établissement
+Adresse
+Établissement juridique
+130786049
+ASSISTANCE PUBLIQUE
+DES HOPITAUX DE
+MARSEILLE
+80 rue brochier
+13005 Marseille 05eme FRANCE
+Synthèse des activités réalisées par l’établissement au 2024 
+Vous trouverez en annexe 2 l’ensemble des activités réalisées par l’établissement.
+ 
+8 
+HAS · APHM-HOPITAL NORD · Juin 2024
+Champs d'applicabilité
+Champs d'applicabilité
+Adulte
+Ambulatoire
+Chirurgie et interventionnel
+Enfant et adolescent
+Hospitalisation complète
+Maladie chronique
+Maternité
+Médecine
+Pas de situation particulière
+Patient âgé
+Patient atteint d'un cancer
+Patient en situation de handicap
+Patient en situation de précarité
+Programmé
+Psychiatrie et santé mentale
+SAMU-SMUR
+Soins critiques
+Soins Médicaux et de Réadaptation
+Tout l'établissement
+Urgences
+ Au regard du profil de l’établissement,126  critères lui sont applicables
+  
+ 
+9 
+HAS · APHM-HOPITAL NORD · Juin 2024
+Résultats
+Chapitre
+Chapitre 1
+Le patient
+Chapitre 2
+Les équipes de soins
+Chapitre 3
+L'établissement
+ 
+10 
+HAS · APHM-HOPITAL NORD · Juin 2024
+Chapitre 1 : Le patient
+97% 
+du score
+maximal
+Objectifs
+1.1
+Le patient est informé et son implication est recherchée.
+92%
+1.2
+Le patient est respecté.
+98%
+1.3
+Les proches et/ou aidants sont associés à la mise en œuvre du projet de soins avec l’accord du
+patient
+98%
+1.4
+Les conditions de vie et de lien social du patient sont prises en compte dans le cadre de sa
+prise en charge
+100%
+  Le patient reçoit une information claire, adaptée à son degré de discernement sur son état de santé, ses soins
+et les hypothèses et confirmations diagnostiques ; les supports d’information sont nombreux et accessibles et
+les patients rencontrés témoignent des informations fournies sans qu’ils le demandent par les différents
+professionnels les prenant en charge, avec les explications utiles pour le déroulé de leur parcours (exemples :
+parcours RACC en chirurgie, parcours greffe de poumon, parcours de la future maman, tableau blanc en
+réanimation néonatalogie permettant aux parents et aux soignants de noter des informations, photos pour
+montrer au patient les soins qui vont lui être prodigués en oncologie) ; cependant ils ne sont pas toujours
+informés du délai de leur prise en charge. Le patient exprime son consentement libre et éclairé sur son projet
+de soins et ses modalités (évaluation bénéfice/risque partagée, préférences du patient recherchée). L’enfant ou
+ 
+11 
+HAS · APHM-HOPITAL NORD · Juin 2024
+l’adolescent est invité à exprimer son avis sur le projet de soins ; par exemple, en chirurgie pédiatrique,
+l’intervention est expliquée à l’enfant en capacité de comprendre avec moyens pour faciliter sa compréhension
+(doudou, masque d’anesthésie avec des images, tableau ludique, voitures téléguidées). Le patient bénéficie de
+messages renforçant sa capacité à agir pour sa santé ; de nombreux supports d’information et de
+communication sous des formes diverses de messages de santé publique, accompagnées de propositions de
+consultations spécialisées (addictologie, sexologie par exemple) ou de programme d’éducation thérapeutique.
+Le patient bénéficie d’actions pour devenir acteur de sa prise en charge (exemples : proposition de visite du
+service en amont en néonatalogie, information avant la naissance sur l’allaitement). Les futurs parents
+discutent d’un projet de naissance avec l’équipe soignante dès le début de la grossesse. Le patient peut
+désigner la personne à prévenir et la personne de confiance de son choix. Le patient, en prévision de sa sortie,
+est informé des consignes de suivi pour sa prise en charge. Le patient est informé des dispositifs médicaux qui
+lui sont implantés durant son séjour et reçoit les consignes de suivi appropriées (feuille de surveillance des DMI
+aux blocs opératoires, numéro DMI scanné et carte d’implant remise au patient). Le patient est informé des
+produits sanguins labiles qui lui sont administrés (courrier d’information pré et post transfusion avec
+ordonnance de RAI). En ambulatoire, le patient reçoit les informations spécifiques aux modalités de sa prise en
+charge (exemples : passeport ambulatoire, film disponible sur le site internet du CHU sur l’organisation de
+l’unité de chirurgie ambulatoire, appel à J-3 et J-3 de l’IDE). Si l’établissement a prévu de tracer les directives
+anticipées dans le dossier du patient et a mis à disposition de celui-ci des documents d’information et une
+explication dans le livret d’accueil, certains patients rencontrés disent ne pas être informés de leur droit à
+rédiger des directives anticipées ; Le patient a la possibilité, en situation de fin de vie, de faire valoir au plus tôt
+sa décision d’accéder aux soins palliatifs. Le patient est informé sur les représentants des usagers et les
+associations de bénévoles qui peuvent l’accompagner pour son retour à domicile ; pour autant les patients
+rencontrés lors de la visite ne connaissent pas toujours les coordonnées des représentants des usagers ni les
+structures qui peuvent l’accompagner à son retour à domicile. Le patient est invité à faire part de son
+expérience et à exprimer sa satisfaction. En plus d’e-satis, le CHU a mis en place de nombreux questionnaires
+spécifiques de satisfaction L’expérience patient est recueillie sous différentes modalités, par exemple la mise
+en place d’un film « parents avant l’heure » explicitant la prise en charge des parents, ou encore un
+questionnaire spécifique en orthopédie de retour d’expérience patient pour le levé précoce en salle de SSPI par
+le kinésithérapeute RAC. Pour autant la plupart des patients rencontrés expriment le fait de ne pas être
+informés des modalités pour exprimer leur satisfaction, soumettre une réclamation ou déclarer un évènement
+indésirable associé aux soins. Le patient reçoit une information claire et adaptée à son degré de discernement
+sur les modalités de sa prise en charge (livrets d’accueil spécifiques dans de nombreux services, consignes
+pré, per et post hospitalisations) ; néanmoins le patient ne sait pas toujours que l’équipe alimente et consulte
+son DMP et qu’il ne doit pas échanger avec l’équipe via une messagerie non sécurisée et ce malgré les
+informations fournis par l’établissement dans le livret d’accueil et affichages. Le patient bénéficie du respect de
+son intimité et de sa dignité (matériels type paravents dans les chambres à deux lits, en SSPI ou aux urgences,
+journée du silence pour sensibiliser les soignants eu respect d’un environnement calme en néonatalogie).
+Cependant si les pratiques respectueuses sont partout constatées, certains locaux ou bâtiments anciens ne
+facilitent pas toujours le respect de ses droit (exemples : peu de toilettes et douches dans certains services,
+notamment dans le secteur de médecine, exiguïté des locaux aux urgences adultes) ; le projet architectural est
+mis en œuvre progressivement notamment avec l’ouverture en 2027 d’un nouveau bâtiment cardio vasculaire
+et en 2030 la fin des opérations de rénovation du bâtiment principal. Le patient mineur bénéficie d’un
+environnement adapté locaux spécifiques aux urgences, en SSPI, en unité de chirurgie ambulatoire, formations
+des professionnels à la communication spécifique, matériels adaptés). Le patient vivant avec un handicap
+bénéficie du maintien de son autonomie tout au long de son séjour, de même que le patient âgé (réhabilitation
+très précoce favorisée dès la SSPI avec intervention des kinésithérapeutes, ergothérapeutes et ostéopathes,
+évaluation de l’autonomie dès l’entrée en médecine interne). Le patient bénéficie du respect de la
+confidentialité des informations le concernant. Le recours à la contention mécanique relève d’une décision
+ 
+12 
+HAS · APHM-HOPITAL NORD · Juin 2024
+médicale argumentée, expliquée au patient quand cela s’avère possible, réévaluation, contention limitée dans
+le temps en HUSI). Le patient reçoit une aide pour ses besoins élémentaires, même en situation de tension
+d’activité. Le patient bénéficie de soins visant à anticiper et soulager rapidement sa douleur (nombreuses
+échelles utilisées et adaptées, prescriptions y compris les « si besoin » complètes, réévaluation régulière,
+formations des professionnels, méthodes douces de prise en charge type hypnoanalgésie ou à l’hypnose
+conversationnelle, apprentissage des parents pour reconnaître les signes de douleur en néonatalogie). Avec
+l’accord du patient les proches et/ou aidants peuvent s’impliquer dans la mise en œuvre du projet de soins ; par
+exemple un livret d’accueil est à disposition des familles de la personne hospitalisée en médecine interne et
+réanimation et un temps dédié est réservé quotidiennement à l’information des proches. La présence des
+proches et aidants est facilitée en dehors des heures de visite lorsque la situation l’exige et selon des modalités
+adaptées aux services (salon des familles, horaires souples, voire accueil 24h/24 comme en USIC, agent
+d’accueil en réanimation polyvalente, présence facilitée des parents en SSPI, mise à disposition de studios
+pour l’hébergement des proches avec un réseau également d’hospitalité chez l’habitant. Les conditions de vie
+et de lien social du patient sont partout prises en compte dans le cadre de sa prise en charge. Le patient en
+situation de précarité sociale bénéficie d’un accompagnement pour une orientation vers les services sociaux et
+associations adéquates (repérage de la précarité aux urgences adultes et pédiatriques, staffs médico-psycho-
+social hebdomadaire dans de nombreux services, présence d’IDEC dans tous les services favorisant les liens
+avec les services adéquats extérieurs, liens avec armée du salut, service social de secteur, PMI, etc). Le
+patient vivant avec un handicap ou ses proches et aidants exprime ses besoins et préférences pour une prise
+en compte dans son projet de soins. Le patient mineur atteint d’une maladie chronique ou vivant avec un
+handicap bénéficie de modalités de prise en charge intégrant les préoccupations sociales ; éducatives et
+scolaires adaptées à la situation exemple : présence d’un professionnel de l’Education Nationale pour la prise
+en charge scolaire des enfants si besoin). Le patient détenu atteint de troubles psychiques bénéficie d’un panel
+de soins et d’activités adaptés et diversifiés avec accompagnement personnalisé en UHSA. Les conditions de
+vie habituelles sont prises en compte notamment pour la préparation de la sortie (exemple en néonatalogie
+évaluation des conditions de vie et accompagnement des familles à la sortie de l’hospitalisation du prématuré,
+équipe mobile dans les quartiers défavorisés).   
+ 
+13 
+HAS · APHM-HOPITAL NORD · Juin 2024
+Chapitre 2 : Les équipes de soins
+98% 
+du score
+maximal
+Objectifs
+2.1
+La pertinence des parcours, des actes et des prescriptions est argumentée au sein de l’équipe
+100%
+2.2
+Les équipes sont coordonnées pour prendre en charge le patient de manière
+pluriprofessionnelle et pluridisciplinaire tout au long de sa prise en charge
+98%
+2.3
+Les équipes maîtrisent les risques liés à leurs pratiques
+97%
+2.4
+Les équipes évaluent leurs pratiques notamment au regard du suivi des résultats cliniques de
+leur patientèle
+97%
+  La pertinence des décisions de prise en charge est argumentée au sein des équipes (nombreuses RCP pour
+des prise en charges spécifiques ou complexes, en chirurgie bariatrique par exemple). La pertinence de
+l’orientation du patient par le SAMU de l’APHM et le SMUR de l’hôpital Nord est argumentée avec les équipes
+d’aval. La pertinence de l’admission et du séjour en SMR est argumentée et réévaluée au sein des équipes. En
+hospitalisation traditionnelle, la prescription d’une HAD (soit celle de l’APHM, soit celles d’établissements
+privés) est envisagée dans le cadre du projet de soins dès l’admission du patient. La pertinence du recours à
+des mesures restrictives de liberté est argumenté et réévaluée. La pertinence des prescriptions d’antibiotiques
+est argumentée et réévaluée (nombreux protocoles, formations des prescripteurs, référents interne ou externe
+antibiothérapie, audits réguliers sur les prescriptions et la consommation, logo apparaissant sur le DPI pour
+ 
+14 
+HAS · APHM-HOPITAL NORD · Juin 2024
+attirer l’attention sur la nécessité de réévaluer à 48h et appel du pharmacien si besoin, staffs infectieux en
+chirurgie, orthopédique). La pertinence de la transfusion des produits sanguins labiles est argumentée (analyse
+bénéfice risque tracée, évaluation régulière de la pertinence des transfusions). Le dossier médical
+préhospitalier des SMUR comporte tous les éléments nécessaires à la poursuite de la prise en charge du
+patient (dossier disponible en temps réel aux urgences adultes et pédiatriques). Les équipes des urgences
+assurent au patient une orientation dans les circuits et délais adaptés à sa prise en charge, avec des circuits
+courts pour les réanimations, l’USIC, l’UNV. Les équipes de soins ont accès aux informations du patient avec
+un système d’information adapté ; pour autant les équipes rencontrées ne consultent pas le DMP du patient. Il
+a été constaté des liens étroits entre services des urgences et services des soins pour que le patient puisse
+dès que possible bénéficier d’une chambre dans le service adéquat (consultations rapides des cliniciens aux
+urgences) Les équipes se coordonnent pour la mise en œuvre du projet de soin (staffs dans tous les services
+et pour tous les parcours, type chirurgie thoracique, bariatrique, transplantations, projet de soins construit de
+façon collégiale en associant si besoin les professionnels de soins de support, possibilité de téléconsultation en
+chirurgie bariatrique, en dermatologie, en anesthésie, équipes mobiles très actives et disponibles en douleur,
+soins palliatifs, gériatrie). La sécurité de la prise en charge médicamenteuse du patient bénéficie d’une
+conciliation des traitements médicamenteux conciliation pharmaceutique à l’admission et à la sortie pour la
+médecine interne et la gériatrie, conciliation à l’admission en HDJ gériatrique et pour les patients
+polymédicamentés ayant une intervention chirurgicale thoracique). Les équipes se coordonnent dans le cas où
+le patient n’a pas été orienté dans l’unité adaptée faute de disponibilité. L’équipe de soins peut faire appel si
+besoin à un réseau d’équipes de recours ou d’expertise (exemple : appel à une équipe recours de néphrologie
+de la Timone, recours interne possible en infectiologie, douleur, etc). Les acteurs de la programmation
+opératoire se coordonnent et tiennent compte de la priorisation des urgences (charte des blocs respectées,
+programmation tenant compte de l’âge, du handicap éventuel, analyse des écarts de programmation et
+reprogrammations dans un délai court). Les secteurs interventionnels et les secteurs des soins échangent très
+majoritairement toutes les informations relatives au patient. Aux blocs et dans les secteurs interventionnels, la
+check List « sécurité du patient » est utilisée de manière efficace (check List adaptée à chaque plateau
+interventionnel). En phase de transition adolescent-adulte, les équipes se coordonnent pour assurer la
+continuité de la prise en charge du patient. Le carnet de santé, le dossier du patient et le cas échéant le dossier
+médical de mon espace santé sont mis à jour de manière synchronisée pour assurer la continuité des soins.
+Les équipes réalisent un examen somatique dans les 24h suivant l’admission pour tout patient hospitalisé en
+psychiatrie (UHSA). Dans l’UHSA, la prise en charge, les critères d’alerte sont évalués à l’aide d’outils
+partagés. Une démarche palliative pluridisciplinaire, pluriprofessionnelle et coordonnée est mise en œuvre pour
+les patients en fin de vie. Une lettre de liaison à la sortie est remise au patient et permet la continuité du
+parcours de soins ; le traitement d’entrée et de sortie est très majoritairement précisé dans la lettre de liaison ;
+une ordonnance de sortie est systématiquement donnée. La maîtrise des risques est une priorité de l’APHM,
+déclinée à l’hôpital Nord. Les équipes respectent les bonnes pratiques d’identification du patient à toutes les
+étapes de la prise en charge avec dispositif d’identification adapté (exemples : pour le nouveau-né sur le
+berceau, photo sur le livre de rendez-vous et sur la console de traitement en radiothérapie). Les équipes
+maîtrisent la mise en application des vigilances sanitaires. En ce qui concerne les médicaments, il existe un
+classeur dans chaque unité rappelant toute la procédure générale d’organisation de l’approvisionnement et de
+la permanence pharmaceutique (spécificité de l’hôpital Nord). Les équipes respectent les bonnes pratiques de
+prescription et de dispensation des médicaments (prescription complète informatisée y compris pour les « si
+besoin », dispensation sécurisée et adaptée aux services, analyse pharmaceutique de niveau 3, dispensation
+nominative globalisée pour plus de 500 lis sur 3 jours et dispensation nominative journalière pour les autres
+services type UHSI) ; cependant l’analyse pharmaceutique n’intègre pas les informations du dossier
+pharmaceutique du patient pour tous les patients qui en sont dotés. Elles respectent également les bonnes
+pratiques d’administration (exemple : étiquetage des médicaments injectables reconstitués, traçabilité de
+l’administration au plus près du patient, vérification des contre-indications à certaines pratiques de broyage).
+ 
+15 
+HAS · APHM-HOPITAL NORD · Juin 2024
+Elles maîtrisent l’utilisation des médicaments à risque (liste personnalisée pour chaque service avec travail
+collaboratif sur la liste à utiliser, identification dans les armoires à pharmacie, sensibilisation et formation des
+professionnels, chambre des erreurs, escape Game. L’approvisionnement, le stockage et l’accès aux produits
+de santé sont réalisés conformément aux recommandations de bonnes pratiques (exemple : traçabilité
+dématérialisée à partir de la pharmacie pour les DMI, conditions de transport sécurisés pour tous les produits
+de santé avec QR code, stockage spécifique du KCL). De nombreuses évaluations du circuit du médicament
+ont lieu régulièrement. Les équipes maîtrisent le risque de discontinuité de la prise en charge médicamenteuse
+du patient vulnérable à sa sortie ; pour autant le bilan thérapeutique n’est pas systématiquement retrouvé dans
+la lettre de liaison. Les équipes maîtrisent la sécurité transfusionnelle (traçabilité complète de la prescription, de
+l’administration, de la surveillance et des évènements indésirables, taux de destruction suivi). Toutes les
+équipes maîtrisent le risque infectieux en appliquant les bonnes pratiques d’hygiène des mains, (exemple : en
+chirurgie thoracique, EPP sur l’hygiène des mains, sensibilisation très régulière des professionnels, voire des
+parents comme en réanimation néonatale avec l’appui de l’EOH, audits ou auto évaluation avec rendu
+trimestriel de la consommation de solution hydro alcoolique par secteur). Elles maîtrisent également le risque
+infectieux en appliquant les précautions adéquates, standard et complémentaires (patients informés très
+majoritairement, parents systématiquement informés, prescriptions des isolements complètes). Les équipes
+maîtrisent les bonnes pratiques d’antibioprophylaxie liés aux actes invasifs (prescription dès la consultation
+préanesthésique, confirmée en visite préopératoire et prescrite le matin de l’acte chirurgical, respect du délai
+induction/incision, audits réguliers). Les équipes maîtrisent le risque infectieux lié au circuit des dispositifs
+médicaux invasifs (maîtrise de la gestion des endoscopes, locaux conformes, EPI correctement utilisés,
+contrôles et suivis des endoscopes partagés avec prélèvements réalisés en binôme IDE/AS traçabilité
+complète de la vie de l’endoscope et numéro de l’endoscope retrouvé le dossier patient). Elles maîtrisent le
+risque infectieux lié aux dispositifs médicaux invasifs en appliquant les précautions adéquates (préparation
+cutanée tracée dans le dossier patient par exemple, suivi de la bactériémie sur les cathéters, prélèvement
+systématique hebdomadaire au niveau des sondages urinaires et VNI). Les équipes des secteurs
+interventionnels maîtrisent le risque infectieux en respectant les bonnes pratiques per opératoires (audits et
+EPP dans tous les secteurs concernés à l’exception du bloc gynécologique, service dans lequel les EPP
+arrêtées en 2020 vont reprendre cette année). Les équipes pluriprofessionnelles maîtrisent le risque de
+dépendance iatrogène. Les équipes respectent les recommandations et obligations vaccinales pour les
+professionnels de santé. La gestion des récidives d’épisodes de violence est anticipée et gérée avec le patient
+à l’ide d’un plan de prévention partagé (UHSA et UHSI). Les équipes maîtrisent les risques liés à l’utilisation de
+rayonnements ionisants. Les équipes maîtrisent les risques liés à l’hémorragie du post partum immédiat
+(chariot dédié, kit embolie amniotique, feuille de surveillance spécifique, suivi d’indicateurs. L’autorisation de
+sortie du patient en chirurgie ambulatoire est validée (score de Chung ou donnée par le chirurgien). Le
+transport des patients en intra hospitalier est maîtrisé (conditions de sécurité et de confort du patient
+respectées, matériels adaptés, professionnels formés au respect des droits des patients et aux gestes
+d’urgence, régulation opérationnelle avec logiciel, patients majoritairement informés du délai de prise en
+charge). Les équipes améliorent leurs pratiques en se fondant sur l’analyse de leurs résultats cliniques
+(nombreuses démarches d’évaluation clinique sur des parcours type chirurgie de l’obésité, évaluation du
+dispositif « patient debout » pour se rendre au bloc opératoire ou sur des modalités de prise en charge la
+douleur par exemple aux urgences). Elles améliorent leurs pratiques en se fondant sur la satisfaction et
+l’expérience de leurs patients (exemples : utilisation de l’expérience patient pendant les ateliers thérapeutiques,
+recueil de l’expérience patient sur la qualité de vie a posteriori de l’acte chirurgical, utilisation de l’expérience
+patient pour la rénovation du hall d’accueil et salle d’attente des urgences générales adultes, animation de
+groupes de paroles, analyse de verbatims e-satis, café des usagers organisé par les représentants des
+usagers). Elles améliorent leurs pratiques en se fondant sur leurs résultats d’indicateurs notamment des
+indicateurs qualité et sécurité des soins (tableau de bord qualité/sécurité des soins médical et paramédical par
+service des indicateurs nationaux et spécifiques). Les équipes améliorent leurs pratiques en analysant les
+ 
+16 
+HAS · APHM-HOPITAL NORD · Juin 2024
+évènements indésirables associées aux soins qu’elles ont déclarés (déclaration faite sur le logiciel APHM et sur
+le portail de déclaration ARS, nombreux CREX et RMM avec utilisation d’une méthode d’analyse avérée). Les
+équipes des secteurs de soins critiques améliorent leurs pratiques en se fondant notamment sur les modalités
+de prise en charge de leurs patients (exemple évaluation des soins de support utilisés en radiothérapie, en
+pneumologie interventionnelle ou en chirurgie digestive pour les patients colectomisés et pris en charge dans le
+parcours RAAC, registres de refus d’amission) ; cependant elles suivent peu les ré hospitalisations à 48/72
+heures. Les équipes des secteurs interventionnels améliorent leurs pratiques en analysant les modalités de
+réalisation de la check List (audit annuel sur l’ensemble des chirurgies et blocs, suivi des GO/no GO). Des
+actions d’amélioration de la qualité des résultats des examens de biologie médicale et d’anatomopathologie
+sont mises en place (non conformités visibles par les prescripteurs, analyse en commun, délais de rendu des
+résultats suivis et contractualisés, prestation de conseils des biologistes auprès des cliniciens). Des actions
+d’amélioration de la qualité des résultats des examens d’imagerie médicale sont également mises en place
+(conditions de réalisation des examens conformes aux référentiels de bonnes pratiques, évaluation de la
+pertinence des prescriptions de scanner et d’IRM, délais de rendez-vous adaptés, participation des imageurs à
+toutes les RCP de l’établissement). Les nombreuses activités de prélèvement et de greffes d’organes et de
+tissus sont évaluées régulièrement et se traduisent par des plans d’actions d’amélioration dont les effets sont
+mesurés.   
+ 
+17 
+HAS · APHM-HOPITAL NORD · Juin 2024
+Chapitre 3 : L'établissement
+92% 
+du score
+maximal
+Objectifs
+3.1
+L’établissement définit ses orientations stratégiques en cohérence avec son territoire
+99%
+3.2
+L’établissement favorise l’engagement des patients individuellement et collectivement
+92%
+3.3
+La gouvernance fait preuve de leadership
+99%
+3.4
+L’établissement favorise le travail en équipe et le développement des compétences
+72%
+3.5
+Les professionnels sont impliqués dans une démarche de qualité de vie au travail impulsée par la
+gouvernance
+99%
+3.6
+L’établissement dispose d’une réponse adaptée et opérationnelle aux risques auxquels il peut
+être confronté
+91%
+3.7
+L’établissement développe une dynamique d’amélioration continue de la qualité des soins
+95%
+  L’APHM est l’établissement pivot du système de santé régional. IL se compose de quatre sites (hôpital de la
+Timone, hôpital Nord, hôpital Conception et hôpital Sud), 25 pôles d’activités médicales et 250 services (au
+total 3300 lits et places), 93 centres labellisés Maladies rares, un centre d’enseignement et de recherche avec
+l’Institut Méditerranée Universitaire (infectiologie) et trois centres de recherche hospitalo-universitaires, 13
+ 
+18 
+HAS · APHM-HOPITAL NORD · Juin 2024
+instituts de formation, 3 centres de santé (Aygalades, Flamants et Aubagne), une maison des femmes à
+Marseille. L’APHM est établissement support du GHT 13 et été en 2023 à l’initiative d’un projet stratégique de
+territoire, avec la mise en œuvre des postes partagés en médecine et en chirurgie pour favoriser le
+développement de filières et conforter son attractivité, le développement d’une filière gériatrique avec les
+établissements médico-sociaux. L’établissement a également tissé des liens avec les cliniques et la médecine
+de ville. Il est le premier employeur de la région PACA avec 3000 professionnels médicaux et 13000
+professionnels non médicaux. La stratégie en politique de santé, en politique des ressources humaines, en
+implication des représentants des usagers et en maîtrise des risques est élaborée au niveau central et déclinée
+sur chaque site. En ce qui concerne l’hôpital Nord, l’offre de soins se caractérise par des activités d’urgences
+adultes, gynécologiques et enfants, la majorité des spécialités médicales et chirurgicales, dont certaines
+s’occupant de maladies rares, de gynécologie-obstétrique, et complétée par une UHSA et une UHSI ; le
+plateau technique est composé de l’imagerie, d’un service de médecine nucléaire (temporairement fermée pour
+cause de travaux), de 30 salles de blocs, d’un service de radiothérapie, de salles d’endoscopie digestive et
+thoracique, d’une cardiologie interventionnelle et de 5 salles de naissance avec un bloc césarienne. Le projet
+immobilier de l’APHM CAP 2030 se décline sur l’hôpital Nord avec l’ouverture en 2024 du nouveau service de
+médecine nucléaire, des réanimations en 2025, d’un bâtiment cardio-vasculaire en 2027 et d’une rénovation
+complète du bâtiment historique à grande hauteur en 2030. L’hôpital Nord de par sa situation géographique a
+notamment tissé des liens avec ses partenaires du nord du département et de la région en déclinant la politique
+institutionnelle de l’APHM. Il participe à toutes les filières définies au niveau de l’APHM et coordonne plusieurs
+parcours (exemple : chirurgie bariatrique, chirurgie thoracique, greffe poumon, etc) ; il partage des postes avec
+d’autres centres hospitaliers, active des équipes sur La Timone (exemple : cellule de régulation périnatale). Il
+met en place des organisations avec la médecine de ville (maison médicale de garde aux urgences,
+participation aux travaux des CPTS) ; il travaille avec des partenaires sur des populations spécifiques (exemple
+: travail avec l’URIOPSS pour les patients vivant avec un handicap). Il participe à la dynamique de projet
+territorial de santé mentale et collabore avec les services ambulatoires de psychiatrie ; deux équipes de liaison
+médicale et para médicale (adulte et pédopsychiatrie) sont disponibles aux urgences, dans les services de
+soins et dans les secteurs réservés aux détenus (UHSA et UHSI). L’hôpital Nord draine une population
+socialement en difficulté, vulnérable et en grande précarité ; il a de ce fait développer des organisations pour
+prendre en charge ces populations (aide à la parentalité, IPA dans le pôle thorax et aux urgences adultes) pour
+faire le lien avec l’extérieur. Des modalités de prise en charge rapide sont en place pour les admissions en
+urgence dans les unités spécialisées ; La filière personnes âgées est déclinée en conventions avec les
+établissements médico-sociaux et un accès direct en gériatrie, y compris en HDJ, est organisé avec les
+médecins de ville (IDE de gériatrie aux urgences). Les modalités de communication permettent aux usagers te
+aux médecins de ville de contacter aisément l’établissement. Une messagerie sécurisée concerne un nombre
+croissant de médecins généralistes. Un quart de l’activité de recherche clinique de l’APHM est concentrée à
+l’hôpital Nord avec des publications spécifiques (thorax, cardiologie, gynécologie-obstétrique par exemple) ;
+l’activité de recherche paramédicale se développe également (néonatalogie par exemple). L’établissement
+promeut toutes formes de recueil de l’expression du patient ; en plus d’e-satis, de nombreux questionnaires
+spécifiques sont à disposition des usagers. Des PREMS et des PROMS sont mis en œuvre dans plusieurs
+services (exemple : PROMS en chirurgie bariatrique, en sclérodermie, pour les inflammations d’intestin). Il
+mobilise les actions d’expertise des patients : patient expert dans plusieurs services (exemple : chirurgie
+digestive), parents partenaires en néonatalogie avec un « café des parents », film « parole de parents » en
+néonatalogie, journal de bord en réanimation polyvalente, mesure de l’expérience patient en USIC ayant abouti
+à revoir l’organisation du service pour diminuer le bruit ambiant, patient ressource dans le cadre de plusieurs
+programmes d’éducation thérapeutique (sclérodermie par exemple). Les représentants des usagers participent
+aux CREX institutionnels. Toutefois, l’impact des intégrations de l’expertise des patients n’est pas évalué ; par
+ailleurs la participation des patients à des démarches collectives d’amélioration des pratiques reste modérée.
+L’établissement a une communication centrée sur le patient (nombreuses formations proposées aux
+ 
+19 
+HAS · APHM-HOPITAL NORD · Juin 2024
+professionnels, type formation à l’écoute active et passive). Il veille à la bientraitance et met en œuvre des
+pratiques adaptées à la patientèle (exemple en maternité ; respect du rythme du nouveau-né) et participe au
+repérage et à la prise en charge des maltraitances éventuelles subies par les patients (exemple : sensibilisation
+et formations aux urgences pédiatriques aux différentes formes de maltraitance dont les mutilations sexuelles,
+fiche réflexe en UCA et en maternité pour le repérage des violences faites aux femmes). Il lutte contre la
+maltraitance en son sein. Compte tenu de l’architecture ancienne, de la configuration de certains bâtiments et
+locaux, des accès extérieurs parfois difficiles, l’accessibilité des locaux aux personnes vivant avec un handicap
+n’est pas facilitée malgré les aménagements faits pour les personnes vivant avec un handicap moteur
+notamment. L’établissement favorise l’accès aux soins des personnes vulnérables (dispositifs nombreux :
+service social, interprètes, services spécialisés, PASS, dotation d’antalgiques et de produits contraceptifs
+dédiée aux populations en grande précarité). Il est organisé pour permettre au patient d’accéder à son dossier.
+Il favorise l’accès aux innovations pour les patients. Il implique les représentants des usagers et les
+associations de patients en son sein, dans les instances (CDU locale très active, présence des RU dans les
+instances spécialisées -CLUD, Comité qualité/sécurité des soins, etc- et à et groupes de travail) et dans la vie
+de l’établissement. Il a rédigé avec les représentants des usagers et diffusé une charte d’inclusion des usagers
+en mars 2024 ; les représentants des usagers ont entamé des visites de services avec une fiche à destination
+des patients sortants qu’ils rencontrent ; pour autant, le projet des usagers 2023-2026 n’est pas complètement
+articulé avec le projet médico-soignant en cours de réécriture. La gouvernance fonde son management sur la
+qualité et la sécurité des soins. Impulsée par la gouvernance institutionnelle de l’APHM et par celle de l’hôpital
+Nord, la qualité et sécurité sont intégrées comme préoccupation majeure dans les instances et dans les pôles
+et services ; le PAQSS complet est décliné au plus près des équipes avec une implication forte de la direction
+qualité de l’APHM et du site. L’établissement soutient une culture de sécurité des soins (enquête régulière
+culture sécurité,16 services » labellisés » culture sécurité des soins). La gouvernance pilote l’adéquation entre
+les ressources humaines disponibles et la qualité et la sécurité des prises en charge (pool IDE/AS dans les
+services de soins critiques et sur certains pôles plus fragiles, dispositif Hublo, cellule de programmation et de
+régulation au bloc, accompagnement des nouveaux arrivants médicaux et non médicaux, mise en place de
+compagnonnage postes de travail adapté avec contrat individuel, réorientation sur l’heure des patients arrivés
+aux urgences vers la Timone en cas de difficulté et de tension) . Les responsables d’équipe bénéficient de
+formations ou de coaching en management (formation initiale des chefs de pôle et de service, programme
+d’accompagnement à la prise de fonction, coaching des faisant fonction de cadre de santé). La gouvernance
+impulse et soutient le travail en équipe ; de nombreuses possibilités sont offertes pour faciliter le travail en
+équipe : désignation d’IDE major pour assurer entre autres les audits et les actions qualité en équipe, réunions
+de service à 19h00 pour favoriser la présence des professionnels de nuit, démarches de mutualisation
+d’activités, par exemple au bloc central, prime d’engagement collectif, staffs pluri-services, RCP dans de
+nombreuses disciplines, consultations réalisées avec plusieurs spécialistes type pédiatrie/secteur adulte pour
+l’asthme sévère, etc. La gouvernance impulse et soutient des démarches spécifiques d’amélioration du travail
+en équipe ; des équipes médicales sont accréditées (exemples : chirurgie thoracique, radiologie
+interventionnelle, à venir la gastro-entérologie). Les connaissances et les compétences individuelles et
+collectives des équipes sont assurées (exemple : parcours d’évaluation protocolisé des connaissances pour le
+nouveau soignant en réanimation néonatale, promotion de la formation par simulation en maternité, formations
+à des D.U) ; l’entretien individuel annuel des praticiens n’est cependant pas mis en place(calendrier de
+déploiement validé par la direction générale et la présidence de CME avec réalisation des entretiens de mai à
+septembre 2024). L’établissement promeut et soutient le recours au questionnement éthique par l’ensemble
+des acteurs ; des compétences internes sont accessibles (soins palliatifs par exemple), des compétences
+externes également au sein de l’APHM ; des avis et une aide de psychologue sont mis en œuvre ; une fiche
+LATA est utilisée par les équipes ;des staffs sont organisés ; pour autant il n’y a pas d’état des lieux des
+questionnements éthiques réalisé, pas de cadre opérationnel permettant la prise en compte rapide des
+problématiques éthiques, type comité éthique (projet en cours au niveau de l’APHM) à l’exception de quelques
+ 
+20 
+HAS · APHM-HOPITAL NORD · Juin 2024
+secteurs de soins critiques qui se sont organisés ; les représentants des usagers ne sont donc pas de ce fait
+associés à la réflexion éthique. La gouvernance a une politique de qualité de vie au travail, en déclinant la
+politique institutionnelle de l’APHM (référent QVT et groupe de travail, politique d’accueil et de formation des
+professionnels, tutorat, mentorat, référent planning pour prendre en compte les impératifs des professionnels,
+groupes de travail sur les changements de l’organisation du travail, salle de détente, etc). La gouvernance met
+en place des mesures de gestion des difficultés interpersonnelles et des conflits (dispositif de médiation, apport
+de psychologue du travail, formation gestion des conflits ; la majorité des professionnels connaissent les
+dispositifs extérieurs existants. La gestion des tensions hospitalières et des situations sanitaires
+exceptionnelles est maîtrisée (participation à des exercices type AMAVI en 2023, centre de formation pour les
+risques NRBC, plan blanc actualisé). La prévention des atteintes aux personnes et aux biens est assurée ; le
+plan de sécurisation est à jour et comporte de nombreux dispositifs de prévention et de gestion des situations
+de d’intrusion, de violence ou d’agressivité (portes sécurisées, dispositif d’appel direct du service des urgences
+au commissariat, agents d’accueil aux urgences et en réanimation pour diminuer l’agressivité, formation à la
+communication non violente, règles de sécurité connues des professionnels, etc) ; trois servicessur cinquante
+sont encore à sécurisés complètement en accès entrant et sortant. Les risques environnementaux et les enjeux
+du développement durable sont maîtrisés : référent et groupe de travail dédié, actions sur l’éco-conception des
+soins au bloc opératoire, actions autour du soin sur le tri des déchets et à leur revalorisation, label éco-
+conception des soins en cours en maternité, projet GREEN en réanimation, formation des encadrants). La prise
+en charge des urgences vitales est maîtrisée dans l’enceinte de l’établissement (numéro d’appel unique dédié,
+uniformatisation des chariots et sacs facilement accessibles, formation des professionnels à l’AFGSU en
+fonction de leur affectation (professionnels de nuit, isolés, etc) ; les exercices de simulation in situ commencent
+à être mise en œuvre. L’identification des utilisateurs et des patients dans le système d’information est
+sécurisée. La gouvernance mobilise ses équipes dans la maîtrise des bonnes pratiques (implication des
+instances, participation des équipes à l’élaboration de protocoles) ; cependant les revues de pertinence des
+admissions et des séjours ne sont pas partout développées. L’établissement prend en compte le point de vue
+du patient dans son programme d’amélioration de la qualité avec une participation active dans la CDU, les
+groupes de travail et le COPIL qualité/risques ; néanmoins les équipes connaissent peu les recommandations
+établies par la CDU. L’établissement analyse, exploite et communique les indicateurs qualité et sécurité des
+soins : participation de professionnels au recueil des indicateurs, suivi d’indicateurs hors protocole par trimestre
+(dossier de soins par exemple), tableau de bord IQSS médical et non médical dans tous les services, flash
+infos). Il analyse, exploite et communique également la survenue d’évènements indésirables liés aux soins
+(nombreux RMM et CREX). L’établissement améliore l’organisation de l’aval des urgences pour assurer un
+parcours intra hospitalier de qualité en toute sécurité (IDEC dans les services, situation des lits analysés très
+régulièrement). L’accréditation des médecins et des équipes médicales est promue dans l’établissement
+(médecins accrédités dans de nombreuses disciplines, deux équipes accréditées).   
+ 
+21 
+HAS · APHM-HOPITAL NORD · Juin 2024
+Table des Annexes
+Annexe 1.    Liste des établissements géographiques rattachées à la démarche
+Annexe 2.    Synthèse des activités réalisées par l’établissement en 2024
+Annexe 3.    Programme de visite
+ 
+22 
+HAS · APHM-HOPITAL NORD · Juin 2024
+Annexe 1.    Liste des établissements géographiques rattachées à la démarche
+Type de structure
+N° FINESS
+Nom de l’établissement
+Adresse
+Établissement juridique
+130786049
+ASSISTANCE PUBLIQUE
+DES HOPITAUX DE
+MARSEILLE
+80 rue brochier
+13005 Marseille 05eme FRANCE
+Établissement principal
+130780521
+APHM-HOPITAL NORD
+Chemin des bourrely
+13915 Marseille FRANCE
+ 
+23 
+HAS · APHM-HOPITAL NORD · Juin 2024
+Annexe 2.    Synthèse des activités réalisées par l’établissement en 2024
+Catégorie / Champs d'applicabilité / Donnée de profil
+Valeur
+Autorisations
+ 
+Urgences
+ 
+Existence d'un soignant d'accueil et d'orientation
+Oui
+Si oui, l'accueil et l'orientation sont réalisés par IAO (infirmière d'accueil et
+d'orientation) ou par MAO (médecin d'accueil et d'orientation)
+Oui
+Existence de Structure des urgences générales
+Oui
+Existence de Structure des urgences pédiatriques
+Oui
+Hospitalisation à domicile
+ 
+Présence d’une astreinte opérationnelle soignante H24 et 7/7 (IDE se déplaçant au
+domicile)
+Non
+Autorisation de Médecine en HAD
+Non
+Autorisation d' Obstétrique en HAD
+Non
+Autorisation de SMR en HAD
+Non
+Autorisation de Prise en charge du cancer en HAD
+Non
+Tout l'établissement
+ 
+Existence d'une permanence d’accès aux soins de santé (PASS) dans votre
+établissement
+Oui
+Existence d'une solution d'informatisation du circuit du médicament à la PUI
+Oui
+Existence d'Unité de préparation des médicaments de chimiothérapie
+anticancéreuse
+Oui
+SAMU-SMUR
+ 
+Existence de SMUR général
+Non
+Existence de SMUR pédiatrique
+Non
+Existence d'Antenne SMUR
+Oui
+Existence d'un SAMU
+Non
+Soins critiques
+ 
+Présence de service de Réanimation (y compris soins intensifs et surveillance
+continue)
+Oui
+Présence de Réanimation enfant (hors néonatalogie)
+Oui
+ 
+24 
+HAS · APHM-HOPITAL NORD · Juin 2024
+Présence d'Unité de soins intensifs en cardiologie (USIC)
+Oui
+Présence d'Unité de surveillance continue (SC) adulte
+Oui
+Présence d'Unité de surveillance continue (SC) enfant
+Oui
+Médecine
+ 
+Autorisation de Traitement de l'insuffisance rénale chronique (hors péritonéale) en
+centre
+Non
+Autorisation de Traitement de l'insuffisance rénale chronique (péritonéale)
+Non
+Patient atteint d'un cancer
+ 
+Autorisation de Traitement des affections cancéreuses par chimiothérapie
+Oui
+Autorisation de Traitement des affections cancéreuses par radiothérapie (dont
+curiethérapie)
+Oui
+Chirurgie et interventionnel
+ 
+Autorisation de Chirurgie cardiaque
+Non
+Autorisation d'Activité interventionnelle en cardiologie
+Oui
+Autorisation de Neurochirurgie
+Oui
+Autorisation d'Activité interventionnelle en neurologie
+Non
+Autorisation d'Activité de greffe
+Oui
+Activité Urgences
+ 
+Urgences
+ 
+Nombre total de passages aux urgences dans l'année pour des patients de plus de
+80 ans
+5,544
+Nombre de passages aux urgences générales
+65,195
+Nombre de passages aux urgences pédiatriques
+36,510
+SAMU-SMUR
+ 
+Nombre de Dossiers de Régulation Médicale (DRM)
+0
+Activité Hospitalière MCO
+ 
+Soins de longue durée
+ 
+Nombre de patients PEC durant l'année écoulée par une équipe mobile de gériatrie
+0
+Médecine
+ 
+Nombre de lit en Hospitalisation complète en Médecine
+441
+Chirurgie et interventionnel
+ 
+ 
+25 
+HAS · APHM-HOPITAL NORD · Juin 2024
+Nombre de lit en Hospitalisation complète en Chirurgie
+202
+Maternité
+ 
+Nombre de lit en Hospitalisation complète en Gynécologie-Obstétrique
+57
+Ambulatoire
+ 
+Nombre de places en Hospitalisation partielle en Médecine
+42
+Nombre de places en Hospitalisation partielle en Chirurgie
+35
+Nombre de places en hospitalisation partielle en Gynécologie-Obstétrique
+14
+Tout l'établissement
+ 
+Nombre de séances en hospitalisation partielle en Médecine
+27,088
+Enfant et adolescent
+ 
+Nombre de lit en Hospitalisation complète en Pédiatrie
+38
+Nombre de places en Hospitalisation partielle en Pédiatrie
+10
+Patient âgé
+ 
+Nombre de lit en Hospitalisation complète en Gériatrie
+25
+Nombre de places en Hospitalisation partielle en Gériatrie
+2
+Urgences
+ 
+Nombre de lit en UHCD
+13
+Activité Hospitalière SMR
+ 
+Soins Médicaux et de Réadaptation
+ 
+Nombre de lit en Hospitalisation complète en SMR
+6
+Nombre de places en Hospitalisation partielle en SMR
+0
+Activité Hospitalière SLD
+ 
+Soins de longue durée
+ 
+Nombre de lit en Hospitalisation complète en SLD
+0
+Activité Accident Vasculaires Cérébraux (AVC)
+ 
+Chirurgie et interventionnel
+ 
+Nombre de lits de l'Unité Neuro-Vasculaire (UNV)
+0
+Activité Hospitalière PSY
+ 
+Psychiatrie et santé mentale
+ 
+Nombre de lit en Psychiatrie générale en hospitalisation à temps plein
+0
+ 
+26 
+HAS · APHM-HOPITAL NORD · Juin 2024
+Nombre de lit en Psychiatrie infanto-juvénile en hospitalisation à temps plein
+0
+Nombre de lit en Psychiatrie en milieu pénitentiaire en hospitalisation à temps plein
+40
+Nombre Total de lit en Psychiatrie en hospitalisation à temps plein
+40
+Nombre de lit en Psychiatrie générale en hospitalisation de jour
+0
+Nombre de lit en Psychiatrie infanto-juvénile en hospitalisation de jour
+0
+Nombre de lit en Psychiatrie en milieu pénitentiaire en hospitalisation de jour
+0
+Nombre Total de lit en Psychiatrie en hospitalisation de jour
+0
+Nombre de CATTP en Psychiatrie générale
+0
+Nombre de CATTP en Psychiatrie infanto-juvénile
+0
+Nombre de CATTP en Psychiatrie en milieu pénitentiaire
+0
+Nombre Total de CATTP en Psychiatrie
+0
+Nombre de CMP en Psychiatrie générale
+0
+Nombre de CMP en Psychiatrie infanto-juvénile
+0
+Nombre Total de CMP en Psychiatrie
+0
+Sites opératoires et salles d'intervention
+ 
+Chirurgie et interventionnel
+ 
+Nombre total de salles (d'intervention ou d'exploration) des sites (calculé)
+34
+Ambulatoire
+ 
+Nombre de salles dédiées à la chirurgie ambulatoire
+0
+Activité Hospitalière HAD
+ 
+Hospitalisation à domicile
+ 
+Nombre total de patients pouvant être pris en charge simultanément en HAD
+0
+ 
+27 
+HAS · APHM-HOPITAL NORD · Juin 2024
+Annexe 3.     Programme de visite
+Nb
+Méthode
+Sous-méthode
+Champs d'applicabilité
+Description traceur
+1
+Traceur
+ciblé
+EIGS déclarés SMR A HDJ et HC
+2
+Parcours
+traceur
+Chirurgie et interventionnel
+Soins Médicaux et de Réadaptation
+Hospitalisation complète
+Adulte
+Pas de situation particulière
+Programmé
+Tout l'établissement
+3
+Audit
+système
+4
+Audit
+système
+5
+Traceur
+ciblé
+Prescription d'un patient intégrant, a
+minima, un Antibiotique per os ou
+injectable
+6
+Patient
+traceur
+Médecine
+Hospitalisation complète
+Patient âgé
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+7
+Patient
+traceur
+Médecine
+Hospitalisation complète
+Enfant et adolescent
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+ 
+28 
+HAS · APHM-HOPITAL NORD · Juin 2024
+8
+Patient
+traceur
+Maternité
+Hospitalisation complète
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+9
+Patient
+traceur
+Chirurgie et interventionnel
+Ambulatoire
+Enfant et adolescent
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+10
+Patient
+traceur
+Médecine
+Hospitalisation complète
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+11
+Patient
+traceur
+Médecine
+Hospitalisation complète
+Enfant et adolescent
+Patient en situation de handicap
+Urgences
+Tout l'établissement
+12
+Patient
+traceur
+Médecine
+Hospitalisation complète
+Patient âgé
+Patient en situation de handicap
+Urgences
+Tout l'établissement
+ 
+29 
+HAS · APHM-HOPITAL NORD · Juin 2024
+13
+Patient
+traceur
+Chirurgie et interventionnel
+Ambulatoire
+Patient âgé
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+14
+Patient
+traceur
+Chirurgie et interventionnel
+Hospitalisation complète
+Patient âgé
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+15
+Patient
+traceur
+Médecine
+Hospitalisation complète
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+16
+Patient
+traceur
+Soins critiques
+Hospitalisation complète
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+17
+Parcours
+traceur
+Soins critiques
+Hospitalisation complète
+Adulte
+Patient âgé
+Patient en situation de handicap
+Urgences
+Tout l'établissement
+Patient
+Chirurgie et interventionnel
+ 
+30 
+HAS · APHM-HOPITAL NORD · Juin 2024
+18
+traceur
+Ambulatoire
+Patient âgé
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+19
+Parcours
+traceur
+Médecine
+Hospitalisation complète
+Enfant et adolescent
+Patient en situation de handicap
+Urgences
+Tout l'établissement
+20
+Traceur
+ciblé
+SAMU SMUR
+21
+Traceur
+ciblé
+Antibioprophylaxie et Per opératoire
+22
+Traceur
+ciblé
+Prescription d'un patient intégrant, a
+minima, un Médicament à risque
+injectable
+23
+Traceur
+ciblé
+Précautions standard et
+complémentaires
+24
+Traceur
+ciblé
+Antibioprophylaxie et Per opératoire
+25
+Traceur
+ciblé
+Prescription d'un patient intégrant, a
+minima, un Médicament à risque per
+os
+26
+Traceur
+ciblé
+chimiothérapie
+27
+Audit
+système
+28
+Audit
+système
+29
+Audit
+système
+30
+Audit
+système
+ 
+31 
+HAS · APHM-HOPITAL NORD · Juin 2024
+31
+Audit
+système
+32
+Audit
+système
+33
+Parcours
+traceur
+Chirurgie et interventionnel
+Ambulatoire
+Enfant et adolescent
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+34
+Parcours
+traceur
+Chirurgie et interventionnel
+Médecine
+Ambulatoire
+Hospitalisation complète
+Adulte
+Patient âgé
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+35
+Patient
+traceur
+Médecine
+Ambulatoire
+Patient âgé
+Patient atteint d'un cancer
+Programmé
+Tout l'établissement
+36
+Audit
+système
+37
+Audit
+système
+38
+Audit
+système
+39
+Traceur
+ciblé
+Précautions standard et
+complémentaires
+ 
+32 
+HAS · APHM-HOPITAL NORD · Juin 2024
+40
+Traceur
+ciblé
+Prescription d'un patient intégrant, a
+minima, un Antibiotique per os ou
+injectable
+41
+Patient
+traceur
+Médecine
+Hospitalisation complète
+Adulte
+Patient atteint d'un cancer
+Urgences
+Tout l'établissement
+42
+Patient
+traceur
+Médecine
+Hospitalisation complète
+Adulte
+Patient atteint d'un cancer
+Programmé
+Tout l'établissement
+43
+Patient
+traceur
+Soins Médicaux et de Réadaptation
+Hospitalisation complète
+Patient âgé
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+44
+Patient
+traceur
+Psychiatrie et santé mentale
+Hospitalisation complète
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+45
+Traceur
+ciblé
+PSL
+46
+Traceur
+ciblé
+EI selon liste transmise par
+l'établissmeent
+ 
+33 
+HAS · APHM-HOPITAL NORD · Juin 2024
+47
+Patient
+traceur
+Soins critiques
+Hospitalisation complète
+Enfant et adolescent
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+48
+Patient
+traceur
+Chirurgie et interventionnel
+Hospitalisation complète
+Patient âgé
+Patient en situation de handicap
+Urgences
+Tout l'établissement
+49
+Patient
+traceur
+Médecine
+Hospitalisation complète
+Adulte
+Maladie chronique
+Programmé
+Tout l'établissement
+50
+Patient
+traceur
+Médecine
+Hospitalisation complète
+Patient âgé
+Patient en situation de handicap
+Urgences
+Tout l'établissement
+51
+Patient
+traceur
+Maternité
+Hospitalisation complète
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+ 
+34 
+HAS · APHM-HOPITAL NORD · Juin 2024
+52
+Patient
+traceur
+Soins critiques
+Hospitalisation complète
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+53
+Parcours
+traceur
+Chirurgie et interventionnel
+Ambulatoire
+Adulte
+Patient âgé
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+54
+Patient
+traceur
+Chirurgie et interventionnel
+Hospitalisation complète
+Patient âgé
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+55
+Parcours
+traceur
+Soins critiques
+Hospitalisation complète
+Adulte
+Patient âgé
+Patient en situation de handicap
+SAMU-SMUR
+Urgences
+Tout l'établissement
+56
+Audit
+système
+ 
+35 
+HAS · APHM-HOPITAL NORD · Juin 2024
+57
+Parcours
+traceur
+Chirurgie et interventionnel
+Soins Médicaux et de Réadaptation
+Hospitalisation complète
+Adulte
+Patient âgé
+Patient en situation de handicap
+Urgences
+Tout l'établissement
+58
+Parcours
+traceur
+Chirurgie et interventionnel
+Médecine
+Ambulatoire
+Hospitalisation complète
+Adulte
+Patient âgé
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+59
+Patient
+traceur
+Chirurgie et interventionnel
+Hospitalisation complète
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+60
+Parcours
+traceur
+Psychiatrie et santé mentale
+Hospitalisation complète
+Adulte
+Patient âgé
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+61
+Audit
+système
+ 
+36 
+HAS · APHM-HOPITAL NORD · Juin 2024
+62
+Traceur
+ciblé
+Dispositif médical réutilisable
+(Endoscope)
+63
+Parcours
+traceur
+Médecine
+Soins critiques
+Hospitalisation complète
+Adulte
+Patient âgé
+Patient en situation de handicap
+SAMU-SMUR
+Tout l'établissement
+64
+Traceur
+ciblé
+Prescription d'un patient intégrant, a
+minima, un Antibiotique per os ou
+injectable
+65
+Parcours
+traceur
+Chirurgie et interventionnel
+Maternité
+Hospitalisation complète
+Adulte
+Patient en situation de handicap
+Urgences
+Tout l'établissement
+66
+Audit
+système
+67
+Audit
+système
+68
+Patient
+traceur
+Chirurgie et interventionnel
+Ambulatoire
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+ 
+37 
+HAS · APHM-HOPITAL NORD · Juin 2024
+69
+Parcours
+traceur
+Chirurgie et interventionnel
+Médecine
+Hospitalisation complète
+Adulte
+Patient âgé
+Patient en situation de handicap
+Urgences
+Tout l'établissement
+70
+Patient
+traceur
+Médecine
+Hospitalisation complète
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+71
+Parcours
+traceur
+Médecine
+Hospitalisation complète
+Adulte
+Patient âgé
+Patient en situation de handicap
+Urgences
+Tout l'établissement
+72
+Patient
+traceur
+Médecine
+Hospitalisation complète
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+73
+Audit
+système
+74
+Audit
+système
+75
+Audit
+système
+ 
+38 
+HAS · APHM-HOPITAL NORD · Juin 2024
+© Haute Autorité de santé – Juin 2024

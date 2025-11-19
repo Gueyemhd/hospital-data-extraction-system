@@ -1641,3 +1641,87 @@
 2025-11-19 23:50:41,059 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Saint-Antoine.txt
 2025-11-19 23:50:41,060 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Saint-Louis.txt
 2025-11-19 23:50:41,061 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Paris\Tenon.txt
+2025-11-20 00:16:46,646 [INFO] Traitement de : Marseille-La-Conception_Annuaire etablissement.html
+2025-11-20 00:16:46,736 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-La-Conception_Annuaire etablissement.txt
+2025-11-20 00:16:46,736 [INFO] Traitement de : Marseille-La-Conception_AP-HM - Hôpital de la Conception (Marseille) _ FHF.html
+2025-11-20 00:16:46,796 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-La-Conception_AP-HM - Hôpital de la Conception (Marseille) _ FHF.txt
+2025-11-20 00:16:46,796 [INFO] Traitement de : Marseille-La-Conception_AP-HM Hôpital de la Conception (Marseille) FHF.html
+2025-11-20 00:16:46,863 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-La-Conception_AP-HM Hôpital de la Conception (Marseille) FHF.txt
+2025-11-20 00:16:46,864 [INFO] Traitement de : Marseille-La-Conception_AP-HM Hôpital de la Conception (Marseille) _ FHF.html
+2025-11-20 00:16:46,922 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-La-Conception_AP-HM Hôpital de la Conception (Marseille) _ FHF.txt
+2025-11-20 00:16:46,922 [INFO] Traitement de : Marseille-La-Conception_dcision_32247_decision_2024.0716_20241113_evax-12784_vd.pdf
+2025-11-20 00:16:46,935 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-La-Conception_dcision_32247_decision_2024.0716_20241113_evax-12784_vd.txt
+2025-11-20 00:16:46,935 [INFO] Traitement de : Marseille-La-Conception_guide-hospitalisation-conception-informations-pratiques-sejour.pdf
+2025-11-20 00:16:47,016 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-La-Conception_guide-hospitalisation-conception-informations-pratiques-sejour.txt
+2025-11-20 00:16:47,017 [INFO] Traitement de : Marseille-La-Conception_Haute Autorité de Santé - APHM-HOPITAL DE LA CONCEPTION.html
+2025-11-20 00:16:47,053 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-La-Conception_Haute Autorité de Santé - APHM-HOPITAL DE LA CONCEPTION.txt
+2025-11-20 00:16:47,053 [INFO] Traitement de : Marseille-La-Conception_Hôpital de la Conception _ AP-HM.html
+2025-11-20 00:16:47,103 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-La-Conception_Hôpital de la Conception _ AP-HM.txt
+2025-11-20 00:16:47,104 [INFO] Traitement de : Marseille-La-Conception_Hôpital de la Conception _ AP-HM_.html
+2025-11-20 00:16:47,154 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-La-Conception_Hôpital de la Conception _ AP-HM_.txt
+2025-11-20 00:16:47,155 [INFO] Traitement de : Marseille-La-Conception_Hôpital de la Conception — Wikipédia.html
+2025-11-20 00:16:47,366 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-La-Conception_Hôpital de la Conception — Wikipédia.txt
+2025-11-20 00:16:47,366 [INFO] Traitement de : Marseille-La-Conception_Hôpitaux Universitaires de Marseille Conception _ AP-HM.html
+2025-11-20 00:16:47,414 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-La-Conception_Hôpitaux Universitaires de Marseille Conception _ AP-HM.txt
+2025-11-20 00:16:47,414 [INFO] Traitement de : Marseille-La-Conception_Hôpitaux Universitaires de Marseille Conception _ AP-HM__.html
+2025-11-20 00:16:47,461 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-La-Conception_Hôpitaux Universitaires de Marseille Conception _ AP-HM__.txt
+2025-11-20 00:16:47,461 [INFO] Traitement de : Marseille-La-Conception_rapport_de_certification_cqss_-_32247.pdf
+2025-11-20 00:16:47,555 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-La-Conception_rapport_de_certification_cqss_-_32247.txt
+2025-11-20 00:16:47,555 [INFO] Traitement de : Marseille-La-Timone_Annuaire etablissement ap hm hopital de la timone marseille.html
+2025-11-20 00:16:47,596 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-La-Timone_Annuaire etablissement ap hm hopital de la timone marseille.txt
+2025-11-20 00:16:47,596 [INFO] Traitement de : Marseille-La-Timone_AP-HM - Hôpital de la Timone (Marseille) _ FHF.html
+2025-11-20 00:16:47,639 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-La-Timone_AP-HM - Hôpital de la Timone (Marseille) _ FHF.txt
+2025-11-20 00:16:47,639 [INFO] Traitement de : Marseille-La-Timone_AP-HM Hôpital de la Timone (Marseille) _ FHF.html
+2025-11-20 00:16:47,701 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-La-Timone_AP-HM Hôpital de la Timone (Marseille) _ FHF.txt
+2025-11-20 00:16:47,701 [INFO] Traitement de : Marseille-La-Timone_dcision_32602_decision_2024.0380_20240529_evax-14079_vd.pdf
+2025-11-20 00:16:47,708 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-La-Timone_dcision_32602_decision_2024.0380_20240529_evax-14079_vd.txt
+2025-11-20 00:16:47,708 [INFO] Traitement de : Marseille-La-Timone_guide-hospitalisation-timone-informations-pratiques-sejour.pdf
+2025-11-20 00:16:47,779 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-La-Timone_guide-hospitalisation-timone-informations-pratiques-sejour.txt
+2025-11-20 00:16:47,779 [INFO] Traitement de : Marseille-La-Timone_Haute Autorité de Santé - AP-HM - HÔPITAL DE LA TIMONE.html
+2025-11-20 00:16:47,812 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-La-Timone_Haute Autorité de Santé - AP-HM - HÔPITAL DE LA TIMONE.txt
+2025-11-20 00:16:47,814 [INFO] Traitement de : Marseille-La-Timone_Haute Autorité de Santé - AP-HM - HÔPITAL DE LA TIMONE_.html
+2025-11-20 00:16:47,826 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-La-Timone_Haute Autorité de Santé - AP-HM - HÔPITAL DE LA TIMONE_.txt
+2025-11-20 00:16:47,826 [INFO] Traitement de : Marseille-La-Timone_Hôpital de la Timone _ AP-HM.html
+2025-11-20 00:16:47,897 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-La-Timone_Hôpital de la Timone _ AP-HM.txt
+2025-11-20 00:16:47,897 [INFO] Traitement de : Marseille-La-Timone_Hôpital de la Timone _ AP-HM__.html
+2025-11-20 00:16:47,956 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-La-Timone_Hôpital de la Timone _ AP-HM__.txt
+2025-11-20 00:16:47,957 [INFO] Traitement de : Marseille-La-Timone_Hôpital de la Timone — Wikipédia.html
+2025-11-20 00:16:48,060 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-La-Timone_Hôpital de la Timone — Wikipédia.txt
+2025-11-20 00:16:48,060 [INFO] Traitement de : Marseille-La-Timone_Hôpitaux Universitaires de Marseille Timone _ AP-HM.html
+2025-11-20 00:16:48,108 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-La-Timone_Hôpitaux Universitaires de Marseille Timone _ AP-HM.txt
+2025-11-20 00:16:48,108 [INFO] Traitement de : Marseille-La-Timone_Hôpitaux Universitaires de Marseille Timone _ AP-HM_.html
+2025-11-20 00:16:48,300 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-La-Timone_Hôpitaux Universitaires de Marseille Timone _ AP-HM_.txt
+2025-11-20 00:16:48,300 [INFO] Traitement de : Marseille-La-Timone_informations-pratique-plan-acces-timone.pdf
+2025-11-20 00:17:08,437 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-La-Timone_informations-pratique-plan-acces-timone.txt
+2025-11-20 00:17:08,437 [INFO] Traitement de : Marseille-La-Timone_rapport_de_certification_cqss_-_32602.pdf
+2025-11-20 00:17:08,585 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-La-Timone_rapport_de_certification_cqss_-_32602.txt
+2025-11-20 00:17:08,585 [INFO] Traitement de : Marseille-Nord_50 ans de l_Hôpital Nord _ AP-HM.html
+2025-11-20 00:17:08,638 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-Nord_50 ans de l_Hôpital Nord _ AP-HM.txt
+2025-11-20 00:17:08,638 [INFO] Traitement de : Marseille-Nord_Annuaire etablissement ap hm hopital nord marseille.html
+2025-11-20 00:17:08,681 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-Nord_Annuaire etablissement ap hm hopital nord marseille.txt
+2025-11-20 00:17:08,681 [INFO] Traitement de : Marseille-Nord_AP-HM - Hôpital Nord (Marseille) _ FHF.html
+2025-11-20 00:17:08,730 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-Nord_AP-HM - Hôpital Nord (Marseille) _ FHF.txt
+2025-11-20 00:17:08,730 [INFO] Traitement de : Marseille-Nord_AP-HM - Hôpital Nord (Marseille) _ FHF_.html
+2025-11-20 00:17:08,778 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-Nord_AP-HM - Hôpital Nord (Marseille) _ FHF_.txt
+2025-11-20 00:17:08,778 [INFO] Traitement de : Marseille-Nord_Ap-hm hopital nord - marseille _ Santé.fr.html
+2025-11-20 00:17:08,820 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-Nord_Ap-hm hopital nord - marseille _ Santé.fr.txt
+2025-11-20 00:17:08,820 [INFO] Traitement de : Marseille-Nord_Ap-hm hopital nord - marseille _ Santé.fr_.html
+2025-11-20 00:17:09,037 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-Nord_Ap-hm hopital nord - marseille _ Santé.fr_.txt
+2025-11-20 00:17:09,038 [INFO] Traitement de : Marseille-Nord_dcision_32600_decision_2024.0507_20240619_evax-14077_vd.pdf
+2025-11-20 00:17:09,047 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-Nord_dcision_32600_decision_2024.0507_20240619_evax-14077_vd.txt
+2025-11-20 00:17:09,047 [INFO] Traitement de : Marseille-Nord_Haute Autorité de Santé - APHM-HOPITAL NORD.html
+2025-11-20 00:17:09,063 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-Nord_Haute Autorité de Santé - APHM-HOPITAL NORD.txt
+2025-11-20 00:17:09,063 [INFO] Traitement de : Marseille-Nord_Hôpital Nord _ AP-HM.html
+2025-11-20 00:17:09,115 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-Nord_Hôpital Nord _ AP-HM.txt
+2025-11-20 00:17:09,115 [INFO] Traitement de : Marseille-Nord_Hôpital nord — Wikipédia.html
+2025-11-20 00:17:09,352 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-Nord_Hôpital nord — Wikipédia.txt
+2025-11-20 00:17:09,352 [INFO] Traitement de : Marseille-Nord_Hôpitaux Universitaires de Marseille Nord _ AP-HM.html
+2025-11-20 00:17:09,400 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-Nord_Hôpitaux Universitaires de Marseille Nord _ AP-HM.txt
+2025-11-20 00:17:09,400 [INFO] Traitement de : Marseille-Nord_rapport_de_certification_cqss_-_32600.pdf
+2025-11-20 00:17:09,517 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-Nord_rapport_de_certification_cqss_-_32600.txt
+2025-11-20 00:17:09,517 [INFO] Traitement de : Marseille-Nord_Suivez-le-guide NORD.pdf
+2025-11-20 00:17:09,606 [INFO] Texte extrait -> data/text/Marseille/hopital\Marseille-Nord_Suivez-le-guide NORD.txt
+2025-11-20 00:17:09,607 [INFO] Extraction terminée pour tous les fichiers.
+2025-11-20 00:17:09,611 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Marseille\Marseille-La-Conception.txt
+2025-11-20 00:17:09,616 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Marseille\Marseille-La-Timone.txt
+2025-11-20 00:17:09,622 [INFO] [OK] Fichier hôpital généré -> data/output_hopitaux/Marseille\Marseille-Nord.txt

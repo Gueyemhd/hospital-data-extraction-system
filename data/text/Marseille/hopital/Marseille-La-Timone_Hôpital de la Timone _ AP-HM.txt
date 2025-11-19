@@ -1,0 +1,226 @@
+TITRE: Hôpital de la Timone | AP-HM
+
+Generator: Drupal 7 (http://drupal.org)
+HandheldFriendly: true
+MobileOptimized: width
+viewport: width=device-width
+msapplication-TileColor: #fff
+msapplication-TileImage: /favicons/mstile-144x144.png
+theme-color: #fff
+
+### ADRESSE
+APHM rechercher Formulaire de recherche Recherche Je donne 04 91 38 00 00 Facebook Youtube fr en du ar it sp Linked in Instagram Email Patients / Public Informations pratiques Accès à votre dossier médical Tarifs Vous accompagnez, vous rendez visite à un patient Vous allez être hospitalisé(e) Vous avez un examen d'imagerie ou de radiologie à réaliser Vous avez une analyse à réaliser Vous venez en consultation myaphm, votre espace santé en ligne Infos COVID-19 Vivre ensemble à l'hôpital Culture à l'hôpital Laïcité et cultes Les associations Livret d'accueil Salon des familles Transports sanitaires Vos droits, vos devoirs Handicap Handi 13 Pôle Médecine Physique et Réadaptation Accueil sourds et malentendants Charte Romain Jacob Mouvement Parcours Handicap 13 Activité physique Cancer Médecine nucléaire Maladies rares Maternité Hôpital Nord Vos représentants La Commission Des Usagers (CDU) Les Comités Locaux des Usagers Le projet des usagers Qualité Nos indicateurs qualité et de sécurité des soins Protection des données Sécurité Les recherches en santé à l’AP-HM Professionnels / Étudiants / Internes Égalité professionnelle Emploi / formation Emplois paramédicaux Emplois administratifs Emplois médicaux Espace Formation Étudiants hospitaliers Emplois techniques et médico-techniques Emplois divers Emplois socio-éducatifs Statuts Stages paramédicaux Chercheurs La recherche clinique à l'AP-HM Les structures de recherche Écoles et Instituts de Formation Plateforme des internes Professionnels de santé Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares Presse / Multimédia Communiqués de presse Dossiers de presse Médiathèque Fournisseurs Rôles et missions Liste des marchés conclus Documents utiles Formulaire de recherche Recherche En 1 clic Accueil Hôpital de la Timone Services adultes Anatomie et Cytologie Pathologiques - AP-HM Anesthésie réanimation 1 - Hôpital de la Timone Anesthésie réanimation 2 - Hôpital de la Timone Anesthésie réanimation 3 - Hôpital de la Timone Cancers digestifs - Hôpital de la Timone Cardiologie, insuffisance cardiaque - Hôpital de la Timone Cardiologie, maladies coronaires - Hôpital de la Timone Cardiologie, rythmologie - Hôpital de la Timone Centre de prélèvements sanguins - Hôpital de la Timone Centre de Référence « Épilepsies Rares adultes » Centre du Sommeil - Centre de Compétences Narcolepsie et Hypersomnies rares - Service Épileptologie et Rythmologie Cérébrale - Hôpital de la Timone Centre d’évaluation et de traitement de la douleur - Hôpital de la Timone Chirurgie cardio-thoracique - Hôpital de la Timone Chirurgie de la main - Chirurgie plastique réparatrice des membres - Hôpital de la Timone Chirurgie digestive et oncologique - Hôpital de la Timone Chirurgie générale et transplantation hépatique - Hôpital de la Timone Chirurgie Orale - Hôpital de la Timone Chirurgie orthopédique, traumatique et vertébrale - Hôpital de la Timone Chirurgie traumatologique - Hôpital de la Timone Chirurgie vasculaire - Hôpital de la Timone - Pr Bartoli Chirurgie viscérale et urologie pédiatrique - Hôpitaux Timone et Nord CIC - Centre d'Investigation Clinique CLIN - Équipe opérationnelle - Hôpital de la Timone Coordination Hospitalière de Prélèvement d’Organes et de Tissus - Hôpital Nord et Hôpital de la Timone Épileptologie et Rythmologie Cérébrale - Hôpital de la Timone Équipe Mobile Gériatrique Externe (EMGE) Équipes Mobile de Gériatrie Essais cliniques (Pharmacie AP-HM) Expertise pharmaceutique et recherche biomédicale - Hôpital de la Timone Explorations fonctionnelles respiratoires - Hôpital de la Timone Fédération Urgences Psychiatriques - Hôpital de la Timone Gamma Unit - Radiochirurgie Gamma Knife - Hôpital de la Timone Hépato-gastro-entérologie, Oncologie digestive et nutrition - Hôpital de la Timone Laboratoire bactério-virologie, hygiène, parasitologie - Hôpital de la Timone Laboratoire de biochimie - Hôpital de la Timone Laboratoire de biochimie endocrinienne - Hôpital de la Timone Laboratoire de Dépistage Néonatal - Hôpital de la Timone Laboratoire de Radio-Immuno-Analyses – Hôpital de la Timone Maladies neuromusculaires et SLA - Hôpital de la Timone Médecine interne - Hôpital de la Timone Médecine Interne Thérapeutique Post-Urgence - Gériatrie - Hôpital de la Timone Médecine légale - Hôpital de la Timone Médecine nucléaire - Hôpital de la Timone CERIMED Médecine Vasculaire et Hypertension artérielle – Hôpital de la Timone Neuro-oncologie - Hôpital de la Timone Neurochirurgie - Hôpital de la Timone Neurochirurgie fonctionnelle et stéréotaxique - Hôpital de la Timone Neurologie - Maladies Inflammatoires du Cerveau et de la Moelle Épinière (MICeME) - Hôpital de la Timone Neurologie et Neuropsychologie Adultes - Hôpital de la Timone Oncologie médicale - Soins palliatifs - Hôpital Timone Oncology - CEPCM Phase 1 oncology CLIP² – AP-HM Ophtalmologie - Hôpital de la Conception Pharmacie - Hôpital de la Timone Pharmacocinétique Toxicocinétique - Hôpital de la Timone Plateau technique à réponse rapide - Hôpital Nord Pôle de maladies infectieuses CHU Timone – IHU Méditerranée Infection Pôle de Médecine Physique et de Réadaptation Pôle de Médecine Physique et de Réadaptation - Hôpital de la Timone Pôle odontologie - Bâtiment 5 – Hôpital de la Timone Radiographie dentaire numérisée Radiologie adultes et neuroradiologie - Hôpital de la Timone Radiothérapie - Hôpital de la Timone - Hôpital Nord Réanimation des urgences et déchocage - Hôpital de la Timone Risques exceptionnels et menaces sanitaires graves - Hôpital de la Timone SAMU (Service d'Aide Médicale d'Urgence) Service biologique d'hématologie - Hôpital de la Timone Service de Dermato Oncologie, Dermatologie Générale et Vénéréologie - Hôpital de la Timone Unité d'hépato-gastroentérologie et nutrition artificielle - Hôpital de la Timone Unité d’hépatologie – Hôpital de la Timone Unité d’oncologie digestive – Hôpital de la Timone Unité neurovasculaire (UNV) - Hôpital de la Timone Urgences adultes - Hôpital de la Timone Services pédiatriques Anesthésie réanimation pédiatrique - Hôpital de la Timone Centre de Référence des Syndromes Drépanocytaires Majeurs, Thalassémies et Autres pathologies rares du globule rouge et de l’Erythropoïèse - Marseille Centre de Référence «déficience intellectuelle de cause rare et polyhandicap» Centre de Référence «Épilepsies Rares enfants» Centre de Ressources et Compétences pour la Mucoviscidose (CRCM) pédiatrique Chirurgie orthopédique pédiatrique (Pr LAUNAY) - Hôpital de la Timone Enfants - Hôpital Nord Chirurgie plastique pédiatrique - Hôpital de la Timone Département de génétique médicale - Hôpital de la Timone Diagnostic prénatal - Hôpital de la Timone Équipe Mobile Gériatrique Externe (EMGE) Hématologie, immunologie et oncologie pédiatrique (HIOP) Laboratoire de biochimie - Hôpital de la Timone Laboratoire de biologie cellulaire - Hôpital de la Timone Enfants Le Centre du Diabète de l'AP-HM Neuro-métabolisme pédiatrique - Hôpital de la Timone Neurochirurgie infantile - Hôpital de la Timone Odontologie pédiatrique - Hôpital de la Timone ORL et Chirurgie cervico-faciale pédiatrique - Hôpitaux Timone et Nord Pédiatrie générale - Hôpital de la Timone Pédiatrie multidisciplinaire - Hôpital de la Timone Pédiatrie spécialisée & médecine infantile - Hôpital de la Timone Pneumologie pédiatrique - Hôpital de la Timone Pôle de Médecine Physique et de Réadaptation Pôle odontologie - Bâtiment 5 – Hôpital de la Timone Radiologie pédiatrique et prénatale - Hôpital de la Timone SAMU (Service d'Aide Médicale d'Urgence) Service médico-chirurgical de cardiologie pédiatrique et congénitale - Hôpital de la Timone Stomatologie - Chirurgie maxillo-faciale pédiatrique - Hôpital de la Timone Unité d’Accueil Pédiatrique Enfants en Danger (UAPED) Urgences pédiatriques - Hôpital de la Timone NOUVEAU POUR LES PATIENTS gérez votre espace santé en ligne avec myaphm >> Cliquer ici Rechercher un service par son nom Mots clés du titre du service Cliquez sous "Mots clés titre de service", puis renseignez et cliquez sur "Appliquer" Rechercher un service par mots clés Mots clés de disciplines Cliquez sous "Mots clés de disciplines", puis renseignez et cliquez sur "Appliquer" Par hôpital Hôpital de la Conception Hôpital Nord Hôpitaux Sud Hôpital de la Timone Tous Partager Facebook Linkedin Twitter Google+ Mail Copyright (c) AP-HM 2015 tous droits reservés Hopitaux de Provence Aix Marseille Université Plan de relance 2021 Top
+APHM rechercher Formulaire de recherche Recherche Je donne 04 91 38 00 00 Facebook Youtube fr en du ar it sp Linked in Instagram Email Patients / Public Informations pratiques Accès à votre dossier médical Tarifs Vous accompagnez, vous rendez visite à un patient Vous allez être hospitalisé(e) Vous avez un examen d'imagerie ou de radiologie à réaliser Vous avez une analyse à réaliser Vous venez en consultation myaphm, votre espace santé en ligne Infos COVID-19 Vivre ensemble à l'hôpital Culture à l'hôpital Laïcité et cultes Les associations Livret d'accueil Salon des familles Transports sanitaires Vos droits, vos devoirs Handicap Handi 13 Pôle Médecine Physique et Réadaptation Accueil sourds et malentendants Charte Romain Jacob Mouvement Parcours Handicap 13 Activité physique Cancer Médecine nucléaire Maladies rares Maternité Hôpital Nord Vos représentants La Commission Des Usagers (CDU) Les Comités Locaux des Usagers Le projet des usagers Qualité Nos indicateurs qualité et de sécurité des soins Protection des données Sécurité Les recherches en santé à l’AP-HM Professionnels / Étudiants / Internes Égalité professionnelle Emploi / formation Emplois paramédicaux Emplois administratifs Emplois médicaux Espace Formation Étudiants hospitaliers Emplois techniques et médico-techniques Emplois divers Emplois socio-éducatifs Statuts Stages paramédicaux Chercheurs La recherche clinique à l'AP-HM Les structures de recherche Écoles et Instituts de Formation Plateforme des internes Professionnels de santé Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares Presse / Multimédia Communiqués de presse Dossiers de presse Médiathèque Fournisseurs Rôles et missions Liste des marchés conclus Documents utiles Formulaire de recherche Recherche
+Patients / Public Informations pratiques Accès à votre dossier médical Tarifs Vous accompagnez, vous rendez visite à un patient Vous allez être hospitalisé(e) Vous avez un examen d'imagerie ou de radiologie à réaliser Vous avez une analyse à réaliser Vous venez en consultation myaphm, votre espace santé en ligne Infos COVID-19 Vivre ensemble à l'hôpital Culture à l'hôpital Laïcité et cultes Les associations Livret d'accueil Salon des familles Transports sanitaires Vos droits, vos devoirs Handicap Handi 13 Pôle Médecine Physique et Réadaptation Accueil sourds et malentendants Charte Romain Jacob Mouvement Parcours Handicap 13 Activité physique Cancer Médecine nucléaire Maladies rares Maternité Hôpital Nord Vos représentants La Commission Des Usagers (CDU) Les Comités Locaux des Usagers Le projet des usagers Qualité Nos indicateurs qualité et de sécurité des soins Protection des données Sécurité Les recherches en santé à l’AP-HM Professionnels / Étudiants / Internes Égalité professionnelle Emploi / formation Emplois paramédicaux Emplois administratifs Emplois médicaux Espace Formation Étudiants hospitaliers Emplois techniques et médico-techniques Emplois divers Emplois socio-éducatifs Statuts Stages paramédicaux Chercheurs La recherche clinique à l'AP-HM Les structures de recherche Écoles et Instituts de Formation Plateforme des internes Professionnels de santé Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares Presse / Multimédia Communiqués de presse Dossiers de presse Médiathèque Fournisseurs Rôles et missions Liste des marchés conclus Documents utiles Formulaire de recherche Recherche
+Patients / Public Informations pratiques Accès à votre dossier médical Tarifs Vous accompagnez, vous rendez visite à un patient Vous allez être hospitalisé(e) Vous avez un examen d'imagerie ou de radiologie à réaliser Vous avez une analyse à réaliser Vous venez en consultation myaphm, votre espace santé en ligne Infos COVID-19 Vivre ensemble à l'hôpital Culture à l'hôpital Laïcité et cultes Les associations Livret d'accueil Salon des familles Transports sanitaires Vos droits, vos devoirs Handicap Handi 13 Pôle Médecine Physique et Réadaptation Accueil sourds et malentendants Charte Romain Jacob Mouvement Parcours Handicap 13 Activité physique Cancer Médecine nucléaire Maladies rares Maternité Hôpital Nord Vos représentants La Commission Des Usagers (CDU) Les Comités Locaux des Usagers Le projet des usagers Qualité Nos indicateurs qualité et de sécurité des soins Protection des données Sécurité Les recherches en santé à l’AP-HM Professionnels / Étudiants / Internes Égalité professionnelle Emploi / formation Emplois paramédicaux Emplois administratifs Emplois médicaux Espace Formation Étudiants hospitaliers Emplois techniques et médico-techniques Emplois divers Emplois socio-éducatifs Statuts Stages paramédicaux Chercheurs La recherche clinique à l'AP-HM Les structures de recherche Écoles et Instituts de Formation Plateforme des internes Professionnels de santé Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares Presse / Multimédia Communiqués de presse Dossiers de presse Médiathèque Fournisseurs Rôles et missions Liste des marchés conclus Documents utiles Formulaire de recherche Recherche
+Patients / Public Informations pratiques Accès à votre dossier médical Tarifs Vous accompagnez, vous rendez visite à un patient Vous allez être hospitalisé(e) Vous avez un examen d'imagerie ou de radiologie à réaliser Vous avez une analyse à réaliser Vous venez en consultation myaphm, votre espace santé en ligne Infos COVID-19 Vivre ensemble à l'hôpital Culture à l'hôpital Laïcité et cultes Les associations Livret d'accueil Salon des familles Transports sanitaires Vos droits, vos devoirs Handicap Handi 13 Pôle Médecine Physique et Réadaptation Accueil sourds et malentendants Charte Romain Jacob Mouvement Parcours Handicap 13 Activité physique Cancer Médecine nucléaire Maladies rares Maternité Hôpital Nord Vos représentants La Commission Des Usagers (CDU) Les Comités Locaux des Usagers Le projet des usagers Qualité Nos indicateurs qualité et de sécurité des soins Protection des données Sécurité Les recherches en santé à l’AP-HM Professionnels / Étudiants / Internes Égalité professionnelle Emploi / formation Emplois paramédicaux Emplois administratifs Emplois médicaux Espace Formation Étudiants hospitaliers Emplois techniques et médico-techniques Emplois divers Emplois socio-éducatifs Statuts Stages paramédicaux Chercheurs La recherche clinique à l'AP-HM Les structures de recherche Écoles et Instituts de Formation Plateforme des internes Professionnels de santé Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares Presse / Multimédia Communiqués de presse Dossiers de presse Médiathèque Fournisseurs Rôles et missions Liste des marchés conclus Documents utiles Formulaire de recherche Recherche
+Patients / Public Informations pratiques Accès à votre dossier médical Tarifs Vous accompagnez, vous rendez visite à un patient Vous allez être hospitalisé(e) Vous avez un examen d'imagerie ou de radiologie à réaliser Vous avez une analyse à réaliser Vous venez en consultation myaphm, votre espace santé en ligne Infos COVID-19 Vivre ensemble à l'hôpital Culture à l'hôpital Laïcité et cultes Les associations Livret d'accueil Salon des familles Transports sanitaires Vos droits, vos devoirs Handicap Handi 13 Pôle Médecine Physique et Réadaptation Accueil sourds et malentendants Charte Romain Jacob Mouvement Parcours Handicap 13 Activité physique Cancer Médecine nucléaire Maladies rares Maternité Hôpital Nord Vos représentants La Commission Des Usagers (CDU) Les Comités Locaux des Usagers Le projet des usagers Qualité Nos indicateurs qualité et de sécurité des soins Protection des données Sécurité Les recherches en santé à l’AP-HM Professionnels / Étudiants / Internes Égalité professionnelle Emploi / formation Emplois paramédicaux Emplois administratifs Emplois médicaux Espace Formation Étudiants hospitaliers Emplois techniques et médico-techniques Emplois divers Emplois socio-éducatifs Statuts Stages paramédicaux Chercheurs La recherche clinique à l'AP-HM Les structures de recherche Écoles et Instituts de Formation Plateforme des internes Professionnels de santé Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares Presse / Multimédia Communiqués de presse Dossiers de presse Médiathèque Fournisseurs Rôles et missions Liste des marchés conclus Documents utiles Formulaire de recherche Recherche
+Patients / Public Informations pratiques Accès à votre dossier médical Tarifs Vous accompagnez, vous rendez visite à un patient Vous allez être hospitalisé(e) Vous avez un examen d'imagerie ou de radiologie à réaliser Vous avez une analyse à réaliser Vous venez en consultation myaphm, votre espace santé en ligne Infos COVID-19 Vivre ensemble à l'hôpital Culture à l'hôpital Laïcité et cultes Les associations Livret d'accueil Salon des familles Transports sanitaires Vos droits, vos devoirs Handicap Handi 13 Pôle Médecine Physique et Réadaptation Accueil sourds et malentendants Charte Romain Jacob Mouvement Parcours Handicap 13 Activité physique Cancer Médecine nucléaire Maladies rares Maternité Hôpital Nord Vos représentants La Commission Des Usagers (CDU) Les Comités Locaux des Usagers Le projet des usagers Qualité Nos indicateurs qualité et de sécurité des soins Protection des données Sécurité Les recherches en santé à l’AP-HM Professionnels / Étudiants / Internes Égalité professionnelle Emploi / formation Emplois paramédicaux Emplois administratifs Emplois médicaux Espace Formation Étudiants hospitaliers Emplois techniques et médico-techniques Emplois divers Emplois socio-éducatifs Statuts Stages paramédicaux Chercheurs La recherche clinique à l'AP-HM Les structures de recherche Écoles et Instituts de Formation Plateforme des internes Professionnels de santé Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares Presse / Multimédia Communiqués de presse Dossiers de presse Médiathèque Fournisseurs Rôles et missions Liste des marchés conclus Documents utiles Formulaire de recherche Recherche
+Patients / Public Informations pratiques Accès à votre dossier médical Tarifs Vous accompagnez, vous rendez visite à un patient Vous allez être hospitalisé(e) Vous avez un examen d'imagerie ou de radiologie à réaliser Vous avez une analyse à réaliser Vous venez en consultation myaphm, votre espace santé en ligne Infos COVID-19 Vivre ensemble à l'hôpital Culture à l'hôpital Laïcité et cultes Les associations Livret d'accueil Salon des familles Transports sanitaires Vos droits, vos devoirs Handicap Handi 13 Pôle Médecine Physique et Réadaptation Accueil sourds et malentendants Charte Romain Jacob Mouvement Parcours Handicap 13 Activité physique Cancer Médecine nucléaire Maladies rares Maternité Hôpital Nord Vos représentants La Commission Des Usagers (CDU) Les Comités Locaux des Usagers Le projet des usagers Qualité Nos indicateurs qualité et de sécurité des soins Protection des données Sécurité Les recherches en santé à l’AP-HM Professionnels / Étudiants / Internes Égalité professionnelle Emploi / formation Emplois paramédicaux Emplois administratifs Emplois médicaux Espace Formation Étudiants hospitaliers Emplois techniques et médico-techniques Emplois divers Emplois socio-éducatifs Statuts Stages paramédicaux Chercheurs La recherche clinique à l'AP-HM Les structures de recherche Écoles et Instituts de Formation Plateforme des internes Professionnels de santé Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares Presse / Multimédia Communiqués de presse Dossiers de presse Médiathèque Fournisseurs Rôles et missions Liste des marchés conclus Documents utiles Formulaire de recherche Recherche
+Patients / Public Informations pratiques Accès à votre dossier médical Tarifs Vous accompagnez, vous rendez visite à un patient Vous allez être hospitalisé(e) Vous avez un examen d'imagerie ou de radiologie à réaliser Vous avez une analyse à réaliser Vous venez en consultation myaphm, votre espace santé en ligne Infos COVID-19 Vivre ensemble à l'hôpital Culture à l'hôpital Laïcité et cultes Les associations Livret d'accueil Salon des familles Transports sanitaires Vos droits, vos devoirs Handicap Handi 13 Pôle Médecine Physique et Réadaptation Accueil sourds et malentendants Charte Romain Jacob Mouvement Parcours Handicap 13 Activité physique Cancer Médecine nucléaire Maladies rares Maternité Hôpital Nord Vos représentants La Commission Des Usagers (CDU) Les Comités Locaux des Usagers Le projet des usagers Qualité Nos indicateurs qualité et de sécurité des soins Protection des données Sécurité Les recherches en santé à l’AP-HM Professionnels / Étudiants / Internes Égalité professionnelle Emploi / formation Emplois paramédicaux Emplois administratifs Emplois médicaux Espace Formation Étudiants hospitaliers Emplois techniques et médico-techniques Emplois divers Emplois socio-éducatifs Statuts Stages paramédicaux Chercheurs La recherche clinique à l'AP-HM Les structures de recherche Écoles et Instituts de Formation Plateforme des internes Professionnels de santé Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares Presse / Multimédia Communiqués de presse Dossiers de presse Médiathèque Fournisseurs Rôles et missions Liste des marchés conclus Documents utiles Formulaire de recherche Recherche
+Égalité professionnelle Emploi / formation Emplois paramédicaux Emplois administratifs Emplois médicaux Espace Formation Étudiants hospitaliers Emplois techniques et médico-techniques Emplois divers Emplois socio-éducatifs Statuts Stages paramédicaux Chercheurs La recherche clinique à l'AP-HM Les structures de recherche Écoles et Instituts de Formation Plateforme des internes Professionnels de santé Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares Presse / Multimédia Communiqués de presse Dossiers de presse Médiathèque Fournisseurs Rôles et missions Liste des marchés conclus Documents utiles
+Égalité professionnelle Emploi / formation Emplois paramédicaux Emplois administratifs Emplois médicaux Espace Formation Étudiants hospitaliers Emplois techniques et médico-techniques Emplois divers Emplois socio-éducatifs Statuts Stages paramédicaux Chercheurs La recherche clinique à l'AP-HM Les structures de recherche Écoles et Instituts de Formation Plateforme des internes Professionnels de santé Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares Presse / Multimédia Communiqués de presse Dossiers de presse Médiathèque Fournisseurs Rôles et missions Liste des marchés conclus Documents utiles
+Égalité professionnelle Emploi / formation Emplois paramédicaux Emplois administratifs Emplois médicaux Espace Formation Étudiants hospitaliers Emplois techniques et médico-techniques Emplois divers Emplois socio-éducatifs Statuts Stages paramédicaux Chercheurs La recherche clinique à l'AP-HM Les structures de recherche Écoles et Instituts de Formation Plateforme des internes Professionnels de santé Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares Presse / Multimédia Communiqués de presse Dossiers de presse Médiathèque Fournisseurs Rôles et missions Liste des marchés conclus Documents utiles
+Écoles et Instituts de Formation Plateforme des internes Professionnels de santé Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares
+Écoles et Instituts de Formation Plateforme des internes Professionnels de santé Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares
+Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares
+Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares
+Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares
+Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares
+Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares
+Formulaire de recherche
+Je donne
+04 91 38 00 00
+Facebook Youtube fr en du ar it sp Linked in Instagram Email
+Patients / Public Informations pratiques Accès à votre dossier médical Tarifs Vous accompagnez, vous rendez visite à un patient Vous allez être hospitalisé(e) Vous avez un examen d'imagerie ou de radiologie à réaliser Vous avez une analyse à réaliser Vous venez en consultation myaphm, votre espace santé en ligne Infos COVID-19 Vivre ensemble à l'hôpital Culture à l'hôpital Laïcité et cultes Les associations Livret d'accueil Salon des familles Transports sanitaires Vos droits, vos devoirs Handicap Handi 13 Pôle Médecine Physique et Réadaptation Accueil sourds et malentendants Charte Romain Jacob Mouvement Parcours Handicap 13 Activité physique Cancer Médecine nucléaire Maladies rares Maternité Hôpital Nord Vos représentants La Commission Des Usagers (CDU) Les Comités Locaux des Usagers Le projet des usagers Qualité Nos indicateurs qualité et de sécurité des soins Protection des données Sécurité Les recherches en santé à l’AP-HM
+Informations pratiques Accès à votre dossier médical Tarifs Vous accompagnez, vous rendez visite à un patient Vous allez être hospitalisé(e) Vous avez un examen d'imagerie ou de radiologie à réaliser Vous avez une analyse à réaliser Vous venez en consultation myaphm, votre espace santé en ligne Infos COVID-19
+Accès à votre dossier médical
+Tarifs
+Vous accompagnez, vous rendez visite à un patient
+Vous allez être hospitalisé(e)
+Vous avez un examen d'imagerie ou de radiologie à réaliser
+Vous avez une analyse à réaliser
+Vous venez en consultation
+myaphm, votre espace santé en ligne
+Infos COVID-19
+Vivre ensemble à l'hôpital Culture à l'hôpital Laïcité et cultes Les associations Livret d'accueil Salon des familles Transports sanitaires Vos droits, vos devoirs
+Culture à l'hôpital
+Laïcité et cultes
+Les associations
+Livret d'accueil
+Salon des familles
+Transports sanitaires
+Vos droits, vos devoirs
+Handicap Handi 13 Pôle Médecine Physique et Réadaptation Accueil sourds et malentendants Charte Romain Jacob Mouvement Parcours Handicap 13
+Handi 13
+Pôle Médecine Physique et Réadaptation
+Accueil sourds et malentendants
+Charte Romain Jacob
+Mouvement Parcours Handicap 13
+Activité physique
+Cancer
+Médecine nucléaire
+Maladies rares
+Maternité Hôpital Nord
+Vos représentants La Commission Des Usagers (CDU) Les Comités Locaux des Usagers Le projet des usagers
+La Commission Des Usagers (CDU)
+Les Comités Locaux des Usagers
+Le projet des usagers
+Qualité Nos indicateurs qualité et de sécurité des soins
+Nos indicateurs qualité et de sécurité des soins
+Protection des données
+Sécurité
+Les recherches en santé à l’AP-HM
+Professionnels / Étudiants / Internes Égalité professionnelle Emploi / formation Emplois paramédicaux Emplois administratifs Emplois médicaux Espace Formation Étudiants hospitaliers Emplois techniques et médico-techniques Emplois divers Emplois socio-éducatifs Statuts Stages paramédicaux Chercheurs La recherche clinique à l'AP-HM Les structures de recherche Écoles et Instituts de Formation Plateforme des internes Professionnels de santé Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares Presse / Multimédia Communiqués de presse Dossiers de presse Médiathèque Fournisseurs Rôles et missions Liste des marchés conclus Documents utiles
+Égalité professionnelle
+Emploi / formation Emplois paramédicaux Emplois administratifs Emplois médicaux Espace Formation Étudiants hospitaliers Emplois techniques et médico-techniques Emplois divers Emplois socio-éducatifs Statuts Stages paramédicaux
+Emplois paramédicaux
+Emplois administratifs
+Emplois médicaux
+Espace Formation
+Étudiants hospitaliers
+Emplois techniques et médico-techniques
+Emplois divers
+Emplois socio-éducatifs
+Statuts
+Stages paramédicaux
+Chercheurs La recherche clinique à l'AP-HM Les structures de recherche
+La recherche clinique à l'AP-HM
+Les structures de recherche
+Écoles et Instituts de Formation
+Plateforme des internes
+Professionnels de santé Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares
+Adresser un patient
+Réseaux de soins
+Adresser un examen au Laboratoire de Biologie Médicale
+Radiologie / Imagerie
+Cancérologie
+Les pôles d'activité médicale
+Anatomie et Cytologie Pathologiques
+Adresser un examen au Laboratoire d'Infectiologie
+Centres de référence Maladies Rares
+Plateforme d'Expertise Maladies Rares
+Presse / Multimédia Communiqués de presse Dossiers de presse Médiathèque
+Communiqués de presse
+Dossiers de presse
+Médiathèque
+Fournisseurs Rôles et missions Liste des marchés conclus Documents utiles
+Rôles et missions
+Liste des marchés conclus
+Documents utiles
+Formulaire de recherche Recherche
+Formulaire de recherche
+En 1 clic
+Hôpital de la Timone
+Anatomie et Cytologie Pathologiques - AP-HM
+Anesthésie réanimation 1 - Hôpital de la Timone
+Anesthésie réanimation 2 - Hôpital de la Timone
+Anesthésie réanimation 3 - Hôpital de la Timone
+Cancers digestifs - Hôpital de la Timone
+Cardiologie, insuffisance cardiaque - Hôpital de la Timone
+Cardiologie, maladies coronaires - Hôpital de la Timone
+Cardiologie, rythmologie - Hôpital de la Timone
+Centre de prélèvements sanguins - Hôpital de la Timone
+Centre de Référence « Épilepsies Rares adultes »
+Centre du Sommeil - Centre de Compétences Narcolepsie et Hypersomnies rares - Service Épileptologie et Rythmologie Cérébrale - Hôpital de la Timone
+Centre d’évaluation et de traitement de la douleur - Hôpital de la Timone
+Chirurgie cardio-thoracique - Hôpital de la Timone
+Chirurgie de la main - Chirurgie plastique réparatrice des membres - Hôpital de la Timone
+Chirurgie digestive et oncologique - Hôpital de la Timone
+Chirurgie générale et transplantation hépatique - Hôpital de la Timone
+Chirurgie Orale - Hôpital de la Timone
+Chirurgie orthopédique, traumatique et vertébrale - Hôpital de la Timone
+Chirurgie traumatologique - Hôpital de la Timone
+Chirurgie vasculaire - Hôpital de la Timone - Pr Bartoli
+Chirurgie viscérale et urologie pédiatrique - Hôpitaux Timone et Nord
+CIC - Centre d'Investigation Clinique
+CLIN - Équipe opérationnelle - Hôpital de la Timone
+Coordination Hospitalière de Prélèvement d’Organes et de Tissus - Hôpital Nord et Hôpital de la Timone
+Épileptologie et Rythmologie Cérébrale - Hôpital de la Timone
+Équipe Mobile Gériatrique Externe (EMGE)
+Équipes Mobile de Gériatrie
+Essais cliniques (Pharmacie AP-HM)
+Expertise pharmaceutique et recherche biomédicale - Hôpital de la Timone
+Explorations fonctionnelles respiratoires - Hôpital de la Timone
+Fédération Urgences Psychiatriques - Hôpital de la Timone
+Gamma Unit - Radiochirurgie Gamma Knife - Hôpital de la Timone
+Hépato-gastro-entérologie, Oncologie digestive et nutrition - Hôpital de la Timone
+Laboratoire bactério-virologie, hygiène, parasitologie - Hôpital de la Timone
+Laboratoire de biochimie - Hôpital de la Timone
+Laboratoire de biochimie endocrinienne - Hôpital de la Timone
+Laboratoire de Dépistage Néonatal - Hôpital de la Timone
+Laboratoire de Radio-Immuno-Analyses – Hôpital de la Timone
+Maladies neuromusculaires et SLA - Hôpital de la Timone
+Médecine interne - Hôpital de la Timone
+Médecine Interne Thérapeutique Post-Urgence - Gériatrie - Hôpital de la Timone
+Médecine légale - Hôpital de la Timone
+Médecine nucléaire - Hôpital de la Timone CERIMED
+Médecine Vasculaire et Hypertension artérielle – Hôpital de la Timone
+Neuro-oncologie - Hôpital de la Timone
+Neurochirurgie - Hôpital de la Timone
+Neurochirurgie fonctionnelle et stéréotaxique - Hôpital de la Timone
+Neurologie - Maladies Inflammatoires du Cerveau et de la Moelle Épinière (MICeME) - Hôpital de la Timone
+Neurologie et Neuropsychologie Adultes - Hôpital de la Timone
+Oncologie médicale - Soins palliatifs - Hôpital Timone
+Oncology - CEPCM Phase 1 oncology CLIP² – AP-HM
+Ophtalmologie - Hôpital de la Conception
+Pharmacie - Hôpital de la Timone
+Pharmacocinétique Toxicocinétique - Hôpital de la Timone
+Plateau technique à réponse rapide - Hôpital Nord
+Pôle de maladies infectieuses CHU Timone – IHU Méditerranée Infection
+Pôle de Médecine Physique et de Réadaptation
+Pôle de Médecine Physique et de Réadaptation - Hôpital de la Timone
+Pôle odontologie - Bâtiment 5 – Hôpital de la Timone
+Radiographie dentaire numérisée
+Radiologie adultes et neuroradiologie - Hôpital de la Timone
+Radiothérapie - Hôpital de la Timone - Hôpital Nord
+Réanimation des urgences et déchocage - Hôpital de la Timone
+Risques exceptionnels et menaces sanitaires graves - Hôpital de la Timone
+SAMU (Service d'Aide Médicale d'Urgence)
+Service biologique d'hématologie - Hôpital de la Timone
+Service de Dermato Oncologie, Dermatologie Générale et Vénéréologie - Hôpital de la Timone
+Unité d'hépato-gastroentérologie et nutrition artificielle - Hôpital de la Timone
+Unité d’hépatologie – Hôpital de la Timone
+Unité d’oncologie digestive – Hôpital de la Timone
+Unité neurovasculaire (UNV) - Hôpital de la Timone
+Urgences adultes - Hôpital de la Timone
+Anesthésie réanimation pédiatrique - Hôpital de la Timone
+Centre de Référence des Syndromes Drépanocytaires Majeurs, Thalassémies et Autres pathologies rares du globule rouge et de l’Erythropoïèse - Marseille
+Centre de Référence «déficience intellectuelle de cause rare et polyhandicap»
+Centre de Référence «Épilepsies Rares enfants»
+Centre de Ressources et Compétences pour la Mucoviscidose (CRCM) pédiatrique
+Chirurgie orthopédique pédiatrique (Pr LAUNAY) - Hôpital de la Timone Enfants - Hôpital Nord
+Chirurgie plastique pédiatrique - Hôpital de la Timone
+Département de génétique médicale - Hôpital de la Timone
+Diagnostic prénatal - Hôpital de la Timone
+Équipe Mobile Gériatrique Externe (EMGE)
+Hématologie, immunologie et oncologie pédiatrique (HIOP)
+Laboratoire de biochimie - Hôpital de la Timone
+Laboratoire de biologie cellulaire - Hôpital de la Timone Enfants
+Le Centre du Diabète de l'AP-HM
+Neuro-métabolisme pédiatrique - Hôpital de la Timone
+Neurochirurgie infantile - Hôpital de la Timone
+Odontologie pédiatrique - Hôpital de la Timone
+ORL et Chirurgie cervico-faciale pédiatrique - Hôpitaux Timone et Nord
+Pédiatrie générale - Hôpital de la Timone
+Pédiatrie multidisciplinaire - Hôpital de la Timone
+Pédiatrie spécialisée & médecine infantile - Hôpital de la Timone
+Pneumologie pédiatrique - Hôpital de la Timone
+Pôle de Médecine Physique et de Réadaptation
+Pôle odontologie - Bâtiment 5 – Hôpital de la Timone
+Radiologie pédiatrique et prénatale - Hôpital de la Timone
+SAMU (Service d'Aide Médicale d'Urgence)
+Service médico-chirurgical de cardiologie pédiatrique et congénitale - Hôpital de la Timone
+Stomatologie - Chirurgie maxillo-faciale pédiatrique - Hôpital de la Timone
+Unité d’Accueil Pédiatrique Enfants en Danger (UAPED)
+Urgences pédiatriques - Hôpital de la Timone
+NOUVEAU POUR LES PATIENTS gérez votre espace santé en ligne avec myaphm >> Cliquer ici
+Rechercher un service par son nom
+Rechercher un service par mots clés
+Par hôpital
+Hôpital de la Conception
+Hôpital Nord
+Hôpitaux Sud
+Hôpital de la Timone
+Tous
+Partager

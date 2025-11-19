@@ -1,0 +1,1 @@
+.topbar-wrapper,,topbar-placeholder{display:none}IMG.anchor{visibility:hidden}.printHide{display:none}.printOnly{display:block}acronym:after{content:" (" attr(title) ")"}abbr:after{content:" (" attr(title) ")"}#content a.external.text:after,#content a.external.autonumber:after{content:" (" attr(href) ") "}

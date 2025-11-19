@@ -1,0 +1,179 @@
+TITRE: Hôpital Nord | AP-HM
+
+Generator: Drupal 7 (http://drupal.org)
+HandheldFriendly: true
+MobileOptimized: width
+viewport: width=device-width
+msapplication-TileColor: #fff
+msapplication-TileImage: /favicons/mstile-144x144.png
+theme-color: #fff
+
+### ADRESSE
+APHM rechercher Formulaire de recherche Recherche Je donne 04 91 38 00 00 Facebook Youtube fr en du ar it sp Linked in Instagram Email Patients / Public Informations pratiques Accès à votre dossier médical Tarifs Vous accompagnez, vous rendez visite à un patient Vous allez être hospitalisé(e) Vous avez un examen d'imagerie ou de radiologie à réaliser Vous avez une analyse à réaliser Vous venez en consultation myaphm, votre espace santé en ligne Infos COVID-19 Vivre ensemble à l'hôpital Culture à l'hôpital Laïcité et cultes Les associations Livret d'accueil Salon des familles Transports sanitaires Vos droits, vos devoirs Handicap Handi 13 Pôle Médecine Physique et Réadaptation Accueil sourds et malentendants Charte Romain Jacob Mouvement Parcours Handicap 13 Activité physique Cancer Médecine nucléaire Maladies rares Maternité Hôpital Nord Vos représentants La Commission Des Usagers (CDU) Les Comités Locaux des Usagers Le projet des usagers Qualité Nos indicateurs qualité et de sécurité des soins Protection des données Sécurité Les recherches en santé à l’AP-HM Professionnels / Étudiants / Internes Égalité professionnelle Emploi / formation Emplois paramédicaux Emplois administratifs Emplois médicaux Espace Formation Étudiants hospitaliers Emplois techniques et médico-techniques Emplois divers Emplois socio-éducatifs Statuts Stages paramédicaux Chercheurs La recherche clinique à l'AP-HM Les structures de recherche Écoles et Instituts de Formation Plateforme des internes Professionnels de santé Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares Presse / Multimédia Communiqués de presse Dossiers de presse Médiathèque Fournisseurs Rôles et missions Liste des marchés conclus Documents utiles Formulaire de recherche Recherche En 1 clic Accueil Hôpital Nord Anatomie et Cytologie Pathologiques - AP-HM Anesthésie réanimation - Hôpital Nord C.A.M.S.P. : Centre d'Action Médico Sociale Précoce - Hôpital Nord Cardio-Oncologie (Medi-CO Center) Cardiologie - Hôpital Nord Centre de prélèvements sanguins - Hôpital Nord Chirurgie maxillo-faciale, stomatologie et chirurgie orale - Hôpital Nord Chirurgie orthopédique et traumatologie (Pr FLECHER) - Hôpital Nord Chirurgie orthopédique et traumatologie (Pr ROCHWERGER) - Hôpital Nord - Hôpital de la Conception Chirurgie thoracique et des maladies de l'œsophage - Hôpital Nord Chirurgie urologique - Hôpital Nord Chirurgie vasculaire - Hôpital Nord Chirurgie viscérale et digestive - Hôpital Nord Chirurgie viscérale et urologie pédiatrique - Hôpitaux Timone et Nord CIC - Centre d'Investigation Clinique CLIN - Équipe opérationnelle - Hôpital Nord Clinique des bronches, de l'allergie et du sommeil - Hôpital Nord Coordination Hospitalière de Prélèvement d’Organes et de Tissus - Hôpital Nord et Hôpital de la Timone Court séjour UHSI (Unité Hospitalière Sécurisée Interrégionale) - Hôpital Nord Dermatologie - Vénéréologie - Hôpital Nord Endocrinologie maladies métaboliques et nutrition - Hôpital Nord Équipe Mobile Gériatrique Externe (EMGE) Espace de Rencontres et d'Information dédié au cancer (ERI) Explorations fonctionnelles respiratoires - Hôpital Nord Gynécologie obstétrique - Hôpital Nord Hépato-gastro-entérologie et oncologie digestive - Hôpital Nord Laboratoire d'anatomie pathologique - Hôpital Nord Le Centre du Diabète de l'AP-HM Maison médicale - Hôpital Nord Maladies respiratoires rares, mucoviscidose, pneumologie - Hôpital Nord Médecine gériatrique - Hôpital Nord Médecine infantile et chirurgie infantile - Hôpital Nord Médecine Intensive & Réanimation - Hôpital Nord Médecine interne - Hôpital Nord Médecine néonatale - Hôpital Nord Médecine nucléaire - Hôpital Nord Médecine Vasculaire et Hypertension artérielle – Hôpital Nord Neurochirurgie - Hôpital Nord Neurophysiologie clinique - Hôpital Nord Oncologie multidisciplinaire et innovations thérapeutiques - Hôpital Nord Oncologie Thoracique – Maladies de La Plèvre - Pneumologie Interventionnelle - Hôpital Nord Ophtalmologie - Hôpital Nord ORL et Chirurgie cervico-faciale pédiatrique - Hôpitaux Timone et Nord Pharmacie - Hôpital Nord Plate-forme ambulatoire pneumologie - Hôpital Nord Plateau technique à réponse rapide - Hôpital Nord Pôle de Médecine Physique et de Réadaptation Pôle de Médecine Physique et de Réadaptation - Hôpital Nord Pôle femmes parents enfants Radiologie et imagerie médicale de l'adulte et de l'enfant - MARSEILLE Hôpital Nord Service biologique de biologie moléculaire - Hôpital Nord Soins de suite et de réadaptation en unité hospitalière sécurisée interrégionale (SSR UHSI) - Hôpital Nord Unité Nord Insuffisance Cardiaque et Valvulopathies - UNIV Urgences - Hôpital Nord Urologie - Hôpital Nord NOUVEAU POUR LES PATIENTS gérez votre espace santé en ligne avec myaphm >> Cliquer ici Rechercher un service par son nom Mots clés titre de service Cliquez sous "Mots clés titre de service", puis renseignez et cliquez sur "Appliquer" Rechercher un service par mots clés Mots clés de disciplines Cliquez sous "Mots clés de disciplines", puis renseignez et cliquez sur "Appliquer" Par hôpital Hôpital de la Conception Hôpital Nord Hôpitaux Sud Hôpital de la Timone Tous Partager Facebook Twitter Google+ Copyright (c) AP-HM 2015 tous droits reservés Hopitaux de Provence Aix Marseille Université Plan de relance 2021 Top
+APHM rechercher Formulaire de recherche Recherche Je donne 04 91 38 00 00 Facebook Youtube fr en du ar it sp Linked in Instagram Email Patients / Public Informations pratiques Accès à votre dossier médical Tarifs Vous accompagnez, vous rendez visite à un patient Vous allez être hospitalisé(e) Vous avez un examen d'imagerie ou de radiologie à réaliser Vous avez une analyse à réaliser Vous venez en consultation myaphm, votre espace santé en ligne Infos COVID-19 Vivre ensemble à l'hôpital Culture à l'hôpital Laïcité et cultes Les associations Livret d'accueil Salon des familles Transports sanitaires Vos droits, vos devoirs Handicap Handi 13 Pôle Médecine Physique et Réadaptation Accueil sourds et malentendants Charte Romain Jacob Mouvement Parcours Handicap 13 Activité physique Cancer Médecine nucléaire Maladies rares Maternité Hôpital Nord Vos représentants La Commission Des Usagers (CDU) Les Comités Locaux des Usagers Le projet des usagers Qualité Nos indicateurs qualité et de sécurité des soins Protection des données Sécurité Les recherches en santé à l’AP-HM Professionnels / Étudiants / Internes Égalité professionnelle Emploi / formation Emplois paramédicaux Emplois administratifs Emplois médicaux Espace Formation Étudiants hospitaliers Emplois techniques et médico-techniques Emplois divers Emplois socio-éducatifs Statuts Stages paramédicaux Chercheurs La recherche clinique à l'AP-HM Les structures de recherche Écoles et Instituts de Formation Plateforme des internes Professionnels de santé Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares Presse / Multimédia Communiqués de presse Dossiers de presse Médiathèque Fournisseurs Rôles et missions Liste des marchés conclus Documents utiles Formulaire de recherche Recherche
+Patients / Public Informations pratiques Accès à votre dossier médical Tarifs Vous accompagnez, vous rendez visite à un patient Vous allez être hospitalisé(e) Vous avez un examen d'imagerie ou de radiologie à réaliser Vous avez une analyse à réaliser Vous venez en consultation myaphm, votre espace santé en ligne Infos COVID-19 Vivre ensemble à l'hôpital Culture à l'hôpital Laïcité et cultes Les associations Livret d'accueil Salon des familles Transports sanitaires Vos droits, vos devoirs Handicap Handi 13 Pôle Médecine Physique et Réadaptation Accueil sourds et malentendants Charte Romain Jacob Mouvement Parcours Handicap 13 Activité physique Cancer Médecine nucléaire Maladies rares Maternité Hôpital Nord Vos représentants La Commission Des Usagers (CDU) Les Comités Locaux des Usagers Le projet des usagers Qualité Nos indicateurs qualité et de sécurité des soins Protection des données Sécurité Les recherches en santé à l’AP-HM Professionnels / Étudiants / Internes Égalité professionnelle Emploi / formation Emplois paramédicaux Emplois administratifs Emplois médicaux Espace Formation Étudiants hospitaliers Emplois techniques et médico-techniques Emplois divers Emplois socio-éducatifs Statuts Stages paramédicaux Chercheurs La recherche clinique à l'AP-HM Les structures de recherche Écoles et Instituts de Formation Plateforme des internes Professionnels de santé Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares Presse / Multimédia Communiqués de presse Dossiers de presse Médiathèque Fournisseurs Rôles et missions Liste des marchés conclus Documents utiles Formulaire de recherche Recherche
+Patients / Public Informations pratiques Accès à votre dossier médical Tarifs Vous accompagnez, vous rendez visite à un patient Vous allez être hospitalisé(e) Vous avez un examen d'imagerie ou de radiologie à réaliser Vous avez une analyse à réaliser Vous venez en consultation myaphm, votre espace santé en ligne Infos COVID-19 Vivre ensemble à l'hôpital Culture à l'hôpital Laïcité et cultes Les associations Livret d'accueil Salon des familles Transports sanitaires Vos droits, vos devoirs Handicap Handi 13 Pôle Médecine Physique et Réadaptation Accueil sourds et malentendants Charte Romain Jacob Mouvement Parcours Handicap 13 Activité physique Cancer Médecine nucléaire Maladies rares Maternité Hôpital Nord Vos représentants La Commission Des Usagers (CDU) Les Comités Locaux des Usagers Le projet des usagers Qualité Nos indicateurs qualité et de sécurité des soins Protection des données Sécurité Les recherches en santé à l’AP-HM Professionnels / Étudiants / Internes Égalité professionnelle Emploi / formation Emplois paramédicaux Emplois administratifs Emplois médicaux Espace Formation Étudiants hospitaliers Emplois techniques et médico-techniques Emplois divers Emplois socio-éducatifs Statuts Stages paramédicaux Chercheurs La recherche clinique à l'AP-HM Les structures de recherche Écoles et Instituts de Formation Plateforme des internes Professionnels de santé Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares Presse / Multimédia Communiqués de presse Dossiers de presse Médiathèque Fournisseurs Rôles et missions Liste des marchés conclus Documents utiles Formulaire de recherche Recherche
+Patients / Public Informations pratiques Accès à votre dossier médical Tarifs Vous accompagnez, vous rendez visite à un patient Vous allez être hospitalisé(e) Vous avez un examen d'imagerie ou de radiologie à réaliser Vous avez une analyse à réaliser Vous venez en consultation myaphm, votre espace santé en ligne Infos COVID-19 Vivre ensemble à l'hôpital Culture à l'hôpital Laïcité et cultes Les associations Livret d'accueil Salon des familles Transports sanitaires Vos droits, vos devoirs Handicap Handi 13 Pôle Médecine Physique et Réadaptation Accueil sourds et malentendants Charte Romain Jacob Mouvement Parcours Handicap 13 Activité physique Cancer Médecine nucléaire Maladies rares Maternité Hôpital Nord Vos représentants La Commission Des Usagers (CDU) Les Comités Locaux des Usagers Le projet des usagers Qualité Nos indicateurs qualité et de sécurité des soins Protection des données Sécurité Les recherches en santé à l’AP-HM Professionnels / Étudiants / Internes Égalité professionnelle Emploi / formation Emplois paramédicaux Emplois administratifs Emplois médicaux Espace Formation Étudiants hospitaliers Emplois techniques et médico-techniques Emplois divers Emplois socio-éducatifs Statuts Stages paramédicaux Chercheurs La recherche clinique à l'AP-HM Les structures de recherche Écoles et Instituts de Formation Plateforme des internes Professionnels de santé Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares Presse / Multimédia Communiqués de presse Dossiers de presse Médiathèque Fournisseurs Rôles et missions Liste des marchés conclus Documents utiles Formulaire de recherche Recherche
+Patients / Public Informations pratiques Accès à votre dossier médical Tarifs Vous accompagnez, vous rendez visite à un patient Vous allez être hospitalisé(e) Vous avez un examen d'imagerie ou de radiologie à réaliser Vous avez une analyse à réaliser Vous venez en consultation myaphm, votre espace santé en ligne Infos COVID-19 Vivre ensemble à l'hôpital Culture à l'hôpital Laïcité et cultes Les associations Livret d'accueil Salon des familles Transports sanitaires Vos droits, vos devoirs Handicap Handi 13 Pôle Médecine Physique et Réadaptation Accueil sourds et malentendants Charte Romain Jacob Mouvement Parcours Handicap 13 Activité physique Cancer Médecine nucléaire Maladies rares Maternité Hôpital Nord Vos représentants La Commission Des Usagers (CDU) Les Comités Locaux des Usagers Le projet des usagers Qualité Nos indicateurs qualité et de sécurité des soins Protection des données Sécurité Les recherches en santé à l’AP-HM Professionnels / Étudiants / Internes Égalité professionnelle Emploi / formation Emplois paramédicaux Emplois administratifs Emplois médicaux Espace Formation Étudiants hospitaliers Emplois techniques et médico-techniques Emplois divers Emplois socio-éducatifs Statuts Stages paramédicaux Chercheurs La recherche clinique à l'AP-HM Les structures de recherche Écoles et Instituts de Formation Plateforme des internes Professionnels de santé Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares Presse / Multimédia Communiqués de presse Dossiers de presse Médiathèque Fournisseurs Rôles et missions Liste des marchés conclus Documents utiles Formulaire de recherche Recherche
+Patients / Public Informations pratiques Accès à votre dossier médical Tarifs Vous accompagnez, vous rendez visite à un patient Vous allez être hospitalisé(e) Vous avez un examen d'imagerie ou de radiologie à réaliser Vous avez une analyse à réaliser Vous venez en consultation myaphm, votre espace santé en ligne Infos COVID-19 Vivre ensemble à l'hôpital Culture à l'hôpital Laïcité et cultes Les associations Livret d'accueil Salon des familles Transports sanitaires Vos droits, vos devoirs Handicap Handi 13 Pôle Médecine Physique et Réadaptation Accueil sourds et malentendants Charte Romain Jacob Mouvement Parcours Handicap 13 Activité physique Cancer Médecine nucléaire Maladies rares Maternité Hôpital Nord Vos représentants La Commission Des Usagers (CDU) Les Comités Locaux des Usagers Le projet des usagers Qualité Nos indicateurs qualité et de sécurité des soins Protection des données Sécurité Les recherches en santé à l’AP-HM Professionnels / Étudiants / Internes Égalité professionnelle Emploi / formation Emplois paramédicaux Emplois administratifs Emplois médicaux Espace Formation Étudiants hospitaliers Emplois techniques et médico-techniques Emplois divers Emplois socio-éducatifs Statuts Stages paramédicaux Chercheurs La recherche clinique à l'AP-HM Les structures de recherche Écoles et Instituts de Formation Plateforme des internes Professionnels de santé Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares Presse / Multimédia Communiqués de presse Dossiers de presse Médiathèque Fournisseurs Rôles et missions Liste des marchés conclus Documents utiles Formulaire de recherche Recherche
+Patients / Public Informations pratiques Accès à votre dossier médical Tarifs Vous accompagnez, vous rendez visite à un patient Vous allez être hospitalisé(e) Vous avez un examen d'imagerie ou de radiologie à réaliser Vous avez une analyse à réaliser Vous venez en consultation myaphm, votre espace santé en ligne Infos COVID-19 Vivre ensemble à l'hôpital Culture à l'hôpital Laïcité et cultes Les associations Livret d'accueil Salon des familles Transports sanitaires Vos droits, vos devoirs Handicap Handi 13 Pôle Médecine Physique et Réadaptation Accueil sourds et malentendants Charte Romain Jacob Mouvement Parcours Handicap 13 Activité physique Cancer Médecine nucléaire Maladies rares Maternité Hôpital Nord Vos représentants La Commission Des Usagers (CDU) Les Comités Locaux des Usagers Le projet des usagers Qualité Nos indicateurs qualité et de sécurité des soins Protection des données Sécurité Les recherches en santé à l’AP-HM Professionnels / Étudiants / Internes Égalité professionnelle Emploi / formation Emplois paramédicaux Emplois administratifs Emplois médicaux Espace Formation Étudiants hospitaliers Emplois techniques et médico-techniques Emplois divers Emplois socio-éducatifs Statuts Stages paramédicaux Chercheurs La recherche clinique à l'AP-HM Les structures de recherche Écoles et Instituts de Formation Plateforme des internes Professionnels de santé Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares Presse / Multimédia Communiqués de presse Dossiers de presse Médiathèque Fournisseurs Rôles et missions Liste des marchés conclus Documents utiles Formulaire de recherche Recherche
+Patients / Public Informations pratiques Accès à votre dossier médical Tarifs Vous accompagnez, vous rendez visite à un patient Vous allez être hospitalisé(e) Vous avez un examen d'imagerie ou de radiologie à réaliser Vous avez une analyse à réaliser Vous venez en consultation myaphm, votre espace santé en ligne Infos COVID-19 Vivre ensemble à l'hôpital Culture à l'hôpital Laïcité et cultes Les associations Livret d'accueil Salon des familles Transports sanitaires Vos droits, vos devoirs Handicap Handi 13 Pôle Médecine Physique et Réadaptation Accueil sourds et malentendants Charte Romain Jacob Mouvement Parcours Handicap 13 Activité physique Cancer Médecine nucléaire Maladies rares Maternité Hôpital Nord Vos représentants La Commission Des Usagers (CDU) Les Comités Locaux des Usagers Le projet des usagers Qualité Nos indicateurs qualité et de sécurité des soins Protection des données Sécurité Les recherches en santé à l’AP-HM Professionnels / Étudiants / Internes Égalité professionnelle Emploi / formation Emplois paramédicaux Emplois administratifs Emplois médicaux Espace Formation Étudiants hospitaliers Emplois techniques et médico-techniques Emplois divers Emplois socio-éducatifs Statuts Stages paramédicaux Chercheurs La recherche clinique à l'AP-HM Les structures de recherche Écoles et Instituts de Formation Plateforme des internes Professionnels de santé Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares Presse / Multimédia Communiqués de presse Dossiers de presse Médiathèque Fournisseurs Rôles et missions Liste des marchés conclus Documents utiles Formulaire de recherche Recherche
+Égalité professionnelle Emploi / formation Emplois paramédicaux Emplois administratifs Emplois médicaux Espace Formation Étudiants hospitaliers Emplois techniques et médico-techniques Emplois divers Emplois socio-éducatifs Statuts Stages paramédicaux Chercheurs La recherche clinique à l'AP-HM Les structures de recherche Écoles et Instituts de Formation Plateforme des internes Professionnels de santé Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares Presse / Multimédia Communiqués de presse Dossiers de presse Médiathèque Fournisseurs Rôles et missions Liste des marchés conclus Documents utiles
+Égalité professionnelle Emploi / formation Emplois paramédicaux Emplois administratifs Emplois médicaux Espace Formation Étudiants hospitaliers Emplois techniques et médico-techniques Emplois divers Emplois socio-éducatifs Statuts Stages paramédicaux Chercheurs La recherche clinique à l'AP-HM Les structures de recherche Écoles et Instituts de Formation Plateforme des internes Professionnels de santé Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares Presse / Multimédia Communiqués de presse Dossiers de presse Médiathèque Fournisseurs Rôles et missions Liste des marchés conclus Documents utiles
+Égalité professionnelle Emploi / formation Emplois paramédicaux Emplois administratifs Emplois médicaux Espace Formation Étudiants hospitaliers Emplois techniques et médico-techniques Emplois divers Emplois socio-éducatifs Statuts Stages paramédicaux Chercheurs La recherche clinique à l'AP-HM Les structures de recherche Écoles et Instituts de Formation Plateforme des internes Professionnels de santé Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares Presse / Multimédia Communiqués de presse Dossiers de presse Médiathèque Fournisseurs Rôles et missions Liste des marchés conclus Documents utiles
+Écoles et Instituts de Formation Plateforme des internes Professionnels de santé Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares
+Écoles et Instituts de Formation Plateforme des internes Professionnels de santé Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares
+Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares
+Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares
+Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares
+Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares
+Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares
+Formulaire de recherche
+Je donne
+04 91 38 00 00
+Facebook Youtube fr en du ar it sp Linked in Instagram Email
+Patients / Public Informations pratiques Accès à votre dossier médical Tarifs Vous accompagnez, vous rendez visite à un patient Vous allez être hospitalisé(e) Vous avez un examen d'imagerie ou de radiologie à réaliser Vous avez une analyse à réaliser Vous venez en consultation myaphm, votre espace santé en ligne Infos COVID-19 Vivre ensemble à l'hôpital Culture à l'hôpital Laïcité et cultes Les associations Livret d'accueil Salon des familles Transports sanitaires Vos droits, vos devoirs Handicap Handi 13 Pôle Médecine Physique et Réadaptation Accueil sourds et malentendants Charte Romain Jacob Mouvement Parcours Handicap 13 Activité physique Cancer Médecine nucléaire Maladies rares Maternité Hôpital Nord Vos représentants La Commission Des Usagers (CDU) Les Comités Locaux des Usagers Le projet des usagers Qualité Nos indicateurs qualité et de sécurité des soins Protection des données Sécurité Les recherches en santé à l’AP-HM
+Informations pratiques Accès à votre dossier médical Tarifs Vous accompagnez, vous rendez visite à un patient Vous allez être hospitalisé(e) Vous avez un examen d'imagerie ou de radiologie à réaliser Vous avez une analyse à réaliser Vous venez en consultation myaphm, votre espace santé en ligne Infos COVID-19
+Accès à votre dossier médical
+Tarifs
+Vous accompagnez, vous rendez visite à un patient
+Vous allez être hospitalisé(e)
+Vous avez un examen d'imagerie ou de radiologie à réaliser
+Vous avez une analyse à réaliser
+Vous venez en consultation
+myaphm, votre espace santé en ligne
+Infos COVID-19
+Vivre ensemble à l'hôpital Culture à l'hôpital Laïcité et cultes Les associations Livret d'accueil Salon des familles Transports sanitaires Vos droits, vos devoirs
+Culture à l'hôpital
+Laïcité et cultes
+Les associations
+Livret d'accueil
+Salon des familles
+Transports sanitaires
+Vos droits, vos devoirs
+Handicap Handi 13 Pôle Médecine Physique et Réadaptation Accueil sourds et malentendants Charte Romain Jacob Mouvement Parcours Handicap 13
+Handi 13
+Pôle Médecine Physique et Réadaptation
+Accueil sourds et malentendants
+Charte Romain Jacob
+Mouvement Parcours Handicap 13
+Activité physique
+Cancer
+Médecine nucléaire
+Maladies rares
+Maternité Hôpital Nord
+Vos représentants La Commission Des Usagers (CDU) Les Comités Locaux des Usagers Le projet des usagers
+La Commission Des Usagers (CDU)
+Les Comités Locaux des Usagers
+Le projet des usagers
+Qualité Nos indicateurs qualité et de sécurité des soins
+Nos indicateurs qualité et de sécurité des soins
+Protection des données
+Sécurité
+Les recherches en santé à l’AP-HM
+Professionnels / Étudiants / Internes Égalité professionnelle Emploi / formation Emplois paramédicaux Emplois administratifs Emplois médicaux Espace Formation Étudiants hospitaliers Emplois techniques et médico-techniques Emplois divers Emplois socio-éducatifs Statuts Stages paramédicaux Chercheurs La recherche clinique à l'AP-HM Les structures de recherche Écoles et Instituts de Formation Plateforme des internes Professionnels de santé Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares Presse / Multimédia Communiqués de presse Dossiers de presse Médiathèque Fournisseurs Rôles et missions Liste des marchés conclus Documents utiles
+Égalité professionnelle
+Emploi / formation Emplois paramédicaux Emplois administratifs Emplois médicaux Espace Formation Étudiants hospitaliers Emplois techniques et médico-techniques Emplois divers Emplois socio-éducatifs Statuts Stages paramédicaux
+Emplois paramédicaux
+Emplois administratifs
+Emplois médicaux
+Espace Formation
+Étudiants hospitaliers
+Emplois techniques et médico-techniques
+Emplois divers
+Emplois socio-éducatifs
+Statuts
+Stages paramédicaux
+Chercheurs La recherche clinique à l'AP-HM Les structures de recherche
+La recherche clinique à l'AP-HM
+Les structures de recherche
+Écoles et Instituts de Formation
+Plateforme des internes
+Professionnels de santé Adresser un patient Réseaux de soins Adresser un examen au Laboratoire de Biologie Médicale Radiologie / Imagerie Cancérologie Les pôles d'activité médicale Anatomie et Cytologie Pathologiques Adresser un examen au Laboratoire d'Infectiologie Centres de référence Maladies Rares Plateforme d'Expertise Maladies Rares
+Adresser un patient
+Réseaux de soins
+Adresser un examen au Laboratoire de Biologie Médicale
+Radiologie / Imagerie
+Cancérologie
+Les pôles d'activité médicale
+Anatomie et Cytologie Pathologiques
+Adresser un examen au Laboratoire d'Infectiologie
+Centres de référence Maladies Rares
+Plateforme d'Expertise Maladies Rares
+Presse / Multimédia Communiqués de presse Dossiers de presse Médiathèque
+Communiqués de presse
+Dossiers de presse
+Médiathèque
+Fournisseurs Rôles et missions Liste des marchés conclus Documents utiles
+Rôles et missions
+Liste des marchés conclus
+Documents utiles
+Formulaire de recherche Recherche
+Formulaire de recherche
+En 1 clic
+Hôpital Nord
+Anatomie et Cytologie Pathologiques - AP-HM
+Anesthésie réanimation - Hôpital Nord
+C.A.M.S.P. : Centre d'Action Médico Sociale Précoce - Hôpital Nord
+Cardio-Oncologie (Medi-CO Center)
+Cardiologie - Hôpital Nord
+Centre de prélèvements sanguins - Hôpital Nord
+Chirurgie maxillo-faciale, stomatologie et chirurgie orale - Hôpital Nord
+Chirurgie orthopédique et traumatologie (Pr FLECHER) - Hôpital Nord
+Chirurgie orthopédique et traumatologie (Pr ROCHWERGER) - Hôpital Nord - Hôpital de la Conception
+Chirurgie thoracique et des maladies de l'œsophage - Hôpital Nord
+Chirurgie urologique - Hôpital Nord
+Chirurgie vasculaire - Hôpital Nord
+Chirurgie viscérale et digestive - Hôpital Nord
+Chirurgie viscérale et urologie pédiatrique - Hôpitaux Timone et Nord
+CIC - Centre d'Investigation Clinique
+CLIN - Équipe opérationnelle - Hôpital Nord
+Clinique des bronches, de l'allergie et du sommeil - Hôpital Nord
+Coordination Hospitalière de Prélèvement d’Organes et de Tissus - Hôpital Nord et Hôpital de la Timone
+Court séjour UHSI (Unité Hospitalière Sécurisée Interrégionale) - Hôpital Nord
+Dermatologie - Vénéréologie - Hôpital Nord
+Endocrinologie maladies métaboliques et nutrition - Hôpital Nord
+Équipe Mobile Gériatrique Externe (EMGE)
+Espace de Rencontres et d'Information dédié au cancer (ERI)
+Explorations fonctionnelles respiratoires - Hôpital Nord
+Gynécologie obstétrique - Hôpital Nord
+Hépato-gastro-entérologie et oncologie digestive - Hôpital Nord
+Laboratoire d'anatomie pathologique - Hôpital Nord
+Le Centre du Diabète de l'AP-HM
+Maison médicale - Hôpital Nord
+Maladies respiratoires rares, mucoviscidose, pneumologie - Hôpital Nord
+Médecine gériatrique - Hôpital Nord
+Médecine infantile et chirurgie infantile - Hôpital Nord
+Médecine Intensive & Réanimation - Hôpital Nord
+Médecine interne - Hôpital Nord
+Médecine néonatale - Hôpital Nord
+Médecine nucléaire - Hôpital Nord
+Médecine Vasculaire et Hypertension artérielle – Hôpital Nord
+Neurochirurgie - Hôpital Nord
+Neurophysiologie clinique - Hôpital Nord
+Oncologie multidisciplinaire et innovations thérapeutiques - Hôpital Nord
+Oncologie Thoracique – Maladies de La Plèvre - Pneumologie Interventionnelle - Hôpital Nord
+Ophtalmologie - Hôpital Nord
+ORL et Chirurgie cervico-faciale pédiatrique - Hôpitaux Timone et Nord
+Pharmacie - Hôpital Nord
+Plate-forme ambulatoire pneumologie - Hôpital Nord
+Plateau technique à réponse rapide - Hôpital Nord
+Pôle de Médecine Physique et de Réadaptation
+Pôle de Médecine Physique et de Réadaptation - Hôpital Nord
+Pôle femmes parents enfants
+Radiologie et imagerie médicale de l'adulte et de l'enfant - MARSEILLE Hôpital Nord
+Service biologique de biologie moléculaire - Hôpital Nord
+Soins de suite et de réadaptation en unité hospitalière sécurisée interrégionale (SSR UHSI) - Hôpital Nord
+Unité Nord Insuffisance Cardiaque et Valvulopathies - UNIV
+Urgences - Hôpital Nord
+Urologie - Hôpital Nord
+NOUVEAU POUR LES PATIENTS gérez votre espace santé en ligne avec myaphm >> Cliquer ici
+Rechercher un service par son nom
+Rechercher un service par mots clés
+Par hôpital
+Hôpital de la Conception
+Hôpital Nord
+Hôpitaux Sud
+Hôpital de la Timone
+Tous
+Partager

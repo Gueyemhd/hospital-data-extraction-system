@@ -1,0 +1,119 @@
+Hôpitaux | ap
+Universitaires
+de Marseille
+hm
+0
+5
+6
+TRAVAUX
+SAMU
+3
+ZONE EN
+TRAVAUX
+9
+TRAVAUX BFPE
+8
+Yrveite
+1
+4
+Urgences psychiatriques
+1
+:
+Urgences enfants
+2
+Pv
+Urgences adultes
+1~
+230
+Entrée
+Entrée
+IHU
+P
+Biogénopôlel
+Navette
+gratuite
+10
+8=9
+Jlanhou
+Accès principaux
+Chambre mortuaire (accès Bd Testanière)
+Espace accueil
+hôpital
+Vous êtes ici
+Unité médico-judiciaire
+information
+Médecine légale (accès Bd Testanière)
+Cheminement
+Oncologie
+Internat
+Timone
+Adultes
+Radiothérapie
+piétons
+CEPCM / CLIP2
+CEMEREM
+Pharmacie
+Parking
+Dépose
+Timone 2 - BMT
+Oncologie Digestive et
+P
+public
+Pv
+minute
+Utooncosaquutoe
+Hépato-Gastroentérologie -HDJ
+Dermatologie
+10
+Médecine du travail
+Services techniques
+Timone 3
+Enfants
+Bus
+Métro
+Uoences enlantis
+Odontologie
+Soins dentaires
+Bastide
+5
+Eeadenlaioee
+Locaux
+syndicaux
+Parking
+MÉDITERRANÉE
+Service social
+Formation
+Taxi
+vélos
+IHU
+INFECTION
+6
+INTER 3C / Tumorothèque et banque
+de muscles (CRB TBM)
+Standard (N" unique)
+04 91 38 00 00
+notre adn,
+Hôpitaux
+CONCEPTION
+NORD
+SUD
+TIMONE
+PRENDRE SOIN
+INNOVER
+TRANSMETTRE
+Plateforme logistique
+12 Instituts de formation
+fr.ap-hm.fr
+Gonaree
+{
+1
+{
+1
+09*1u3
+Entrec
+Entrce
+2
+1
+Entréc
+@OULEVARD
+Ugc

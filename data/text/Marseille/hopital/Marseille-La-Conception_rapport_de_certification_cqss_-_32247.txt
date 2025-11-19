@@ -1,0 +1,1658 @@
+MESURER
+& AMÉLIORER LA QUALITÉ
+ 
+RAPPORT DE
+CERTIFICATION
+APHM-HOPITAL DE LA
+CONCEPTION
+147 boulevard baille 
+13005  Marseille
+Validé par la HAS en Novembre 2024
+Ce document ainsi que sa référence bibliographique sont téléchargeables sur www.has-sante.fr  
+Haute Autorité de santé – Service communication et information
+5 avenue du Stade de France – 93218 SAINT-DENIS LA PLAINE CEDEX. Tél. : +33 (0)1 55 93 70 00
+© Haute Autorité de santé – Novembre 2024
+Sommaire
+ 
+Préambule
+4
+Décision
+7
+Présentation
+8
+Champs d'applicabilité
+9
+Résultats
+10
+Chapitre 1 : Le patient
+11
+Chapitre 2 : Les équipes de soins
+14
+Chapitre 3 : L'établissement
+18
+Table des Annexes
+23
+Annexe 1.    Liste des établissements géographiques rattachées à la démarche
+24
+Annexe 2.    Synthèse des activités réalisées par l’établissement en 2024
+25
+Annexe 3.     Programme de visite
+29
+Préambule
+  
+La certification, mission confiée à la Haute Autorité de Santé (HAS) par les ordonnances de 1996, est une
+procédure d’évaluation externe des établissements de santé publics et privés effectuée par des professionnels
+(des pairs) mandatés par la HAS : les experts-visiteurs. Cette procédure quadri-annuelle, indépendante de
+l’établissement et de ses organismes de tutelle, porte sur le niveau de qualité et de sécurité des soins délivrés
+aux patients. Obligatoire, elle est codifiée à l’article L6113-3 (et suivants) du code de la santé publique.
+ 
+La certification constitue une des modalités de mesure de la qualité des soins en établissements de santé et
+vise l’appropriation des standards de la qualité par les établissements. Elle y favorise également la mise en
+œuvre d’une dynamique d’amélioration de la qualité et de la sécurité des soins. Elle est une certification globale
+et non une certification de toutes les activités de l'établissement. En effet, le dispositif porte sur le
+fonctionnement global de l'établissement et n'a pas vocation à évaluer spécifiquement le fonctionnement de
+chaque secteur d'activité.
+ 
+Elle fournit une évaluation de la qualité et de la sécurité des soins des établissements de santé aux usagers et
+aux Agences régionales de santé (ARS) sans se substituer aux inspections et contrôles de sécurité sanitaire
+menés par ces autorités de tutelle.
+ 
+Cette démarche nationale est réalisée selon des standards internationaux : la procédure de certification est
+elle-même évaluéepar l’International Society for Quality in Health Care via l’International Accreditation Program
+(IAP), le seul programme international qui accrédite les organismes qui accréditent des structures de soins. La
+HAS a obtenu de l’ISQua en 2018 le renouvellement de son accréditation pour son activité de certification.     
+ 
+Une évaluation qui s’appuie sur un référentiel élaboré par la HAS en concertation avec les
+professionnels de santé, les organisations représentatives et les représentants des usagers…
+ 
+Chaque établissement de santé est évalué sur les critères génériques, s’appliquant à tout l’établissement, ainsi
+que sur des critères spécifiques relevant :
+•   de populations spécifiques : enfant et adolescent, patient âgé, personne en situation de handicap,
+•   de modes de prise en charge spécifiques : ambulatoire, hospitalisation à domicile (HAD), SAMU-SMUR,
+urgences, soins critiques (soins continus, soins intensifs et réanimation)
+•   de secteurs d’activités spécifiques : chirurgie et interventionnel, maternité, psychiatrie et santé mentale,
+soins médicaux et de réadaptation (SMR), unité de soins de longue durée (USLD).
+ 
+Ce référentiel, publié sur le site Internet de la HAS, comprend des critères ayant des niveaux d’exigence
+différents :
+•   des critères standards correspondent aux attendus de la certification;
+•   des critères impératifs correspondent à ce que l’on ne veut plus voir au sein d’un établissement de santé. Ils
+ont un impact particulier dans la décision de certification. En effet, siune évaluation de l’un de ces critères est
+négative pour un ou plusieurs de ses éléments d’évaluation, la HAS se réserve le droit de ne pas accorder la
+certification de l’établissement. 
+•   des critères avancés correspondent à des exigences souhaitées mais non exigibles à ce jour. Ils
+correspondent potentiellement aux critères de certification de demain et sont valorisés pour les établissements
+qui peuvent y répondre sous condition d’un niveau minimal sur l’ensemble des critères standards et impératifs. 
+ 
+… et sur des méthodes
+ 
+ 
+4 
+HAS · APHM-HOPITAL DE LA CONCEPTION · Novembre 2024
+•   des patients traceurs pour évaluer la qualité et la sécurité de la prise en charge d’un patient dans
+l’établissement de santé
+•   des parcours traceurs pour évaluer la continuité et la coordination de la prise en charge des patients, le
+travail en équipe et la culture qualité et sécurité au cours d’un parcours de soins défini
+•   des traceurs ciblés pour évaluer la mise en œuvre d’un processus ciblé
+•   des audits systèmes pour évaluer les organisations de l’établissement et s’assurer de leur maîtrise sur le
+terrain
+•   des observations pour évaluer les conditions générales de qualité et de sécurité des soins.
+ 
+Un rapport de certification structuré en 3 chapitres 
+ 
+Les résultats des évaluations réalisées durant une visite de l’établissement par des experts-visiteurs se
+traduisent dans un rapport de visite articulé en cohérence avec les 3 chapitres du référentiel.:
+•   Le premier chapitre concerne directement le résultat pour le patient. Tout au long de sa prise en charge, ses
+droits sont respectés, ses besoins spécifiques pris en compte de la même façon que ses attentes et ses
+préférences. Au-delà, l’engagement du patient est recherché. Son implication comme partenaire de sa prise en
+charge, tout comme celle de ses proches et aidants, est favorisée par l’expression de son point de vue sur son
+expérience et le résultat des soins.
+•   Le deuxième chapitre concerne les équipes de soins, à tous les niveaux. La certification vise à apprécier leur
+capacité à rechercher la pertinence, l’efficacité et la sécurité des soins, à se concerter et se coordonner tout au
+long du parcours du patient. Elle met également l’accent sur la maitrise des risques liés au soin. Les analyses
+des évènements indésirables associés aux soins, notamment les événements indésirables graves ainsi que
+des rapports de certification précédents conduisent à mettre un accent particulier sur le risque infectieux et le
+risque lié aux médicaments.
+•   Le troisième chapitre concerne l’établissement et sa gouvernance (direction et commission/conférence
+médicale d’établissement). Cette dernière favorise l’insertion territoriale en lien avec les autres acteurs de l’offre
+de soins et médico-sociale. Elle impulse une dynamique forte d’amélioration de la qualité et de la sécurité des
+soins qui associe et soutient les équipes, ainsi que les patients, représentants d’usagers et associations de
+malades. 
+ 
+Cette structuration permet l’analyse croisée entre le résultat pour le patient, les pratiques mises en œuvre par
+les équipes de soins et la dynamique impulsée par la gouvernance de l’établissement et du groupement, le cas
+échéant.
+ 
+Une décision et un rapport rendus publics
+ 
+Sur la base du rapport de visite, complété d’éventuelles fiches d’anomalies et des observations de
+l’établissement, la HAS adopte le rapport de certification et rend une décision. La HAS peut prononcer trois
+types de décision :
+une décision de certification valable quatre ans qu’elle peut assortir d’une mention ;
+une décision de non-certification impliquant la mise en œuvre d’une nouvelle procédure dans un délai
+maximum de deux ans ;
+une décision de certification sous conditions ; une nouvelle procédure est alors programmée dans un délai
+compris entre six et douze mois. À l’issue de cette seconde procédure, la HAS constate si l’établissement a
+rempli les conditions pour être certifié. Elle prononce alors une décision de certification, avec ou sans
+mention, ou une décision de non-certification.
+ 
+Le rapport et la décision sont publiés sur le site Internet de la HAS et communiqués à l’autorité de tutelle de
+l’établissement.
+L’établissement doit en assurer la plus large diffusion interne. Il doit notamment la porter à la connaissance des
+instances délibérantes, de la commission ou conférence médicale d’établissement et de la commission des
+usagers.
+ 
+5 
+HAS · APHM-HOPITAL DE LA CONCEPTION · Novembre 2024
+Ce rapport de visite est produit par l’équipe des experts-visiteurs dans un délai d’une quinzaine de jour
+après la fin des évaluations et de la réunion de restitution, il est transmis à l’établissement pour que
+celui-ci puisse formuler ses observations. Il sera remis également à la HAS et fera partie des éléments
+de référence pour l’élaboration du rapport de certification
+ 
+6 
+HAS · APHM-HOPITAL DE LA CONCEPTION · Novembre 2024
+Décision
+Au vu des éléments mentionnés dans le présent rapport, issus de la visite sur site, la Haute Autorité de santé
+decide la certification de l'établissement avec mention.
+ 
+7 
+HAS · APHM-HOPITAL DE LA CONCEPTION · Novembre 2024
+Présentation
+APHM-HOPITAL DE LA CONCEPTION
+Adresse
+147 boulevard baille
+13005 Marseille cedex 5 FRANCE
+Département / Région
+Bouches-du-Rhône / Provence-Alpes-Côte d'Azur
+Statut
+Public
+Type d’établissement
+Centre Hospitalier Universitaire
+Établissement(s) juridique(s) rattaché(s) à cette démarche (la liste des établissements géographiques
+se trouve en annexe 1)
+ 
+Type de structure
+N° FINESS
+Nom de l’établissement
+Adresse
+Établissement juridique
+130786049
+ASSISTANCE PUBLIQUE
+DES HOPITAUX DE
+MARSEILLE
+80 rue brochier
+13005 Marseille 05eme FRANCE
+Synthèse des activités réalisées par l’établissement au 2024 
+Vous trouverez en annexe 2 l’ensemble des activités réalisées par l’établissement.
+ 
+8 
+HAS · APHM-HOPITAL DE LA CONCEPTION · Novembre 2024
+Champs d'applicabilité
+Champs d'applicabilité
+Adulte
+Ambulatoire
+Chirurgie et interventionnel
+Enfant et adolescent
+Hospitalisation à domicile
+Hospitalisation complète
+Maladie chronique
+Maternité
+Médecine
+Pas de situation particulière
+Patient âgé
+Patient atteint d'un cancer
+Patient en situation de handicap
+Patient en situation de précarité
+Programmé
+Psychiatrie et santé mentale
+Soins critiques
+Tout l'établissement
+ Au regard du profil de l’établissement,124  critères lui sont applicables
+  
+ 
+9 
+HAS · APHM-HOPITAL DE LA CONCEPTION · Novembre 2024
+Résultats
+Chapitre
+Chapitre 1
+Le patient
+Chapitre 2
+Les équipes de soins
+Chapitre 3
+L'établissement
+ 
+10 
+HAS · APHM-HOPITAL DE LA CONCEPTION · Novembre 2024
+Chapitre 1 : Le patient
+98% 
+du score
+maximal
+Objectifs
+1.1
+Le patient est informé et son implication est recherchée.
+94%
+1.2
+Le patient est respecté.
+98%
+1.3
+Les proches et/ou aidants sont associés à la mise en œuvre du projet de soins avec l’accord du
+patient
+100%
+1.4
+Les conditions de vie et de lien social du patient sont prises en compte dans le cadre de sa
+prise en charge
+100%
+  L’hôpital de la Conception est l’un des quatre sites de l’APHM avec l’hôpital de la Timone, l’hôpital Nord et
+l’hôpital Sud ; il comprend un pôle mère-enfants et des lits d’hospitalisation adultes (ambulatoires et
+conventionnels) pour des secteurs de médecine, de chirurgie et de psychiatrie et d’HAD. L’APHM a décliné sa
+politique de droits du patient et de prise en charge au niveau de la Conception Tous les patients rencontrés
+dans tous les secteurs investigués ont reçu une information claire et adaptée à leur degré de discernement sur
+leur état de santé, les hypothèses et confirmations diagnostiques, ainsi que les soins prodigués. Pour se faire,
+les équipes ont développé des modalités différentes pour garantir une adhésion voire une alliance au projet de
+soins, comme par exemple l’information individuelle pré greffe et la réunion d’information collective obligatoire
+pour les patients candidats à la greffe ; le passeport en chirurgie plastique…. Dans ce cadre l’expression du
+ 
+11 
+HAS · APHM-HOPITAL DE LA CONCEPTION · Novembre 2024
+consentement libre et éclairé est facilitée. Certaines équipes de l’hôpital de la Conception accueillent des
+enfants et veillent à adapter les modalités de communication à l’âge de l’enfant, au-delà des informations
+données aux parents. Le patient bénéficie de messages renforçant sa capacité à agir pour sa santé, comme en
+HAD adulte et HAD maternité-enfants (formation des parents à l’administration des médicaments, formation
+des aidants aux soins à réaliser à domicile), en psychiatrie sous la forme d’ateliers (hygiène corporelle et
+dentaire, sexualité, sommeil), en endocrinologie avec de nombreux supports d’information sur la prévention
+primaire (activités sportives, alimentation et diabète ou hypercholestérolémie…), en HDJ psychiatrie et en
+CATTP grâce à des réunions communautaires pluri professionnelles qui permettent d’aborder des questions de
+santé publique en lien avec les difficultés de la vie quotidienne et l’addiction, avec l’intervention d’associations.
+Les patientes de PMA bénéficient systématiquement d’une consultation en santé environnementale. Le patient
+bénéficie d’actions pour devenir acteur de sa prise en charge (exemple : bébé en mousse utilisé en
+complément d’un livret illustré pour les soins de nursing ou prise de médicaments en néonatalogie ;
+surveillance du Ph pour les patients sous méthotrexate ; travail sur l’allaitement et le « peau à peau » avec des
+référentes et groupes mis en place sur le retour à la maison, le portage, la prématurité, la souffrance du bébé).
+Des infirmières de pratiques avancées et les IDE coordonnatrices participent à ces activités dans différents
+secteurs (pour exemple : ETP post greffe par IDE coordinatrice). Enfin des programmes d’éducation
+thérapeutique sont proposés aux patients en endocrinologie, néphrologie avec la dialyse ou encore en
+oncohématologie. En maternité, la rédaction d’un projet de naissance est proposée aux parents. Cette
+information est tracée dans le dossier. Le livret d’accueil papier est disponible aux bureaux des entrées du site
+et en service de soins. Dans certains secteurs (dialyse, psychiatrie par exemple), un livret d’accueil spécifique
+est remis aux patients. Les affiches avec un QRcode renvoient vers le livret dématérialisé et sont présentes
+dans les services et dans les chambres des patients ; pour autant certains patients rencontrés n'ont pas eu un
+livret d’accueil et ne se sont pas encore emparés de cette modalité QR code. Par ailleurs les patients ne sont
+pas toujours informés de leur droit à demander que le DMP et mon espace santé ne soient pas alimentés et ils
+ne savent pas toujours qu’il ne doit pas y avoir d’échanges avec les équipes par une messagerie non
+sécurisée. Le patient, en prévision de sa sortie, est informé des consignes de suivi pour sa prise en charge. Un
+carnet de liaison est en place en dialyse, à l’image d’un carnet de santé pour partager des informations entre le
+patient et les professionnels de santé qui le prennent en charge. Un pharmacien assure un suivi du patient
+rentré à domicile vis-à-vis de la survenue d’éventuels effets secondaires en onco-hémato, par un appel à J7
+puis à 1 mois après la sortie. En ambulatoire, le patient reçoit les informations spécifiques aux modalités de sa
+prise en charge. En chirurgie ambulatoire, un passeport est remis au patient avec des appels à J-5, J-1 et
+l’appel du lendemain. Pour autant, il n’est pas toujours retrouvé de document d’informations spécifiques remis
+au patient à sa sortie en HDJ PSY. Le patient est informé des dispositifs médicaux qui lui sont implantés durant
+son séjour et reçoit les consignes de suivi appropriées ; l’identification et l’information du patient sont
+majoritairement tracées dans la lettre de liaison. Le patient peut désigner la personne à prévenir et la personne
+de confiance de son choix, dont la trace est retrouvée dans le dossier. Au sein des services prenant en charge
+des nouveau-nés, une « personne ressource » est proposée pour aider les parents, et être là pour l’enfant. Les
+directives anticipées sont bien abordées dans les plaquettes d’information et un formulaire présent dans le
+dossier « type » du patient. Outre les patients rencontrés en oncohématologie, les patients sont peu informés
+sur leur droit à en rédiger et les équipes de soins informent peu le patient sur ce droit. Le patient a la possibilité,
+en situation de fin de vie, de faire valoir au plus tôt sa décision d’accéder aux soins palliatifs, quel que soit le
+service accueillant le patient. Une démarche palliative pluridisciplinaire, pluriprofessionnelle, coordonnée et
+protocolisée est mise en œuvre pour les patients en fin de vie, avec possibilité de mobiliser, H24, l’équipe
+mobile de soins palliatifs de l’APHM. Plus spécifiquement, dans le cadre de la prise en charge de
+l’accompagnement de fin de vie de nouveau-nés, des modalités de prise en charge ont été travaillées avec
+l’équipe mobile de l’AP-HM. Les affichages des chartes sont présents et adaptés aux services concernés. Mais
+en dépit des affichages et communication sous différentes formes des représentants des usagers (adresse mail
+par exemple ; QR Code ; plaquette avec trombinoscope), les patients rencontrés connaissent peu les
+ 
+12 
+HAS · APHM-HOPITAL DE LA CONCEPTION · Novembre 2024
+représentants des usagers et associations de bénévoles qui peuvent les accompagner et leur rôle. Le patient
+bénéficie dans tous les secteurs de la garantie du respect de ses droits. Il bénéficie du respect de son intimité
+et de sa dignité ; il a été constaté dans tous les secteurs d’activité des pratiques respectueuses (utilisation de
+pyjama tissé non transparent pour les patients arrivant debout aux blocs opératoires), toujours exprimées par
+les patients, parfois en dépit de locaux inadaptés en termes de confort (exemple : pas de salle de bain adaptée
+dans le service avec nécessité de conduire les patients dans le service voisin) et de sécurité (marche dans la
+douche dans les chambres de néphrologie). Une rénovation d’unités d’hospitalisation est planifiée pour 2025
+avec un regroupement des activités ambulatoires d’endocrinologie et un déplacement de l’unité de chirurgie
+ambulatoire (UCA). Il existe des paravents dans tous les services, mais pas dans toutes les chambres doubles.
+En raison d’un manque de place, les équipes disposent de paravents mobiles, à installer selon les besoins et
+les demandes des patients. Le patient bénéficie du respect de la confidentialité des informations le concernant
+(exemple : pour les chambres à deux lits, proposition faite au patient de réaliser les entretiens dans une autre
+pièce en neurologie). Les proches et/ou aidants sont associés à la mise en œuvre du projet de soins avec
+l’accord du patient. Ils peuvent s’impliquer dans la mise en œuvre du projet de soins. Leur présence est
+grandement facilitée en dehors des heures de visite lorsque la situation le nécessite (réponse personnalisée
+aux demandes des proches, présence H24 des parents en réanimation). Des mineurs peuvent être pris en
+charge dans des secteurs adultes et bénéficient dans ces cas-là d’un environnement adapté. Le patient vivant
+avec un handicap bénéficie du maintien de son autonomie tout au long de son séjour. Lors des consultations
+médicales en amont de l’hospitalisation, les facteurs de vulnérabilité du patient sont relevés et pris en compte
+dès son arrivée. Le patient bénéficie de soins visant à anticiper ou à soulager rapidement sa douleur. De
+nombreux protocoles sont mis en œuvre, les échelles de douleur sont partout adaptées à la typologie des
+patients, avec par exemple l’échelle minoPAIN développée par La Conception et utilisée par toute l’AP-HM,
+pour évaluer l’inconfort des nouveau-nés. Cet outil participe également à l’éducation des parents pour évaluer,
+à domicile, la douleur de leur bébé. Le recours à la contention mécanique fait l’objet d’une décision médicale,
+motivée, tracée et réévaluée ; il est constaté une politique médicale de limiter au maximum le recours à cette
+contention mécanique avec une recherche de solutions alternatives, notamment en psychiatrie (environnement
+adapté, inclusion de la famille, soutien psychologique en oncologie). Les conditions de vie et de lien social du
+patient sont prises en compte dans le cadre de sa prise en charge. Le patient en situation de précarité bénéficie
+du service social de l’établissement et d’un accompagnement pour une orientation vers les services sociaux et
+associations adéquates. En maternité, les patientes sont accompagnées en fonction de leurs besoins et
+attentes : lien avec la PMI ou l’unité mobile de périnatalité ; prise en charge par la Maison des Femmes ou la
+PASS maternité-enfant. Un suivi à domicile des nouveau-nés vulnérables est organisé avec une équipe mobile
+enfant vulnérables. En endocrinologie, pour les adolescents pris en charge pour trouble du comportement
+alimentaire, des ateliers sont proposés par la psychologue. En psychiatrie, des activités thérapeutiques sont
+proposées aux patients et pour les patients jeunes après un premier épisode psychotique, un lien est mis en
+place avec le CLIP (cellule locale d'intervention précoce). Un groupe gynéco-psychiatre se réunit
+mensuellement et permet aux patientes d'exprimer leurs difficultés et d'avoir un avis. Le patient vivant avec un
+handicap ou ses proches et aidants exprime ses besoins et préférences pour une prise en compte dans son
+projet de soins ou pour une orientation vers une unité adaptée (pour exemple : Consultation pour sourds et
+malentendants à l’unité de surdité et santé mentale méditerranéenne). Les conditions de vie habituelles sont
+prises en compte notamment pour la préparation de la sortie (exemple : en chirurgie ORL, suivi à domicile par
+IDE responsable de la RAAC à J1, J4, J10, J15 ; suivi à domicile par un réseau IDE libérales formées à la
+manipulation des dispositifs chez les trachéotomisés, expérimentation du dispositif perMAT avec des visites à
+domicile de sage femmes libérales).   
+ 
+13 
+HAS · APHM-HOPITAL DE LA CONCEPTION · Novembre 2024
+Chapitre 2 : Les équipes de soins
+96% 
+du score
+maximal
+Objectifs
+2.1
+La pertinence des parcours, des actes et des prescriptions est argumentée au sein de l’équipe
+100%
+2.2
+Les équipes sont coordonnées pour prendre en charge le patient de manière
+pluriprofessionnelle et pluridisciplinaire tout au long de sa prise en charge
+96%
+2.3
+Les équipes maîtrisent les risques liés à leurs pratiques
+97%
+2.4
+Les équipes évaluent leurs pratiques notamment au regard du suivi des résultats cliniques de
+leur patientèle
+92%
+  Un travail de pertinence des parcours a été réalisé à la fois au niveau de l’APHM, de l’Hôpital de la
+Conception, mais aussi au niveau du GHT13 (quinze filières médicales définies et déployées avec les autres
+établissements, des actions de proximité avec des animations par l’APHM de maisons médicales de santé). La
+pertinence des actes et des prescriptions est également argumentée au sein des équipes. La pertinence des
+décisions de prise en compte s’appuie sur des protocoles actualisés adossés aux recommandations de bonnes
+pratiques ; des réunions de concertations pluridisciplinaires (RCP) sont mises en place dans plusieurs secteurs
+d’activité soit au niveau de l’établissement, soit avec d’autres structures publiques. Il existe deux filières en
+HAD, adulte et maternité-enfants à l’Hôpital de la Conception. Le recours à l’HAD est coordonné avec d’autres
+sites de l’APHM et partenaires de ville. L’HAD intervient sur l’intégralité du parcours. La prescription d’une HAD
+ 
+14 
+HAS · APHM-HOPITAL DE LA CONCEPTION · Novembre 2024
+est envisagée dans le cadre du projet de soins, notamment dès l’admission du patient en court séjour
+gériatrique (exemple : l’Hôpital de la Conception ou réseau soins palliatifs Bouches-du-Rhône). La pertinence
+des prescriptions d’antibiotiques est argumentée et réévaluée. Les recommandations de bonnes pratiques
+actualisées sont facilement accessibles à partir du dossier informatisé du patient. Des livrets adultes et enfants
+ont été remis à jour avec l’aide du référent antibiothérapie. La traçabilité de la réévaluation à 7 jours est
+effective. La pertinence de la transfusion de produits sanguins labiles est argumentée (dossier transfusionnel
+entièrement dématérialisé incluant prescription, surveillance, facteurs de risque, incidents, étapes non
+réalisées). La sécurité transfusionnelle est assurée avec un programme de formation, pour chaque étape de la
+transfusion, basé sur les protocoles à jour. Les modalités de transport sont définies pour chaque service en
+fonction de ses besoins. Le taux de destruction est suivi. Le patient est informé des produits sanguins labiles
+qui lui sont administrés. Les équipes se coordonnent de façon pluridisciplinaire et pluriprofessionnelle tout au
+long de la prise en charge du patient, au sein du site et en faisant appel à d’autres équipes hors site. Les
+professionnels tracent en temps utile leurs interventions sur le dossier patient. Cependant, l’ergonomie du
+système d’information limite parfois l’accès simultané à l’ensemble du dossier patient utile à la prise en charge,
+comme en dialyse, en psychiatrie, ou au bloc opératoire. L’établissement est engagé dans le déploiement d’un
+dossier patient informatisé commun pour l’ensemble de ses activités. La coordination entre équipes est assurée
+grâce à de nombreux staffs pluriprofessionnels et à de nombreuses RCP. Les équipes se coordonnent aussi
+dans le cas où le patient n’a pas été orienté dans l’unité adaptée faute de disponibilité. Cependant,
+l’hébergement de patientes de maternité en service de chirurgie limite l’accompagnement à la parentalité (peu
+de disponibilité de l’équipe ; pas de lit accompagnant). L’équipe de soins peut faire appel si besoin à un réseau
+d’équipes de recours ou d’expertise : équipes mobiles de gériatrie, psychiatrie, douleur, infections, soins
+palliatifs, hygiène et équipes des centres de référence ou compétences des maladies rares. En onco-hémato,
+la prise en charge des patients prend en compte les risques et besoins, en fonction des tranches d’âge
+spécifiques (18 / 25 ans = RCP adolescents et jeunes adultes tous les 15 jours avec une IDE AJA présente lors
+de la 1ère hospitalisation et pour les personnes âgées, recours à l’oncogériatrie de Ste Marguerite ou à l’équipe
+mobile de gériatrie). Les acteurs de la programmation opératoire sur les différents blocs se coordonnent et
+tiennent compte de la priorisation des urgences. Un staff hebdomadaire analyse les déprogrammations et les
+délais de reprogrammation. Au sein des blocs de l’Hôpital de la Conception, la check List « sécurité du patient
+» est utilisée. Néanmoins cette check List n’est pas toujours réalisée en présence des personnes concernées
+(étape 3) ; un audit réalisé en 2024 a montré des améliorations en lien avec les actions définies à l’issue de
+l’audit mené en novembre 2023. L’interface avec la biologie médicale, le service d’anatomopathologie et
+l’imagerie est opérationnelle et adaptée aux besoins (pour exemple : astreinte d’anatomopathologie pour
+extemporanée sur greffon rénal suspect 24/24h). En phase de transition adolescent-adulte, les équipes se
+coordonnent pour assurer la continuité de la prise en charge du patient. Par exemple, une consultation
+commune en endocrinologie entre les secteurs pédiatrique et adulte, la transition enfant-adulte en dialyse, ou
+encore la coordination entre pédopsychiatrie de Sud avec les équipes "adultes" de l’Hôpital de la Conception
+sont organisées. Le carnet de santé, le dossier du patient et le dossier médical « mon espace santé » (DMP)
+sont majoritairement mis à jour de manière synchronisée pour assurer la continuité des soins avec la ville.
+L’équipe du Centre d’accueil permanent (CAP48), située sur le site de la Timone, permet d’améliorer la
+régulation des urgences psychiatriques. Elle a accès aux données du patient et oriente le patient dans le circuit
+adapté à sa prise en charge, en organisant le transfert sur le site de l’Hôpital de la Conception de façon
+sécurisée. Les équipes de psychiatrie suivent les délais d’entrée en soins (pour les patients qui ne dépendent
+pas du secteur, RDV dans les 15 jours avec IDE et 3 semaines avec un médecin). La prise en charge en
+psychiatrie intègre un examen somatique dans les meilleurs délais après son hospitalisation. L’examen est
+réalisé à l'entrée par l'interne de médecine générale, validé par le généraliste du pôle (0,5 ETP). Le recours à
+des avis spécialisés est facilité. Un groupe gynéco-psychiatrique se réunit 1 fois par mois et permet aux
+patientes d'exprimer leurs difficultés et d'avoir un avis. Une lettre de liaison à la sortie est remise au patient et
+permet la continuité du parcours de soins. Cependant, le bilan thérapeutique n’est pas systématiquement
+ 
+15 
+HAS · APHM-HOPITAL DE LA CONCEPTION · Novembre 2024
+retrouvé dans la lettre de liaison ou le compte-rendu d’hospitalisation. Les équipes respectent les bonnes
+pratiques d’identification du patient à toutes les étapes de sa prise en charge (lieux adéquats, professionnels
+formés, bracelet d’identification pour tous les patients même en dialyse et HDJ ONCO). En cas de doute sur un
+doublon ou une erreur d’identité, les professionnels ont la possibilité d’envoyer un mail à la cellule
+d’identitovigilance, prérempli avec l’IPP du patient, via le dossier patient. Pour les secteurs de psychiatrie,
+pendant la visite, la procédure d’identitovigilance des patients a été mise à jour pour intégrer la nouvelle
+modalité d’identification des patients de ces services par un bracelet. Les équipes connaissent et appliquent les
+modalités de gestion des vigilances sanitaires qui concernent le site. La politique de sécurisation de la prise en
+charge médicamenteuse APHM est portée par le COSEPS (comité de sécurisation des produits de santé) ; ce
+comité se décline en plusieurs groupes de travail pluridisciplinaires. La PUI est gérée à l’échelle de l’APHM
+avec deux services transversaux (service central de la qualité et de l’information pharmaceutique et le service
+central des opérations pharmaceutiques) et les activités pharmaceutiques réalisées sur chaque site dont
+l’Hôpital de la Conception. La sécurité de la prise en charge médicamenteuse du patient sur le site de l’Hôpital
+de l’Hôpital de la Conception bénéficie d’activités de pharmacie clinique (entretiens avec les patients greffés
+rénaux et anticipation de la mise à disposition du traitement à domicile en lien avec l’officine du patient ;
+entretien avec les patients en onco-hématologie en HC ou HDJ pour les traitements de chimio orale ;
+participation du pharmacien aux RCP et au programme d’ETP animé mensuellement) et de la conciliation
+médicamenteuse (conciliation pro active en endocrinologie). De façon très générale, sur l’Hôpital de la
+Conception, le circuit du médicament est sécurisé et adapté aux besoins. L’analyse pharmaceutique de niveau
+3 est réalisée pour tout patient entrant ; cependant cette analyse n’intègre pas les éléments du dossier
+pharmaceutique du patient (ordre des pharmaciens/assurance maladie). L’avis pharmaceutique est délivré par
+téléphone pour les prescriptions de psychiatrie et un pharmacien est présent en néonatalogie. Les équipes
+respectent les bonnes pratiques d’administration des médicaments (utilisation d’étiquettes institutionnelles pour
+les injectables, préparation des médicaments au plus près de l’administration, traçabilité de l’administration). En
+HAD, l’enregistrement de l’administration est assuré sur le logiciel institutionnel et les équipes ont accès aux
+données patients au domicile, que les IDE soit APHM ou libérales. Les équipes maîtrisent l’utilisation des
+médicaments à risque. Le transport des médicaments est sécurisé sur le site et dans le cadre de la filière HAD.
+Les équipes maîtrisent le risque de discontinuité de la prise en charge médicamenteuse du patient vulnérable à
+sa sortie. La Rétrocession de l’AP-HM est réalisée sur le site de l’Hôpital de la Conception, qui a mis en place
+un circuit logistique permettant d’acheminer le traitement de rétrocession des patients dans leur officine, via les
+grossistes répartiteurs. Ce dispositif a permis de garantir la continuité pharmaceutique sur toute la période
+COVID et se poursuit aujourd’hui car il a montré une amélioration notable dans le parcours de soin des
+patients. Les équipes maîtrisent le risque infectieux en appliquant les bonnes pratiques d’hygiène des mains
+(connaissance et suivi de l’ICSHA dans la plupart des services), ainsi que les précautions standard et
+complémentaires. Le CLIN et l’EOH assurent la formation des professionnels, la gestion des excrétas, la
+surveillance des ISO et gèrent les alertes BMR et BHRE. Des audits ont lieu régulièrement sur certaines
+thématiques (exemples : hygiène des mains, zéro bijou, dispositifs invasifs, etc). Les équipes maîtrisent les
+bonnes pratiques d’antibioprophylaxie liés aux actes invasifs et disposent de protocoles adaptés à chaque
+chirurgie, qui sont consultables dans chaque salle de bloc. Les équipes maîtrisent le risque infectieux lié au
+circuit des dispositifs médicaux invasifs. Des fibroscopies, des cystoscopies et des endoscopies (urologie,
+CGS, ORL, aux blocs opératoires/SSPI et réanimation des brûlés) sont réalisées au sein de l’Hôpital de La
+Conception. Des cystoscopes à usage unique et des fibroscopes à usage unique et réutilisables sont utilisés.
+Les processus de traitement et désinfections sont maîtrisés (double lingette et/ou immersion). La formation aux
+pratiques de traitement des endoscopes des professionnels est assurée sur le site de l’Hôpital de la Timone (2
+jours suivis d’une évaluation). Des prélèvements de microbiologie sont réalisés une fois par an par la
+technicienne hygiéniste. Pour les jours non ouvrables et la nuit, un chariot endoscopie en ORL est prévu. Le
+parc des endoscopes est inventorié et suivi avec l’ingénieur biomedical et l’EOH. La vétusté globale des salles
+du blocs opératoires et des zones de stockage insuffisantes rendent difficile le nettoyage du bloc opératoire. Le
+ 
+16 
+HAS · APHM-HOPITAL DE LA CONCEPTION · Novembre 2024
+site est conscient de cette difficulté. En attendant la réhabilitation du bloc central, incluse dans le projet UCA/
+BO/OPH dont les travaux ont débuté et devraient se terminer en 2027, des contrôles sont organisés : contrôle
+des paramètres aérauliques des salles réalisé en août 2023 avec des résultats conformes et des prélèvements
+bactériologiques air/surfaces réalisés annuellement. Une surveillance des ISO est en place en urologie et
+chirurgie plastique avec, en 2023, des résultats conformes à l’attendu. Les équipes pluriprofessionnelles
+maîtrisent le risque de dépendance iatrogène. Les équipes respectent les recommandations et obligations
+vaccinales pour les professionnels de santé. Une sensibilisation est réalisée par affichage, l’encadremen, et le
+service de la médecine du travail, au sein des services et au self. Les équipes maîtrisent les risques liés à
+l’utilisation des rayonnements ionisants ; cependant le patient n’est pas toujours informé des doses reçues.
+Pour exemple, les mobiles utilisés en réanimation sont reliés au PACS mais en l'absence de compte rendu
+d'examen, la dosimétrie n'est pas communiquée au patient. En réanimation néonatale, l’équipe a travaillé sur la
+pertinence des radiographies de poumons avec l’adaptation paramétrage des appareils de façon à diminuer au
+maximum les doses de rayonnement. Les équipes maîtrisent le risque lié à l’hémorragie du post -partum
+(HPPI). Les équipes sont formées (en e-learning, in-situ par les médecins du service et avec le réseau périnat).
+Les embolisations sont réalisées si besoin à l’Hôpital de la Timone sur la base d’un circuit formalisé entre les
+deux équipes et le SAMU. Par ailleurs, l’organisation en place pour assurer la prise en charge des césariennes
+la nuit a été revue en visite de certification afin de pourvoir les vacations laissées vacantes et de renforcer la
+maîtrise du risque. Enfin, l’organisation d’une des salles de naissance va être revue. L’autorisation de sortie du
+patient en chirurgie ambulatoire est validée sur la base d’un score. Le transport intra hospitalier des patients du
+site de l’Hôpital de La Conception est organisé avec une équipe de 39 brancardiers, régulée par une équipe
+dédiée, avec l’appui d’une solution logicielle. Les patients sont informés des destinations et des horaires. Les
+délais sont en adéquation avec la continuité de prise en charge. Des indicateurs sont suivis. En ce qui
+concerne l’évaluation des pratiques professionnelles, la dynamique et la maturité des démarches sont
+hétérogènes dans les différents secteurs d’activité de l’Hôpital de la Conception. Peu d’équipes se fondent sur
+l’analyse de résultats cliniques et sont en capacité de mettre en place un plan d’actions. La majorité des
+équipes cherchent à améliorer leurs pratiques en se fondant sur le témoignage des patients, pour exemple, en
+maxillo-facial, l’analyse des questionnaires de satisfaction a permis d’augmenter la gamme de produits
+alimentaires BYC et le recueil de l’expérience patient a conduit à l’amélioration de la prise en charge de la
+douleur avec l’achat d’un matériel de réfrigération des pansements. La plupart des équipes améliorent leurs
+pratiques en se fondant sur leurs résultats d’indicateurs notamment les indicateurs qualité et sécurité des soins
+(exemple : en psychiatrie, indicateurs connus ayant donné lieu à des actions d'amélioration sur la prise en
+charge de la douleur, sur la consommation de SHA). La plupart des équipes améliorent leurs pratiques en
+analysant les évènements indésirables associés aux soins qu’elles ont déclarés, de façon plus ou moins
+régulière avec des plans d’actions dans le PAQSS de l’Hôpital de La Conception, dont l’impact sur la maitrise
+du risque est peu ou pas évalué. Toutes les équipes éligibles ne connaissent pas toujours le dispositif
+d’accréditation. Les équipes des soins intensifs tiennent à jour un registre de refus d’admission, cependant
+elles ne suivent pas les réhospitalisations à 48/72 heures. Les équipes des secteurs interventionnels (bloc
+central, bloc grands brûlés, bloc obstétrical) améliorent leurs pratiques en analysant les modalités de réalisation
+de la check List (analyse des GO/No GO, suivi réalisé ou initié dans certains secteurs d’indicateurs de
+pratiques et d’utilisation).   
+ 
+17 
+HAS · APHM-HOPITAL DE LA CONCEPTION · Novembre 2024
+Chapitre 3 : L'établissement
+94% 
+du score
+maximal
+Objectifs
+3.1
+L’établissement définit ses orientations stratégiques en cohérence avec son territoire
+99%
+3.2
+L’établissement favorise l’engagement des patients individuellement et collectivement
+99%
+3.3
+La gouvernance fait preuve de leadership
+95%
+3.4
+L’établissement favorise le travail en équipe et le développement des compétences
+86%
+3.5
+Les professionnels sont impliqués dans une démarche de qualité de vie au travail impulsée par la
+gouvernance
+99%
+3.6
+L’établissement dispose d’une réponse adaptée et opérationnelle aux risques auxquels il peut
+être confronté
+93%
+3.7
+L’établissement développe une dynamique d’amélioration continue de la qualité des soins
+89%
+  L’AP-HM est l’établissement pivot du système de santé régional. Il se compose de quatre sites (Hôpital de la
+Timone, Hôpital Nord, Hôpital Conception et Hôpital Sud), 25 pôles d’activités médicales et 250 services (au
+total 3300 lits et places), 93 centres labellisés « Maladies rares », un centre d’enseignement et de recherche
+avec l’Institut Méditerranée Universitaire (infectiologie) et trois centres de recherche hospitalo-universitaires, 13
+ 
+18 
+HAS · APHM-HOPITAL DE LA CONCEPTION · Novembre 2024
+instituts de formation, 3 centres de santé (Aygalades, Flamants et Aubagne), une maison des femmes à
+Marseille. L’AP-HM est établissement support du GHT 13 et a été en 2023 à l’initiative d’un projet stratégique
+de territoire, avec la mise en œuvre des postes partagés en médecine et en chirurgie pour favoriser le
+développement de filières (par exemple la filière gériatrique avec les établissements médico-sociaux) et
+conforter son attractivité. L’établissement a également tissé des liens avec les cliniques et la médecine de ville.
+Il est le premier employeur de la région PACA avec 3000 professionnels médicaux et 13000 professionnels non
+médicaux. La stratégie en politique de santé, en politique des ressources humaines et en maîtrise des risques
+est élaborée au niveau central et déclinée sur chaque site. Le site de l’Hôpital de la Conception comporte 800
+lits adultes (soit 22,6% de l’AP-HM), avec une activité d’obstétrique (2 778 naissances – maternité de niveau 3),
+une activité médicale et chirurgicale adultes (23 030 entrées en hospitalisation complète, 374 000 consultations
+et actes techniques, 12 587 interventions au bloc) et une activité de psychiatrie adulte. Dans son plan de
+modernisation « Cap sur 2030 », l’AP-HM donne à ce site des ambitions à 10 ans, se traduisant par un projet
+de rénovation et de densification du site de l’Hôpital de la Conception pour accompagner le maintien de l’offre
+de soins, à travers 5 objectifs : optimiser le parcours en chirurgie ambulatoire, rénover des unités
+d’hospitalisation, réaliser des travaux de sécurisation, accueillir les activités de neurologie et ophtalmologie et
+rénover et étendre les salles de bloc. L’AP-HM a défini ses orientations stratégiques en cohérence avec son
+territoire. Elle participe aux projets territoriaux de parcours dans le cadre du GHT avec de très nombreuses
+filières organisées et une politique « d’aller vers » les établissements médico-sociaux et la médecine de ville
+(commission ville-hôpital, collaboration entre pédiatrie et équipe de liaison de pédopsychiatrie). Elle a des
+relations avec les cliniques avec une stratégie de débord pour les moments de tension dans les secteurs de
+soins critiques notamment. Elle participe à la coordination des parcours sur le territoire et hors territoire dans le
+cas d’activités de recours. L’Hôpital de la Conception est un établissement en « hyper centre », tourné vers le
+programmé et l’ambulatoire. Il s’inscrit dans son territoire au travers d’une forte dynamique volontariste de
+coopération avec différents acteurs et partenaires : sanitaires (deux autres structures publiques psychiatriques
+de Marseille ; postes partagés ou consultations avancées avec les établissements du GHT), avec les 10 CPTS
+et avec les structures médico-sociales. L’Hôpital de la Conception participe au projet de santé publique en
+interface avec la ville, à travers ces nombreux programmes d’éducation thérapeutiques et des modalités
+d’accueil et de prise en charge pour des publics spécifiques : siège du C S Obésité PACA ouest ; de l’unité de
+surdité santé mentale ; de consultations sourds et malentendants ; de 2 PASS (adultes et maternité) ; de la
+Maison des femmes ; du Centre gynécologie sociale ; d’un centre de dépistage du mélanome ; organisation
+d’un suivi des nouveau-nés fragiles à domicile . L’Hôpital de la Conception est également un établissement de
+recours pour d’autres CHU grâce à son centre de prise en charge des grands brûlés, sa maternité (niveau 3
+avec un service de néonatologie complet), son centre clinico-biologique d’AMP, son centre de dialyse lourd et
+de transplantations rénales, son centre de lithotritie et ses centres de références et compétences pour les
+maladies rares. Il contribue à prévenir les passages évitables des personnes âgées aux urgences générales,
+notamment en ayant recours à l’HAD. La prise en charge en psychiatrie à l’AP-HM dessert la population
+marseillaise de 6 arrondissements (du 13004 au 13010 inclus). Elle est organisée en un pôle monothématique
+et 6 services : 3 sont situés à l’Hôpital de la Conception, et 3 à l’hôpital Sud. L’accueil des urgences
+psychiatriques des différents secteurs pris en charge par l’Hôpital de la Conception est réalisé au CAP48 situé
+sur le site de La Timone. La spécialité assure des activités de proximité sectorisées (HC, HDJ, CMP, équipes
+mobiles) et de recours (centres experts, unités dédiées). L’AP-HM, établissement support du GHT Hôpitaux de
+Provence a été actif dans l’élaboration du PTSM de son territoire, en lien avec ses partenaires et interlocuteurs
+externes relevant du sanitaire, médico-social et du social. L’AP-HM, avec ses sites psychiatriques, dont
+l’Hôpital de la Conception, porte un contrat local de santé mentale pour travailler à limiter les ruptures de
+parcours et proposées des réponses adaptées. Une démarche offensive est menée en matière d’habitat.
+L’organisation en aval des urgences psychiatriques est analysée et travaillée avec les structures d’aval et des
+partenaires (Hôpital Sud, deux autres hôpitaux psychiatriques de Marseille) pour assurer la fluidité du parcours.
+Les modalités de communication permettent aux usagers et aux médecins de ville de contacter aisément
+ 
+19 
+HAS · APHM-HOPITAL DE LA CONCEPTION · Novembre 2024
+l’établissement (numéros directs, annuaire en cours, messagerie santé sécurisée déployée sur tout le site pour
+échanger avec les professionnels de santé, ou, le cas échéant une messagerie sécurisée en cours de
+généralisation). L’alimentation du DMP est suivie par des indicateurs, avec mise en place d’un plan
+d’amélioration de la performance. Cependant, les actions visant la maîtrise des usages non sécurisés
+d'échanges des données de santé n’ont pas donné lieu à un programme d’actions structuré formalisé. Par
+ailleurs, les professionnels ne connaissent pas toujours les types de documents du dossier patient reversés au
+DMP. L’établissement promeut la recherche clinique en son sein et en lien avec d’autres acteurs du territoire
+(structuration territoriale depuis 2022, plus de 2000 articles publiés par an, plus de 1900 programmes de
+recherche en cours, recherche paramédicale lauréate, association des établissements du GHT et du CLCC à
+certains programmes de recherche). Par ailleurs, il favorise l’accès aux innovations pour les patients (centres
+de compétences et de référence pour les maladies rares). L’AP-HM favorise l’engagement des patients
+individuellement et collectivement. Cette volonté institutionnelle se traduit à l’Hôpital de la Conception par la
+promotion de nombreuses formes de recueil de l’expression du patient (exploitation des verbatims d’e-satis,
+développement d’enquêtes ou de questionnaires spécifiques à des secteurs d’activité). Quelques actions
+PROM’S sont également menées. Le site promeut des actions mobilisant l’expertise de patients experts formés
+à l’ETP, de patients pair-aidants dans le dispositif de l’équipe mobile de psychiatrie, d’anciens patients en
+néphrologie ou ORL/laryngologie ou en chirurgie bariatrique dans des vidéos d’information. L’impact des
+intégrations de l’expertise des patients n’est pas encore mesuré et les patients ne participent pas toujours aux
+démarches collectives de développement et d’amélioration des pratiques. L’Hôpital de la Conception a une
+communication centrée sur le patient (identification des professionnels, formation à la communication dans les
+situations de violence, exploitation des plaintes/réclamations). L’AP-HM a engagé une politique de bientraitance
+déclinée sur l’Hôpital de la Conception. Au-delà d’actions institutionnelles comme la charte de bientraitance, les
+formations ou vidéo sur intranet, des démarches sont menées pour accompagner le bien-être des patients (par
+exemple : en onco-hématologie, des activités différentes sont proposées pour lutter contre l’isolement des
+patients, telles que du coaching sportif, de l’ostéopathie, de la lecture ; en néonatalogie, les enfants peuvent
+venir visiter le service plusieurs années après leur naissance ; la filière « Hirschprung, antibiothérapie pour
+pyélonéphrites », qui évite aux enfants de longues attentes aux urgences a été mise en place ; l’équipe est
+renforcée lors de la prise en charge d’un enfant en fin de vie pour être plus disponible ; en endocrinologie TCA,
+il existe dans le service 2 chambres bariatriques équipées (lit adapté loué, chaise bariatrique, mobilier adapté,
+toilettes renforcées ...). L’Hôpital de la Conception participe au repérage et à la prise en charge des
+maltraitances éventuelles subies par les patients et lutte contre la maltraitance en son sein (circuits d’alerte
+connus des professionnels, outils de repérage, interventions du service social pour les patients vulnérables et
+des psychologues, Maison des Femmes). L’Hôpital de la Conception est attentive à l’accessibilité de ses locaux
+aux personnes vivant avec un handicap locomoteur et a associé un représentant des usagers porteur d’un
+handicap moteur à un audit mobilité, pour relever les difficultés et mettre en place des actions. L’Hôpital de la
+Conception prend en charge des patients très vulnérables et précaires. Des ressources et dispositifs sont
+connus des professionnels et mis en place pour favoriser l’accès aux soins de ces patients : intervention du
+service social, PASS adulte et PASS maternité-enfants, qui, après les premiers soins, font le lien avec des
+espaces de santé, des maisons de santé et des associations de proximité ; en maternité, le staff hebdomadaire
+médico psycho-social en maternité, le suivi des femmes sans droits sociaux par les sages femmes de la PMI
+après retour à domicile ; la possibilité de suivre à domicile les nouveau-nés vulnérables par une équipe mobile
+et la maison des femmes. A la PASS adulte, un pharmacien assure les premiers soins médicamenteux et un
+suivi notamment des patients chroniques. L’Hôpital de la Conception s’est organisé pour permettre au patient
+d’accéder rapidement à son dossier et travaille à l’amélioration des délais. L’Hôpital de la Conception implique
+les représentants des usagers et des associations de patients dans ses instances et dans la vie institutionnelle
+(une CDU à l’AP-HM et une commission locale des usagers sur chaque site, dont l’Hôpital de la Conception).
+Ces derniers sont impliqués dans des projets aux côtés des équipes et réalisent des visites de service. Un
+projet des usagers de l’AP-HM a été co-construit et se décline en 3 axes qui se traduisent par des actions
+ 
+20 
+HAS · APHM-HOPITAL DE LA CONCEPTION · Novembre 2024
+concrètes. La gouvernance de l’AP-HM fait preuve de leadership. Cette capacité à conduire les collectifs
+professionnels se déclinent au niveau de l’Hôpital de la Conception : politique qualité/sécurité déclinée en plans
+d’actions institutionnels et de secteurs d’activité, implication forte des instances, binômes cadre de santé et
+chef de service co-animateurs des démarches qualité/sécurité, tableaux de bord par services. Une majorité des
+professionnels rencontrés savent citer des actions du plan qualité en lien avec leurs activités. La culture de
+sécurité des soins est soutenue (évaluation de la culture sécurité au niveau des services avec un score annuel
+et un benchmarking par pôle et pour le site). L’adéquation ressources humaines/qualité-sécurité des prises en
+charge est pilotée. L’évolution des modes de prise en charge appelle à des adaptations organisationnelles et à
+revoir les maquettes organisationnelles définies jusqu’alors. Différents dispositifs transitoires sont mobilisés
+selon les besoins (pools de remplacement polyvalent ou spécifique pour les services de réanimation néonatale,
+néonatologie, psychiatrie et dialyse ; heures majorées ; recours à l’intérim ; postes partagés ; fermeture de lits
+et services). Les responsables médicaux et paramédicaux d’équipes bénéficient de formations ou de coaching
+en management La gouvernance impulse le travail en équipe sous différentes formes : temps dédié dans la
+plupart des services (par exemple : Réunions de fonctionnement en psychiatrie ; analyse d’événement
+indésirables en équipe), réflexion et mise en œuvre d’une synchronisation des temps médicaux et non
+médicaux (exemple : travail mené au bloc opératoire), 16 dossiers retenus pour 2023-2024 relatifs au projet
+AP-HM sur l’engagement collectif. 5 services ont obtenu le label qualité-sécurité institutionnel. Des équipes se
+sont engagées dans des labellisations ou certifications avec reconnaissance externe, témoin d’une
+reconnaissance de travail collectif : Certification NIDCAP en réanimation des nouveau-nés ; Label GRACE,
+pour la 4ème année consécutive, pour la réhabilitation améliorée après chirurgie décerné en chirurgie
+gynécologique, bariatrique et ORL. Un protocole de coopération médecin-orthophoniste est en place dans le
+cadre de bilan de déglutition fonctionnel. La gouvernance impulse et soutient des démarches spécifiques
+d’amélioration du travail en équipe. L’équipe de radiologie est accréditée, 4 praticiens sont accrédités et 2
+équipes vont s’engager (ORL, néphrologie). Les connaissances et les compétences individuelles et collectives
+des équipes sont assurées : budget formation alloué au service, évaluation individuelle des professionnels,
+recherche de l’adéquation entre les missions et les compétences des professionnels. La plupart des équipes
+rencontrées s’inscrivent dans des démarches de formation avec des mises en situation : exercice de simulation
+vis-à-vis de complications post-opératoires, escape game sur les MHR, simulation de réanimation en
+néonatologie, formation in situ en dialyse avec mise en situation, simulation de prise en charge des hématomes
+cervicaux suffocants en urgence au bloc opératoire etc… L’AP-HM promeut et soutient le recours au
+questionnement éthique par l’ensemble des acteurs. Les équipes de l’Hôpital de la Conception se sont
+emparées du sujet au-delà de l’espace éthique mis à la disposition des professionnels et des gouvernances
+des 4 sites de l’AP-HM. Les équipes sont sensibilisées et discutent de problèmes éthiques à l’occasion de
+réunions pluri professionnelles. Certains services animent des comités éthiques (en psychiatrie, en dialyse) afin
+d’offrir aux professionnels des espaces de réflexion. Les différents questionnements éthiques identifiés en
+équipe, n’ont pas donné lieu à un état des lieux partagé à l’échelle du site, avec l’ensemble des acteurs. Les
+représentants des usagers n’ont pas été associés à la réflexion éthique. L’AP-HM met en œuvre une politique
+d’amélioration de la qualité de vie au travail, concertée avec les instances représentatives des professionnels et
+reposant sur un questionnaire de satisfaction des professionnels mené mars 2024 (en cours d’analyse au
+moment de la visite). Cette politique se traduit à l’Hôpital de la Conception par des espaces temps de
+discussion collectives, des recherches de solutions visant à améliorer l’organisation du travail dans les unités et
+des dispositifs d’écoute pour un soutien psychologique. Des actions visant l’accueil et l’intégration des
+professionnels sont soulignées par les professionnels comme étant des éléments de qualité de vie
+professionnelle, ainsi que la bulle « bien-être » ou la bulle « allaitement ». Les professionnels de nuit peuvent
+se référer à l’encadrement paramédical mais aussi à l’encadrement médical. La gouvernance met en place des
+mesures de gestion des difficultés interpersonnelles et des conflits. L’AP-HM dispose d’une réponse adaptée et
+opérationnelle aux risques auxquels elle peut être confrontée. La gestion des tensions hospitalières et des
+situations sanitaires exceptionnelles est pilotée au niveau de l’AP-HM et déclinée sur le site de l’Hôpital de la
+ 
+21 
+HAS · APHM-HOPITAL DE LA CONCEPTION · Novembre 2024
+Conception avec une direction médico-administrative de crise, des entraînements réguliers assortis de RETEX.
+La prévention des atteintes aux personnes et aux biens est maîtrisée (plan de sécurisation à jour, responsables
+locaux de sécurité, accès protégés, professionnels formés aux règles de sécurité et équipés de matériels de
+protection : PTI pour tout le personnel en psychiatrie ; montre connectée pour l’encadrement de nuit ; alerte
+donnée par la police aux équipes de l’HAD). Les risques environnementaux et enjeux du développement
+durable sont maîtrisés ; Le projet d’établissement en cours de finalisation place l’écologie dans le soin et autour
+du soin comme un axe fort. Une organisation institutionnelle sur ces thématiques est en place, avec
+désignation de référent et d’un comité de pilotage « développement durable » sur le site de l’Hôpital de la
+Conception. Il en découle des actions se déclinant dans les domaines de la gestion des déchets, la maîtrise
+des énergies, le recyclage de l’eau (dialyse) et l’éco soin (gaz anesthésiants). Le circuit des déchets est
+conforme aux règles d’hygiène et de tri. La prise en charge des urgences vitales est maîtrisée dans l’enceinte
+de l’Hôpital de la Conception : numéro d’appel unique et connu des professionnels, chariots dédiés,
+accessibles et vérifiés, évaluation du dispositif. Les formations AFGSU ont repris après la période Covid. Des
+exercices de simulation sont menés dans les secteurs. L’AP-HM développe une dynamique d’amélioration
+continue de la qualité des soins qui se traduit à l’Hôpital de la Conception par une mobilisation des équipes
+dans la mise à jour des protocoles et maîtrise des bonnes pratiques (implication des instances du site, travail
+en équipe sur les actions d’amélioration des prises en charge de patients, mise à disposition de
+recommandation sous format adapté : pour exemple, algorithme de prise en charge du nodule surrénalien).
+Pour autant tous les secteurs n’ont pas réalisé d’évaluation de leur activité lors de revue de pertinence des
+admissions et des séjours. Le point de vue du patient est pris en compte dans le programme d’amélioration
+continue de la qualité ; cependant les professionnels rencontrés ne connaissent pas les avis et
+recommandations issues de la CDU de l’AP-HM ou du comité local des usagers. Les indicateurs qualité et
+sécurité des soins sont analysés, exploités et communiqués au niveau de l’AP-HM et de l’Hôpital de la
+Conception; les professionnels se sont appropriés ces indicateurs ou ceux spécifiques à leur service. Les
+évènements indésirables liés aux soins sont analysés au travers d’un outil informatique de l’AP-HM piloté par le
+comité des vigilances et des risques, exploités et communiqués à l’Hôpital de la Conception. Les EIG sont
+déclarés et font l’objet d’une analyse approfondie. En revanche, les professionnels rencontrés ne connaissent
+pas les EIAS déclarés dans l’établissement, en lien avec leur secteur d’activité. L’accréditation des médecins
+est promue : 4 médecins de spécialités différentes ont une accréditation individuelle (chirurgie gynécologique,
+chirurgie plastique et réparatrice, chirurgie maxillo-faciale et imagerie médicale), soit 40% des services
+concernés sachant que certaines spécialités n'ont pas encore de programme d'accréditation d'équipe.
+L'accréditation en équipe est promue dans l'établissement : la chirurgie Urologique et la chirurgie ORL sont en
+cours d'accréditation. Le service d'imagerie médicale est déjà accrédité en équipe. Tous les médecins ou
+secteurs à risques, éligibles ne sont pas identifiés.   
+ 
+22 
+HAS · APHM-HOPITAL DE LA CONCEPTION · Novembre 2024
+Table des Annexes
+Annexe 1.    Liste des établissements géographiques rattachées à la démarche
+Annexe 2.    Synthèse des activités réalisées par l’établissement en 2024
+Annexe 3.    Programme de visite
+ 
+23 
+HAS · APHM-HOPITAL DE LA CONCEPTION · Novembre 2024
+Annexe 1.    Liste des établissements géographiques rattachées à la démarche
+Type de structure
+N° FINESS
+Nom de l’établissement
+Adresse
+Établissement juridique
+130786049
+ASSISTANCE PUBLIQUE
+DES HOPITAUX DE
+MARSEILLE
+80 rue brochier
+13005 Marseille 05eme FRANCE
+Établissement principal
+130783236
+APHM-HOPITAL DE LA
+CONCEPTION
+147 boulevard baille
+13005 Marseille cedex 5 FRANCE
+Établissement
+géographique
+130806052
+APHM-CMP
+9 rue lafon
+13006 MARSEILLE 06 FRANCE
+Établissement
+géographique
+130808546
+CATTP DE LA CAPELETTE
+9 rue lafon
+13006 MARSEILLE 06 FRANCE
+ 
+24 
+HAS · APHM-HOPITAL DE LA CONCEPTION · Novembre 2024
+Annexe 2.    Synthèse des activités réalisées par l’établissement en 2024
+Catégorie / Champs d'applicabilité / Donnée de profil
+Valeur
+Autorisations
+ 
+Urgences
+ 
+Existence d'un soignant d'accueil et d'orientation
+Non
+Si oui, l'accueil et l'orientation sont réalisés par IAO (infirmière d'accueil et
+d'orientation) ou par MAO (médecin d'accueil et d'orientation)
+Non
+Existence de Structure des urgences générales
+Non
+Existence de Structure des urgences pédiatriques
+Non
+Hospitalisation à domicile
+ 
+Présence d’une astreinte opérationnelle soignante H24 et 7/7 (IDE se déplaçant au
+domicile)
+Oui
+Autorisation de Médecine en HAD
+Oui
+Autorisation d' Obstétrique en HAD
+Oui
+Autorisation de SMR en HAD
+Non
+Autorisation de Prise en charge du cancer en HAD
+Non
+Tout l'établissement
+ 
+Existence d'une permanence d’accès aux soins de santé (PASS) dans votre
+établissement
+Oui
+Existence d'une solution d'informatisation du circuit du médicament à la PUI
+Oui
+Existence d'Unité de préparation des médicaments de chimiothérapie
+anticancéreuse
+Non
+SAMU-SMUR
+ 
+Existence de SMUR général
+Non
+Existence de SMUR pédiatrique
+Non
+Existence d'Antenne SMUR
+Non
+Existence d'un SAMU
+Non
+Soins critiques
+ 
+Présence de service de Réanimation (y compris soins intensifs et surveillance
+continue)
+Non
+Présence de Réanimation enfant (hors néonatalogie)
+Non
+ 
+25 
+HAS · APHM-HOPITAL DE LA CONCEPTION · Novembre 2024
+Présence d'Unité de soins intensifs en cardiologie (USIC)
+Non
+Présence d'Unité de surveillance continue (SC) adulte
+Oui
+Présence d'Unité de surveillance continue (SC) enfant
+Non
+Médecine
+ 
+Autorisation de Traitement de l'insuffisance rénale chronique (hors péritonéale) en
+centre
+Oui
+Autorisation de Traitement de l'insuffisance rénale chronique (péritonéale)
+Non
+Patient atteint d'un cancer
+ 
+Autorisation de Traitement des affections cancéreuses par chimiothérapie
+Oui
+Autorisation de Traitement des affections cancéreuses par radiothérapie (dont
+curiethérapie)
+Oui
+Chirurgie et interventionnel
+ 
+Autorisation de Chirurgie cardiaque
+Non
+Autorisation d'Activité interventionnelle en cardiologie
+Non
+Autorisation de Neurochirurgie
+Non
+Autorisation d'Activité interventionnelle en neurologie
+Non
+Autorisation d'Activité de greffe
+Oui
+Activité Urgences
+ 
+Urgences
+ 
+Nombre total de passages aux urgences dans l'année pour des patients de plus de
+80 ans
+0
+Nombre de passages aux urgences générales
+0
+Nombre de passages aux urgences pédiatriques
+0
+SAMU-SMUR
+ 
+Nombre de Dossiers de Régulation Médicale (DRM)
+0
+Activité Hospitalière MCO
+ 
+Soins de longue durée
+ 
+Nombre de patients PEC durant l'année écoulée par une équipe mobile de gériatrie
+0
+Médecine
+ 
+Nombre de lit en Hospitalisation complète en Médecine
+197
+Chirurgie et interventionnel
+ 
+ 
+26 
+HAS · APHM-HOPITAL DE LA CONCEPTION · Novembre 2024
+Nombre de lit en Hospitalisation complète en Chirurgie
+149
+Maternité
+ 
+Nombre de lit en Hospitalisation complète en Gynécologie-Obstétrique
+104
+Ambulatoire
+ 
+Nombre de places en Hospitalisation partielle en Médecine
+106
+Nombre de places en Hospitalisation partielle en Chirurgie
+20
+Nombre de places en hospitalisation partielle en Gynécologie-Obstétrique
+22
+Tout l'établissement
+ 
+Nombre de séances en hospitalisation partielle en Médecine
+37,082
+Enfant et adolescent
+ 
+Nombre de lit en Hospitalisation complète en Pédiatrie
+0
+Nombre de places en Hospitalisation partielle en Pédiatrie
+0
+Patient âgé
+ 
+Nombre de lit en Hospitalisation complète en Gériatrie
+0
+Nombre de places en Hospitalisation partielle en Gériatrie
+0
+Urgences
+ 
+Nombre de lit en UHCD
+0
+Activité Hospitalière SMR
+ 
+Soins Médicaux et de Réadaptation
+ 
+Nombre de lit en Hospitalisation complète en SMR
+0
+Nombre de places en Hospitalisation partielle en SMR
+0
+Activité Hospitalière SLD
+ 
+Soins de longue durée
+ 
+Nombre de lit en Hospitalisation complète en SLD
+0
+Activité Accident Vasculaires Cérébraux (AVC)
+ 
+Chirurgie et interventionnel
+ 
+Nombre de lits de l'Unité Neuro-Vasculaire (UNV)
+0
+Activité Hospitalière PSY
+ 
+Psychiatrie et santé mentale
+ 
+Nombre de lit en Psychiatrie générale en hospitalisation à temps plein
+117
+ 
+27 
+HAS · APHM-HOPITAL DE LA CONCEPTION · Novembre 2024
+Nombre de lit en Psychiatrie infanto-juvénile en hospitalisation à temps plein
+0
+Nombre de lit en Psychiatrie en milieu pénitentiaire en hospitalisation à temps plein
+0
+Nombre Total de lit en Psychiatrie en hospitalisation à temps plein
+117
+Nombre de lit en Psychiatrie générale en hospitalisation de jour
+56
+Nombre de lit en Psychiatrie infanto-juvénile en hospitalisation de jour
+0
+Nombre de lit en Psychiatrie en milieu pénitentiaire en hospitalisation de jour
+0
+Nombre Total de lit en Psychiatrie en hospitalisation de jour
+56
+Nombre de CATTP en Psychiatrie générale
+1
+Nombre de CATTP en Psychiatrie infanto-juvénile
+0
+Nombre de CATTP en Psychiatrie en milieu pénitentiaire
+0
+Nombre Total de CATTP en Psychiatrie
+1
+Nombre de CMP en Psychiatrie générale
+18,280
+Nombre de CMP en Psychiatrie infanto-juvénile
+0
+Nombre Total de CMP en Psychiatrie
+18,280
+Sites opératoires et salles d'intervention
+ 
+Chirurgie et interventionnel
+ 
+Nombre total de salles (d'intervention ou d'exploration) des sites (calculé)
+26
+Ambulatoire
+ 
+Nombre de salles dédiées à la chirurgie ambulatoire
+0
+Activité Hospitalière HAD
+ 
+Hospitalisation à domicile
+ 
+Nombre total de patients pouvant être pris en charge simultanément en HAD
+65
+ 
+28 
+HAS · APHM-HOPITAL DE LA CONCEPTION · Novembre 2024
+Annexe 3.     Programme de visite
+Nb
+Méthode
+Sous-méthode
+Champs d'applicabilité
+Description traceur
+1
+Patient
+traceur
+Maternité
+Hospitalisation complète
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+2
+Patient
+traceur
+Psychiatrie et santé mentale
+Ambulatoire
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+3
+Audit
+système
+4
+Audit
+système
+5
+Audit
+système
+6
+Traceur
+ciblé
+Prescription d'un patient intégrant, a
+minima, un Médicament à risque /
+antibiotique injectable / per os
+7
+Audit
+système
+8
+Audit
+système
+9
+Audit
+système
+10
+Patient
+traceur
+Psychiatrie et santé mentale
+Ambulatoire
+Adulte
+Patient en situation de handicap
+Programmé
+ 
+29 
+HAS · APHM-HOPITAL DE LA CONCEPTION · Novembre 2024
+Tout l'établissement
+11
+Patient
+traceur
+Médecine
+Hospitalisation à domicile
+Patient âgé
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+12
+Patient
+traceur
+Psychiatrie et santé mentale
+Hospitalisation complète
+Patient âgé
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+13
+Patient
+traceur
+Chirurgie et interventionnel
+Hospitalisation complète
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+14
+Patient
+traceur
+Médecine
+Hospitalisation complète
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+15
+Patient
+traceur
+Maternité
+Hospitalisation complète
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+Patient
+Chirurgie et interventionnel
+ 
+30 
+HAS · APHM-HOPITAL DE LA CONCEPTION · Novembre 2024
+16
+traceur
+Ambulatoire
+Enfant et adolescent
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+17
+Patient
+traceur
+Chirurgie et interventionnel
+Ambulatoire
+Patient âgé
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+18
+Patient
+traceur
+Chirurgie et interventionnel
+Hospitalisation complète
+Patient âgé
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+19
+Patient
+traceur
+Psychiatrie et santé mentale
+Hospitalisation complète
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+20
+Patient
+traceur
+Médecine
+Hospitalisation complète
+Patient âgé
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+Patient
+traceur
+Médecine
+Hospitalisation à domicile
+Enfant et adolescent
+ 
+31 
+HAS · APHM-HOPITAL DE LA CONCEPTION · Novembre 2024
+21
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+22
+Patient
+traceur
+Soins critiques
+Hospitalisation complète
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+23
+Patient
+traceur
+Psychiatrie et santé mentale
+Hospitalisation complète
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+24
+Patient
+traceur
+Psychiatrie et santé mentale
+Hospitalisation complète
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+25
+Patient
+traceur
+Médecine
+Hospitalisation complète
+Patient âgé
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+26
+Patient
+traceur
+Médecine
+Ambulatoire
+Patient âgé
+Patient en situation de handicap
+Programmé
+ 
+32 
+HAS · APHM-HOPITAL DE LA CONCEPTION · Novembre 2024
+Tout l'établissement
+27
+Parcours
+traceur
+Maternité
+Médecine
+Hospitalisation complète
+Adulte
+Enfant et adolescent
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+28
+Patient
+traceur
+Médecine
+Ambulatoire
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+29
+Patient
+traceur
+Chirurgie et interventionnel
+Hospitalisation complète
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+30
+Parcours
+traceur
+Chirurgie et interventionnel
+Hospitalisation complète
+Enfant et adolescent
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+31
+Parcours
+traceur
+Psychiatrie et santé mentale
+Hospitalisation complète
+Adulte
+Patient âgé
+Patient en situation de handicap
+Programmé
+ 
+33 
+HAS · APHM-HOPITAL DE LA CONCEPTION · Novembre 2024
+Tout l'établissement
+32
+Parcours
+traceur
+Chirurgie et interventionnel
+Soins critiques
+Ambulatoire
+Hospitalisation complète
+Adulte
+Patient âgé
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+33
+Patient
+traceur
+Médecine
+Hospitalisation complète
+Enfant et adolescent
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+34
+Parcours
+traceur
+Chirurgie et interventionnel
+Soins critiques
+Hospitalisation complète
+Adulte
+Patient âgé
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+35
+Traceur
+ciblé
+PSC
+36
+Parcours
+traceur
+Chirurgie et interventionnel
+Médecine
+Ambulatoire
+Hospitalisation complète
+Adulte
+Patient âgé
+Patient en situation de handicap
+ 
+34 
+HAS · APHM-HOPITAL DE LA CONCEPTION · Novembre 2024
+Programmé
+Tout l'établissement
+37
+Traceur
+ciblé
+EI
+38
+Traceur
+ciblé
+ENDOSCOPE
+39
+Parcours
+traceur
+Médecine
+Ambulatoire
+Hospitalisation complète
+Adulte
+Patient âgé
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+40
+Traceur
+ciblé
+EI
+41
+Audit
+système
+42
+Traceur
+ciblé
+Prescription d'un patient intégrant, a
+minima, un Médicament à risque /
+antibiotique injectable / per os
+43
+Traceur
+ciblé
+PSC
+44
+Traceur
+ciblé
+PSC
+45
+Audit
+système
+46
+Audit
+système
+47
+Audit
+système
+48
+Audit
+système
+49
+Audit
+système
+ 
+35 
+HAS · APHM-HOPITAL DE LA CONCEPTION · Novembre 2024
+50
+Traceur
+ciblé
+chimio
+51
+Traceur
+ciblé
+PSL
+52
+Audit
+système
+53
+Traceur
+ciblé
+Prescription d'un patient intégrant, a
+minima, un Médicament à risque /
+antibiotique injectable / per os
+54
+Audit
+système
+55
+Audit
+système
+56
+Audit
+système
+57
+Audit
+système
+58
+Audit
+système
+59
+Audit
+système
+60
+Parcours
+traceur
+Chirurgie et interventionnel
+Médecine
+Hospitalisation complète
+Adulte
+Patient âgé
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+61
+Parcours
+traceur
+Psychiatrie et santé mentale
+Hospitalisation complète
+Adulte
+Patient âgé
+Patient en situation de handicap
+Programmé
+ 
+36 
+HAS · APHM-HOPITAL DE LA CONCEPTION · Novembre 2024
+Tout l'établissement
+62
+Patient
+traceur
+Chirurgie et interventionnel
+Hospitalisation complète
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+63
+Parcours
+traceur
+Médecine
+Soins critiques
+Ambulatoire
+Hospitalisation complète
+Adulte
+Patient âgé
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+64
+Patient
+traceur
+Psychiatrie et santé mentale
+Hospitalisation complète
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+65
+Patient
+traceur
+Médecine
+Hospitalisation complète
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+66
+Patient
+traceur
+Chirurgie et interventionnel
+Hospitalisation complète
+Patient âgé
+Patient en situation de handicap
+Programmé
+ 
+37 
+HAS · APHM-HOPITAL DE LA CONCEPTION · Novembre 2024
+Tout l'établissement
+67
+Parcours
+traceur
+Maternité
+Médecine
+Ambulatoire
+Hospitalisation complète
+Adulte
+Enfant et adolescent
+Patient en situation de handicap
+Patient en situation de précarité
+Programmé
+Tout l'établissement
+68
+Patient
+traceur
+Médecine
+Ambulatoire
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+69
+Traceur
+ciblé
+PSL
+70
+Traceur
+ciblé
+Prescription d'un patient intégrant, a
+minima, un Médicament à risque /
+antibiotique injectable / per os
+71
+Patient
+traceur
+Médecine
+Ambulatoire
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+72
+Audit
+système
+Parcours
+traceur
+Chirurgie et interventionnel
+Médecine
+Ambulatoire
+Hospitalisation complète
+ 
+38 
+HAS · APHM-HOPITAL DE LA CONCEPTION · Novembre 2024
+73
+Adulte
+Patient âgé
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+74
+Patient
+traceur
+Médecine
+Ambulatoire
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+75
+Patient
+traceur
+Soins critiques
+Hospitalisation complète
+Adulte
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+76
+Audit
+système
+77
+Patient
+traceur
+Médecine
+Hospitalisation complète
+Patient âgé
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+78
+Audit
+système
+79
+Audit
+système
+80
+Patient
+traceur
+Médecine
+Hospitalisation à domicile
+Enfant et adolescent
+Patient en situation de handicap
+ 
+39 
+HAS · APHM-HOPITAL DE LA CONCEPTION · Novembre 2024
+Programmé
+Tout l'établissement
+81
+Audit
+système
+82
+Traceur
+ciblé
+ANTIBIOPROPHYLAXIE / PER OP
+83
+Patient
+traceur
+Médecine
+Hospitalisation complète
+Enfant et adolescent
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+84
+Parcours
+traceur
+Médecine
+Hospitalisation à domicile
+Adulte
+Enfant et adolescent
+Patient âgé
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+85
+Parcours
+traceur
+Chirurgie et interventionnel
+Maternité
+Hospitalisation complète
+Adulte
+Enfant et adolescent
+Patient en situation de handicap
+Programmé
+Tout l'établissement
+ 
+40 
+HAS · APHM-HOPITAL DE LA CONCEPTION · Novembre 2024
+© Haute Autorité de santé – Novembre 2024
