@@ -82,10 +82,28 @@ def extract_text_from_excel(path):
 
 
 def extract_text_from_csv(path):
-    """Extrait le texte d’un fichier CSV."""
+    """Extrait le texte d'un fichier CSV, même en cas d'encodage inconnu ou de lignes corrompues."""
+    encodings_to_try = ["utf-8", "latin-1", "cp1252"]
+
+    for enc in encodings_to_try:
+        try:
+            df = pd.read_csv(
+                path,
+                encoding=enc,
+                dtype=str,
+                sep=None,               # détecte automatiquement le séparateur
+                engine="python",        # plus permissif
+                on_bad_lines="skip"     # ignore les lignes cassées
+            )
+            return "\n".join(df.astype(str).apply(lambda x: " | ".join(x), axis=1))
+
+        except Exception as e:
+            logging.warning(f"Échec lecture CSV avec encodage {enc}: {e}")
+
+    # Dernier recours : lecture brute du fichier texte
     try:
-        df = pd.read_csv(path, encoding="utf-8", dtype=str)
-        return "\n".join(df.astype(str).apply(lambda x: " | ".join(x), axis=1))
+        with open(path, encoding="latin-1", errors="ignore") as f:
+            return f.read()
     except Exception as e:
         logging.error(f"Erreur extraction CSV {path}: {e}")
         return ""

@@ -45,6 +45,9 @@ def merge_texts_by_hopital(texts_dir, output_dir):
 
             full_path = os.path.join(texts_dir, file)
             hopital_files.setdefault(hopital_name, []).append(full_path)
+        if file.lower().startswith("finess"):
+            continue
+
 
     # Concaténation
     for hopital_name, files in hopital_files.items():
