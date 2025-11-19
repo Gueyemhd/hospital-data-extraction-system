@@ -1,0 +1,132 @@
+jQuery(function() {
+	// Modal for consultation
+	jQuery('a.service-consultation').on('click', function(e) {
+		e.preventDefault();
+    if(jQuery('div#dialog-consultation').length){
+      jQuery('div#dialog-consultation div.results p span.public_status').text('');
+    }
+
+		var el = jQuery(this);
+		var consultation_id = el.attr('data-consultation-id');
+		var modal_consultation = jQuery("#dialog-consultation");
+
+		jQuery.ajax({
+			url : aphp_search.ajaxurl,
+			type : "GET",
+			dataType : 'json',
+			data : {
+				action : 'aphp_getConsultation',
+				'consultation_id' : consultation_id
+			},
+			beforeSend : function() {
+				modal_consultation.find('.wait').show();
+				modal_consultation.find('.results').hide();
+				modal_consultation.find('.nothing').hide();
+				modal_consultation.dialog({
+					width : 500,
+					modal : true,
+					draggable : false,
+					resizable : false,
+					close : function() {
+						jQuery(this).dialog('destroy');
+					}
+				});
+			},
+			success : function(response) {
+				if ( typeof response !== 'object' || typeof response == null || !response.nompre) {
+					modal_consultation.find('.nothing').show();
+					modal_consultation.find('.wait').hide();
+					modal_consultation.find('.results').hide();
+					return false;
+				}
+				modal_consultation.find('.wait').hide();
+				modal_consultation.find('.nothing').hide();
+
+				/*
+				activite: "CARDIOLOGIE"
+				cpostal: "75020"
+				email: ""
+				grade: "PATT"
+				grade_libelle: "Praticien attaché
+				"
+				hopital: "Tenon"
+				horaire_consultation: "Jeudi:Matin"
+				id: "13321"
+				id_hopital: "087"
+				id_service: "0007"
+				nompre: "Cathy BERTRAND"
+				precision: "Rythmologie"
+				rdv: "O"
+				service: "CARDIOLOGIE "
+				target: "_self"
+				tel: "0156016710"
+				titre: "Dr"
+				type_service: "Service :"
+				type_tel: "C"
+				ville: "Paris 20ème"
+				*/
+
+				// Change title
+				modal_consultation.dialog("option", "title", response.titre + ' ' + response.nompre + ' (<abbr class="tooltip" title="' + response.grade_libelle + '">' + response.grade + '</abbr>)');
+
+				// Set datas
+				if (response.precision != '')
+					response.precision = ' - <em>' + response.precision + '</em>';
+				modal_consultation.find('.consult_name').html('Consultation de ' + response.activite + response.precision);
+
+				//modal_consultation.find('.hospital').html('Hôpital  : <strong>'+response.hopital+'</strong> (' + response.hospital_adresse + ')');
+				//modal_consultation.find('.service').html('Service '+response.service);
+				modal_consultation.find('.tel').html(wordwrap(response.tel, 2, " ", 1));
+				modal_consultation.find('.horaires').html(response.horaires);
+				if ( response.public_status != '' ) {
+					modal_consultation.find('.public_status').html(response.public_status+'<br />');
+				}
+				if ( response.prise_rdv != '' ) {
+					modal_consultation.find('.prise_rdv').html(response.prise_rdv+'<br />');
+				}
+				
+				if (el.attr('href') != '' && el.attr('href') != '#') {
+					modal_consultation.find('#service-link').attr('href', el.attr('href')).show();
+					modal_consultation.find('#service-link').attr('target', response.target);
+				} else {
+					modal_consultation.find('#service-link').hide();
+				}
+
+				modal_consultation.find('.results').show();
+			}
+		});
+	});
+});
+
+function wordwrap(n, q, d, p) {
+	var e = ((arguments.length >= 2) ? arguments[1] : 75);
+	var o = ((arguments.length >= 3) ? arguments[2] : "\n");
+	var k = ((arguments.length >= 4) ? arguments[3] : false);
+	var h, g, f, t, a;
+	n += "";
+	if (e < 1) {
+		return n
+	}
+	for ( h = -1, f = ( a = n.split(/\r\n|\n|\r/)).length; ++h < f; a[h] += t) {
+		for ( t = a[h], a[h] = ""; t.length > e; a[h] += t.slice(0, g) + (( t = t.slice(g)).length ? o : "")) {
+			g = k == 2 || (g=t.slice(0,e+1).match(/\S*(\s)?$/))[1] ? e : g.input.length - g[0].length || k == 1 && e || g.input.length + ( g = t.slice(e).match(/^\S*/)).input.length
+		}
+	}
+	return a.join("\n")
+};
+
+/**
+ * Add ability for jquery ui allowing html on title
+ * Override the title function
+ * http://stackoverflow.com/questions/14488774/using-html-in-a-dialogs-title-in-jquery-ui-1-10
+ *  
+ */
+jQuery.widget( "ui.dialog", jQuery.extend( {}, jQuery.ui.dialog.prototype, {
+	_title : function( title ) {
+		if( !this.options.title ) {
+			title.html( "&#160;" );
+		} else {
+			title.html( this.options.title );
+		}
+	}
+} ) ); 

@@ -1,0 +1,147 @@
+(function ($, Drupal) {
+
+  'use strict';
+
+  // Evenement click sur select de filtre
+  /*   jQuery('.form--exposed select').on('change', function(e) {
+        // jQuery('.form--exposed button').click();
+        triggerSubmit.call(e.target.form);
+     });*/
+
+
+  Drupal.behaviors.autoSubmitExposedFilters = {
+    attach: function (context, settings) {
+      $('.views-exposed-form .form-select').on('change', function () {
+        $(this).parents('.views-exposed-form').find('.form-actions .form-submit').click();
+      });
+
+
+    }
+  };
+  $('#homepage-search-button').click(function () {
+    setTimeout(() => {
+      $('#edit-query').focus();
+    }, 100);
+  });
+
+  if ($(' article .layout__region--second') && $('article .layout__region--second').text().length <= 16) {
+    $('article .layout__region--second').hide();
+    $('article .layout__region--first').css('flex-basis', '100%');
+  }
+
+  var count = 1;
+  var linked_content = false;
+  $("article.content .layout__region--second section").each(function (index) {
+    count = count + index;
+    if ($(this).hasClass("block-field-blocknodecontentfield-content-linked")) {
+      linked_content = true;
+    }
+    $(window).resize(function () {
+      var width = $(window).width();
+      if (width > 780) {
+        if (linked_content && count == 1) {
+          $("article.content .layout__region--second").hide();
+          $("article.content .layout__region--first").css('flex-basis', '100%');
+        }
+      }
+    });
+    var width = $(window).width();
+    if (width > 780) {
+      if (linked_content && count == 1) {
+        $("article.content .layout__region--second").hide();
+        $("article.content .layout__region--first").css('flex-basis', '100%');
+      }
+    }
+  });
+
+  // Fix View Dante for hide Seondary glossary
+  if ($('body.path-sante')) {
+    var pathname = window.location.pathname.split('/');
+    if (pathname.length == 2) {
+      $('.view-pathologie.view-display-id-attachment_1').hide();
+    }
+  }
+
+
+  // Desktop Gestion de la séelction d'un menu fermé pour fermer les autres et l'ouvrir
+  /*const menuprincipal_desktop = document.querySelectorAll('#block-menuprincipal .menu li.dropdown > a');
+      menuprincipal_desktop.forEach(function(menu) {
+          menu.addEventListener('click', function (e) {
+              e.preventDefault();
+              const is_open = menu.parentNode.classList.contains('open');
+
+              document.querySelectorAll('#block-menuprincipal .menu li.dropdown').forEach(function(m) {
+                  m.classList.remove('open');
+              });
+
+              if(!is_open)
+                  menu.parentNode.classList.add('open');
+          });
+
+      });
+
+
+        // Mobile  Gestion de la séelction d'un menu fermé pour fermer les autres et l'ouvrir
+  const menuprincipal_mobile = document.querySelectorAll('#block-menuprincipal-3 .menu li.dropdown > a');
+      menuprincipal_mobile.forEach(function(menu) {
+          menu.addEventListener('click', function (e) {
+              e.preventDefault();
+              const is_open = menu.parentNode.classList.contains('open');
+
+              document.querySelectorAll('#block-menuprincipal-3 .menu li.dropdown').forEach(function(m) {
+                  m.classList.remove('open');
+              });
+
+              if(!is_open)
+                   menu.parentNode.classList.add('open');
+          });
+
+      });*/
+
+  // fermeture automatiquement du menu quand on clique en dehors
+  // document.body.addEventListener('click',function(e) {
+  //     document.querySelectorAll('#block-menuprincipal .menu li.dropdown').forEach(function(m) {
+  //         m.classList.remove('open');
+  //     });
+  // });
+
+  // To have the correct link on the slide images.
+  $('.slide-link').each(function () {
+    if ($(this).attr('href') !== $(this).next().attr('href')) {
+      $(this).next().attr('href', $(this).attr('href'));
+    }
+  });
+})(jQuery, Drupal)
+
+
+/*document.addEventListener("DOMContentLoaded", function() {
+ // Code temporaire pour gérer le menu en javacript natif
+ const menuprincipal = document.querySelectorAll('#block-menuprincipal .menu li.dropdown > a');
+ menuprincipal.forEach(function(menu) {
+     menu.addEventListener('click', function e() {
+        e.preventDefault();
+         console.log('open ', menu);
+
+         menuprincipal.forEach(function(m) {
+             m.classList.removeClass('open');
+         });
+
+         menu.style.display = "open";
+     });
+
+ });
+});*/
+
+
+function OpenBot() {
+  document.getElementById('popupBot').style.display = 'block';
+  document.getElementById('btnOpenPopupBot').style.display = 'none';
+  document.getElementById('btnClosePopupBot').style.display = 'block';
+  document.getElementById("iframeChatBot").src = document.getElementById("iframeChatBot").src;
+}
+
+function CloseBot() {
+  document.getElementById('popupBot').style.display = 'none';
+  document.getElementById('btnOpenPopupBot').style.display = 'block';
+  document.getElementById('btnClosePopupBot').style.display = 'none';
+}

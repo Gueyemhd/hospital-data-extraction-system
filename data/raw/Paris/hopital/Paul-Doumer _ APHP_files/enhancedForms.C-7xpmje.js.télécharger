@@ -1,0 +1,1 @@
+(function(i){Drupal.behaviors.aphp_23_form_helper={attach:(a,c)=>{i("aphp_23_form_helper",".form-item",a).forEach(t=>{const e=t.querySelector("input, textarea, select"),r=e==null?void 0:e.getAttribute("id");if(t.querySelector(`#${r}--form-helper`)){let o=e.getAttribute("aria-describedby");e.setAttribute("aria-describedby",`${o} ${r}--form-helper`)}})}}})(once);

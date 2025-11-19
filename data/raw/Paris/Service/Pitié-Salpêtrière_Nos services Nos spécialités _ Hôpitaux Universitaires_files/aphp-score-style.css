@@ -1,0 +1,57 @@
+#score_plugin_container{
+	position:relative;
+}
+
+#score_plugin_container button{
+float: right;
+border: 1px solid #ccc;
+width: 200px;
+padding: 10px;
+}
+#score_params_table,
+#score_results_table{
+	border-collapse:separate;	
+	border-spacing: 0 5px;
+	width:100%;
+}
+
+#score_params_table tr{
+	
+	
+}
+
+#score_params_table tr>td:first-child,
+#score_results_table tr>td:first-child{
+	/*background-color:#eee;*/
+	border: 1px solid #ccc;
+	border-right:none;
+	padding:0 5px;
+	width:600px;
+	line-height: 0;
+	vertical-align: middle;
+	
+}
+
+#score_results_table tr>td:first-child{
+	background-color:#eee;
+}
+
+#score_results_table{
+	font-weight:bold;
+}
+
+#score_results_table input{
+	width: 188px;
+	margin: 0;
+	float: right;
+	box-shadow:none;
+	border: 1px solid #ccc;
+	padding: 0 5px;
+	text-align: right;
+	font-weight:bold;
+}
+
+#score_params_table select{
+	box-shadow:	none;
+	border: 1px solid #ccc;
+}

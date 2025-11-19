@@ -1,0 +1,93 @@
+html,body{
+    margin: 0;
+}
+body{
+    background: white;
+    color: white;
+    font-family: arial, sans-serif;
+    overflow-x: hidden;
+}
+#zoomsaicok section,article,figure{
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+#zoomsaicok section{
+    margin: 0 auto;
+    max-width: 780px;
+    width: 100%;
+    padding: 0 0 10px 0;    
+}
+#zoomsaicok h1{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 75px;
+    line-height: 120%;
+    margin: 0;
+}
+#zoomsaicok h2{
+    text-align: center;
+    margin: 0 0 20px;
+    font-size: 10px;
+    line-height: 120%;
+    color: rgb(111, 64, 64);
+}
+#zoomsaicok h3{    
+    margin-bottom: 0;
+}
+#zoomsaicok h4{    
+    margin-bottom: 0px;
+    font-size: 10px;
+}
+#zoomsaicok h4 + p{
+    margin-top: 0;
+}
+#zoomsaicok .red{
+    color: rgb(189, 72, 72);
+}
+#zoomsaicok .fancy-bg{
+    width: 100%;
+    height: 100%;
+    /*background: #ccc url('../img/background-after.png')  repeat repeat 0 0;*/
+}
+#zoomsaicok .fancy-bg h4{    
+    margin: 0;
+    font-size: 15px;
+    text-align: center;
+    padding: 10px 0;
+    color: #333;
+}
+#zoomsaicok .fancy-bg p{  
+    margin: 0;
+    padding: 0 10px;
+    color: #333;
+    font-size: 13px;
+    line-height: 18px;
+}
+#zoomsaicok .fancy-bg a{
+    color: #333;
+    font-size: 13px;
+    font-weight: bold;
+    padding: 0 10px;
+}
+#zoomsaicok .fancy-bg a:hover{
+    color: #555;
+}
+#zoomsaicok code{
+    display: block;
+    background: white;
+    border: 1px solid #333;
+    width: 780px;
+    overflow: hidden;
+    position: relative;
+}
+#zoomsaicok pre{    
+    padding-top: 10px;
+    margin-left: -110px;
+}
+#zoomsaicok small a{
+    color: #333;
+}
+#zoomsaicok small a:hover{
+    color: rgb(189, 72, 72);
+}

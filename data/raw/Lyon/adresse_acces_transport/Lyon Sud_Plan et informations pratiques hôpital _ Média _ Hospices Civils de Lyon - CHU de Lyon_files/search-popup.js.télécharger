@@ -1,0 +1,11 @@
+(function ($, Drupal) {
+
+    'use strict'
+
+    Drupal.behaviors.searchPopup = {
+        attach: function (context, settings) {
+            $('.homepage-search-popup-modal-close.spb_close').html('<a href="#" class="close"></a>');
+        }
+    } // document.ready end.
+
+})(jQuery, Drupal)
