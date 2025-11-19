@@ -1,0 +1,49 @@
+
+    a.menu-icon-2530,
+    ul.links li.menu-icon-2530 a,
+    ul.menu li.menu-icon-2530 a {
+        background-image: url(https://www.chu-lyon.fr/sites/default/files/menu_icons/Facebook_0.png);
+        padding-left:21px;
+        background-repeat: no-repeat;
+        background-position: left center;
+    }
+    a.menu-icon-2531,
+    ul.links li.menu-icon-2531 a,
+    ul.menu li.menu-icon-2531 a {
+        background-image: url(https://www.chu-lyon.fr/sites/default/files/menu_icons/bluesky.png);
+        padding-left:48px;
+        background-repeat: no-repeat;
+        background-position: left center;
+    }
+    a.menu-icon-2532,
+    ul.links li.menu-icon-2532 a,
+    ul.menu li.menu-icon-2532 a {
+        background-image: url(https://www.chu-lyon.fr/sites/default/files/menu_icons/YouTube.png);
+        padding-left:21px;
+        background-repeat: no-repeat;
+        background-position: left center;
+    }
+    a.menu-icon-2558,
+    ul.links li.menu-icon-2558 a,
+    ul.menu li.menu-icon-2558 a {
+        background-image: url(https://www.chu-lyon.fr/sites/default/files/menu_icons/Linkedin.png);
+        padding-left:21px;
+        background-repeat: no-repeat;
+        background-position: left center;
+    }
+    a.menu-icon-2559,
+    ul.links li.menu-icon-2559 a,
+    ul.menu li.menu-icon-2559 a {
+        background-image: url(https://www.chu-lyon.fr/sites/default/files/menu_icons/Instagram.png);
+        padding-left:21px;
+        background-repeat: no-repeat;
+        background-position: left center;
+    }
+    a.menu-icon-2838,
+    ul.links li.menu-icon-2838 a,
+    ul.menu li.menu-icon-2838 a {
+        background-image: url(https://www.chu-lyon.fr/sites/default/files/menu_icons/lien-externe.png);
+        padding-left:32px;
+        background-repeat: no-repeat;
+        background-position: left center;
+    }

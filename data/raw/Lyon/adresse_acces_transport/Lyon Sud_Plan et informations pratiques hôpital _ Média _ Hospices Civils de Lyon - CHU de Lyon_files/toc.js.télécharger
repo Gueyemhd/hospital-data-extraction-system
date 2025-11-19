@@ -1,0 +1,15 @@
+(function ($, Drupal) {
+
+    'use strict'
+
+    Drupal.behaviors.customToc = {
+        attach: function (context, settings) {
+            var tocFilter = $('div.toc-filter');
+            var tocTree = $('div.toc-desktop.toc.toc-tree');
+            if (tocTree) {
+                tocTree.css('height', tocFilter.css('height'));
+            }
+        }
+    } // document.ready end.
+
+})(jQuery, Drupal)
