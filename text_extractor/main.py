@@ -27,11 +27,10 @@ def process_all_files(input_dir, output_dir):
     logging.info("Extraction terminée pour tous les fichiers.")
 
 
-def merge_texts_by_hopital(texts_dir, output_dir="output_hopitaux"):
+def merge_texts_by_hopital(texts_dir, output_dir):
     """
     Fusionne les fichiers TXT par hôpital en se basant sur le nom du fichier.
-    Exemple : 'Hôpital Bicêtre_01.txt' et 'Hôpital Bicêtre_adresse.txt'
-    → deviennent 'Hôpital Bicêtre.txt'.
+    Exemple : 'Hôpital Bicêtre_01.txt' -> 'Hôpital Bicêtre.txt'
     """
     ensure_dir(output_dir)
     hopital_files = {}
@@ -51,7 +50,7 @@ def merge_texts_by_hopital(texts_dir, output_dir="output_hopitaux"):
     for hopital_name, files in hopital_files.items():
         output_path = os.path.join(output_dir, f"{hopital_name}.txt")
 
-        with open(output_path, "w", encoding="utf-8") as out:
+        with open(output_path, "a", encoding="utf-8") as out:
             out.write(f"===== DOSSIER : {hopital_name} =====\n\n")
 
             for fpath in files:
@@ -59,7 +58,7 @@ def merge_texts_by_hopital(texts_dir, output_dir="output_hopitaux"):
                 with open(fpath, "r", encoding="utf-8", errors="ignore") as f:
                     out.write(f.read() + "\n")
 
-        logging.info(f"Corpus hopital généré -> {output_path}")
+        logging.info(f"[OK] Fichier hôpital généré -> {output_path}")
 
 
 
@@ -72,6 +71,9 @@ if __name__ == "__main__":
     parser.add_argument("--corpus", action="store_true", help="Fusionner en corpus.txt")
     parser.add_argument("--by-hopital", action="store_true",
                     help="Fusionner les fichiers TXT par nom d'hôpital")
+    parser.add_argument("--output-hopital", required=False, default="output_hopitaux",
+                    help="Dossier où sauvegarder les fichiers fusionnés par hôpital")
+
 
 
     args = parser.parse_args()
@@ -79,7 +81,9 @@ if __name__ == "__main__":
     setup_logger()
     process_all_files(args.input, args.output)
     
+
     if args.by_hopital:
-        merge_texts_by_hopital(args.output)
+        merge_texts_by_hopital(args.output, args.output_hopital)
+
 
  

@@ -1,0 +1,185 @@
+===== DOSSIER : Cochin =====
+
+
+--- FICHIER : Cochin_L'offre de soins - Hôpital .txt ---
+
+TITRE: L'offre de soins - Hôpital Cochin AP-HP
+
+viewport: initial-scale=1
+twitter:card: summary_large_image
+twitter:title: L'offre de soins - Hôpital Cochin AP-HP
+framework: Alkivia Framework 0.8
+generator: Powered by WPBakery Page Builder - drag and drop page builder for WordPress.
+generator: Powered by Slider Revolution 5.3.1.5 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.
+msapplication-TileImage: https://hopitauxcentre-u-pariscite.aphp.fr/wp-content/blogs.dir/254/files/2020/12/cropped-image-profil-270x270.png
+
+L’offre de soins
+Cliquez sur la spécialité qui vous intéresse ci-dessous
+Par ordre alphabétique
+A-C
+D-I
+F-O
+P-Z
+Par ordre alphabétique
+Addictologie – CSAPA Cassini
+Addictologie de la femme enceinte
+Addictologie-Hépatologie – Maladies du foie
+Addictologie – Hôpital de Jour
+Andrologie
+Anesthésie-Réanimation Chirurgicale
+Assistance Médicale à la procréation/AMP
+Bactériologie
+Biochimie
+Biologie de la reproduction
+Biophysique – Médecine Nucléaire
+Cancérologie
+Cardiologie
+CECOS/Centre d’étude et de conservation des œufs et du sperme humain
+Centre d’accueil et de traitement des hémophiles
+Centre d’étude et de traitement de la douleur
+Centre d’éthique clinique
+Centre de diagnostic anténatal
+Centre Expert en Oncologie Thoracique
+Centre de Ressources Biologiques (CRB)
+Centre de Tri des Examens (CTDE)
+Chirurgie digestive, hépato-biliaire et endocrinienne
+Chirurgie gynécologique
+Chirurgie thoracique
+Cytogénétique constitutionnelle pré et post natale
+Dermatologie – Vénérologie
+Diabétologie et maladies métaboliques
+Diagnostic biologique automatisé/DBA
+Endocrinologie et maladies métaboliques
+Exploration du métabolisme phosphocalcique
+Explorations fonctionnelles gynécologiques et obstétricales
+Explorations vasculaires périphériques (doppler) et épreuves d’efforts cardiaques
+Gastro-entérologie et oncologie digestive
+Génétique et Biologie moléculaire
+Gynécologie chirurgicale
+Gynécologie médicale endocrinienne, sénologie
+Hématologie biologique
+Hématologie clinique
+Hémophilie/Centre d’accueil et de traitement des hémophiles
+Hépatologie médicale/Alcoologie
+Immunologie biologique
+IVG
+Maison des adolescents – Maison de Solenn
+Maladies infectieuses
+Maladies osseuses/Centre d’évaluation des maladies osseuses
+Maladies rhumatismales/Centre d’évaluation des maladies rhumatismales
+Maternité
+Médecine et réanimation néonatales
+Médecine de la reproduction
+Médecine interne
+Onco-dermatologie
+Ophtalmologie/OphtalmoPôle
+Orthogénie
+Orthopédie
+Oto-Rhino-Laryngologie/ORL
+Parasitologie – Mycologie – Médecine Tropicale
+Laboratoire d’anatomie et de cytologie pathologiques
+Pharmacie – Pharmacologie – Toxicologie
+Pharmacologie clinique
+Physiologie – Explorations Fonctionnelles
+Planification familiale
+PMI/Protection maternelle et infantile
+Pneumologie
+Polyclinique médicale
+Psychiatrie adulte
+Radiologie A
+Radiologie B ostéo-articulaire
+Réanimation médicale – Médecine intensive – Réanimation
+Rééducation Fonctionnelle de l’Appareil Locomoteur et des Pathologies du Rachis
+Rhumatologie
+Service d’Accueil des Urgences
+Traitement de la douleur – Médecine palliative
+Unité Mobile de Soins Palliatifs/UMSP
+Urgences gynécologiques et obstétriques
+Urgences ophtalmologiques de l’AP-HP | 7j/7, 24h/24
+Urologie
+Vaccination et Voyages
+VIH de la femme enceinte
+Virologie
+A-C
+Addictologie – CSAPA Cassini
+Addictologie de la femme enceinte
+Addictologie-Hépatologie – Maladies du foie
+Addictologie – Hôpital de Jour
+Andrologie
+Anesthésie-Réanimation Chirurgicale
+Assistance Médicale à la procréation/AMP
+Bactériologie
+Biochimie
+Biologie de la reproduction
+Biophysique – Médecine Nucléaire
+Cancérologie
+Cardiologie
+CECOS/Centre d’étude et de conservation des œufs et du sperme humain
+Centre d’accueil et de traitement des hémophiles
+Centre d’étude et de traitement de la douleur
+Centre d’éthique clinique
+Centre de diagnostic anténatal
+Centre Expert en Oncologie Thoracique
+Centre de Ressources Biologiques (CRB)
+Centre de Tri des Examens (CTDE)
+Chirurgie digestive, hépato-biliaire et endocrinienne
+Chirurgie gynécologique
+Chirurgie thoracique
+Cytogénétique constitutionnelle pré et post natale
+D-I
+Dermatologie – Vénérologie
+Diabétologie et maladies métaboliques
+Diagnostic biologique automatisé/DBA
+Endocrinologie et maladies métaboliques
+Exploration du métabolisme phosphocalcique
+Explorations fonctionnelles gynécologiques et obstétricales
+Explorations vasculaires périphériques (doppler) et épreuves d’efforts cardiaques
+Gastro-entérologie et oncologie digestive
+Génétique et Biologie moléculaire
+Gynécologie chirurgicale
+Gynécologie médicale endocrinienne, sénologie
+Hématologie biologique
+Hématologie clinique
+Hémophilie/Centre d’accueil et de traitement des hémophiles
+Hépatologie médicale/Alcoologie
+Immunologie biologique
+IVG
+F-O
+Maison des adolescents – Maison de Solenn
+Maladies infectieuses
+Maladies osseuses/Centre d’évaluation des maladies osseuses
+Maladies rhumatismales/Centre d’évaluation des maladies rhumatismales
+Maternité
+Médecine et réanimation néonatales
+Médecine de la reproduction
+Médecine interne
+Onco-dermatologie
+Ophtalmologie/OphtalmoPôle
+Orthogénie
+Orthopédie
+Oto-Rhino-Laryngologie/ORL
+P-Z
+Parasitologie – Mycologie – Médecine Tropicale
+Laboratoire d’anatomie et de cytologie pathologiques
+Pharmacie – Pharmacologie – Toxicologie
+Pharmacologie clinique
+Physiologie – Explorations Fonctionnelles
+Planification familiale
+PMI/Protection maternelle et infantile
+Pneumologie
+Polyclinique médicale
+Psychiatrie adultes
+Radiologie A
+Radiologie B ostéo-articulaire
+Réanimation médicale – Médecine intensive – Réanimation
+Rééducation Fonctionnelle de l’Appareil Locomoteur et des Pathologies du Rachis
+Rhumatologie
+Service d’Accueil des Urgences
+Traitement de la douleur – Médecine palliative
+Unité Mobile de Soins Palliatifs/UMSP
+Urgences gynécologiques et obstétriques
+Urgences ophtalmologiques de l’AP-HP | 7j/7, 24h/24
+Urologie
+Vaccination et Voyages
+VIH de la femme enceinte
+Virologie

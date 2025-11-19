@@ -1,0 +1,1124 @@
+===== DOSSIER : Bicêtre =====
+
+
+--- FICHIER : Bicêtre_hopital.txt ---
+
+TITRE: L’hôpital | Hôpital Bicêtre
+
+viewport: initial-scale=1
+twitter:card: summary
+twitter:card: summary
+twitter:title: L'hôpital - Hôpital Bicêtre
+twitter:image: https://hopitaux-paris-sud.aphp.fr/wp-content/blogs.dir/63/files/2017/03/Bicêtrehistoire.jpg
+generator: Powered by WPBakery Page Builder - drag and drop page builder for WordPress.
+
+L’hôpital
+L’hôpital Bicêtre de l’Assistance Publique Hôpitaux de Paris est situé au Kremlin-Bicêtre, dans le Val-de-Marne (94).
+L’hôpital propose une large gamme de spécialités pour l’adulte et l’enfant. Doté d’une structure d’accueil des urgences médicales et chirurgicales, il est reconnu pour la prise en charge des polytraumatisés et participe à la grande garde de neurochirurgie. Il bénéficie aussi d’une expertise en immunopathologie et en neuroradiologie interventionnelle. Il dispose une maternité de type III et un centre de chirurgie ambulatoire. L’hôpital Bicêtre accueille 20 centres de référence maladies rares et un centre cancers rares.
+4 500
+professionnels au service des patients
+954
+lits
+3 549
+naissances
+97 703
+passages aux urgences
+L’hôpital Bicêtre constitue avec les hôpitaux Antoine-Béclère (Clamart), Maritime de Berck (62), Paul-Brousse (Villejuif), Ambroise-Paré (Boulogne-Billancourt), Sainte-Périne (Paris 16 ème ) et Raymond-Poincaré (Garches), le groupe hospitalo-universitaire AP-HP. Université Paris Saclay.
+Directrice du groupe hospitalo-universitaire AP-HP. Université Paris-Saclay : Hélène GILARDI
+Président de la commission médicale d’établissement locale : Pr Xavier Mariette
+Directrice du site Bicêtre : Agnès Lesage
+Un peu d'histoire
+Les origines de Bicêtre remontent au milieu du XIIIème siècle, époque à laquelle Louis IX fit don à une colonie de Chartreux d’un domaine situé sur le territoire de Gentilly. Vers 1286, Jean de Pontoise, évêque de Winchester se rendit acquéreur du domaine abandonné par les Chartreux et construit un donjon féodal. Par la suite, à l’emplacement du château féodal qui fut détruit, Louis XIII fit bâtir un hôpital destiné à recevoir les soldats blessés.
+La responsabilité du projet fut confiée au Cardinal Richelieu et les travaux à Jacques Lemercier, architecte du Roi, mais la réalisation complète du projet fut interrompue par la mort du Roi. En 1656, Mazarin décida de rattacher cet hôpital à un autre hôpital général créé par le Roi. Bicêtre fut affecté aux hommes, vagabonds, vieillards, indigents de toutes sortes (en 1668, on comptait 600 pensionnaires). L’hôpital de Bicêtre devint successivement ou simultanément, prison d’Etat, asile d’aliénés et hospice. En 1823, il fut appelé “Hospice de la vieillesse Hommes” et en 1885, ‘Hospice de Bicêtre”.
+Il est conçu sur le schéma classique de l’hôpital, en damier. Du projet initial, seuls les pavillons d’enceinte et le bâtiment central composé de deux ailes en retour d’équerre dans un axe nord-sud seront construits. En 1725, face à l’accroissement de la population de l’hospice, on chargea Germain Boffrand, architecte du Duc de Lorraine, de résoudre la question de l’approvisionnement en eau, transportée jusque là en tonneau de la Bièvre ou dela Seine. Il conçut un puits creusé à 58 m de profondeur. Un dispositif de deux immenses seaux de 270 litres chacun servait à remonter l’eau. Vers 1856-1858, les 12 chevaux puis les prisonniers et enfin les aliénés furent remplacés par une machine à vapeur. La salle du réservoir est attenante au puits. Son couvrement est constitué d’une voûte unique d’arête reposant sur quatre piliers massifs. Au sous-sol des bâtiments du cabanon (XVIIIème siècle) se situent les cachots dits “blancs” par opposition aux “noirs” plus sombres encore et détruits aujourd’hui.
+En 1792, l’hôpital est envahi par une bande armée décidée à délivrer les prisonniers et à abréger les souffrances des coupables. Les jugements sont sommaires. 172 prisonniers sont passés au sabre dans une cour située au sud-ouest du grand puits.
+Cette “cour des massacres de septembre”, aujourd’hui lieu tranquille et calme, est entourée de constructions à péristyle, édifiées lors de la restructuration de 1822. A partir de 1796, cette prison sera le point de départ de la chaîne des condamnés pour les bagnes de Brest, Rochefort ou Toulon. Les galériens sont enchaînés deux à deux par le cou dans la cour à l’arrière du bâtiment. Victor Hugo, autorisé à assister au ferrement de la chaîne, relatera cet épisode douloureux de l’hôpital dans “ Le dernier jour d’un condamné ”. En 1836, la prison sera fermée. En 1850, les bâtiments de l’hôpital, datant du XVIIè siècle, qui ne comportaient à l’origine que le rez-de- chaussée et un étage, sont surélevés d’un étage et les ailes sont reconstruites. Les pavillons d’angles sont réintégrés. Les galeries couvertes (XVIIe-XIXe siècles) nommées “allées des bronchites” étaient réputées comme des lieux de passage ventés ; l’endroit, appelé “le Rivoli de Bicêtre”, a été vitré depuis. A la fin du XIXe siècle est édifié à l’ouest de l’hospice, un quartier d’aliénés constitué de grands pavillons parallèles reliés entre eux par des galeries. Toujours visibles, ces bâtiments hauts et étroits, parallèles les uns aux autres, dressent leurs pignons de brique face à l’hôpital fonctionnel reconstruit dans les années 1970-1971.
+Le centre hospitalier de Bicêtre continue de se développer et de se moderniser sur son aile ouest tout en valorisant son secteur historique ouvert à l’est sur le Kremlin-Bicêtre. Un parc ouvert au public est situé au Nord de la première porte de l’hôpital.
+Bâtiments classés ou protégés :
+– Les façades et les toitures des deux pavillons Jacques Lemercier, incorporés au Front des Grandes Divisions, construits en 1634
+– La porterie Nord, dite Porte Saint Jean-Baptiste en 1668
+– Les façades et les toitures de la porterie Est, datant de 1757, ainsi que le passage voûté et les vantaux en bois (Portail des Champs)
+– L’ensemble des constructions dite “Le Grand Puits”
+– Les façades et les toitures du seul pavillon d’angle subsistant de l’enceinte du XVe siècle, bordant la rue Séverine (actuellement salle de garde des internes)
+
+--- FICHIER : Bicêtre_RPA.txt ---
+
+REGISTRES D’ACCESSIBILITÉS « AVEC AGENDA AD’AP »  
+        GHU AP-HP. Université Paris-Saclay                         
+ 
+Hôpital Bicêtre AP-HP  
+ 
+ 
+ 
+Registres publics 
+d’accessibilité 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cadre réglementaire – Décret du 28 mars 2017 et Arrêté du 19 avril 2017 
+Mise à jour du 28 septembre 2023 
+N° SIRET : 26750045200441
+DI- Mission handicap 
+[2]  
+ 
+GHU AP-HP. Université Paris-Saclay 
+Hôpital Bicêtre AP-HP 
+78 avenue du Général Leclerc 94270 Le Kremlin-Bicêtre 
+Consultation des registres public d’accessibilité : 
+A l’accueil « Portail des Champs » 
+ 
+Sur le site Internet
+DI- Mission handicap 
+[3]  
+ 
+ 
+1-Accéder à l’hôpital  
+ 
+Entrées de l’hôpital 
+ 
+-Entrée principale piétons: 78 avenue du général Leclerc 94270 Le Kremlin-Bicêtre. 
+ 
+-Entrée (piétons, ambulances, taxis, véhicules de patients munis d’une convocation à une 
+consultation) :  Rue Séverine (du lundi au vendredi de 7h-9h30 ; de 12h-14h ; de 16h30-
+18h30) 
+ 
+-Entrée (piétons, véhicules d’urgence, ambulance, véhicules de patients munis d’une 
+convocation à une consultation) : 63 rue Gabriel Péri (ouverture 7J /7 et 24h/24h) 
+-Entrée (piétons, véhicules d’urgence, ambulances, véhicules de patients munis d’une 
+convocation à une consultation) : rue Rossel (du lundi au vendredi de 6h30 à 18h30) 
+ 
+ 
+En transport en commun (source https://www.ratp.fr/accessibilite) 
+A ce jour, la station de métro proche de l’hôpital n’est pas accessible (Ligne 14 : livraison 
+prévue juillet 2024.) 
+Seuls les arrêts de bus suivants sont accessibles :  
+Bus V6 - Arrêt « Leclerc Thomas » 
+ 
+Bus 47 - Arrêt « Hôpital Kremlin-Bicêtre » 
+ 
+Bus 131 - Arrêt « Hôpital Kremlin-Bicêtre » 
+ 
+Bus 323 - Arrêt « Hôpital Kremlin-Bicêtre » 
+ 
+Bus 125 - Arrêt « Convention – Jean Jaurès »  
+   
+Bus 186  - Arrêt « Convention – Jean Jaurès »
+DI- Mission handicap 
+[4]  
+ 
+Attention, les cheminements des arrêts de bus jusqu’aux entrées de l’hôpital sont d’un 
+usage difficile, de plus les circulations à l’intérieur de l’hôpital ne sont pas toujours 
+accessibles.  
+En conséquence, un déplacement véhiculé pour les personnes en situation de 
+handicap est préconisé, compte tenue de l’étendue du site et de son relief.  
+Outre les places de stationnement PMR, un dépose minute est toléré dans l’enceinte 
+de l’hôpital. Par ailleurs les véhicules des patients munis d’une convocation peuvent 
+accéder gratuitement au parking (au niveau du bâtiment Broca) de l’hôpital.   
+Des bandes « podotactiles » sont disposées devant chaque trottoir abaissé, mais le site 
+compte tenu de son étendue n’est pas systématiquement doté de bandes de guidage. 
+ 
+Principaux points d’information 
+ 
+ 
+L’accueil principal est situé à gauche 
+de l’entrée piétons (78 av. du Gal Leclerc).
+Un second accueil 
+est localisé dans 
+le Hall du Bâtiment Broca, porte 1. 
+Aucun point d’accueil ne dispose de  
+dispositifs (BIM, micro amplificateur…) 
+facilitant la communication avec des 
+personnes malentendantes ou sourdes.
+DI- Mission handicap 
+[5]  
+ 
+ 
+Stationnement PMR dans l’hôpital 
+L’hôpital dispose d’une trentaine de places extérieures de stationnement pour les 
+personnes à mobilité réduite. Les places PMR sont situées au plus près des bâtiments ERP. 
+Attention, toutes les places de stationnement ne permettent pas de rejoindre de façon 
+sécurisée un cheminement accessible (absence de trottoir abaissé, circulation sur la voirie 
+en raison d’un trottoir trop étroit…).
+DI- Mission handicap 
+[6]
+DI- Mission handicap 
+[7]  
+ 
+Dépose-minute 
+Un dépose minute est toléré pour les ambulances, les taxis et les véhicules particuliers pour 
+les patients (personnes dépendantes et en situation de handicap) munis d’une convocation. 
+3 dépose-minute sont matérialisés :  
+- 
+Broca - Porte 01  
+- 
+Broca, Pierre Testas – Porte 06 
+- 
+Broca, Urgences - A proximité de la porte 07  
+ 
+Au-delà de ces 3 points, il est possible de rapprocher les patients en situation de handicap 
+au plus près du lieu de consultation ou d’hospitalisation. 
+Dispositif de guidage 
+ 
+Outre la signalétique extérieure, un système d’assistance au guidage (itinéraires depuis 
+GoogleMaps) est disponible à partir d’un QR code apposé sur des panneaux d’affichages 
+installés à des endroits stratégiques de l’hôpital : à gauche sous le porche de l’entrée 
+principale piétons, sur les portes d’entrée des bâtiments, des urgences…  
+ 
+2. Accessibilité générale de l’hôpital  
+L’AP-HP, conformément au cadre légal, a déposé un agenda d’accessibilité programmé 
+(2016-2025) pour l’ensemble des sites concernés (360 ERP répartis sur 42 sites), dont celui 
+de l’hôpital Bicêtre.
+DI- Mission handicap 
+[8]  
+ 
+L’agenda d’accessibilité programmé de l’AP-HP a été approuvé par les services instructeurs 
+de la Préfecture de Police de Paris le 4/11/2016. 
+La mise en accessibilité des bâtiments est envisagée suivant cet agenda et à terme pour 2025 
+selon l’organisation interne des travaux d’entretien dans les services. 
+ 
+Les bâtiments accueillants des patients  
+- 
+Pierre Lasjaunias 
+- 
+Portail des Champs (Fondation Vallée) 
+- 
+Françoise Barré-Sinoussi 
+- 
+Maternité 
+- 
+Paul Broca / Allagile 
+- 
+Pierre TESTA 
+- 
+Louise Michel (Fondation Vallée) 
+ 
+ 
+- Les bâtiments, la plupart des services proposés sont accessibles aux 
+personnes à mobilité réduite 
+oui                      
+non    
+ 
+A l’exception de : 
+.de la Maison des parents porte 22 (bâtiment Désirée-Magloire 
+Bourneville). La maison des parents est gérée par la croix rouge pour 
+un hébergement de parents dont l’enfant est hospitalisé. 
+ 
+- Pour les autres situations de handicap, une aide humaine est 
+nécessaire.   
+                       
+ 
+Emprunt d’un fauteuil roulant 
+Pour faciliter les déplacements des personnes fatigables ou à mobilité réduite, l’emprunt 
+(selon disponibilités) de fauteuils roulants est proposé dans les unités de soin (Bâtiment P. 
+Lasjaunias), à la policlinique (bâtiment Broca), aux urgences gynécologiques par exemple.
+DI- Mission handicap 
+[9]  
+ 
+ 
+Registre Public d’Accessibilité  
+Bâtiment Pierre Lasjaunias 
+ 
+Bien que des places de stationnement pour les personnes à mobilité réduite aient été créés 
+aux abords du bâtiment, un dépose minute est recommandé pour les patients (personnes 
+dépendantes et en situation de handicap) munis d’une convocation. 
+ 
+ 
+ 
+Les bâtiments, la plupart des services proposés sont accessibles aux 
+personnes à mobilité réduite 
+oui                      
+non   
+ 
+4 portes (80/81/85/86) facilitent l’accès à ce bâtiment historique. 
+ 
+Pour les autres situations de handicap, un accompagnement est préconisé.
+DI- Mission handicap 
+[10]  
+ 
+ 
+ 
+Les admissions/caisses du bâtiment P. Lasjaunias 
+ 
+ 
+ 
+Une place de stationnement est située à environ 20 m de l’entrée. Une rampe facilite l’accès 
+des visiteurs à mobilité réduite à la porte 81. 
+ 
+Les 
+admissions/caisses 
+du 
+bâtiment P. Lasjaunias se situent 
+au niveau de la porte 81.
+DI- Mission handicap 
+[11]  
+ 
+ 
+ 
+Les guichets sont facilement localisables. Un WC PMR visiteur est à disposition si besoin. 
+ 
+ 
+Accéder au bâtiment Pierre Lasjaunias 
+Pour les personnes en fauteuil roulant, quatre autres portes (80/85/86 et 93 à un moindre 
+degré) sont accessibles. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Un sas composé de deux portes 
+(ouverture 
+vers 
+l’extérieur) 
+permet d’accéder au service. 
+Attention, la largeur du passage 
+est d’environ 70 cm. 
+Il est par conséquent nécessaire 
+d’ouvrir le second battant pour les 
+personnes 
+se 
+déplaçant 
+en 
+fauteuil.
+DI- Mission handicap 
+[12]  
+ 
+ 
+Porte 80 
+ 
+Une place de stationnement PMR est à proximité de la porte 80. Une rampe munie de barres 
+d’appui facilite l’accès. 
+L’entrée est dotée de portes à ouverture automatique. Des bandes contrastées sont 
+apposées sur les vitres. 
+ 
+Porte 85  
+Un dépose minute est préconisé pour l’accès par la porte 85, aucune place de stationnement 
+PMR n’étant située à proximité. 
+Des portes automatiques facilitent l’accès au bâtiment.  
+Des bandes contrastées sont apposées sur les vitres. 
+ 
+Porte 86 
+L’entrée est de plein pied (présence d’une fente > à 2 cm), elle est équipée de portes 
+automatiques.
+DI- Mission handicap 
+[13]  
+ 
+ 
+ 
+S’orienter 
+La signalétique généralement située en hauteur facilite l’orientation. 
+ 
+Ascenseurs 
+Les cabines ont un bon degré d’accessibilité (dimensions), les boutons d’appel sont 
+contrastés et en braille. Les ascenseurs sont dotés d’annonce sonore. 
+Attention, les distances peuvent être 
+ressenties comme importantes dans le 
+bâtiment Pierre Lasjaunias pour les 
+patients fatigables.  
+Il est possible d’emprunter un fauteuil 
+roulant, selon les disponibilités, au 
+niveau des unités de soins.
+DI- Mission handicap 
+[14]  
+ 
+Les accueils aux étages 
+ 
+ 
+ 
+WC PMR 
+Le rez de chaussé, dispose d’un WC PMR dans le secteur 5 au bureau Neurologie et d’un WC PMR en 
+secteur 3 au consultation psychiatrie A.C.H.A 
+Le 1er étage dispose d’un WC PMR en secteur 1, salle Ambroise Paré et de trois WC PMR en secteur 
+4, salle P.Marie. 
+Le 2ème étage dispose d’un WV PMR en secteur 5, salle Pinel. 
+Le 3ème étage dispose d’un WC PMR en secteur 3, laboratoire médecine nucléaire ELSA. 
+ 
+Toutes les chambres sont équipées de sanitaire. Dont environ 20% sont adaptés PMR.  
+Des douches communes adaptées PMR sont disponibles dans chaque unité.  
+ 
+ 
+ 
+Liste des services  
+ 
+- 
+Centre expert national PREDIR (consultation oncogénétique spécialisée) 
+- 
+Centre de recherche clinique 
+- 
+Centre de réhabilitation neurologique et neuropsychologique (CRNN) 
+- 
+Centre de soins, d’accompagnement et de prévention en addictologie (CSAPA) 
+Facilement localisables, certains 
+accueils sont dotés de guichets 
+abaissés.
+DI- Mission handicap 
+[15]  
+ 
+- 
+Equipe de Liaison et de soins en addictologie (ELSA) 
+- 
+Grande garde de neurochirurgie 
+- 
+Neurologie adultes 
+- 
+Neurochirurgie (consultations) 
+- 
+Neurochirurgie (hospitalisation) 
+- 
+Neurologie- Unité de soins intensifs Neuro vasculaire (USINV) 
+- 
+Neuroradiologie  
+- 
+Neuroradiologie interventionnelle adulte 
+- 
+Neuroradiologie Scanner et IRM 
+- 
+Ophtalmologie (hospitalisation) 
+- 
+ORL (hospitalisation) 
+- 
+Psychiatrie (consultation et hospitalisation) 
+ 
+Maintenance des équipements  
+ 
+Tous les équipements quel que soit le bâtiment font l’objet d’une maintenance. 
+Ascenseurs 
+La maintenance préventive et corrective des ascenseurs est assurée par la société OTIS dans 
+le cadre d’un contrat annuel jusqu’au 30/11/2026.  
+Portes automatiques 
+La maintenance préventive et corrective des portes automatiques est assurée par la 
+société IMPAIROUSSOT dans le cadre d’un contrat annuel jusqu’au 25/01/2027.  
+ 
+Formation du personnel 
+ 
+L’AP-HP organise des sessions de sensibilisation au handicap dans le cadre de la formation 
+initiale et continue ouverte à tous les professionnels. 
+Les personnels en contact avec le public seront progressivement formés à l’accueil à partir 
+de 2022. Ils sont sensibilisés au travers de la plaquette « Bien accueillir les personnes 
+handicapées » à l’accueil des différentes situations de handicap.
+DI- Mission handicap 
+[16]  
+ 
+Les volontaires en service civique qui participent à l’accueil, l’orientation des patients et 
+visiteurs sont également sensibilisés au handicap. 
+Les programmes de formation sont présentés en annexe. 
+ 
+Pièces administratives 
+ 
+-Décision d’approbation de la Préfecture de l’agenda d’accessibilité et calendrier 
+d’accessibilité, 
+- Bilan à mi-parcours pour les agendas de plus de 3 ans  
+- Suivi de la mise en œuvre des actions correctives Agenda Ad’AP  
+-Copie des procès-verbaux précisant les éventuelles dérogations aux règles d’accessibilité 
+-Attestation de l’employeur DRH (formation au handicap du personnel d’accueil) et 
+plaquettes des programmes 
+-Plaquette d’aide à l’accueil des personnes handicapées « Bien accueillir les personnes 
+handicapées »
+DI- Mission handicap 
+[17]  
+ 
+ 
+Registre Public d’Accessibilité  
+Bâtiment Louise MICHEL 
+ 
+ 
+ 
+Les bâtiments, la plupart des services proposés sont accessibles aux 
+personnes à mobilité réduite 
+oui                      
+non   
+ 
+Pour les autres situations de handicap, un accompagnement est préconisé. 
+ 
+ 
+ 
+Prestations du bâtiment Louise MICHEL 
+-Urgences psychiatrie infanto-juvénile (Fondation Vallée) 
+ 
+Accéder au bâtiment 
+ 
+ 
+Située porte 53, l’unité d’hospitalisation programmée est accessible à l’aide d’une rampe. Le 
+cheminement de la place PMR à la rampe d’accès est de plein pied. 
+Le service est doté d’un WC pour les visiteurs à mobilité réduite.  
+ 
+Maintenance des équipements  
+ 
+Le bâtiment ne dispose d’aucun équipement nécessitant une maintenance.
+DI- Mission handicap 
+[18]  
+ 
+Formation du personnel 
+ 
+ 
+Le personnel de l’unité d’hospitalisation est géré par la fondation Vallée.
+DI- Mission handicap 
+[19]  
+ 
+Pièces administratives 
+ 
+-Décision d’approbation de la Préfecture de l’agenda d’accessibilité et calendrier 
+d’accessibilité 
+- Bilan à mi-parcours pour les agendas de plus de 3 ans  
+- Suivi de la mise en œuvre des actions correctives Agenda Ad’AP  
+-Copie des procès-verbaux précisant les éventuelles dérogations aux règles d’accessibilité 
+-Attestation de l’employeur DRH (formation au handicap du personnel d’accueil) et 
+plaquettes des programmes 
+-Plaquette d’aide à l’accueil des personnes handicapées « Bien accueillir les personnes 
+handicapées »
+DI- Mission handicap 
+[20]  
+ 
+Registre Publique d’Accessibilité 
+Bâtiment Francoise Barré-Sinoussi 
+ 
+ 
+Le bâtiment, la plupart des services proposés sont accessibles aux 
+personnes à mobilité réduite 
+oui                      
+non    
+ 
+ 
+ 
+Pour les autres situations de handicap, un accompagnement est nécessaire. 
+ 
+ 
+ 
+ 
+ 
+Accéder au bâtiment 
+Porte 40 
+Le cheminement entre la place de stationnement PMR et l’entrée de la porte 40 est stable. 
+La hauteur de l’interphone n’est pas règlementaire (> à 1,30 m de hauteur). L’interphone est 
+à disposition uniquement pour le personnel à partir de 22h. 
+Porte 39 
+La signalétique de l’entrée est peu visible. L’entrée est située en face de la rue Sévérine. 
+L’accès PMR doit se faire par la porte 40.
+DI- Mission handicap 
+[21]  
+ 
+ 
+ 
+ 
+Entrée du bâtiment 
+Porte 40 
+L’entrée est de plein pied. L’ouverture des portes est automatique. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Des places de stationnement sont situées à proximité de la 
+porte 39, dédiées aux VSL. 
+Le cheminement piéton menant vers la porte 39 est 
+instable et présente des fentes > à 2 cm. Le cheminement 
+PMR recommandé est à privilégier en passant par 
+l’intérieur du bâtiment FBS (porte 40)  
+La largeur du passage est d’environ 80 cm. 
+La dépose est possible via VSL ou taxi. Un bouton d’appel 
+active le fonctionnement en lien avec le poste de sécurité 
+de la barrière menant à la porte 39.
+DI- Mission handicap 
+[22]  
+ 
+Porte 39 
+ 
+WC PMR 
+Porte 40 
+Au rez-de-chaussée, le service ne dispose pas de WC pour les visiteurs à mobilité réduite.  
+Au sous-sol, un WC PMR est disponible secteur 00.  
+A contrario des toilettes PMR sont existant au sein des unités de soins. 
+ 
+Porte 39  
+Au rez-de-chaussée, les WC visiteurs comportent un WC pour les personnes à mobilité 
+réduite. 
+ 
+Ascenseurs 
+Portes 40 et 39 
+L’accessibilité des ascenseurs est bonne (dimension des cabines, hauteur des boutons 
+d’appel, annonce sonore). 
+ 
+ 
+ 
+L’ouverture des portes vers l’extérieur, est d’usage 
+difficile.
+DI- Mission handicap 
+[23]  
+ 
+S’orienter 
+La signalétique située en hauteur permet de s’orienter facilement sur le site. 
+ 
+Liste des services  
+-Centre de vaccination  
+-Médecine des voyages 
+-Centre de référence 
+pour le traitement des hémophiles (CRTH) 
+-Endocrinologie adulte (consultation et hospitalisation) 
+-Hématologie clinique ambulatoire 
+-Maladies infectieuses et tropicales  
+-Médecine Aigüe Polyvalente 
+-Médecine interne et Immunologie clinique 
+-Policlinique adultes 
+-Précarité 
+-Rhumatologie adultes  
+-Unité de gériatrie aiguë  
+-Unité de suite et de réadaptation 
+-Unité thérapeutique et transfusionnelle 
+-HDJ de médecine interne  
+ 
+Maintenance des équipements   
+ 
+Tous les équipements quel que soit le bâtiment font l’objet d’une maintenance. 
+Ascenseurs 
+La maintenance préventive et corrective des ascenseurs est assurée par la société Otis dans 
+le cadre d’un contrat annuel jusqu’au 30/11/2026.  
+Portes automatiques 
+La maintenance préventive et corrective des portes automatiques est assurée par la 
+société Impairoussot dans le cadre d’un contrat annuel jusqu’au 25/01/2027.
+DI- Mission handicap 
+[24]  
+ 
+Formation du personnel 
+ 
+L’AP-HP organise des sessions de sensibilisation au handicap dans le cadre de la formation 
+initiale et continue ouverte à tous les professionnels. 
+Les personnels en contact avec le public seront progressivement formés à l’accueil à partir 
+de 2022. Ils sont sensibilisés au travers de la plaquette « Bien accueillir les personnes 
+handicapées » à l’accueil des différentes situations de handicap. 
+Les volontaires en service civique qui participent à l’accueil, l’orientation des patients et 
+visiteurs sont également sensibilisés au handicap. 
+Les programmes de formation sont présentés en annexe. 
+ 
+Pièces administratives 
+ 
+-Décision d’approbation de la Préfecture de l’agenda d’accessibilité et calendrier 
+d’accessibilité 
+- Bilan à mi-parcours pour les agendas de plus de 3 ans. 
+- Suivi de la mise en œuvre des actions correctives. 
+ 
+-Attestations d’accessibilité et d’achèvement de travaux (ERP soumis à Permis de construire 
+ou à demande d’autorisation d’aménagement)  
+-Copie des procès-verbaux précisant les éventuelles dérogations aux règles d’accessibilité 
+-Attestation de l’employeur DRH (formation au handicap du personnel d’accueil) et 
+plaquettes des programmes 
+-Plaquette d’aide à l’accueil des personnes handicapées « Bien accueillir les personnes 
+handicapées »
+DI- Mission handicap 
+[25]  
+ 
+Registre Public d’Accessibilité  
+Bâtiment Maternité 
+ 
+Les bâtiments, la plupart des services proposés sont accessibles aux 
+personnes à mobilité réduite 
+oui                      
+non   
+ 
+Pour les autres situations de handicap, un accompagnement est préconisé.
+DI- Mission handicap 
+[26]  
+ 
+ 
+ 
+Principaux services 
+-Urgences pédiatriques 
+-Urgences obstétricales et gynécologiques 
+-Maternité 
+-Réanimation pédiatrique et néonatale  
+-Gynécologie/ obstétrique (hospitalisation et consultation)
+DI- Mission handicap 
+[27]  
+ 
+ 
+ 
+Places de stationnement PMR 
+Aucune place de stationnement PMR n’est située à proximité. 
+L’accès véhiculé (dépose-minute) est recommandé pour les personnes en situation de 
+handicap. 
+ 
+Entrée des urgences pédiatriques 
+ 
+ 
+Le cheminement le plus accessible pour se rendre aux urgences pédiatriques 
+Accès depuis la porte 25 du bâtiment Maternité. 
+Devant la porte automatique, une 
+grille avec des fentes peut rendre 
+le passage difficile.
+DI- Mission handicap 
+[28]  
+ 
+ 
+ 
+Accès aux urgences obstéricales et gynécologiques (porte 29) 
+Aucune place de stationnement PMR n’est localisée à proximité. Un dépose-minute est 
+existant.  
+ 
+Entrée du bâtiment 
+L’entrée est de plein pied. 
+Des portes automatiques facilitent l’accès au bâtiment. 
+Des bandes contrastées sont apposées sur les vitres. 
+Prendre l’ascenseur à gauche du Café 
+relais (ouverture de la porte 84 cm). 
+Réservé aux Pompiers et au SAMU, cet 
+ascenseur peut également être utilisé par 
+les personnes à mobilité réduite.
+DI- Mission handicap 
+[29]  
+ 
+ 
+ 
+Les accueils aux étages 
+ 
+ 
+Facilement localisables, à droite de 
+l’entrée, les accueils sont dotés de 
+guichets abaissés. 
+Pour faciliter les déplacements des 
+patients, des fauteuils peuvent être 
+empruntés à l’accueil. 
+ 
+Attention, la sonnette de nuit pour les 
+urgences est située à une hauteur proche 
+d’1,60 m
+DI- Mission handicap 
+[30]  
+ 
+ 
+Ascenseurs 
+Les cabines ont un bon degré d’accessibilité (dimensions), les boutons d’appel sont 
+contrastés et en braille. Les ascenseurs sont dotés d’annonce sonore. 
+ 
+WC PMR 
+Au rez-de-chaussée, les toilettes visiteurs comportent quatres WC adaptés aux personnes à 
+mobilité réduite. Ils sont localisés à droite après l’entrée.   
+Au 1er étage, deux WC PMR sont à disposition, secteur 00. 
+Au 2ème étage quatres WC PMR sont à disposition, secteur 00. 
+Au 3ème étage : deux WC PMR sont à disposition secteur 00. 
+Maintenance des équipements  
+ 
+Tous les équipements quel que soit le bâtiment font l’objet d’une maintenance. 
+Ascenseurs 
+La maintenance préventive et corrective des ascenseurs est assurée par la société Otis dans 
+le cadre d’un contrat annuel jusqu’au 30/11/2026.  
+Portes automatiques 
+La maintenance préventive et corrective des portes automatiques est assurée par la 
+société Impairoussot dans le cadre d’un contrat annuel jusqu’au 25/01/2027.  
+ 
+Formation du personnel 
+ 
+L’AP-HP organise des sessions de sensibilisation au handicap dans le cadre de la formation 
+initiale et continue ouverte à tous les professionnels. 
+Les personnels en contact avec le public seront progressivement formés à l’accueil à partir 
+de 2022. Ils sont sensibilisés au travers de la plaquette « Bien accueillir les personnes 
+handicapées » à l’accueil des différentes situations de handicap.
+DI- Mission handicap 
+[31]  
+ 
+Les volontaires en service civique qui participent à l’accueil, l’orientation des patients et 
+visiteurs sont également sensibilisés au handicap. 
+Les programmes de formation sont présentés en annexe. 
+ 
+Pièces administratives 
+ 
+-Décision d’approbation de la Préfecture de l’agenda d’accessibilité et calendrier 
+d’accessibilité 
+- Bilan à mi-parcours pour les agendas de plus de 3 ans  
+- Proposer le Suivi de la mise en œuvre des actions correctives Agenda Ad’AP à la place (non 
+obligatoire) ? 
+-Attestations d’accessibilité et d’achèvement de travaux (ERP soumis à Permis de construire 
+ou à demande d’autorisation d’aménagement)  
+-Copie des procès-verbaux précisant les éventuelles dérogations aux règles d’accessibilité 
+-Attestation de l’employeur DRH (formation au handicap du personnel d’accueil) et 
+plaquettes des programmes 
+-Plaquette d’aide à l’accueil des personnes handicapées « Bien accueillir les personnes 
+handicapées »
+DI- Mission handicap 
+[32]  
+ 
+Registre Public d’Accessibilité  
+Bâtiment Broca 
+ 
+Les bâtiments, la plupart des services proposés sont accessibles aux 
+personnes à mobilité réduite 
+oui                      
+non   
+ 
+Pour les autres situations de handicap, un accompagnement est préconisé. 
+ 
+ 
+Le bâtiment Broca dispose de 3 points repose-minute 
+- 
+Broca - Porte 01  
+- 
+Broca, Pierre Testas – Porte 06 
+- 
+Broca, Urgences - A proximité de la porte 07
+DI- Mission handicap 
+[33]  
+ 
+ 
+Accès aux urgences adultes 
+ 
+ 
+ 
+ 
+L’accès 
+est 
+préconisé 
+en 
+dépose-minute. 
+Aucune place de stationnement pour les 
+personnes à mobilité réduite n’est localisée à 
+proximité. 
+L’accès piétons aux urgences est possible à 
+partir d’une rampe dont l’usage peut être 
+considéré 
+comme 
+difficile 
+pour 
+certains 
+patients.
+DI- Mission handicap 
+[34]  
+ 
+ 
+ 
+13 places PMR sont à disposition au sous-sol du bâtiment Broca.
+DI- Mission handicap 
+[35]  
+ 
+ 
+ 
+WC PMR 
+Un WC PMR est situé à proximité de la salle d’attente des urgences. 
+ 
+Sept WC PMR sont à disposition au rez de chaussée, secteur 00. 
+Deux WC PMR sont à disposition au 1er étage, secteur 00. 
+Un WC PMR est à disposition au 3ème étage, secteur 00. 
+Trois WC PMR sont à disposition au 4ème étage, secteur 00 
+Trois WC PMR sont à disposition au 5ème étage secteur 00.  
+ 
+ 
+ 
+Pour les personnes en situation de 
+handicap, 
+l’entrée 
+par 
+l’accès 
+réservé 
+aux 
+ambulances 
+et 
+pompiers, à gauche de l’entrée 
+piétons, est tolérée.
+DI- Mission handicap 
+[36]  
+ 
+Accès porte 1 – Bâtiment Broca 
+ 
+Un cheminement est accessible entre les places de stationnement PMR et l’entrée par 
+la porte 1. Un accès via un dépose-minute est excistant.
+DI- Mission handicap 
+[37]  
+ 
+ 
+Entrée du bâtiment 
+ 
+ 
+Point d’accueil 
+Ils sont facilement localisables. L’accueil dispose de guichets abaissés. 
+ 
+Emprunt de fauteuils 
+ 
+ 
+ 
+A droite après l’accueil, des fauteuils 
+roulants peuvent être empruntés au 
+niveau de la Policlinique adultes. 
+L’entrée du bâtiment présente un 
+ressaut > à 2 cm. 
+Des portes automatiques facilitent la 
+circulation des patients et visiteurs.
+DI- Mission handicap 
+[38]  
+ 
+ 
+S’orienter 
+ 
+Les ascenseurs 
+Les ascenseurs présentent un bon degré d’accessibilité (dimensions, hauteur des boutons 
+d’appel, boutons en braille, annonce vocale). 
+ 
+WC PMR 
+Au rez-de-chaussée ils sont facilement localisables, à droite après l’accueil, avant les guichets 
+« Admissions et frais de séjours ». 
+ 
+La signalétique située en hauteur facilite 
+l’orientation. 
+Elle est caractérisée par l’emploi de gros 
+caractères, avec un bon biveau de
+DI- Mission handicap 
+[39]  
+ 
+ 
+ 
+Les principaux services 
+-Anesthésie Réanimation chirurgicale 
+-Bactériologie / microbiologie / hygiène  
+-Biochimie  
+-Cardiologie 
+-Centre d’évaluation et du traitement de la douleur 
+-Centre d’orthogénie et planification familiale  
+-Chirurgie générale 
+-Chirurgie viscérale pédiatrique 
+-Coordination hospitalière des prélèvements multi-organes 
+-Endocrinologie diabétologie-pédiatrique   
+-Endoscopies digestives 
+-Explorations fonctionnelles cardiovasculaires et respiratoires  
+-Hématologie et immunologie biologique, cytologie  
+-Hémodialyse (néphrologie)  
+-Hépato-Gastro-Entérologie 
+-Hépatologie et transplantation hépatique pédiatriques  
+Les portes de type « ellipse », spécialement 
+conçues pour faciliter l’accès PMR.
+DI- Mission handicap 
+[40]  
+ 
+-Hormonologie et biologie moléculaire  
+-Maison de l’enfant 
+-Médecine des adolescents 
+-Néphrologie 
+-Neurologie pédiatrique 
+-Odontologie 
+-ORL 
+-Ophtalmologie 
+-Orthopédie et traumatologie 
+-Pédiatrie générale 
+-Pharmacie, toxicologie, stérilisation  
+-Pharmacologie  
+-Pneumologie 
+-Policlinique adultes 
+-Policlinique pédiatrique (bureau des rendez-vous) 
+-Radiologie diagnostique et interventionnelle  
+-Réanimation chirurgicale 
+-Réanimation médicale 
+-Rééducation fonctionnelle polyvalente  
+-Rhumatologie pédiatrique 
+-Unité de chirurgie ambulatoire 
+-Urologie 
+ 
+Autres services 
+-Cafétéria et presse 
+Ces services sont accessibles de plein pied. 
+-Lieux de recueillement 
+-Accueil télévision patient & téléphonie
+DI- Mission handicap 
+[41]  
+ 
+ 
+ 
+Accès au bâtiment Broca par les portes 6 et 7 
+ 
+Les lieux de recueillement sont situés à 
+gauche de la batterie d’ascenseur en suivant 
+la signalétique « Rééducation ». 
+Les 
+portes 
+peuvent 
+être 
+difficiles 
+à 
+manœuvrer pour certains patients. 
+Les accès sont de plein pied, munis de 
+portes automatiques. L’accès est aussi 
+possible par un trottoir roulant.
+DI- Mission handicap 
+[42]  
+ 
+Maintenance des équipements  
+ 
+Tous les équipements quel que soit le bâtiment font l’objet d’une maintenance. 
+Escalator intérieur et ascenseurs 
+La maintenance préventive et corrective des ascenseurs est assurée par la société Otis dans 
+le cadre d’un contrat annuel jusqu’au 30/11/2026.  
+Portes automatiques 
+La maintenance préventive et corrective des portes automatiques est assurée par la 
+société Impairoussot dans le cadre d’un contrat annuel jusqu’au 25/01/2027.  
+Tapis roulant extérieur 
+La maintenance préventive et corrective du tapis roulant est assurée par la société Schindler 
+dans le cadre d’un contrat annuel jusqu’au 31/07/2023, renouvelé annuellement.  
+Formation du personnel 
+ 
+L’AP-HP organise des sessions de sensibilisation au handicap dans le cadre de la formation 
+initiale et continue ouverte à tous les professionnels. 
+Les personnels en contact avec le public seront progressivement formés à l’accueil à partir 
+de 2022. Ils sont sensibilisés au travers de la plaquette « Bien accueillir les personnes 
+handicapées » à l’accueil des différentes situations de handicap. 
+Les volontaires en service civique qui participent à l’accueil, l’orientation des patients et 
+visiteurs sont également sensibilisés au handicap. 
+Les programmes de formation sont présentés en annexe. 
+Pièces administratives 
+ 
+-Diagnostic accessibilité (non obligatoire) 
+-Décision d’approbation de la Préfecture de l’agenda d’accessibilité et calendrier 
+d’accessibilité 
+- Bilan à mi-parcours pour les agendas de plus de 3 ans  
+- Proposer le Suivi de la mise en œuvre des actions correctives Agenda Ad’AP à la place (non 
+obligatoire) ?
+DI- Mission handicap 
+[43]  
+ 
+-Attestations d’accessibilité et d’achèvement de travaux (ERP soumis à Permis de construire 
+ou à demande d’autorisation d’aménagement)  
+-Copie des procès-verbaux précisant les éventuelles dérogations aux règles d’accessibilité 
+-Attestation de l’employeur DRH (formation au handicap du personnel d’accueil) et 
+plaquettes des programmes 
+-Plaquette d’aide à l’accueil des personnes handicapées « Bien accueillir les personnes 
+handicapées »
+DI- Mission handicap 
+[44]  
+ 
+Registre Public d’Accessibilité  
+Bâtiment Portail des Champs  
+ 
+Un dépose minute est toléré pour les ambulances, les véhicules particuliers et taxis des 
+patients dépendants et en situation de handicap munis d’une convocation. 
+ 
+Les bâtiments, la plupart des services proposés sont accessibles aux 
+personnes à mobilité réduite 
+oui                      
+non    
+ 
+ 
+Pour les autres situations de handicap, une aide humaine est nécessaire. 
+ 
+ 
+ 
+ 
+Liste des prestations  
+- 
+« L’entretemps », centre de Diagnostic et d’évaluation de l’Autisme de 
+la 
+Fondation Vallée.
+DI- Mission handicap 
+[45]  
+ 
+Accéder au bâtiment
+DI- Mission handicap 
+[46]  
+ 
+« L’Entretemps » est situé à l’extrémité gauche du bâtiment Portail des Champs au niveau de 
+la porte 70. 
+Le cheminement (pente) entre la place de stationnement PMR et l’entrée du bâtiment est 
+d’usage difficile.  
+ 
+Entrée du bâtiment 
+  
+ 
+Maintenance des équipements  
+Le bâtiment ne dispose pas d’équipement nécessitant une maintenance. 
+Formation du personnel 
+ 
+Le personnel est géré par la Fondation Vallée. 
+Pièces administratives 
+ 
+- Diagnostic accessibilité (non obligatoire) 
+-Décision d’approbation de la Préfecture de l’agenda d’accessibilité et calendrier 
+d’accessibilité 
+- Bilan à mi-parcours pour les agendas de plus de 3 ans  
+- Proposer le Suivi de la mise en œuvre des actions correctives Agenda Ad’AP à la place (non 
+obligatoire) ? 
+Une rampe d’accès permet d’accéder à 
+l’entrée du service.  Le service dispose 
+d’un WC pour les personnes à mobilité 
+réduite pour les visiteurs.
+DI- Mission handicap 
+[47]  
+ 
+-Attestations d’accessibilité et d’achèvement de travaux (ERP soumis à Permis de construire 
+ou à demande d’autorisation d’aménagement)  
+-Copie des procès-verbaux précisant les éventuelles dérogations aux règles d’accessibilité 
+-Attestation de l’employeur DRH (formation au handicap du personnel d’accueil) et 
+plaquettes des programmes 
+-Plaquette d’aide à l’accueil des personnes handicapées « Bien accueillir les personnes 
+handicapées »
+DI- Mission handicap 
+[48]  
+ 
+ 
+Registre Public d’Accessibilité  
+Bâtiment Accueil  
+ 
+ 
+Le bâtiment est accessible aux personnes à mobilité réduite 
+oui                      
+non    
+ 
+ 
+Pour les autres situations de handicap, une aide humaine est nécessaire. 
+ 
+ 
+ 
+ 
+Liste des prestations  
+-Accueil
+DI- Mission handicap 
+[49]  
+ 
+Accéder au bâtiment
+DI- Mission handicap 
+[50]  
+ 
+Accès au bâtiment 
+ 
+ 
+Depuis la place de stationnement PMR située à proximité du bâtiment, le cheminement 
+jusqu’à l’entrée du bâtiment est accessible, de plain-pied. 
+Des portes automatiques facilitent l’accès. 
+Le bâtiment n’est pas équipé d’un WC PMR pour les visiteurs. 
+ 
+Maintenance des équipements  
+Portes automatiques 
+La maintenance préventive et corrective des portes automatiques est assurée par la 
+société Impairoussot dans le cadre d’un contrat annuel jusqu’au 25/01/2027.  
+ 
+Formation du personnel 
+ 
+L’AP-HP organise des sessions de sensibilisation au handicap dans le cadre de la formation 
+initiale et continue ouverte à tous les professionnels. 
+Les personnels en contact avec le public seront progressivement formés à l’accueil à partir 
+de 2022. Ils sont sensibilisés au travers de la plaquette « Bien accueillir les personnes 
+handicapées » à l’accueil des différentes situations de handicap. 
+Un projet est en cours afin de proposer à des volontaires de renforcer la fonction d’accueil, 
+l’orientation des patients et visiteurs. Ils seraient dans ce cadre sont également sensibilisés 
+au handicap.
+DI- Mission handicap 
+[51]  
+ 
+Les programmes de formation sont présentés en annexe. 
+ 
+Pièces administratives 
+ 
+-Attestations d’accessibilité et d’achèvement de travaux (ERP soumis à Permis de construire 
+ou à demande d’autorisation d’aménagement)  
+-Attestation de l’employeur DRH (formation au handicap du personnel d’accueil) et 
+plaquettes des programmes 
+-Plaquette d’aide à l’accueil des personnes handicapées « Bien accueillir les personnes 
+handicapées »
+
