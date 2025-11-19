@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Extraction hospitalière</title>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='styles.css') }}"
+    />
+  </head>
+  <body>
+    <div id="loading-overlay" class="loading-overlay" aria-live="polite" aria-busy="true">
+      <div class="spinner"></div>
+      <p>Analyse en cours…</p>
+    </div>
+    <main class="container">
+      <header>
+        <h1>Extraction structurée de données hospitalières</h1>
+        <p>
+          Chargez un fichier texte (.txt) décrivant un établissement hospitalier.
+          L’application appliquera automatiquement le pipeline Kor/LangChain et
+          affichera le JSON résultant.
+        </p>
+      </header>
+
+      {% with messages = get_flashed_messages(with_categories=true) %}
+      {% if messages %}
+      <section class="messages">
+        {% for category, message in messages %}
+        <div class="alert {{ category }}">
+          {{ message }}
+        </div>
+        {% endfor %}
+      </section>
+      {% endif %}
+      {% endwith %}
+
+      <section class="upload-card">
+        <form
+          method="post"
+          enctype="multipart/form-data"
+          data-loading-form
+          data-require-file="true"
+          data-loading-label="Analyse en cours…"
+        >
+          <input type="hidden" name="action" value="upload" />
+          <label for="document">Fichier texte (.txt)</label>
+          <input type="file" id="document" name="document" accept=".txt" />
+          <button type="submit">
+            Lancer l’extraction
+          </button>
+        </form>
+        <p class="hint">
+          Assurez-vous que la variable d’environnement
+          <code>OPENAI_API_KEY</code> est définie avant de lancer le serveur.
+        </p>
+      </section>
+
+      {% if extractor_error %}
+      <section class="messages">
+        <div class="alert error">
+          Impossible d'initialiser l'extracteur : {{ extractor_error }}
+        </div>
+      </section>
+      {% endif %}
+
+      {% if summary %}
+      <section class="summary">
+        <h2>Résumé</h2>
+        <ul>
+          <li><strong>{{ summary.hopitaux }}</strong> hôpital</li>
+          <li><strong>{{ summary.services }}</strong> services</li>
+          <li><strong>{{ summary.adresses }}</strong> adresses</li>
+          <li>
+            <strong>{{ summary.donnees_hospitalieres }}</strong> ensembles de
+            données hospitalières
+          </li>
+          <li><strong>{{ summary.documents }}</strong> documents</li>
+        </ul>
+      </section>
+      {% endif %}
+
+      {% if result_json %}
+      <section class="results">
+        <h2>Résultats JSON</h2>
+        <pre>{{ result_json }}</pre>
+      </section>
+      {% if pending_validation %}
+      <section class="validation-actions">
+        <form method="post" class="confirm-form">
+          <input type="hidden" name="action" value="confirm" />
+          <button type="submit" class="confirm-btn">
+            Valider et insérer en base
+          </button>
+        </form>
+        <form method="post" class="reject-form">
+          <input type="hidden" name="action" value="reject" />
+          <button type="submit" class="reject-btn">
+            Rejeter et recommencer
+          </button>
+        </form>
+      </section>
+      {% endif %}
+      {% endif %}
+    </main>
+    <script>
+      const uploadForm = document.querySelector("[data-loading-form]");
+      const fileInput = document.getElementById("document");
+      const loadingOverlay = document.getElementById("loading-overlay");
+
+      uploadForm?.addEventListener("submit", (event) => {
+        if (fileInput && !fileInput.value) {
+          event.preventDefault();
+          return;
+        }
+        const button = uploadForm.querySelector("button");
+        loadingOverlay?.classList.add("visible");
+        if (button) {
+          button.setAttribute("disabled", "disabled");
+          button.textContent =
+            uploadForm.dataset.loadingLabel || "Traitement en cours…";
+        }
+      });
+    </script>
+  </body>
+</html>
+

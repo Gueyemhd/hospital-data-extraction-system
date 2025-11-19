@@ -1,0 +1,57 @@
+{
+  "adresses": [
+    {
+      "id_adresse": 1,
+      "numero": "40",
+      "rue": "rue de Mesly",
+      "code_postal": "94010",
+      "commune": "Créteil",
+      "ville": "Créteil",
+      "region": "Île-de-France",
+      "pays": "France"
+    }
+  ],
+  "acces_transport": [
+    {
+      "id_acces_transport": 1,
+      "type_transport": "métro",
+      "ligne": "8",
+      "arret": "Créteil/Université"
+    },
+    {
+      "id_acces_transport": 2,
+      "type_transport": "bus",
+      "ligne": "217",
+      "arret": "Hôpital Albert Chenevier"
+    },
+    {
+      "id_acces_transport": 3,
+      "type_transport": "RER",
+      "ligne": "Boissy St Léger",
+      "arret": "Saint-Maur/Créteil"
+    }
+  ],
+  "services": [],
+  "hopitaux": [
+    {
+      "id_hopital": 1,
+      "nom": "Hôpital Albert-Chenevier",
+      "id_adresse": 1,
+      "type": "Hôpital",
+      "statut": "Public",
+      "nb_lits": null,
+      "nb_personnel": null,
+      "nb_place": null
+    }
+  ],
+  "donnees_hospitalieres": [],
+  "documents": [
+    {
+      "id_document": 1,
+      "nom_fichier": "livret_accueil_2023.pdf",
+      "chemin_fichier": null,
+      "type_document": "Livret d'accueil",
+      "annee_document": 2023
+    }
+  ]
+}

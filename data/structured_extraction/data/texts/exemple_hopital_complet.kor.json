@@ -1,0 +1,162 @@
+{
+  "adresses": [
+    {
+      "id_adresse": 1,
+      "numero": "184",
+      "rue": "rue du Faubourg Saint-Antoine",
+      "code_postal": "75012",
+      "commune": null,
+      "ville": "Paris",
+      "region": "Île-de-France",
+      "pays": "France"
+    }
+  ],
+  "acces_transport": [
+    {
+      "id_acces_transport": 1,
+      "type_transport": "métro",
+      "ligne": "1",
+      "arret": "Faidherbe-Chaligny"
+    },
+    {
+      "id_acces_transport": 2,
+      "type_transport": "métro",
+      "ligne": "8",
+      "arret": "Ledru-Rollin"
+    },
+    {
+      "id_acces_transport": 3,
+      "type_transport": "bus",
+      "ligne": "46",
+      "arret": "Hôpital Saint-Antoine"
+    },
+    {
+      "id_acces_transport": 4,
+      "type_transport": "bus",
+      "ligne": "76",
+      "arret": "Faubourg Saint-Antoine"
+    },
+    {
+      "id_acces_transport": 5,
+      "type_transport": "bus",
+      "ligne": "86",
+      "arret": "Rue du Faubourg Saint-Antoine"
+    }
+  ],
+  "services": [
+    {
+      "id_service": 1,
+      "nom_service": "SERVICE DE NEUROLOGIE",
+      "type_service": null,
+      "description": "Prise en charge des pathologies neurologiques aiguës et chroniques, accidents vasculaires cérébraux, épilepsie, sclérose en plaques.",
+      "capacite": 35,
+      "code_service": "NEU-001",
+      "telephone": "01 49 28 21 10",
+      "email": "neurologie.saint-antoine@aphp.fr",
+      "id_hopital": 1
+    },
+    {
+      "id_service": 2,
+      "nom_service": "SERVICE D'ORL (OTO-RHINO-LARYNGOLOGIE)",
+      "type_service": null,
+      "description": "Chirurgie ORL, traitement des troubles de l'audition, pathologies de la voix et de la déglutition.",
+      "capacite": 43,
+      "code_service": "ORL-002",
+      "telephone": "01 49 28 21 25",
+      "email": null,
+      "id_hopital": 1
+    },
+    {
+      "id_service": 3,
+      "nom_service": "SERVICE DE RÉANIMATION",
+      "type_service": null,
+      "description": "Réanimation polyvalente pour patients en détresse vitale, ventilation mécanique, monitoring continu.",
+      "capacite": 18,
+      "code_service": "REA-003",
+      "telephone": "01 49 28 21 50",
+      "email": null,
+      "id_hopital": 1
+    },
+    {
+      "id_service": 4,
+      "nom_service": "SERVICE DE CARDIOLOGIE",
+      "type_service": null,
+      "description": "Prise en charge des pathologies cardiaques, coronarographie, échographie cardiaque, suivi post-infarctus.",
+      "capacite": 62,
+      "code_service": "CAR-004",
+      "telephone": "01 49 28 22 00",
+      "email": "cardiologie.saint-antoine@aphp.fr",
+      "id_hopital": 1
+    },
+    {
+      "id_service": 5,
+      "nom_service": "SERVICE DE CHIRURGIE GÉNÉRALE",
+      "type_service": null,
+      "description": "Chirurgie digestive, chirurgie viscérale, chirurgie d'urgence.",
+      "capacite": 40,
+      "code_service": "CHI-005",
+      "telephone": "01 49 28 22 15",
+      "email": null,
+      "id_hopital": 1
+    },
+    {
+      "id_service": 6,
+      "nom_service": "SERVICE DE PÉDIATRIE",
+      "type_service": null,
+      "description": "Soins aux enfants de 0 à 18 ans, urgences pédiatriques, hospitalisation.",
+      "capacite": 37,
+      "code_service": "PED-006",
+      "telephone": "01 49 28 22 30",
+      "email": null,
+      "id_hopital": 1
+    },
+    {
+      "id_service": 7,
+      "nom_service": "SERVICE DE RADIOLOGIE ET IMAGERIE MÉDICALE",
+      "type_service": null,
+      "description": "Imagerie diagnostique, radiologie interventionnelle, mammographie.",
+      "capacite": 8,
+      "code_service": "RAD-007",
+      "telephone": "01 49 28 22 45",
+      "email": null,
+      "id_hopital": 1
+    }
+  ],
+  "hopitaux": [
+    {
+      "id_hopital": 1,
+      "nom": "Centre Hospitalier Universitaire de Paris - Hôpital Saint-Antoine",
+      "id_adresse": 1,
+      "type": "CHU",
+      "statut": "Public",
+      "nb_lits": 850,
+      "nb_personnel": 3200,
+      "nb_place": 120
+    }
+  ],
+  "donnees_hospitalieres": [
+    {
+      "id_donnee": 1,
+      "id_hopital": 1,
+      "annee": 2023,
+      "nb_patients": 45230,
+      "nb_admissions": 18750,
+      "budget_total": 125450000.0,
+      "depenses": 122800000.0,
+      "recettes": 128200000.0,
+      "taux_occupation": 87.5,
+      "taux_mortalite": 2.3,
+      "taux_satisfaction": 84.0,
+      "document_id": 1
+    }
+  ],
+  "documents": [
+    {
+      "id_document": 1,
+      "nom_fichier": "livret_accueil_2024.pdf",
+      "chemin_fichier": null,
+      "type_document": "Livret d'accueil",
+      "annee_document": 2024
+    }
+  ]
+}

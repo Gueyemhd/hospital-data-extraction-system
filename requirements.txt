@@ -6,3 +6,12 @@ Pillow
 docx2txt 
 openpyxl 
 easyocr
+requests
+scrapy
+langchain
+langchain-openai
+kor
+typer
+pydantic
+Flask
+mysql-connector-python
