@@ -1,0 +1,25 @@
+TITRE: | Hôpital Charles-Foix
+
+viewport: initial-scale=1
+twitter:card: summary
+description: Vous trouverez dans cette page par ordre alphabétique.les services et les spécialités à l'Hôpital Charles Foix à Ivry sur Seine.
+twitter:card: summary
+twitter:description: Vous trouverez dans cette page par ordre alphabétique.les services et les spécialités à l'Hôpital Charles Foix à Ivry sur Seine.
+twitter:title: Les services et les spécialités à l'Hôpital Charles Foix
+generator: Powered by WPBakery Page Builder - drag and drop page builder for WordPress.
+
+NOS SERVICES - NOS SPÉCIALITÉS
+Vous trouverez ci-dessous la liste des services et des spécialités par ordre alphabétique. Si vous souhaitez plus d’information, cliquez sur le service.
+Services médicaux/ Laboratoires / Radiologie
+Services médicaux/ Laboratoires / Radiologie
+COURT SÉJOUR GÉRIATRIQUE
+GÉRIATRIE À ORIENTATION CARDIOLOGIQUE ET NEUROLOGIQUE
+GÉRIATRIE À ORIENTATION ONCO-HÉMATOLOGIQUE
+NEUROPHYSIOLOGIE CLINIQUE
+ODONTOLOGIE
+PSYCHIATRIE ADULTE
+SOINS AMBULATOIRES ET RELATIONS AVEC LA VILLE
+SOINS DE LONGUE DURÉE ET RELATIONS AVEC LES EHPAD
+SOINS PALLIATIFS GÉRIATRIQUES
+SOINS DE SUITE ET DE RÉADAPTATION GÉRIATRIQUE
+SOINS DE SUITE ET DE RÉADAPTATION GÉRIATRIQUE 2
