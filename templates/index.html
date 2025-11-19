@@ -105,22 +105,32 @@
       {% endif %}
     </main>
     <script>
-      const uploadForm = document.querySelector("[data-loading-form]");
-      const fileInput = document.getElementById("document");
-      const loadingOverlay = document.getElementById("loading-overlay");
+      document.addEventListener("DOMContentLoaded", () => {
+        const uploadForm = document.querySelector("[data-loading-form]");
+        const fileInput = document.getElementById("document");
+        const loadingOverlay = document.getElementById("loading-overlay");
 
-      uploadForm?.addEventListener("submit", (event) => {
-        if (fileInput && !fileInput.value) {
-          event.preventDefault();
+        if (!uploadForm || !fileInput || !loadingOverlay) {
+          console.error("Éléments du formulaire non trouvés");
           return;
         }
-        const button = uploadForm.querySelector("button");
-        loadingOverlay?.classList.add("visible");
-        if (button) {
-          button.setAttribute("disabled", "disabled");
-          button.textContent =
-            uploadForm.dataset.loadingLabel || "Traitement en cours…";
-        }
+
+        uploadForm.addEventListener("submit", (event) => {
+          // Vérifier si un fichier est sélectionné
+          if (!fileInput.value || fileInput.files.length === 0) {
+            event.preventDefault();
+            alert("Veuillez sélectionner un fichier .txt avant de lancer l'extraction.");
+            return false;
+          }
+
+          // Afficher le spinner et désactiver le bouton
+          loadingOverlay.classList.add("visible");
+          const button = uploadForm.querySelector("button[type='submit']");
+          if (button) {
+            button.disabled = true;
+            button.textContent = uploadForm.dataset.loadingLabel || "Traitement en cours…";
+          }
+        });
       });
     </script>
   </body>
