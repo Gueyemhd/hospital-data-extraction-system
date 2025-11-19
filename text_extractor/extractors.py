@@ -92,10 +92,13 @@ def extract_text_from_csv(path):
                 encoding=enc,
                 dtype=str,
                 sep=None,               # détecte automatiquement le séparateur
-                engine="python",        # plus permissif
+                engine="python",   
                 on_bad_lines="skip"     # ignore les lignes cassées
             )
-            return "\n".join(df.astype(str).apply(lambda x: " | ".join(x), axis=1))
+            header = " | ".join(df.columns.astype(str))
+            rows = df.astype(str).apply(lambda x: " | ".join(x), axis=1)
+            return header + "\n" + "\n".join(rows)
+
 
         except Exception as e:
             logging.warning(f"Échec lecture CSV avec encodage {enc}: {e}")
